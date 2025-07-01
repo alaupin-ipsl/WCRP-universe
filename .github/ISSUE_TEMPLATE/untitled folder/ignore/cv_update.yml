@@ -1,0 +1,172 @@
+name: 'Add/Modify: Controlled Vocabulary'
+description: 'Request to add or modify a controlled vocabulary entry'
+title: 'CV Update: <Type CV name here>'
+projects: ["WCRP-CMIP/13"]  # Adjust this number to match the WCRP-universe CVs project ID
+labels:
+    - delta
+    - cv-update
+    - Review
+body:
+
+-   type: markdown
+    attributes:
+        value: |
+            ## Controlled Vocabulary Update Request
+
+            Please fill in the information below to request a new CV entry or modification.
+
+-   id: cv_type
+    attributes:
+        label: CV Type
+        description: |
+            Select the type of controlled vocabulary you want to add or modify.
+        options:
+            - activity
+            - frequency
+            - grid-label
+            - institution
+            - license
+            - mip
+            - model-component-type
+            - native-horizontal-grid-region
+            - native-horizontal-grid-temporal-refinement
+            - native-horizontal-grid-type
+            - native-vertical-grid-coordinate
+            - native-vertical-grid-units
+            - organisation
+            - product
+            - realm
+            - resolution
+            - source-type
+            - Other (specify below)
+    validations:
+        required: true
+    type: dropdown
+
+-   id: cv_type_other
+    attributes:
+        label: Other CV Type
+        description: If you selected "Other" above, please specify the CV type.
+        placeholder: 'e.g., new-cv-type'
+    validations:
+        required: false
+    type: input
+
+-   id: cv_id
+    attributes:
+        label: CV Identifier
+        description: |
+            The unique identifier for this CV entry.
+            
+            Note: This ID must be unique within its CV type and follow naming conventions.
+        placeholder: 'e.g., MOHC, 1hr, atmosphere'
+    validations:
+        required: true
+    type: input
+
+-   id: validation_key
+    attributes:
+        label: Validation Key
+        description: |
+            The validation key that will be used in data files.
+            This is often the same as the CV identifier but may differ for compatibility.
+        placeholder: 'e.g., MOHC, 1hr'
+    validations:
+        required: true
+    type: input
+
+-   id: ui_label
+    attributes:
+        label: UI Label
+        description: |
+            Human-readable label for display in user interfaces.
+        placeholder: 'e.g., Met Office Hadley Centre, Hourly'
+    validations:
+        required: true
+    type: input
+
+-   id: description
+    attributes:
+        label: Description
+        description: |
+            Detailed description of this CV entry. Include:
+            - Purpose and use cases
+            - Any special requirements or constraints
+            - Relationships to other CVs
+            - References or documentation links
+        placeholder: 'Provide a comprehensive description...'
+    validations:
+        required: true
+    type: textarea
+
+-   id: additional_fields
+    attributes:
+        label: Additional Fields
+        description: |
+            List any additional fields specific to this CV type (in JSON format).
+            For example, organisations might have: ror, url, established, etc.
+        placeholder: |
+            {
+              "ror": "04m01e293",
+              "url": "https://example.org",
+              "established": 1990
+            }
+        render: json
+    validations:
+        required: false
+    type: textarea
+
+-   id: related_changes
+    attributes:
+        label: Related Changes
+        description: |
+            List any other CVs or files that need to be updated as a result of this change.
+            Include links to related issues or PRs if applicable.
+        placeholder: 'e.g., This requires updates to the institution CV...'
+    validations:
+        required: false
+    type: textarea
+
+-   type: markdown
+    attributes:
+        value: |
+            ## Issue Metadata
+            
+            The following fields help GitHub Actions process this issue correctly.
+
+-   id: issue_kind
+    type: dropdown
+    attributes:
+        label: "Action Type"
+        description: "Are you adding a new entry or modifying an existing one?"
+        options:
+            - "new"
+            - "modify"
+        default: 0
+    validations:
+        required: true
+
+-   id: milestone
+    type: dropdown
+    attributes:
+        label: "Status"
+        description: "Initial status for this request"
+        options:
+            - "Review"
+            - "Ready"
+        default: 0
+    validations:
+        required: true
+
+-   id: priority
+    type: dropdown
+    attributes:
+        label: "Priority"
+        description: "How urgent is this CV update?"
+        options:
+            - "High - Blocking data production"
+            - "Medium - Needed soon"
+            - "Low - Nice to have"
+        default: 1
+    validations:
+        required: true

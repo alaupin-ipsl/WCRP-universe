@@ -1,0 +1,78 @@
+name: 'Add/Modify: Activity'
+description: 'Type: activity'
+title: 'Add/Modify: Activity <activity_id>'
+projects: ["WCRP-CMIP/4"]  # WCRP-universe CVs project
+labels:
+    - delta
+    - activity
+    - universe
+    - Review
+body:
+
+-   type: markdown
+    attributes:
+        value: |
+            ## Generic Activity Information
+            Please fill in the details below.
+
+-   id: label
+    type: input
+    attributes:
+        label: Activity ID
+        description: |
+            A unique identifier for the activity. This must be unique across all experiments.
+        placeholder: 'e.g., CMIP, C4MIP, GeoMIP, CORDEX'
+    validations:
+        required: true
+
+-   id: long_label
+    type: input
+    attributes:
+        label: Activity Title
+        description: |
+            A short phrase that expands on the Activity ID. Typically, this is the full name of the activity.
+        placeholder: 'e.g., CMIP -> Coupled Model Intercomparison Project'
+    validations:
+        required: true
+
+-   id: description
+    type: textarea
+    attributes:
+        label: Description
+        description: |
+            Provide a detailed description of the activity, including its primary aims, configuration, conditions, and requirements.
+        placeholder: 'Describe the activity’s purpose, scope, and relevant details...'
+    validations:
+        required: true
+
+-   id: url
+    type: input
+    attributes:
+        label: Activity Webpage / Citation
+        description: |
+            Provide a link to the activity’s webpage or relevant citation. This field is mandatory.
+        placeholder: 'e.g., https://example.com/activity-info'
+    validations:
+        required: true
+
+-   id: issue_category
+    type: dropdown
+    attributes:
+        label: "Issue Type"
+        #   description: "This is pre-set and cannot be changed."
+        options:
+            - "experiment"
+        default: 0
+    validations:
+        required: true
+
+-   id: issue_kind
+    type: dropdown
+    attributes:
+        label: "Issue Kind"
+        options:
+            - "new"
+            - "modify"
+        default: 0
+    validations:
+        required: true  

@@ -1,0 +1,43 @@
+{
+    "links": [
+        {"name": "View Documentation",
+         "url": "",
+         "description": "Documentation for CMIP7 Controlled Vocabularies."
+        },
+        {"name": "All Options",
+         "url": "Contributing md",
+         "description": "All possible new submissions"
+        }
+    ],
+    "grouping": {
+  "Core CVs": [
+    "activity",
+    "frequency",
+    "grid_label",
+    "license",
+    "mip",
+    "product",
+    "realm",
+    "resolution",
+    "source_type"
+  ],
+  "Archive & Data": [
+    "archive_id"
+  ],
+  "Model Structure": [
+    "model_calendar",
+    "model_component_type",
+    "model_family"
+  ],
+  "Grid Specifications": [
+    "native_horizontal_grid_region",
+    "native_horizontal_grid_temporal_refinement",
+    "native_horizontal_grid_type",
+    "native_vertical_grid_coordinate",
+    "native_vertical_grid_units"
+  ],
+  "Organizations": [
+    "organisation"
+  ]
+}
+}

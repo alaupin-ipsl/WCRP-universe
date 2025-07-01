@@ -1,0 +1,43 @@
+name: "Add/Modify: Model Family"
+description: Add or modify a model family in WCRP Universe
+title: "Add/Modify: Model Family: <Type model family name here>"
+labels: ['delta', 'model-family', 'Review']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Add/Modify: Model Family
+
+  - type: dropdown
+    id: issue_kind
+    attributes:
+      label: Issue Type
+      description: New or modify existing
+      options:
+        - "New"
+        - "Modify"
+      default: 0
+    validations:
+      required: true
+
+  - type: input
+    id: validation_key
+    attributes:
+      label: Validation Key
+      description: Unique identifier
+      placeholder: "e.g. ec-earth"
+    validations:
+      required: true
+
+  - type: input
+    id: ui_label
+    attributes:
+      label: UI Label
+      description: Full name
+      placeholder: "e.g. EC-Earth"
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Detailed description

@@ -1,0 +1,43 @@
+name: "Add/Modify: Native Horizontal Grid Region"
+description: Add or modify a native horizontal grid region in WCRP Universe
+title: "Add/Modify: Grid Region: <Type region name here>"
+labels: ['delta', 'grid-region', 'Review']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Add/Modify: Native Horizontal Grid Region
+
+  - type: dropdown
+    id: issue_kind
+    attributes:
+      label: Issue Type
+      description: New or modify existing
+      options:
+        - "New"
+        - "Modify"
+      default: 0
+    validations:
+      required: true
+
+  - type: input
+    id: validation_key
+    attributes:
+      label: Validation Key
+      description: Unique identifier
+      placeholder: "e.g. global"
+    validations:
+      required: true
+
+  - type: input
+    id: ui_label
+    attributes:
+      label: UI Label
+      description: Full name
+      placeholder: "e.g. Global"
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Detailed description
