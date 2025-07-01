@@ -1,0 +1,12 @@
+{
+  "id": "cfmip",
+  "validation-key": "CFMIP",
+  "ui-label": "Cloud Feedback Model Intercomparison Project ",
+  "description": "CFMIP experiments focus on cloud feedbacks and their role in climate, including abrupt-0p5CO2 and amip-piForcing simulations.",
+  "url": "https://gmd.copernicus.org/articles/10/359/2017/gmd-10-359-2017.pdf",
+  "@context": "_context_",
+  "type": [
+    "wcrp:activity",
+    "universal"
+  ]
+}

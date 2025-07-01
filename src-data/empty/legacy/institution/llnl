@@ -1,0 +1,42 @@
+{
+  "id": "llnl",
+  "validation-key": "LLNL",
+  "ui-label": "Lawrence Livermore National Laboratory",
+  "description": "",
+  "acronyms": [
+    "LLNL",
+    "LLL"
+  ],
+  "aliases": [
+    "United States Department of Energy National Nuclear Security Administration Lawrence Livermore National Laboratory",
+    "U.S. Department of Energy National Nuclear Security Administration Los Alamos National Laboratory",
+    "United States Department of Energy Los Alamos National Laboratory",
+    "U.S. Department of Energy Los Alamos National Laboratory"
+  ],
+  "established": 1952,
+  "kind": "Facility",
+  "labels": [],
+  "location": {
+    "@nest": {
+      "city": "Livermore",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 37.68187,
+      "lon": -121.76801
+    },
+    "id": "universal:location/041nk4h53",
+    "type": "location"
+  },
+  "ror": "041nk4h53",
+  "url": [
+    "https://www.llnl.gov/"
+  ],
+  "@context": "_context_",
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ]
+}

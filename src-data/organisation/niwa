@@ -1,0 +1,36 @@
+{
+    "id": "niwa",
+    "validation-key": "NIWA",
+    "ui-label": "National Institute of Water and Atmospheric Research",
+    "description": "",
+    "acronyms": [
+        "NIWA"
+    ],
+    "aliases": [
+        "Taihoro Nukurangi"
+    ],
+    "established": 1992,
+    "kind": "Facility",
+    "labels": [],
+    "location": {
+        "id": "universal:location/04hxcaz34",
+        "type": "wcrp:location",
+        "lat": -36.84853,
+        "lon": 174.76349,
+        "city": "Auckland",
+        "country": [
+            "New Zealand",
+            "NZ"
+        ]
+    },
+    "ror": "04hxcaz34",
+    "url": [
+        "https://www.niwa.co.nz/"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

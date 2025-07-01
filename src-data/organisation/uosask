@@ -1,0 +1,36 @@
+{
+    "id": "uosask",
+    "validation-key": "UoSask",
+    "ui-label": "University of Saskatchewan",
+    "description": "",
+    "acronyms": [
+        "USASK"
+    ],
+    "aliases": [],
+    "established": 1907,
+    "kind": "Education",
+    "labels": [
+        "Université de la saskatchewan"
+    ],
+    "location": {
+        "id": "universal:location/010x8gc63",
+        "type": "wcrp:location",
+        "lat": 52.13238,
+        "lon": -106.66892,
+        "city": "Saskatoon",
+        "country": [
+            "Canada",
+            "CA"
+        ]
+    },
+    "ror": "010x8gc63",
+    "url": [
+        "https://www.usask.ca/"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

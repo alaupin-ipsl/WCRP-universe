@@ -1,0 +1,12 @@
+{
+  "id": "scenariomip",
+  "validation-key": "ScenarioMIP",
+  "ui-label": "",
+  "description": "ScenarioMIP focuses on future climate projections based on different socio-economic pathways, including High, Medium, and Very Low scenarios.",
+  "url": "https://gmd.copernicus.org/articles/12/1443/2019/gmd-12-1443-2019.pdf",
+  "@context": "_context_",
+  "type": [
+    "wcrp:activity",
+    "universal"
+  ]
+}

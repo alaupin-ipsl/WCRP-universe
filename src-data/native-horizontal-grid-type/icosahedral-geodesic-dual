@@ -1,0 +1,11 @@
+{
+  "id": "icosahedral-geodesic-dual",
+  "validation-key": "icosahedral-geodesic-dual",
+  "ui-label": "Icosahedral geodesic dual",
+  "description": "a grid that uses hexagonal and pentagonal tiles and is the dual of an icosahedral_geodesic grid",
+  "@context": "_context_",
+  "type": [
+    "wcrp:native-horizontal-grid-type",
+    "universal"
+  ]
+}

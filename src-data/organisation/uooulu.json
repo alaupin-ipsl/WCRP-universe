@@ -1,0 +1,34 @@
+{
+    "id": "uooulu",
+    "validation-key": "UoOulu",
+    "ui-label": "University of Oulu",
+    "description": "",
+    "acronyms": [],
+    "aliases": [],
+    "established": 1958,
+    "kind": "Education",
+    "labels": [
+        "Oulun yliopisto"
+    ],
+    "location": {
+        "id": "universal:location/03yj89h83",
+        "type": "wcrp:location",
+        "lat": 65.01236,
+        "lon": 25.46816,
+        "city": "Oulu",
+        "country": [
+            "Finland",
+            "FI"
+        ]
+    },
+    "ror": "03yj89h83",
+    "url": [
+        "https://www.oulu.fi"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

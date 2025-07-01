@@ -1,0 +1,38 @@
+{
+  "id": "uci",
+  "validation-key": "UCI",
+  "ui-label": "University of California, Irvine",
+  "description": "",
+  "acronyms": [
+    "UCI"
+  ],
+  "aliases": [
+    "UC Irvine"
+  ],
+  "established": 1965,
+  "kind": "Education",
+  "labels": [],
+  "location": {
+    "@nest": {
+      "city": "Irvine",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 33.64535,
+      "lon": -117.842642
+    },
+    "id": "universal:location/04gyf1771",
+    "type": "location"
+  },
+  "ror": "04gyf1771",
+  "url": [
+    "http://uci.edu/"
+  ],
+  "@context": "_context_",
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ]
+}

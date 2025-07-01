@@ -1,0 +1,40 @@
+{
+    "id": "iaceth",
+    "validation-key": "IACETH",
+    "ui-label": "ETH Zurich",
+    "description": "",
+    "acronyms": [],
+    "aliases": [
+        "Eidgenössische Technische Hochschule Zürich",
+        "Politecnico Federale di Zurigo",
+        "Swiss Federal Institute of Technology in Zurich",
+        "École Polytechnique Fédérale de Zurich"
+    ],
+    "established": 1855,
+    "kind": "Education",
+    "labels": [
+        "ETH Zürich",
+        "ETH di Zurigo"
+    ],
+    "location": {
+        "id": "universal:location/05a28rw58",
+        "type": "wcrp:location",
+        "lat": 47.36667,
+        "lon": 8.55,
+        "city": "Zurich",
+        "country": [
+            "Switzerland",
+            "CH"
+        ]
+    },
+    "ror": "05a28rw58",
+    "url": [
+        "https://ethz.ch"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

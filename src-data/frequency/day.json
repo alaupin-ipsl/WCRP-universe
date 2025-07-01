@@ -1,0 +1,13 @@
+{
+  "id": "day",
+  "validation-key": "day",
+  "ui-label": "",
+  "description": "daily mean samples",
+  "long_name": "Daily Frequency",
+  "unit": "day",
+  "@context": "_context_",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ]
+}

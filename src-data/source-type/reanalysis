@@ -1,0 +1,11 @@
+{
+  "id": "reanalysis",
+  "validation-key": "reanalysis",
+  "ui-label": "",
+  "description": "gridded product generated from a model reanalysis based on in-situ instruments and possibly satellite measurements",
+  "@context": "_context_",
+  "type": [
+    "wcrp:source-type",
+    "universal"
+  ]
+}

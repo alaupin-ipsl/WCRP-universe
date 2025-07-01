@@ -1,0 +1,11 @@
+{
+  "id": "observations",
+  "validation-key": "observations",
+  "ui-label": "",
+  "description": "Data collected from direct measurements of the climate system. This includes data from ground stations, satellites, buoys, and other observational platforms, which serve as a reference for validating and comparing model outputs.",
+  "@context": "_context_",
+  "type": [
+    "wcrp:product",
+    "universal"
+  ]
+}

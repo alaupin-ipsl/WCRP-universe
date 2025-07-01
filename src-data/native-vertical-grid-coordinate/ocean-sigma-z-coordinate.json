@@ -1,0 +1,11 @@
+{
+  "id": "ocean-sigma-z-coordinate",
+  "validation-key": "ocean-sigma-z-coordinate",
+  "ui-label": "Ocean sigma z coordinate",
+  "description": "Parametric ocean sigma over z coordinate",
+  "@context": "_context_",
+  "type": [
+    "wcrp:native-vertical-grid-coordinate",
+    "universal"
+  ]
+}

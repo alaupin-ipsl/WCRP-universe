@@ -1,0 +1,12 @@
+{
+  "id": "gra",
+  "validation-key": "gra",
+  "ui-label": "Regridded Antarctica Greenland",
+  "description": "regridded data in the region of Antarctica reported on the data provider's preferred target grid",
+  "region": "antarctica",
+  "@context": "_context_",
+  "type": [
+    "wcrp:grid-label:['wcrp:grid_label', 'universal']",
+    "wcrp:grid-label"
+  ]
+}

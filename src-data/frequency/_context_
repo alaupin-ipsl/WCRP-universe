@@ -1,0 +1,13 @@
+{
+    "@context": [
+        "../_context_",
+        {
+            "@base": "https://wcrp-cmip.github.io/WCRP-universe/frequency/",
+            "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/frequency/"
+        }
+    ],
+    "@embed": "@always",
+    "@type": [
+        "universal"
+    ]
+}

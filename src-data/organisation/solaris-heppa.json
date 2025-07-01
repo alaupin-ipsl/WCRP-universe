@@ -1,0 +1,104 @@
+{
+  "id": "solaris-heppa",
+  "validation-key": "SOLARIS HEPPA",
+  "ui-label": "SOLARIS HEPPA Consortium",
+  "description": "",
+  "changes": "",
+  "members": {
+    "aor": {
+      "from": 2025,
+      "to": "-"
+    },
+    "auot": {
+      "from": 2013,
+      "to": 2022
+    },
+    "bas": {
+      "from": 2013,
+      "to": 2022
+    },
+    "eawag": {
+      "from": 2013,
+      "to": 2022
+    },
+    "fmi": {
+      "from": 2013,
+      "to": 2022
+    },
+    "fuberlin": {
+      "from": 2013,
+      "to": 2022
+    },
+    "geomar": {
+      "from": 2013,
+      "to": 2022
+    },
+    "gsfc": {
+      "from": 2013,
+      "to": 2022
+    },
+    "iaa-csic": {
+      "from": 2013,
+      "to": 2022
+    },
+    "issi": {
+      "from": 2013,
+      "to": 2022
+    },
+    "kit": {
+      "from": 2013,
+      "to": 2022
+    },
+    "lasp": {
+      "from": 2013,
+      "to": 2022
+    },
+    "lpc2e": {
+      "from": 2013,
+      "to": 2022
+    },
+    "mohc": {
+      "from": 2013,
+      "to": 2022
+    },
+    "mps": {
+      "from": 2013,
+      "to": 2022
+    },
+    "ncar": {
+      "from": 2013,
+      "to": 2022
+    },
+    "pmod": {
+      "from": 2013,
+      "to": 2022
+    },
+    "uobergen": {
+      "from": 2025,
+      "to": "-"
+    },
+    "uoleeds": {
+      "from": 2013,
+      "to": 2022
+    },
+    "uomontreal": {
+      "from": 2013,
+      "to": 2022
+    },
+    "uootago": {
+      "from": 2013,
+      "to": 2022
+    },
+    "uooulu": {
+      "from": 2025,
+      "to": "-"
+    }
+  },
+  "url": "https://solarisheppa.geomar.de",
+  "@context": "_context_",
+  "type": [
+    "wcrp:consortium",
+    "universal",
+    "wcrp:organisation"
+  ]
+}

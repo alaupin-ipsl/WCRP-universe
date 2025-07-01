@@ -1,0 +1,36 @@
+{
+    "id": "as-rcec",
+    "validation-key": "AS-RCEC",
+    "ui-label": "Research Center for Environmental Changes, Academia Sinica",
+    "description": "",
+    "acronyms": [
+        "RCEC"
+    ],
+    "aliases": [],
+    "established": null,
+    "kind": "Facility",
+    "labels": [
+        "環境變遷研究中心"
+    ],
+    "location": {
+        "id": "universal:location/050qpg053",
+        "type": "wcrp:location",
+        "lat": 25.05306,
+        "lon": 121.52639,
+        "city": "Taipei",
+        "country": [
+            "Taiwan",
+            "TW"
+        ]
+    },
+    "ror": "050qpg053",
+    "url": [
+        "http://www.rcec.sinica.edu.tw/"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

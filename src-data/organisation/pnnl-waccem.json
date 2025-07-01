@@ -1,0 +1,37 @@
+{
+    "id": "pnnl-waccem",
+    "validation-key": "PNNL-WACCEM",
+    "ui-label": "Pacific Northwest National Laboratory",
+    "description": "",
+    "acronyms": [
+        "PNNL"
+    ],
+    "aliases": [
+        "Office of Science Pacific Northwest National Laboratory",
+        "United States Department of Energy Office of Science Pacific Northwest National Laboratory"
+    ],
+    "established": 1965,
+    "kind": "Facility",
+    "labels": [],
+    "location": {
+        "id": "universal:location/05h992307",
+        "type": "wcrp:location",
+        "lat": 46.28569,
+        "lon": -119.28446,
+        "city": "Richland",
+        "country": [
+            "United States",
+            "US"
+        ]
+    },
+    "ror": "05h992307",
+    "url": [
+        "http://www.pnnl.gov/"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

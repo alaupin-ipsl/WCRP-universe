@@ -1,0 +1,34 @@
+{
+    "id": "mohc",
+    "validation-key": "MOHC",
+    "ui-label": "Met Office",
+    "description": "",
+    "acronyms": [],
+    "aliases": [
+        "Meteorological Office"
+    ],
+    "established": 1854,
+    "kind": "Funder",
+    "labels": [],
+    "location": {
+        "id": "universal:location/01ch2yn61",
+        "type": "wcrp:location",
+        "lat": 50.7236,
+        "lon": -3.52751,
+        "city": "Exeter",
+        "country": [
+            "United Kingdom",
+            "GB"
+        ]
+    },
+    "ror": "01ch2yn61",
+    "url": [
+        "http://www.metoffice.gov.uk/"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

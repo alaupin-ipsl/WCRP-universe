@@ -1,0 +1,36 @@
+{
+  "id": "cccr-iitm",
+  "validation-key": "CCCR-IITM",
+  "ui-label": "Indian Institute of Tropical Meteorology",
+  "description": "",
+  "acronyms": [
+    "IITM"
+  ],
+  "aliases": [],
+  "established": 1962,
+  "kind": "Facility",
+  "labels": [],
+  "location": {
+    "@nest": {
+      "city": "Pune",
+      "country": [
+        "India",
+        "IN"
+      ],
+      "lat": 18.51957,
+      "lon": 73.85535
+    },
+    "id": "universal:location/03jf2m686",
+    "type": "location"
+  },
+  "ror": "03jf2m686",
+  "url": [
+    "http://www.tropmet.res.in/"
+  ],
+  "@context": "_context_",
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ]
+}

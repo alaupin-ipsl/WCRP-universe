@@ -1,0 +1,38 @@
+{
+    "id": "iap",
+    "validation-key": "IAP",
+    "ui-label": "Institute of Atmospheric Physics",
+    "description": "",
+    "acronyms": [
+        "IAP"
+    ],
+    "aliases": [
+        "Institute of Meteorology of Academia Sinica"
+    ],
+    "established": 1928,
+    "kind": "Facility",
+    "labels": [
+        "中国科学院大气物理研究所"
+    ],
+    "location": {
+        "id": "universal:location/0424h4e32",
+        "type": "wcrp:location",
+        "lat": 39.9075,
+        "lon": 116.39723,
+        "city": "Beijing",
+        "country": [
+            "China",
+            "CN"
+        ]
+    },
+    "ror": "0424h4e32",
+    "url": [
+        "http://english.iap.cas.cn/au"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

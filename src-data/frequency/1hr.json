@@ -1,0 +1,13 @@
+{
+  "id": "1hr",
+  "validation-key": "1hr",
+  "ui-label": "",
+  "description": "sampled hourly",
+  "long_name": "1 Hourly Frequency",
+  "unit": "hour",
+  "@context": "_context_",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ]
+}

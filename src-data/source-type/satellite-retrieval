@@ -1,0 +1,11 @@
+{
+  "id": "satellite-retrieval",
+  "validation-key": "satellite_retrieval",
+  "ui-label": "",
+  "description": "gridded product based on satellite measurements",
+  "@context": "_context_",
+  "type": [
+    "wcrp:source-type",
+    "universal"
+  ]
+}

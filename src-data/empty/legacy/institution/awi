@@ -1,0 +1,36 @@
+{
+  "id": "awi",
+  "validation-key": "AWI",
+  "ui-label": "Alfred Wegener Institute for Polar and Marine Research",
+  "description": "",
+  "acronyms": [
+    "AWI"
+  ],
+  "aliases": [],
+  "established": 1980,
+  "kind": "Facility",
+  "labels": [],
+  "location": {
+    "@nest": {
+      "city": "Bremerhaven",
+      "country": [
+        "Germany",
+        "DE"
+      ],
+      "lat": 53.53615,
+      "lon": 8.59298
+    },
+    "id": "universal:location/032e6b942",
+    "type": "location"
+  },
+  "ror": "032e6b942",
+  "url": [
+    "https://www.awi.de"
+  ],
+  "@context": "_context_",
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ]
+}

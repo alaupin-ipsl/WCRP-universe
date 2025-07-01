@@ -1,0 +1,2503 @@
+{
+  "@context": {
+  "@base": "https://wcrp-cmip.github.io/WCRP-universe/institution/",
+  "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/institution/",
+  "entries": "@none",
+  "id": "@id",
+  "type": "@type",
+  "cf": "https://wcrp-cmip.github.io/CF/",
+  "cmip6plus": "https://wcrp-cmip.github.io/CMIP6Plus_CVs/",
+  "cmip7": "https://wcrp-cmip.github.io/CMIP7_CVs/",
+  "obs4mips": "https://wolfiex.github.io/obs4MIPs-cmor-tables-ld/",
+  "universal": "https://wcrp-cmip.github.io/WCRP-universe/",
+  "variables": "https://wcrp-cmip.github.io/MIP-variables/",
+  "organisation": "https://wcrp-cmip.github.io/WCRP-universe/organisation/"
+},
+  "@graph": [
+    {
+  "id": "aer",
+  "acronyms": [
+    "AER"
+  ],
+  "aliases": [],
+  "established": 1977,
+  "labels": [],
+  "location": {
+    "id": "universal:location/04cg70g73",
+    "@nest": {
+      "city": "Lexington",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 42.539472,
+      "lon": -71.256946
+    },
+    "type": "location"
+  },
+  "ror": "04cg70g73",
+  "kind": "Facility",
+  "url": [
+    "http://www.aer.com/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Atmospheric and Environmental Research",
+  "label": "AER"
+}
+    ,{
+  "id": "aor",
+  "acronyms": [],
+  "aliases": [],
+  "established": 1938,
+  "labels": [],
+  "location": {
+    "id": "universal:location/02hnp4676",
+    "@nest": {
+      "city": "Rome",
+      "country": [
+        "Italy",
+        "IT"
+      ],
+      "lat": 41.921669,
+      "lon": 41.921669
+    },
+    "type": "location"
+  },
+  "ror": "02hnp4676",
+  "kind": "Facility",
+  "url": [
+    "http://web.oa-roma.inaf.it/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Astronomical Observatory of Rome",
+  "label": "AoR"
+}
+    ,{
+  "id": "as-rcec",
+  "acronyms": [
+    "RCEC"
+  ],
+  "aliases": [],
+  "established": 0,
+  "labels": [],
+  "location": {
+    "id": "universal:location/050qpg053",
+    "@nest": {
+      "city": "Taipei",
+      "country": [
+        "Taiwan",
+        "TW"
+      ],
+      "lat": 25.040712,
+      "lon": 121.614171
+    },
+    "type": "location"
+  },
+  "ror": "050qpg053",
+  "kind": "Facility",
+  "url": [
+    "http://www.rcec.sinica.edu.tw/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Research Center for Environmental Changes, Academia Sinica",
+  "label": "AS-RCEC"
+}
+    ,{
+  "id": "auot",
+  "acronyms": [],
+  "aliases": [
+    "Aristotelian University"
+  ],
+  "established": 1925,
+  "labels": [],
+  "location": {
+    "id": "universal:location/02j61yw88",
+    "@nest": {
+      "city": "Thessaloniki",
+      "country": [
+        "Greece",
+        "GR"
+      ],
+      "lat": 40.64361,
+      "lon": 40.64361
+    },
+    "type": "location"
+  },
+  "ror": "02j61yw88",
+  "kind": "Education",
+  "url": [
+    "https://www.auth.gr/en"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Aristotle University of Thessaloniki",
+  "label": "AUoT"
+}
+    ,{
+  "id": "awi",
+  "acronyms": [
+    "AWI"
+  ],
+  "aliases": [],
+  "established": 1980,
+  "labels": [],
+  "location": {
+    "id": "universal:location/032e6b942",
+    "@nest": {
+      "city": "Bremerhaven",
+      "country": [
+        "Germany",
+        "DE"
+      ],
+      "lat": 53.53615,
+      "lon": 8.59298
+    },
+    "type": "location"
+  },
+  "ror": "032e6b942",
+  "kind": "Facility",
+  "url": [
+    "https://www.awi.de"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Alfred Wegener Institute for Polar and Marine Research",
+  "label": "AWI"
+}
+    ,{
+  "id": "bas",
+  "acronyms": [
+    "BAS"
+  ],
+  "aliases": [],
+  "established": 1962,
+  "labels": [],
+  "location": {
+    "id": "universal:location/01rhff309",
+    "@nest": {
+      "city": "Cambridge",
+      "country": [
+        "United Kingdom",
+        "GB"
+      ],
+      "lat": 52.212965,
+      "lon": 52.212965
+    },
+    "type": "location"
+  },
+  "ror": "01rhff309",
+  "kind": "Government",
+  "url": [
+    "https://www.bas.ac.uk/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "British Antarctic Survey",
+  "label": "BAS"
+}
+    ,{
+  "id": "bcc",
+  "acronyms": [],
+  "aliases": [],
+  "established": 2008,
+  "labels": [],
+  "location": {
+    "id": "universal:location/01spyyb53",
+    "@nest": {
+      "city": "Beijing",
+      "country": [
+        "China",
+        "CN"
+      ],
+      "lat": 39.950128,
+      "lon": 116.383679
+    },
+    "type": "location"
+  },
+  "ror": "01spyyb53",
+  "kind": "Company",
+  "url": [
+    "http://www.bbctg.com.cn/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Beijing Biocytogen (China)",
+  "label": "BCC"
+}
+    ,{
+  "id": "cams",
+  "acronyms": [
+    "CAMS"
+  ],
+  "aliases": [],
+  "established": 1978,
+  "labels": [],
+  "location": {
+    "id": "universal:location/034b53w38",
+    "@nest": {
+      "city": "Beijing",
+      "country": [
+        "China",
+        "CN"
+      ],
+      "lat": 39.9075,
+      "lon": 116.39723
+    },
+    "type": "location"
+  },
+  "ror": "034b53w38",
+  "kind": "Facility",
+  "url": [
+    "http://www.camscma.cn/en.html"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Chinese Academy of Meteorological Sciences",
+  "label": "CAMS"
+}
+    ,{
+  "id": "cas",
+  "acronyms": [
+    "CAS"
+  ],
+  "aliases": [],
+  "established": 1949,
+  "labels": [],
+  "location": {
+    "id": "universal:location/034t30j35",
+    "@nest": {
+      "city": "Beijing",
+      "country": [
+        "China",
+        "CN"
+      ],
+      "lat": 39.9075,
+      "lon": 116.39723
+    },
+    "type": "location"
+  },
+  "ror": "034t30j35",
+  "kind": "Government",
+  "url": [
+    "http://english.cas.cn/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Chinese Academy of Sciences",
+  "label": "CAS"
+}
+    ,{
+  "id": "cccma",
+  "acronyms": [
+    "ECCC"
+  ],
+  "aliases": [],
+  "established": 1971,
+  "labels": [],
+  "location": {
+    "id": "universal:location/026ny0e17",
+    "@nest": {
+      "city": "Gatineau",
+      "country": [
+        "Canada",
+        "CA"
+      ],
+      "lat": 45.425373,
+      "lon": -75.699862
+    },
+    "type": "location"
+  },
+  "ror": "026ny0e17",
+  "kind": "Government",
+  "url": [
+    "https://www.canada.ca/en/environment-climate-change.html"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Environment and Climate Change Canada",
+  "label": "CCCma"
+}
+    ,{
+  "id": "cccr-iitm",
+  "acronyms": [
+    "IITM"
+  ],
+  "aliases": [],
+  "established": 1962,
+  "labels": [],
+  "location": {
+    "id": "universal:location/03jf2m686",
+    "@nest": {
+      "city": "Pune",
+      "country": [
+        "India",
+        "IN"
+      ],
+      "lat": 18.51957,
+      "lon": 73.85535
+    },
+    "type": "location"
+  },
+  "ror": "03jf2m686",
+  "kind": "Facility",
+  "url": [
+    "http://www.tropmet.res.in/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Indian Institute of Tropical Meteorology",
+  "label": "CCCR-IITM"
+}
+    ,{
+  "id": "ceda",
+  "acronyms": [
+    "CEDA"
+  ],
+  "aliases": [],
+  "established": 2005,
+  "labels": [],
+  "location": {
+    "id": "universal:location/04j4kad11",
+    "@nest": {
+      "city": "Harwell",
+      "country": [
+        "United Kingdom",
+        "GB"
+      ],
+      "lat": 53.41667,
+      "lon": -0.96667
+    },
+    "type": "location"
+  },
+  "ror": "04j4kad11",
+  "kind": "Government",
+  "url": [
+    "https://www.ceda.ac.uk/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Centre for Environmental Data Analysis",
+  "label": "CEDA"
+}
+    ,{
+  "id": "cmcc",
+  "acronyms": [
+    "CMCC"
+  ],
+  "aliases": [],
+  "established": 2005,
+  "labels": [],
+  "location": {
+    "id": "universal:location/01tf11a61",
+    "@nest": {
+      "city": "Lecce",
+      "country": [
+        "Italy",
+        "IT"
+      ],
+      "lat": 40.33942,
+      "lon": 18.086602
+    },
+    "type": "location"
+  },
+  "ror": "01tf11a61",
+  "kind": "Nonprofit",
+  "url": [
+    "http://www.cmcc.it/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Euro-Mediterranean Center for Climate Change",
+  "label": "CMCC"
+}
+    ,{
+  "id": "cnes",
+  "acronyms": [
+    "CNES"
+  ],
+  "aliases": [],
+  "established": 1961,
+  "labels": [],
+  "location": {
+    "id": "universal:location/04h1h0y33",
+    "@nest": {
+      "city": "Paris",
+      "country": [
+        "France",
+        "FR"
+      ],
+      "lat": 48.85341,
+      "lon": 2.3488
+    },
+    "type": "location"
+  },
+  "ror": "04h1h0y33",
+  "kind": "Government",
+  "url": [
+    "https://www.cnes.fr"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Centre National d'Études Spatiales",
+  "label": "CNES"
+}
+    ,{
+  "id": "csiro",
+  "acronyms": [
+    "CSIRO"
+  ],
+  "aliases": [],
+  "established": 1926,
+  "labels": [],
+  "location": {
+    "id": "universal:location/03qn8fb07",
+    "@nest": {
+      "city": "Canberra",
+      "country": [
+        "Australia",
+        "AU"
+      ],
+      "lat": -35.28346,
+      "lon": 149.12807
+    },
+    "type": "location"
+  },
+  "ror": "03qn8fb07",
+  "kind": "Government",
+  "url": [
+    "http://www.csiro.au/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Commonwealth Scientific and Industrial Research Organisation",
+  "label": "CSIRO"
+}
+    ,{
+  "id": "dkrz",
+  "acronyms": [
+    "DKRZ"
+  ],
+  "aliases": [],
+  "established": 1987,
+  "labels": [],
+  "location": {
+    "id": "universal:location/03ztgj037",
+    "@nest": {
+      "city": "Hamburg",
+      "country": [
+        "Germany",
+        "DE"
+      ],
+      "lat": 53.55073,
+      "lon": 9.99302
+    },
+    "type": "location"
+  },
+  "ror": "03ztgj037",
+  "kind": "Facility",
+  "url": [
+    "https://www.dkrz.de/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "German Climate Computing Centre",
+  "label": "DKRZ"
+}
+    ,{
+  "id": "dwd",
+  "acronyms": [
+    "DWD"
+  ],
+  "aliases": [],
+  "established": 1952,
+  "labels": [],
+  "location": {
+    "id": "universal:location/02nrqs528",
+    "@nest": {
+      "city": "Offenbach",
+      "country": [
+        "Germany",
+        "DE"
+      ],
+      "lat": 50.103322,
+      "lon": 8.747606
+    },
+    "type": "location"
+  },
+  "ror": "02nrqs528",
+  "kind": "Facility",
+  "url": [
+    "http://www.dwd.de/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "German Meteorological Service",
+  "label": "DWD"
+}
+    ,{
+  "id": "eawag",
+  "acronyms": [
+    "EAWAG"
+  ],
+  "aliases": [],
+  "established": 1936,
+  "labels": [],
+  "location": {
+    "id": "universal:location/00pc48d59",
+    "@nest": {
+      "city": "Dübendorf",
+      "country": [
+        "Switzerland",
+        "CH"
+      ],
+      "lat": 47.39724,
+      "lon": 47.39724
+    },
+    "type": "location"
+  },
+  "ror": "00pc48d59",
+  "kind": "Facility",
+  "url": [
+    "http://www.eawag.ch/en/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Swiss Federal Institute of Aquatic Science and Technology",
+  "label": "EAWAG"
+}
+    ,{
+  "id": "ecmwf",
+  "acronyms": [
+    "ECMWF"
+  ],
+  "aliases": [],
+  "established": 1975,
+  "labels": [],
+  "location": {
+    "id": "universal:location/014w0fd65",
+    "@nest": {
+      "city": "Reading",
+      "country": [
+        "United Kingdom",
+        "GB"
+      ],
+      "lat": 51.45625,
+      "lon": -0.97113
+    },
+    "type": "location"
+  },
+  "ror": "014w0fd65",
+  "kind": "Other",
+  "url": [
+    "http://www.ecmwf.int/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "European Centre for Medium-Range Weather Forecasts",
+  "label": "ECMWF"
+}
+    ,{
+  "id": "esso",
+  "acronyms": [
+    "INCOIS"
+  ],
+  "aliases": [],
+  "established": 1999,
+  "labels": [],
+  "location": {
+    "id": "universal:location/04xbqmj23",
+    "@nest": {
+      "city": "Hyderabad",
+      "country": [
+        "India",
+        "IN"
+      ],
+      "lat": 17.528234,
+      "lon": 78.400195
+    },
+    "type": "location"
+  },
+  "ror": "04xbqmj23",
+  "kind": "Government",
+  "url": [
+    "http://www.incois.gov.in/portal/index.jsp"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Indian National Centre for Ocean Information Services",
+  "label": "ESSO"
+}
+    ,{
+  "id": "fmi",
+  "acronyms": [
+    "FMI"
+  ],
+  "aliases": [],
+  "established": 1838,
+  "labels": [],
+  "location": {
+    "id": "universal:location/05hppb561",
+    "@nest": {
+      "city": "Helsinki",
+      "country": [
+        "Finland",
+        "FI"
+      ],
+      "lat": 60.16952,
+      "lon": 60.16952
+    },
+    "type": "location"
+  },
+  "ror": "05hppb561",
+  "kind": "Government",
+  "url": [
+    "http://en.ilmatieteenlaitos.fi/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Finnish Meteorological Institute",
+  "label": "FMI"
+}
+    ,{
+  "id": "fuberlin",
+  "acronyms": [
+    "FU"
+  ],
+  "aliases": [
+    "FU Berlin",
+    "Free University of Berlin"
+  ],
+  "established": 1948,
+  "labels": [],
+  "location": {
+    "id": "universal:location/046ak2485",
+    "@nest": {
+      "city": "Berlin",
+      "country": [
+        "Germany",
+        "DE"
+      ],
+      "lat": 52.52437,
+      "lon": 52.52437
+    },
+    "type": "location"
+  },
+  "ror": "046ak2485",
+  "kind": "Education",
+  "url": [
+    "https://www.fu-berlin.de"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Freie Universität Berlin",
+  "label": "FUBerlin"
+}
+    ,{
+  "id": "iaceth",
+  "acronyms": [],
+  "aliases": [
+    "Swiss Federal Institute of Technology in Zurich",
+    "Eidgenössische Technische Hochschule Zürich",
+    "École Polytechnique Fédérale de Zurich",
+    "Politecnico Federale di Zurigo"
+  ],
+  "established": 1855,
+  "labels": [],
+  "location": {
+    "id": "universal:location/05a28rw58",
+    "@nest": {
+      "city": "Zurich",
+      "country": [
+        "Switzerland",
+        "CH"
+      ],
+      "lat": 47.36667,
+      "lon": 8.55
+    },
+    "type": "location"
+  },
+  "ror": "05a28rw58",
+  "kind": "Education",
+  "url": [
+    "https://ethz.ch"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "ETH Zurich",
+  "label": "IACETH"
+}
+    ,{
+  "id": "ifm-geomar",
+  "acronyms": [
+    "IFM-GEOMAR"
+  ],
+  "aliases": [
+    "Leibniz Institute of Marine Sciences"
+  ],
+  "established": 2004,
+  "labels": [],
+  "location": {
+    "id": "universal:location/02h2x0161",
+    "@nest": {
+      "city": "Kiel",
+      "country": [
+        "Germany",
+        "DE"
+      ],
+      "lat": 54.327138,
+      "lon": 10.180141
+    },
+    "type": "location"
+  },
+  "ror": "02h2x0161",
+  "kind": "Facility",
+  "url": [
+    "http://www.geomar.de/en/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "GEOMAR Helmholtz Centre for Ocean Research Kiel",
+  "label": "IFM-GEOMAR"
+}
+    ,{
+  "id": "imperialcollege",
+  "acronyms": [],
+  "aliases": [],
+  "established": 1907,
+  "labels": [],
+  "location": {
+    "id": "universal:location/041kmwe10",
+    "@nest": {
+      "city": "London",
+      "country": [
+        "United Kingdom",
+        "GB"
+      ],
+      "lat": 51.4986,
+      "lon": -0.175478
+    },
+    "type": "location"
+  },
+  "ror": "041kmwe10",
+  "kind": "Education",
+  "url": [
+    "http://www.imperial.ac.uk/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Imperial College London",
+  "label": "ImperialCollege"
+}
+    ,{
+  "id": "inm",
+  "acronyms": [
+    "INM RAS"
+  ],
+  "aliases": [],
+  "established": 1980,
+  "labels": [],
+  "location": {
+    "id": "universal:location/00520ey40",
+    "@nest": {
+      "city": "Moscow",
+      "country": [
+        "Russia",
+        "RU"
+      ],
+      "lat": 55.762997,
+      "lon": 37.625605
+    },
+    "type": "location"
+  },
+  "ror": "00520ey40",
+  "kind": "Facility",
+  "url": [
+    "http://www.inm.ras.ru/inm_en_ver/index.htm"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Institute of Numerical Mathematics",
+  "label": "INM"
+}
+    ,{
+  "id": "ipsl",
+  "acronyms": [
+    "IPSL"
+  ],
+  "aliases": [],
+  "established": 1991,
+  "labels": [],
+  "location": {
+    "id": "universal:location/02haar591",
+    "@nest": {
+      "city": "Paris",
+      "country": [
+        "France",
+        "FR"
+      ],
+      "lat": 48.855675,
+      "lon": 2.332105
+    },
+    "type": "location"
+  },
+  "ror": "02haar591",
+  "kind": "Facility",
+  "url": [
+    "https://www.ipsl.fr/en/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Institut Pierre-Simon Laplace",
+  "label": "IPSL"
+}
+    ,{
+  "id": "issi",
+  "acronyms": [
+    "ISSI"
+  ],
+  "aliases": [],
+  "established": 1995,
+  "labels": [],
+  "location": {
+    "id": "universal:location/01xm30661",
+    "@nest": {
+      "city": "Bern",
+      "country": [
+        "Switzerland",
+        "CH"
+      ],
+      "lat": 46.952897,
+      "lon": 46.952897
+    },
+    "type": "location"
+  },
+  "ror": "01xm30661",
+  "kind": "Nonprofit",
+  "url": [
+    "http://www.issibern.ch/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "International Space Science Institute",
+  "label": "ISSI"
+}
+    ,{
+  "id": "jaxa",
+  "acronyms": [
+    "JAXA"
+  ],
+  "aliases": [
+    "Dokuritsu-gyōsei-hōjin Uchū Kōkū Kenkyū Kaihatsu Kikō",
+    "Independent Administrative Institution on Aerospace Research and Development"
+  ],
+  "established": 2003,
+  "labels": [],
+  "location": {
+    "id": "universal:location/059yhyy33",
+    "@nest": {
+      "city": "Tokyo",
+      "country": [
+        "Japan",
+        "JP"
+      ],
+      "lat": 35.680834,
+      "lon": 139.558269
+    },
+    "type": "location"
+  },
+  "ror": "059yhyy33",
+  "kind": "Facility",
+  "url": [
+    "http://global.jaxa.jp/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Japan Aerospace Exploration Agency",
+  "label": "JAXA"
+}
+    ,{
+  "id": "kiost",
+  "acronyms": [
+    "KIOST"
+  ],
+  "aliases": [
+    "Korean Ocean Research and Development Institute"
+  ],
+  "established": 1973,
+  "labels": [],
+  "location": {
+    "id": "universal:location/032m55064",
+    "@nest": {
+      "city": "Busan",
+      "country": [
+        "South Korea",
+        "KR"
+      ],
+      "lat": 35.10168,
+      "lon": 129.03004
+    },
+    "type": "location"
+  },
+  "ror": "032m55064",
+  "kind": "Facility",
+  "url": [
+    "http://eng.kiost.ac/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Korea Institute of Ocean Science and Technology",
+  "label": "KIOST"
+}
+    ,{
+  "id": "kit",
+  "acronyms": [
+    "KIT"
+  ],
+  "aliases": [
+    "Karlsruhe Institute of Technology - The Research University in the Helmholtz Association",
+    "Das Karlsruher Institut für Technologie (KIT) – Die Forschungsuniversität in der Helmholtz-Gemeinschaft"
+  ],
+  "established": 2009,
+  "labels": [],
+  "location": {
+    "id": "universal:location/04t3en479",
+    "@nest": {
+      "city": "Karlsruhe",
+      "country": [
+        "Germany",
+        "DE"
+      ],
+      "lat": 49.00937,
+      "lon": 49.00937
+    },
+    "type": "location"
+  },
+  "ror": "04t3en479",
+  "kind": "Education",
+  "url": [
+    "http://www.kit.edu/english/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Karlsruhe Institute of Technology",
+  "label": "KIT"
+}
+    ,{
+  "id": "llnl",
+  "acronyms": [
+    "LLNL",
+    "LLL"
+  ],
+  "aliases": [
+    "United States Department of Energy National Nuclear Security Administration Lawrence Livermore National Laboratory",
+    "U.S. Department of Energy National Nuclear Security Administration Los Alamos National Laboratory",
+    "United States Department of Energy Los Alamos National Laboratory",
+    "U.S. Department of Energy Los Alamos National Laboratory"
+  ],
+  "established": 1952,
+  "labels": [],
+  "location": {
+    "id": "universal:location/041nk4h53",
+    "@nest": {
+      "city": "Livermore",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 37.68187,
+      "lon": -121.76801
+    },
+    "type": "location"
+  },
+  "ror": "041nk4h53",
+  "kind": "Facility",
+  "url": [
+    "https://www.llnl.gov/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Lawrence Livermore National Laboratory",
+  "label": "LLNL"
+}
+    ,{
+  "id": "lpc2e",
+  "acronyms": [
+    "LPC2E"
+  ],
+  "aliases": [],
+  "established": 2012,
+  "labels": [],
+  "location": {
+    "id": "universal:location/049k66y27",
+    "@nest": {
+      "city": "Orléans",
+      "country": [
+        "France",
+        "FR"
+      ],
+      "lat": 47.90289,
+      "lon": 47.90289
+    },
+    "type": "location"
+  },
+  "ror": "049k66y27",
+  "kind": "Facility",
+  "url": [
+    "https://www.lpc2e.cnrs.fr"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Laboratoire de Physique et Chimie de l’Environnement et de l’Espace",
+  "label": "LPC2E"
+}
+    ,{
+  "id": "mohc",
+  "acronyms": [],
+  "aliases": [
+    "Meteorological Office"
+  ],
+  "established": 1854,
+  "labels": [],
+  "location": {
+    "id": "universal:location/01ch2yn61",
+    "@nest": {
+      "city": "Exeter",
+      "country": [
+        "United Kingdom",
+        "GB"
+      ],
+      "lat": 50.7236,
+      "lon": 50.7236
+    },
+    "type": "location"
+  },
+  "ror": "01ch2yn61",
+  "kind": "Government",
+  "url": [
+    "http://www.metoffice.gov.uk/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Met Office",
+  "label": "MOHC"
+}
+    ,{
+  "id": "mpi-b",
+  "acronyms": [],
+  "aliases": [],
+  "established": 1997,
+  "labels": [],
+  "location": {
+    "id": "universal:location/051yxp643",
+    "@nest": {
+      "city": "Jena",
+      "country": [
+        "Germany",
+        "DE"
+      ],
+      "lat": 50.910556,
+      "lon": 11.567222
+    },
+    "type": "location"
+  },
+  "ror": "051yxp643",
+  "kind": "Facility",
+  "url": [
+    "http://www.bgc-jena.mpg.de/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Max Planck Institute for Biogeochemistry",
+  "label": "MPI-B"
+}
+    ,{
+  "id": "mpi-m",
+  "acronyms": [
+    "MPI-M"
+  ],
+  "aliases": [],
+  "established": 1975,
+  "labels": [],
+  "location": {
+    "id": "universal:location/05esem239",
+    "@nest": {
+      "city": "Hamburg",
+      "country": [
+        "Germany",
+        "DE"
+      ],
+      "lat": 53.567794,
+      "lon": 9.975468
+    },
+    "type": "location"
+  },
+  "ror": "05esem239",
+  "kind": "Facility",
+  "url": [
+    "http://www.mpimet.mpg.de/en/home.html"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Max Planck Institute for Meteorology",
+  "label": "MPI-M"
+}
+    ,{
+  "id": "mps",
+  "acronyms": [
+    "MPS"
+  ],
+  "aliases": [],
+  "established": 1934,
+  "labels": [],
+  "location": {
+    "id": "universal:location/02j6gm739",
+    "@nest": {
+      "city": "Göttingen",
+      "country": [
+        "Germany",
+        "DE"
+      ],
+      "lat": 51.561218,
+      "lon": 51.561218
+    },
+    "type": "location"
+  },
+  "ror": "02j6gm739",
+  "kind": "Facility",
+  "url": [
+    "http://www.mps.mpg.de/en"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Max Planck Institute for Solar System Research",
+  "label": "MPS"
+}
+    ,{
+  "id": "mri",
+  "acronyms": [
+    "JMA"
+  ],
+  "aliases": [
+    "Kishō-chō"
+  ],
+  "established": 1956,
+  "labels": [],
+  "location": {
+    "id": "universal:location/02772kk97",
+    "@nest": {
+      "city": "Tokyo",
+      "country": [
+        "Japan",
+        "JP"
+      ],
+      "lat": 35.6895,
+      "lon": 139.69171
+    },
+    "type": "location"
+  },
+  "ror": "02772kk97",
+  "kind": "Other",
+  "url": [
+    "http://www.jma.go.jp/jma/indexe.html"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Japan Meteorological Agency",
+  "label": "MRI"
+}
+    ,{
+  "id": "nasa-giss",
+  "acronyms": [
+    "GISS"
+  ],
+  "aliases": [],
+  "established": 1961,
+  "labels": [],
+  "location": {
+    "id": "universal:location/01cyfxe35",
+    "@nest": {
+      "city": "New York",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 40.71427,
+      "lon": -74.00597
+    },
+    "type": "location"
+  },
+  "ror": "01cyfxe35",
+  "kind": "Facility",
+  "url": [
+    "http://www.giss.nasa.gov/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Goddard Institute for Space Studies",
+  "label": "NASA-GISS"
+}
+    ,{
+  "id": "nasa-gsfc",
+  "acronyms": [
+    "GSFC"
+  ],
+  "aliases": [],
+  "established": 1959,
+  "labels": [],
+  "location": {
+    "id": "universal:location/0171mag52",
+    "@nest": {
+      "city": "Greenbelt",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 39.00455,
+      "lon": -76.87553
+    },
+    "type": "location"
+  },
+  "ror": "0171mag52",
+  "kind": "Facility",
+  "url": [
+    "https://www.nasa.gov/centers/goddard/home/index.html"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Goddard Space Flight Center",
+  "label": "NASA-GSFC"
+}
+    ,{
+  "id": "nasa-jpl",
+  "acronyms": [
+    "JPL"
+  ],
+  "aliases": [
+    "Jet Propulsion Lab",
+    "Jet Propulsion Laboratory, California Institute of Technology"
+  ],
+  "established": 1936,
+  "labels": [],
+  "location": {
+    "id": "universal:location/027k65916",
+    "@nest": {
+      "city": "La Cañada Flintridge",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 34.19917,
+      "lon": -118.18785
+    },
+    "type": "location"
+  },
+  "ror": "027k65916",
+  "kind": "Facility",
+  "url": [
+    "http://www.jpl.nasa.gov/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Jet Propulsion Laboratory",
+  "label": "NASA-JPL"
+}
+    ,{
+  "id": "nasa-larc",
+  "acronyms": [
+    "LaRC"
+  ],
+  "aliases": [],
+  "established": 1917,
+  "labels": [],
+  "location": {
+    "id": "universal:location/0399mhs52",
+    "@nest": {
+      "city": "Hampton",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 37.02987,
+      "lon": -76.34522
+    },
+    "type": "location"
+  },
+  "ror": "0399mhs52",
+  "kind": "Facility",
+  "url": [
+    "http://www.nasa.gov/langley"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Langley Research Center",
+  "label": "NASA-LaRC"
+}
+    ,{
+  "id": "ncar",
+  "acronyms": [
+    "NCAR"
+  ],
+  "aliases": [],
+  "established": 1930,
+  "labels": [],
+  "location": {
+    "id": "universal:location/05cvfcr44",
+    "@nest": {
+      "city": "Boulder",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 40.01499,
+      "lon": 40.01499
+    },
+    "type": "location"
+  },
+  "ror": "05cvfcr44",
+  "kind": "Facility",
+  "url": [
+    "https://ncar.ucar.edu/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "National Center for Atmospheric Research",
+  "label": "NCAR"
+}
+    ,{
+  "id": "ncas",
+  "acronyms": [],
+  "aliases": [],
+  "established": 1997,
+  "labels": [],
+  "location": {
+    "id": "universal:location/03q36cn05",
+    "@nest": {
+      "city": "Islamabad",
+      "country": [
+        "Pakistan",
+        "PK"
+      ],
+      "lat": 33.72148,
+      "lon": 73.04329
+    },
+    "type": "location"
+  },
+  "ror": "03q36cn05",
+  "kind": "Facility",
+  "url": [
+    "http://www.uksresearch.com/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Uks",
+  "label": "NCAS"
+}
+    ,{
+  "id": "nerc",
+  "acronyms": [
+    "NERC"
+  ],
+  "aliases": [],
+  "established": 1965,
+  "labels": [],
+  "location": {
+    "id": "universal:location/02b5d8509",
+    "@nest": {
+      "city": "Swindon",
+      "country": [
+        "United Kingdom",
+        "GB"
+      ],
+      "lat": 51.55797,
+      "lon": -1.78116
+    },
+    "type": "location"
+  },
+  "ror": "02b5d8509",
+  "kind": "Government",
+  "url": [
+    "https://www.ukri.org/councils/nerc/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Natural Environment Research Council",
+  "label": "NERC"
+}
+    ,{
+  "id": "niwa",
+  "acronyms": [
+    "NIWA"
+  ],
+  "aliases": [
+    "Taihoro Nukurangi"
+  ],
+  "established": 1992,
+  "labels": [],
+  "location": {
+    "id": "universal:location/04hxcaz34",
+    "@nest": {
+      "city": "Auckland",
+      "country": [
+        "New Zealand",
+        "NZ"
+      ],
+      "lat": -36.84403,
+      "lon": 174.76172
+    },
+    "type": "location"
+  },
+  "ror": "04hxcaz34",
+  "kind": "Facility",
+  "url": [
+    "https://www.niwa.co.nz/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "National Institute of Water and Atmospheric Research",
+  "label": "NIWA"
+}
+    ,{
+  "id": "noaa-ncei",
+  "acronyms": [
+    "NCEI",
+    "NOAA NCEI"
+  ],
+  "aliases": [
+    "National Climatic Data Center",
+    "United States National Environmental Satellites, Data, and Information Service National Centers for Environmental Information",
+    "United States National Centers for Environmental Information",
+    "U.S. National Centers for Environmental Information",
+    "National Centers for Environmental Information"
+  ],
+  "established": 1934,
+  "labels": [],
+  "location": {
+    "id": "universal:location/04r0wrp59",
+    "@nest": {
+      "city": "Asheville",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 35.60095,
+      "lon": -82.55402
+    },
+    "type": "location"
+  },
+  "ror": "04r0wrp59",
+  "kind": "Government",
+  "url": [
+    "https://www.ncei.noaa.gov"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "NOAA National Centers for Environmental Information",
+  "label": "NOAA-NCEI"
+}
+    ,{
+  "id": "ntu",
+  "acronyms": [
+    "NTU"
+  ],
+  "aliases": [],
+  "established": 1928,
+  "labels": [],
+  "location": {
+    "id": "universal:location/05bqach95",
+    "@nest": {
+      "city": "Taipei",
+      "country": [
+        "Taiwan",
+        "TW"
+      ],
+      "lat": 25.016,
+      "lon": 121.536
+    },
+    "type": "location"
+  },
+  "ror": "05bqach95",
+  "kind": "Education",
+  "url": [
+    "http://www.ntu.edu.tw/english/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "National Taiwan University",
+  "label": "NTU"
+}
+    ,{
+  "id": "nuist",
+  "acronyms": [
+    "NU",
+    "NJU "
+  ],
+  "aliases": [
+    "Nanking University"
+  ],
+  "established": 1902,
+  "labels": [],
+  "location": {
+    "id": "universal:location/01rxvg760",
+    "@nest": {
+      "city": "Nanjing",
+      "country": [
+        "China",
+        "CN"
+      ],
+      "lat": 32.056111,
+      "lon": 118.775
+    },
+    "type": "location"
+  },
+  "ror": "01rxvg760",
+  "kind": "Education",
+  "url": [
+    "http://www.nju.edu.cn/english/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Nanjing University",
+  "label": "NUIST"
+}
+    ,{
+  "id": "osu",
+  "acronyms": [
+    "OSU"
+  ],
+  "aliases": [],
+  "established": 1868,
+  "labels": [],
+  "location": {
+    "id": "universal:location/00ysfqy60",
+    "@nest": {
+      "city": "Corvallis",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 44.56457,
+      "lon": -123.26204
+    },
+    "type": "location"
+  },
+  "ror": "00ysfqy60",
+  "kind": "Education",
+  "url": [
+    "http://oregonstate.edu/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Oregon State University",
+  "label": "OSU"
+}
+    ,{
+  "id": "pcmdi",
+  "acronyms": [
+    "LLNL",
+    "LLL"
+  ],
+  "aliases": [
+    "United States Department of Energy National Nuclear Security Administration Lawrence Livermore National Laboratory",
+    "U.S. Department of Energy National Nuclear Security Administration Los Alamos National Laboratory",
+    "United States Department of Energy Los Alamos National Laboratory",
+    "U.S. Department of Energy Los Alamos National Laboratory"
+  ],
+  "established": 1952,
+  "labels": [],
+  "location": {
+    "id": "universal:location/041nk4h53",
+    "@nest": {
+      "city": "Livermore",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 37.68187,
+      "lon": -121.76801
+    },
+    "type": "location"
+  },
+  "ror": "041nk4h53",
+  "kind": "Facility",
+  "url": [
+    "https://www.llnl.gov/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Lawrence Livermore National Laboratory",
+  "label": "PCMDI"
+}
+    ,{
+  "id": "pmod",
+  "acronyms": [
+    "PMOD"
+  ],
+  "aliases": [],
+  "established": 1907,
+  "labels": [],
+  "location": {
+    "id": "universal:location/02gtrqv93",
+    "@nest": {
+      "city": "Davos",
+      "country": [
+        "Switzerland",
+        "CH"
+      ],
+      "lat": 46.8133161,
+      "lon": 46.8133161
+    },
+    "type": "location"
+  },
+  "ror": "02gtrqv93",
+  "kind": "Facility",
+  "url": [
+    "https://www.pmodwrc.ch/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Physikalisch-Meteorologisches Observatorium Davos",
+  "label": "PMOD"
+}
+    ,{
+  "id": "pnnl-jgcri",
+  "acronyms": [
+    "JGCRI"
+  ],
+  "aliases": [],
+  "established": 2001,
+  "labels": [],
+  "location": {
+    "id": "universal:location/058cmd703",
+    "@nest": {
+      "city": "Riverdale Park",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 38.971106,
+      "lon": -76.9217851
+    },
+    "type": "location"
+  },
+  "ror": "058cmd703",
+  "kind": "Facility",
+  "url": [
+    "http://www.globalchange.umd.edu/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Joint Global Change Research Institute",
+  "label": "PNNL-JGCRI"
+}
+    ,{
+  "id": "pnnl-waccem",
+  "acronyms": [
+    "PNNL"
+  ],
+  "aliases": [],
+  "established": 1965,
+  "labels": [],
+  "location": {
+    "id": "universal:location/05h992307",
+    "@nest": {
+      "city": "Richland",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 46.28569,
+      "lon": -119.28446
+    },
+    "type": "location"
+  },
+  "ror": "05h992307",
+  "kind": "Facility",
+  "url": [
+    "http://www.pnnl.gov/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Pacific Northwest National Laboratory",
+  "label": "PNNL-WACCEM"
+}
+    ,{
+  "id": "rss",
+  "acronyms": [
+    "RSS"
+  ],
+  "aliases": [],
+  "established": 1974,
+  "labels": [],
+  "location": {
+    "id": "universal:location/01vp8h012",
+    "@nest": {
+      "city": "Santa Rosa",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 38.443733,
+      "lon": -122.717185
+    },
+    "type": "location"
+  },
+  "ror": "01vp8h012",
+  "kind": "Company",
+  "url": [
+    "http://www.remss.com/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Remote Sensing Systems (United States)",
+  "label": "RSS"
+}
+    ,{
+  "id": "snu",
+  "acronyms": [
+    "SNU"
+  ],
+  "aliases": [
+    "Seoul Daehakgyo"
+  ],
+  "established": 1946,
+  "labels": [],
+  "location": {
+    "id": "universal:location/04h9pn542",
+    "@nest": {
+      "city": "Seoul",
+      "country": [
+        "South Korea",
+        "KR"
+      ],
+      "lat": 37.460155,
+      "lon": 126.951894
+    },
+    "type": "location"
+  },
+  "ror": "04h9pn542",
+  "kind": "Education",
+  "url": [
+    "http://www.snu.ac.kr/index.html"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Seoul National University",
+  "label": "SNU"
+}
+    ,{
+  "id": "thu",
+  "acronyms": [
+    "THU"
+  ],
+  "aliases": [],
+  "established": 1911,
+  "labels": [],
+  "location": {
+    "id": "universal:location/03cve4549",
+    "@nest": {
+      "city": "Beijing",
+      "country": [
+        "China",
+        "CN"
+      ],
+      "lat": 39.999585,
+      "lon": 116.325414
+    },
+    "type": "location"
+  },
+  "ror": "03cve4549",
+  "kind": "Education",
+  "url": [
+    "http://www.tsinghua.edu.cn/publish/newthuen/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Tsinghua University",
+  "label": "THU"
+}
+    ,{
+  "id": "ua",
+  "acronyms": [
+    "UA"
+  ],
+  "aliases": [],
+  "established": 1885,
+  "labels": [],
+  "location": {
+    "id": "universal:location/03m2x1q45",
+    "@nest": {
+      "city": "Tucson",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 32.22174,
+      "lon": -110.92648
+    },
+    "type": "location"
+  },
+  "ror": "03m2x1q45",
+  "kind": "Education",
+  "url": [
+    "http://www.arizona.edu/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "University of Arizona",
+  "label": "UA"
+}
+    ,{
+  "id": "uci",
+  "acronyms": [
+    "UCI"
+  ],
+  "aliases": [
+    "UC Irvine"
+  ],
+  "established": 1965,
+  "labels": [],
+  "location": {
+    "id": "universal:location/04gyf1771",
+    "@nest": {
+      "city": "Irvine",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 33.64535,
+      "lon": -117.842642
+    },
+    "type": "location"
+  },
+  "ror": "04gyf1771",
+  "kind": "Education",
+  "url": [
+    "http://uci.edu/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "University of California, Irvine",
+  "label": "UCI"
+}
+    ,{
+  "id": "ucolorado",
+  "acronyms": [
+    "CU"
+  ],
+  "aliases": [],
+  "established": 1876,
+  "labels": [],
+  "location": {
+    "id": "universal:location/00jc20583",
+    "@nest": {
+      "city": "Boulder",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 40.01499,
+      "lon": -105.27055
+    },
+    "type": "location"
+  },
+  "ror": "00jc20583",
+  "kind": "Education",
+  "url": [
+    "http://www.cu.edu/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "University of Colorado System",
+  "label": "UColorado"
+}
+    ,{
+  "id": "ucsb",
+  "acronyms": [
+    "UCSB"
+  ],
+  "aliases": [
+    "UC Santa Barbara"
+  ],
+  "established": 1891,
+  "labels": [],
+  "location": {
+    "id": "universal:location/02t274463",
+    "@nest": {
+      "city": "Santa Barbara",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 34.42083,
+      "lon": -119.69819
+    },
+    "type": "location"
+  },
+  "ror": "02t274463",
+  "kind": "Education",
+  "url": [
+    "http://www.ucsb.edu/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "University of California, Santa Barbara",
+  "label": "UCSB"
+}
+    ,{
+  "id": "uhh",
+  "acronyms": [
+    "UHH"
+  ],
+  "aliases": [
+    "University of Hamburg"
+  ],
+  "established": 1919,
+  "labels": [],
+  "location": {
+    "id": "universal:location/00g30e956",
+    "@nest": {
+      "city": "Hamburg",
+      "country": [
+        "Germany",
+        "DE"
+      ],
+      "lat": 53.55073,
+      "lon": 9.99302
+    },
+    "type": "location"
+  },
+  "ror": "00g30e956",
+  "kind": "Education",
+  "url": [
+    "http://www.uni-hamburg.de"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Universität Hamburg",
+  "label": "UHH"
+}
+    ,{
+  "id": "uobergen",
+  "acronyms": [
+    "UiB"
+  ],
+  "aliases": [],
+  "established": 1946,
+  "labels": [],
+  "location": {
+    "id": "universal:location/03zga2b32",
+    "@nest": {
+      "city": "Bergen",
+      "country": [
+        "Norway",
+        "NO"
+      ],
+      "lat": 60.39299,
+      "lon": 60.39299
+    },
+    "type": "location"
+  },
+  "ror": "03zga2b32",
+  "kind": "Education",
+  "url": [
+    "http://www.uib.no/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "University of Bergen",
+  "label": "UoBergen"
+}
+    ,{
+  "id": "uofmd",
+  "acronyms": [
+    "UMD"
+  ],
+  "aliases": [],
+  "established": 1856,
+  "labels": [],
+  "location": {
+    "id": "universal:location/047s2c258",
+    "@nest": {
+      "city": "College Park",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 38.98067,
+      "lon": -76.93692
+    },
+    "type": "location"
+  },
+  "ror": "047s2c258",
+  "kind": "Education",
+  "url": [
+    "http://www.umd.edu/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "University of Maryland, College Park",
+  "label": "UofMD"
+}
+    ,{
+  "id": "uoleeds",
+  "acronyms": [],
+  "aliases": [],
+  "established": 1904,
+  "labels": [],
+  "location": {
+    "id": "universal:location/024mrxd33",
+    "@nest": {
+      "city": "Leeds",
+      "country": [
+        "United Kingdom",
+        "GB"
+      ],
+      "lat": 53.79648,
+      "lon": 53.79648
+    },
+    "type": "location"
+  },
+  "ror": "024mrxd33",
+  "kind": "Education",
+  "url": [
+    "http://www.leeds.ac.uk/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "University of Leeds",
+  "label": "UoLeeds"
+}
+    ,{
+  "id": "uom",
+  "acronyms": [],
+  "aliases": [
+    "Melbourne University"
+  ],
+  "established": 1853,
+  "labels": [],
+  "location": {
+    "id": "universal:location/01ej9dk98",
+    "@nest": {
+      "city": "Melbourne",
+      "country": [
+        "Australia",
+        "AU"
+      ],
+      "lat": -37.814,
+      "lon": 144.96332
+    },
+    "type": "location"
+  },
+  "ror": "01ej9dk98",
+  "kind": "Education",
+  "url": [
+    "http://www.unimelb.edu.au/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "University of Melbourne",
+  "label": "UoM"
+}
+    ,{
+  "id": "uomontreal",
+  "acronyms": [
+    "UdeM"
+  ],
+  "aliases": [],
+  "established": 1878,
+  "labels": [],
+  "location": {
+    "id": "universal:location/0161xgx34",
+    "@nest": {
+      "city": "Montreal",
+      "country": [
+        "Canada",
+        "CA"
+      ],
+      "lat": 45.50884,
+      "lon": 45.50884
+    },
+    "type": "location"
+  },
+  "ror": "0161xgx34",
+  "kind": "Education",
+  "url": [
+    "http://www.umontreal.ca/english/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Université de Montréal",
+  "label": "UoMontreal"
+}
+    ,{
+  "id": "uootago",
+  "acronyms": [],
+  "aliases": [],
+  "established": 1869,
+  "labels": [],
+  "location": {
+    "id": "universal:location/01jmxt844",
+    "@nest": {
+      "city": "Dunedin",
+      "country": [
+        "New Zealand",
+        "NZ"
+      ],
+      "lat": -45.87416,
+      "lon": -45.87416
+    },
+    "type": "location"
+  },
+  "ror": "01jmxt844",
+  "kind": "Education",
+  "url": [
+    "http://www.otago.ac.nz/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "University of Otago",
+  "label": "UoOtago"
+}
+    ,{
+  "id": "uooulu",
+  "acronyms": [],
+  "aliases": [],
+  "established": 1958,
+  "labels": [],
+  "location": {
+    "id": "universal:location/03yj89h83",
+    "@nest": {
+      "city": "Oulu",
+      "country": [
+        "Finland",
+        "FI"
+      ],
+      "lat": 65.01236,
+      "lon": 65.01236
+    },
+    "type": "location"
+  },
+  "ror": "03yj89h83",
+  "kind": "Education",
+  "url": [
+    "http://www.oulu.fi/english/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "University of Oulu",
+  "label": "UoOulu"
+}
+    ,{
+  "id": "ureading",
+  "acronyms": [],
+  "aliases": [],
+  "established": 1926,
+  "labels": [],
+  "location": {
+    "id": "universal:location/05v62cm79",
+    "@nest": {
+      "city": "Reading",
+      "country": [
+        "United Kingdom",
+        "GB"
+      ],
+      "lat": 51.440832,
+      "lon": -0.942503
+    },
+    "type": "location"
+  },
+  "ror": "05v62cm79",
+  "kind": "Education",
+  "url": [
+    "http://www.reading.ac.uk/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "University of Reading",
+  "label": "UReading"
+}
+    ,{
+  "id": "uw",
+  "acronyms": [
+    "UW"
+  ],
+  "aliases": [],
+  "established": 1861,
+  "labels": [],
+  "location": {
+    "id": "universal:location/00cvxb145",
+    "@nest": {
+      "city": "Seattle",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 47.60621,
+      "lon": -122.33207
+    },
+    "type": "location"
+  },
+  "ror": "00cvxb145",
+  "kind": "Education",
+  "url": [
+    "http://www.washington.edu/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "University of Washington",
+  "label": "UW"
+}
+    ,{
+  "id": "vua",
+  "acronyms": [
+    "VU"
+  ],
+  "aliases": [
+    "VU Amsterdam"
+  ],
+  "established": 1880,
+  "labels": [],
+  "location": {
+    "id": "universal:location/008xxew50",
+    "@nest": {
+      "city": "Amsterdam",
+      "country": [
+        "Netherlands",
+        "NL"
+      ],
+      "lat": 52.37403,
+      "lon": 4.88969
+    },
+    "type": "location"
+  },
+  "ror": "008xxew50",
+  "kind": "Education",
+  "url": [
+    "https://vu.nl/"
+  ],
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ],
+  "long_label": "Vrije Universiteit Amsterdam",
+  "label": "VUA"
+}
+  ]
+}

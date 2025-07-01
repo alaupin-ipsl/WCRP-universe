@@ -1,0 +1,12 @@
+{
+  "id": "damip",
+  "validation-key": "DAMIP",
+  "ui-label": "Detection and Attribution Model Intercomparison Project",
+  "description": "DAMIP focuses on detection and attribution of climate change, covering experiments like hist-aer and hist-nat.",
+  "url": "https://gmd.copernicus.org/articles/13/7947/2020/gmd-13-7947-2020.pdf",
+  "@context": "_context_",
+  "type": [
+    "wcrp:activity",
+    "universal"
+  ]
+}

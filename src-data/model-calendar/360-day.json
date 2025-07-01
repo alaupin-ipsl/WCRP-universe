@@ -1,0 +1,11 @@
+{
+  "id": "360-day",
+  "validation-key": "360-day",
+  "ui-label": "360 day",
+  "description": "a calendar in which all years are 360 days, and divided into 30 day months",
+  "@context": "_context_",
+  "type": [
+    "wcrp:model-calendar",
+    "universal"
+  ]
+}

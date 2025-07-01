@@ -1,0 +1,38 @@
+{
+    "id": "cmcc",
+    "validation-key": "CMCC",
+    "ui-label": "CMCC Foundation - Euro-Mediterranean Center on Climate Change",
+    "description": "",
+    "acronyms": [
+        "CMCC"
+    ],
+    "aliases": [
+        "CMCC Foundation",
+        "Euro-Mediterranean Center for Climate Change",
+        "Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici"
+    ],
+    "established": 2005,
+    "kind": "Funder",
+    "labels": [],
+    "location": {
+        "id": "universal:location/01tf11a61",
+        "type": "wcrp:location",
+        "lat": 40.35481,
+        "lon": 18.17244,
+        "city": "Lecce",
+        "country": [
+            "Italy",
+            "IT"
+        ]
+    },
+    "ror": "01tf11a61",
+    "url": [
+        "https://www.cmcc.it"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

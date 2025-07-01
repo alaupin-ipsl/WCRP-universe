@@ -1,0 +1,11 @@
+{
+  "id": "landice",
+  "validation-key": "landIce",
+  "ui-label": "Land Ice",
+  "description": "Land Ice",
+  "@context": "_context_",
+  "type": [
+    "wcrp:realm",
+    "universal"
+  ]
+}

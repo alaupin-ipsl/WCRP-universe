@@ -1,0 +1,11 @@
+{
+  "id": "aogcm",
+  "validation-key": "AOGCM",
+  "ui-label": "",
+  "description": "coupled atmosphere-ocean global climate model, additionally including explicit representation of at least the land and sea ice",
+  "@context": "_context_",
+  "type": [
+    "wcrp:source-type",
+    "universal"
+  ]
+}

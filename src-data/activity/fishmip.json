@@ -1,0 +1,12 @@
+{
+  "id": "fishmip",
+  "validation-key": "FishMIP",
+  "ui-label": "Fisheries and Marine Ecosystem Model Intercomparison Project",
+  "description": "",
+  "url": "https://fishmip.org/",
+  "@context": "_context_",
+  "type": [
+    "wcrp:activity",
+    "universal"
+  ]
+}

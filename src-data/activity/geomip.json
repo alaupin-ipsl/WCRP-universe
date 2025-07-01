@@ -1,0 +1,12 @@
+{
+  "id": "geomip",
+  "validation-key": "GeoMIP",
+  "ui-label": "Geoengineering Model Intercomparison Project",
+  "description": "GeoMIP explores the potential impacts and side-effects of geoengineering, including experiments like G7-1.5K-SAI.",
+  "url": "https://gmd.copernicus.org/articles/8/989/2015/gmd-8-989-2015.pdf",
+  "@context": "_context_",
+  "type": [
+    "wcrp:activity",
+    "universal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cubic-octahedral-spectral-reduced-gaussian",
+  "validation-key": "cubic-octahedral-spectral-reduced-gaussian",
+  "ui-label": "Cubic octahedral spectral reduced gaussian",
+  "description": "a spectral reduced Gaussian grid for which the smallest spectral wavelength is represented by 4 grid points, and which uses an octahedron-based method to reduce the number of grid points towards the poles",
+  "@context": "_context_",
+  "type": [
+    "wcrp:native-horizontal-grid-type",
+    "universal"
+  ]
+}

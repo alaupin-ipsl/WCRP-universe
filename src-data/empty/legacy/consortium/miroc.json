@@ -1,0 +1,49 @@
+{
+  "id": "miroc",
+  "validation-key": "MIROC",
+  "ui-label": "MIROC Consortium",
+  "description": "",
+  "changes": "",
+  "members": {
+    "aori": {
+      "current": false,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2016,
+      "to": 2022
+    },
+    "jamstec": {
+      "current": false,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2016,
+      "to": 2022
+    },
+    "nies": {
+      "current": false,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2016,
+      "to": 2022
+    },
+    "r-ccs": {
+      "current": false,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2016,
+      "to": 2022
+    }
+  },
+  "status": "active",
+  "url": "",
+  "@context": "_context_",
+  "type": [
+    "wcrp:consortium",
+    "universal",
+    "wcrp:organisation"
+  ]
+}

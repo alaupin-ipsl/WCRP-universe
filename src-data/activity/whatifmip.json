@@ -1,0 +1,12 @@
+{
+  "id": "whatifmip",
+  "validation-key": "WhatIfMIP",
+  "ui-label": "What If Modeling Intercomparison Project",
+  "description": "",
+  "url": "In",
+  "@context": "_context_",
+  "type": [
+    "wcrp:activity",
+    "universal"
+  ]
+}

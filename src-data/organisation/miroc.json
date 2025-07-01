@@ -1,0 +1,33 @@
+{
+  "id": "miroc",
+  "validation-key": "MIROC",
+  "ui-label": "MIROC Consortium",
+  "description": "",
+  "changes": "",
+  "members": {
+    "aori": {
+      "from": 2016,
+      "to": 2022
+    },
+    "jamstec": {
+      "from": 2016,
+      "to": 2022
+    },
+    "nies": {
+      "from": 2016,
+      "to": 2022
+    },
+    "r-ccs": {
+      "from": 2016,
+      "to": 2022
+    }
+  },
+  "status": "active",
+  "url": "",
+  "@context": "_context_",
+  "type": [
+    "wcrp:consortium",
+    "universal",
+    "wcrp:organisation"
+  ]
+}

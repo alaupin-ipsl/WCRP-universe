@@ -1,0 +1,12 @@
+{
+  "id": "gr8a",
+  "validation-key": "gr8a",
+  "ui-label": "Regridded Antarctica Greenland Alternate a",
+  "description": "regridded data reported in the region of Antarctica on a grid other than the native grid and other than the preferred target grid",
+  "region": "antarctica",
+  "@context": "_context_",
+  "type": [
+    "wcrp:grid-label:['wcrp:grid_label', 'universal']",
+    "wcrp:grid-label"
+  ]
+}

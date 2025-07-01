@@ -1,0 +1,13 @@
+{
+  "id": "1x1degree",
+  "validation-key": "1x1 degree",
+  "ui-label": "",
+  "description": "Resolution of 1x1 degree",
+  "unit": "degree",
+  "value": "1x1",
+  "@context": "_context_",
+  "type": [
+    "wcrp:resolution",
+    "universal"
+  ]
+}

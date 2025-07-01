@@ -1,0 +1,36 @@
+{
+    "id": "inpe",
+    "validation-key": "INPE",
+    "ui-label": "National Institute for Space Research",
+    "description": "",
+    "acronyms": [
+        "INPE"
+    ],
+    "aliases": [],
+    "established": 1971,
+    "kind": "Facility",
+    "labels": [
+        "Instituto Nacional de Pesquisas Espaciais"
+    ],
+    "location": {
+        "id": "universal:location/04xbn6x09",
+        "type": "wcrp:location",
+        "lat": -23.17944,
+        "lon": -45.88694,
+        "city": "São José dos Campos",
+        "country": [
+            "Brazil",
+            "BR"
+        ]
+    },
+    "ror": "04xbn6x09",
+    "url": [
+        "http://www.inpe.br/"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "slab",
+  "validation-key": "SLAB",
+  "ui-label": "",
+  "description": "slab-ocean used with an AGCM in representing the atmosphere-ocean coupled system",
+  "@context": "_context_",
+  "type": [
+    "wcrp:source-type",
+    "universal"
+  ]
+}

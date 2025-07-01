@@ -1,0 +1,11 @@
+{
+  "id": "julian",
+  "validation-key": "julian",
+  "ui-label": "Julian",
+  "description": "the Julian calendar, in which a year is a leap year if it is divisible by 4, even if it is also divisible by 100",
+  "@context": "_context_",
+  "type": [
+    "wcrp:model-calendar",
+    "universal"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ifm-geomar",
+  "validation-key": "IFM-GEOMAR",
+  "ui-label": "GEOMAR Helmholtz Centre for Ocean Research Kiel",
+  "description": "",
+  "acronyms": [
+    "IFM-GEOMAR"
+  ],
+  "aliases": [
+    "Leibniz Institute of Marine Sciences"
+  ],
+  "established": 2004,
+  "kind": "Facility",
+  "labels": [],
+  "location": {
+    "@nest": {
+      "city": "Kiel",
+      "country": [
+        "Germany",
+        "DE"
+      ],
+      "lat": 54.327138,
+      "lon": 10.180141
+    },
+    "id": "universal:location/02h2x0161",
+    "type": "location"
+  },
+  "ror": "02h2x0161",
+  "url": [
+    "http://www.geomar.de/en/"
+  ],
+  "@context": "_context_",
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ]
+}

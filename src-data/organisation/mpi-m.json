@@ -1,0 +1,36 @@
+{
+    "id": "mpi-m",
+    "validation-key": "MPI-M",
+    "ui-label": "Max Planck Institute for Meteorology",
+    "description": "",
+    "acronyms": [
+        "MPI-M"
+    ],
+    "aliases": [],
+    "established": 1975,
+    "kind": "Facility",
+    "labels": [
+        "Max-Planck-Institut für Meteorologie"
+    ],
+    "location": {
+        "id": "universal:location/05esem239",
+        "type": "wcrp:location",
+        "lat": 53.55073,
+        "lon": 9.99302,
+        "city": "Hamburg",
+        "country": [
+            "Germany",
+            "DE"
+        ]
+    },
+    "ror": "05esem239",
+    "url": [
+        "http://www.mpimet.mpg.de/en/home.html"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

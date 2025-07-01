@@ -1,0 +1,12 @@
+{
+  "id": "gr2z",
+  "validation-key": "gr2z",
+  "ui-label": "Regridded Greenland Zonal Mean Alternate z",
+  "description": "regridded zonal mean data reported on a grid other than the native latitude grid and other than the preferred latitude target grid",
+  "region": "greenland",
+  "@context": "_context_",
+  "type": [
+    "wcrp:grid-label:['wcrp:grid_label', 'universal']",
+    "wcrp:grid-label"
+  ]
+}

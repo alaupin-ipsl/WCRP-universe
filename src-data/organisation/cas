@@ -1,0 +1,36 @@
+{
+    "id": "cas",
+    "validation-key": "CAS",
+    "ui-label": "Chinese Academy of Sciences",
+    "description": "",
+    "acronyms": [
+        "CAS"
+    ],
+    "aliases": [],
+    "established": 1949,
+    "kind": "Funder",
+    "labels": [
+        "中国科学院"
+    ],
+    "location": {
+        "id": "universal:location/034t30j35",
+        "type": "wcrp:location",
+        "lat": 39.9075,
+        "lon": 116.39723,
+        "city": "Beijing",
+        "country": [
+            "China",
+            "CN"
+        ]
+    },
+    "ror": "034t30j35",
+    "url": [
+        "http://english.cas.cn/"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

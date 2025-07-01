@@ -1,0 +1,39 @@
+{
+    "id": "kit",
+    "validation-key": "KIT",
+    "ui-label": "Karlsruhe Institute of Technology",
+    "description": "",
+    "acronyms": [
+        "KIT"
+    ],
+    "aliases": [
+        "Das Karlsruher Institut für Technologie (KIT) – Die Forschungsuniversität in der Helmholtz-Gemeinschaft",
+        "Karlsruhe Institute of Technology - The Research University in the Helmholtz Association"
+    ],
+    "established": 2009,
+    "kind": "Education",
+    "labels": [
+        "Karlsruher Institut für Technologie"
+    ],
+    "location": {
+        "id": "universal:location/04t3en479",
+        "type": "wcrp:location",
+        "lat": 49.00937,
+        "lon": 8.40444,
+        "city": "Karlsruhe",
+        "country": [
+            "Germany",
+            "DE"
+        ]
+    },
+    "ror": "04t3en479",
+    "url": [
+        "https://www.kit.edu"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

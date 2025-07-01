@@ -1,0 +1,12 @@
+{
+  "id": "ppemip",
+  "validation-key": "PPEMIP",
+  "ui-label": "Perturbed Parameter Ensemble Model Inter-comparaison Project",
+  "description": "",
+  "url": "To",
+  "@context": "_context_",
+  "type": [
+    "wcrp:activity",
+    "universal"
+  ]
+}

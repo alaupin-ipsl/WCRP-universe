@@ -1,0 +1,11 @@
+{
+  "id": "global",
+  "validation-key": "global",
+  "ui-label": "Global",
+  "description": "the geographical region of the whole of the Earth’s surface, as defined by the CF standardised regions",
+  "@context": "_context_",
+  "type": [
+    "wcrp:native-horizontal-grid-region",
+    "universal"
+  ]
+}

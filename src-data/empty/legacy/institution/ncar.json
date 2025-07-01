@@ -1,0 +1,36 @@
+{
+  "id": "ncar",
+  "validation-key": "NCAR",
+  "ui-label": "National Center for Atmospheric Research",
+  "description": "",
+  "acronyms": [
+    "NCAR"
+  ],
+  "aliases": [],
+  "established": 1930,
+  "kind": "Facility",
+  "labels": [],
+  "location": {
+    "@nest": {
+      "city": "Boulder",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 40.01499,
+      "lon": 40.01499
+    },
+    "id": "universal:location/05cvfcr44",
+    "type": "location"
+  },
+  "ror": "05cvfcr44",
+  "url": [
+    "https://ncar.ucar.edu/"
+  ],
+  "@context": "_context_",
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ]
+}

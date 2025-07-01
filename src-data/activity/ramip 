@@ -1,0 +1,12 @@
+{
+  "id": "ramip ",
+  "validation-key": "RAMIP ",
+  "ui-label": "Regional Aerosol Model Intercomparison Project",
+  "description": "",
+  "url": "https://ramip.uk/",
+  "@context": "_context_",
+  "type": [
+    "wcrp:activity",
+    "universal"
+  ]
+}

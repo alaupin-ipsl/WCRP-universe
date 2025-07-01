@@ -1,0 +1,11 @@
+{
+  "id": "ism",
+  "validation-key": "ISM",
+  "ui-label": "",
+  "description": "ice-sheet model that includes ice-flow",
+  "@context": "_context_",
+  "type": [
+    "wcrp:source-type",
+    "universal"
+  ]
+}

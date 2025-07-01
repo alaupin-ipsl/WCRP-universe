@@ -1,0 +1,12 @@
+{
+  "id": "none",
+  "validation-key": "none",
+  "ui-label": "",
+  "description": "'none' entry permissable only for the experiment parent id. ",
+  "url": "",
+  "@context": "_context_",
+  "type": [
+    "wcrp:activity",
+    "universal"
+  ]
+}

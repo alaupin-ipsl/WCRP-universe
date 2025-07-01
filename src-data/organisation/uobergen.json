@@ -1,0 +1,38 @@
+{
+    "id": "uobergen",
+    "validation-key": "UoBergen",
+    "ui-label": "University of Bergen",
+    "description": "",
+    "acronyms": [
+        "UiB"
+    ],
+    "aliases": [],
+    "established": 1946,
+    "kind": "Education",
+    "labels": [
+        "Bergenin Yliopisto",
+        "Universitas Bergensis",
+        "Universitetet i Bergen"
+    ],
+    "location": {
+        "id": "universal:location/03zga2b32",
+        "type": "wcrp:location",
+        "lat": 60.39299,
+        "lon": 5.32415,
+        "city": "Bergen",
+        "country": [
+            "Norway",
+            "NO"
+        ]
+    },
+    "ror": "03zga2b32",
+    "url": [
+        "http://www.uib.no/"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

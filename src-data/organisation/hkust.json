@@ -1,0 +1,34 @@
+{
+    "id": "hkust",
+    "validation-key": "HKUST",
+    "ui-label": "Hong Kong University of Science and Technology",
+    "description": "",
+    "acronyms": [
+        "HKUST"
+    ],
+    "aliases": [],
+    "established": 1991,
+    "kind": "Education",
+    "labels": [],
+    "location": {
+        "id": "universal:location/00q4vv597",
+        "type": "wcrp:location",
+        "lat": 22.27832,
+        "lon": 114.17469,
+        "city": "Hong Kong",
+        "country": [
+            "Hong Kong",
+            "HK"
+        ]
+    },
+    "ror": "00q4vv597",
+    "url": [
+        "https://hkust.edu.hk"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

@@ -1,0 +1,192 @@
+{
+  "id": "solaris-heppa",
+  "validation-key": "SOLARIS HEPPA",
+  "ui-label": "SOLARIS HEPPA Consortium",
+  "description": "",
+  "changes": "",
+  "members": {
+    "aor": {
+      "current": true,
+      "era": [
+        "cmip7"
+      ],
+      "from": 2025,
+      "to": "-"
+    },
+    "auot": {
+      "current": true,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2013,
+      "to": 2022
+    },
+    "bas": {
+      "current": true,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2013,
+      "to": 2022
+    },
+    "eawag": {
+      "current": true,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2013,
+      "to": 2022
+    },
+    "fmi": {
+      "current": true,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2013,
+      "to": 2022
+    },
+    "fuberlin": {
+      "current": true,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2013,
+      "to": 2022
+    },
+    "geomar": {
+      "current": true,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2013,
+      "to": 2022
+    },
+    "gsfc": {
+      "current": true,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2013,
+      "to": 2022
+    },
+    "iaa-csic": {
+      "current": true,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2013,
+      "to": 2022
+    },
+    "issi": {
+      "current": true,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2013,
+      "to": 2022
+    },
+    "kit": {
+      "current": true,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2013,
+      "to": 2022
+    },
+    "lasp": {
+      "current": true,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2013,
+      "to": 2022
+    },
+    "lpc2e": {
+      "current": true,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2013,
+      "to": 2022
+    },
+    "mohc": {
+      "current": true,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2013,
+      "to": 2022
+    },
+    "mps": {
+      "current": true,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2013,
+      "to": 2022
+    },
+    "ncar": {
+      "current": true,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2013,
+      "to": 2022
+    },
+    "pmod": {
+      "current": true,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2013,
+      "to": 2022
+    },
+    "uobergen": {
+      "current": true,
+      "era": [
+        "cmip7"
+      ],
+      "from": 2025,
+      "to": "-"
+    },
+    "uoleeds": {
+      "current": true,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2013,
+      "to": 2022
+    },
+    "uomontreal": {
+      "current": true,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2013,
+      "to": 2022
+    },
+    "uootago": {
+      "current": true,
+      "era": [
+        "cmip6"
+      ],
+      "from": 2013,
+      "to": 2022
+    },
+    "uooulu": {
+      "current": true,
+      "era": [
+        "cmip7"
+      ],
+      "from": 2025,
+      "to": "-"
+    }
+  },
+  "url": "https://solarisheppa.geomar.de",
+  "@context": "_context_",
+  "type": [
+    "wcrp:consortium",
+    "universal",
+    "wcrp:organisation"
+  ]
+}

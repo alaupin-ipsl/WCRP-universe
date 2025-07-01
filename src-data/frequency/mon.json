@@ -1,0 +1,13 @@
+{
+  "id": "mon",
+  "validation-key": "mon",
+  "ui-label": "",
+  "description": "monthly mean samples",
+  "long_name": "Monthly Frequency",
+  "unit": "month",
+  "@context": "_context_",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ]
+}

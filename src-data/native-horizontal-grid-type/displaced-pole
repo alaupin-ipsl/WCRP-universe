@@ -1,0 +1,11 @@
+{
+  "id": "displaced-pole",
+  "validation-key": "displaced-pole",
+  "ui-label": "Displaced pole",
+  "description": "an ocean grid whose poles are not antipodean, typically with the northern pole displaced to lie over land",
+  "@context": "_context_",
+  "type": [
+    "wcrp:native-horizontal-grid-type",
+    "universal"
+  ]
+}

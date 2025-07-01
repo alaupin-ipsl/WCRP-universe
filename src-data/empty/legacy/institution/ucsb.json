@@ -1,0 +1,38 @@
+{
+  "id": "ucsb",
+  "validation-key": "UCSB",
+  "ui-label": "University of California, Santa Barbara",
+  "description": "",
+  "acronyms": [
+    "UCSB"
+  ],
+  "aliases": [
+    "UC Santa Barbara"
+  ],
+  "established": 1891,
+  "kind": "Education",
+  "labels": [],
+  "location": {
+    "@nest": {
+      "city": "Santa Barbara",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 34.42083,
+      "lon": -119.69819
+    },
+    "id": "universal:location/02t274463",
+    "type": "location"
+  },
+  "ror": "02t274463",
+  "url": [
+    "http://www.ucsb.edu/"
+  ],
+  "@context": "_context_",
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ]
+}

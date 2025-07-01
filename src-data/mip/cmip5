@@ -1,0 +1,14 @@
+{
+  "id": "cmip5",
+  "validation-key": "CMIP5",
+  "ui-label": "",
+  "description": "",
+  "end": 2020,
+  "start": 2006,
+  "url": "https://wcrp-cmip.org/CMIP5",
+  "@context": "_context_",
+  "type": [
+    "wcrp:mip",
+    "universal"
+  ]
+}

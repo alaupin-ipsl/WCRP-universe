@@ -1,0 +1,11 @@
+{
+  "id": "limited-area",
+  "validation-key": "limited-area",
+  "ui-label": "Limited area",
+  "description": "any contiguous subregion of the Earth’s surface, used to indicate a limited area model that may be placed over different geographical regions independently of the model formulation",
+  "@context": "_context_",
+  "type": [
+    "wcrp:native-horizontal-grid-region",
+    "universal"
+  ]
+}

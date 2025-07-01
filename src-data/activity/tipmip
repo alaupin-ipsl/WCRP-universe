@@ -1,0 +1,12 @@
+{
+  "id": "tipmip",
+  "validation-key": "TIPMIP",
+  "ui-label": "Tipping Point Modelling Intercomparison Project",
+  "description": "TIPMIP is an international model intercomparison project that aims to systematically advance our understanding of tipping dynamics in various Earth system components, and assess the associated uncertainties. By connecting and evaluating various models, TIPMIP will fill critical knowledge gaps in Earth system and climate modelling by improving the assessment of overall anthropogenic forcing and long-term commitments (irreversibilities). It will furthermore foster interdisciplinary knowledge transfer and shed light on critical processes currently underrepresented in Earth-system models and analysis. In doing so, it will inform relevant policy- and decision makers regarding tipping boundaries in the Earth system.",
+  "url": "https://tipmip.pik-potsdam.de/",
+  "@context": "_context_",
+  "type": [
+    "wcrp:activity",
+    "universal"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ocean-s-coordinate-g2",
+  "validation-key": "ocean-s-coordinate-g2",
+  "ui-label": "Ocean s coordinate g2",
+  "description": "Parametric ocean s-coordinate, generic form 2",
+  "@context": "_context_",
+  "type": [
+    "wcrp:native-vertical-grid-coordinate",
+    "universal"
+  ]
+}

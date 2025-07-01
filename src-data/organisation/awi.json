@@ -1,0 +1,37 @@
+{
+    "id": "awi",
+    "validation-key": "AWI",
+    "ui-label": "Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung",
+    "description": "",
+    "acronyms": [
+        "AWI"
+    ],
+    "aliases": [
+        "Alfred Wegener Institute for Polar and Marine Research",
+        "Alfred-Wegener-Institut"
+    ],
+    "established": 1980,
+    "kind": "Facility",
+    "labels": [],
+    "location": {
+        "id": "universal:location/032e6b942",
+        "type": "wcrp:location",
+        "lat": 53.53615,
+        "lon": 8.59298,
+        "city": "Bremerhaven",
+        "country": [
+            "Germany",
+            "DE"
+        ]
+    },
+    "ror": "032e6b942",
+    "url": [
+        "https://www.awi.de"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "geopotential-height",
+  "validation-key": "geopotential-height",
+  "ui-label": "Geopotential height",
+  "description": "Geopotential height is the geopotential divided by the standard acceleration due to gravity",
+  "@context": "_context_",
+  "type": [
+    "wcrp:native-vertical-grid-coordinate",
+    "universal"
+  ]
+}

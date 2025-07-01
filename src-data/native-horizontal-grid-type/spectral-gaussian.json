@@ -1,0 +1,11 @@
+{
+  "id": "spectral-gaussian",
+  "validation-key": "spectral-gaussian",
+  "ui-label": "Spectral gaussian",
+  "description": "a grid based on the transformation from spectral space to a reduced or nonreduced Gaussian grid",
+  "@context": "_context_",
+  "type": [
+    "wcrp:native-horizontal-grid-type",
+    "universal"
+  ]
+}

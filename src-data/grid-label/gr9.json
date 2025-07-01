@@ -1,0 +1,12 @@
+{
+  "id": "gr9",
+  "validation-key": "gr9",
+  "ui-label": "Regridded Greenland Alternate 9",
+  "description": "regridded data reported on a grid other than the native grid and other than the preferred target grid",
+  "region": "greenland",
+  "@context": "_context_",
+  "type": [
+    "wcrp:grid-label:['wcrp:grid_label', 'universal']",
+    "wcrp:grid-label"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "rotated-pole",
+  "validation-key": "rotated-pole",
+  "ui-label": "Rotated pole",
+  "description": "a regular latitude-longitude grid that is rotated to define a different north pole location",
+  "@context": "_context_",
+  "type": [
+    "wcrp:native-horizontal-grid-type",
+    "universal"
+  ]
+}

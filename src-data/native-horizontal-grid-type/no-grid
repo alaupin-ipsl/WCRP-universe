@@ -1,0 +1,11 @@
+{
+  "id": "no-grid",
+  "validation-key": "no-grid",
+  "ui-label": "No grid",
+  "description": "there is no horizontal grid",
+  "@context": "_context_",
+  "type": [
+    "wcrp:native-horizontal-grid-type",
+    "universal"
+  ]
+}

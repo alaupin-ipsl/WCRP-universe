@@ -1,0 +1,12 @@
+{
+  "id": "gng",
+  "validation-key": "gng",
+  "ui-label": "Grid Native Greenland",
+  "description": "data reported on a native grid in the region of Greenland",
+  "region": "greenland",
+  "@context": "_context_",
+  "type": [
+    "wcrp:grid-label:['wcrp:grid_label', 'universal']",
+    "wcrp:grid-label"
+  ]
+}

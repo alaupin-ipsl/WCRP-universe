@@ -1,0 +1,36 @@
+{
+    "id": "cnes",
+    "validation-key": "CNES",
+    "ui-label": "Centre National d'Études Spatiales",
+    "description": "",
+    "acronyms": [
+        "CNES"
+    ],
+    "aliases": [],
+    "established": 1961,
+    "kind": "Funder",
+    "labels": [
+        "National Centre for Space Studies"
+    ],
+    "location": {
+        "id": "universal:location/04h1h0y33",
+        "type": "wcrp:location",
+        "lat": 48.85341,
+        "lon": 2.3488,
+        "city": "Paris",
+        "country": [
+            "France",
+            "FR"
+        ]
+    },
+    "ror": "04h1h0y33",
+    "url": [
+        "https://www.cnes.fr"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

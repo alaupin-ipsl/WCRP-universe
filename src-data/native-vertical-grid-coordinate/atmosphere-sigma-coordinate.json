@@ -1,0 +1,11 @@
+{
+  "id": "atmosphere-sigma-coordinate",
+  "validation-key": "atmosphere-sigma-coordinate",
+  "ui-label": "Atmosphere sigma coordinate",
+  "description": "Parametric atmosphere sigma coordinate",
+  "@context": "_context_",
+  "type": [
+    "wcrp:native-vertical-grid-coordinate",
+    "universal"
+  ]
+}

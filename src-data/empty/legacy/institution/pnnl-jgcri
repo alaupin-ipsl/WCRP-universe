@@ -1,0 +1,36 @@
+{
+  "id": "pnnl-jgcri",
+  "validation-key": "PNNL-JGCRI",
+  "ui-label": "Joint Global Change Research Institute",
+  "description": "",
+  "acronyms": [
+    "JGCRI"
+  ],
+  "aliases": [],
+  "established": 2001,
+  "kind": "Facility",
+  "labels": [],
+  "location": {
+    "@nest": {
+      "city": "Riverdale Park",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 38.971106,
+      "lon": -76.9217851
+    },
+    "id": "universal:location/058cmd703",
+    "type": "location"
+  },
+  "ror": "058cmd703",
+  "url": [
+    "http://www.globalchange.umd.edu/"
+  ],
+  "@context": "_context_",
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ]
+}

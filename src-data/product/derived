@@ -1,0 +1,11 @@
+{
+  "id": "derived",
+  "validation-key": "derived",
+  "ui-label": "",
+  "description": "Data that has been processed or transformed from raw model output. Derived data includes value-added products such as anomalies, indices, or other statistics that are computed from the original model outputs.",
+  "@context": "_context_",
+  "type": [
+    "wcrp:product",
+    "universal"
+  ]
+}

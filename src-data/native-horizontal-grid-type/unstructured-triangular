@@ -1,0 +1,11 @@
+{
+  "id": "unstructured-triangular",
+  "validation-key": "unstructured-triangular",
+  "ui-label": "Unstructured triangular",
+  "description": "an unstructured mesh consisting solely of triangles",
+  "@context": "_context_",
+  "type": [
+    "wcrp:native-horizontal-grid-type",
+    "universal"
+  ]
+}

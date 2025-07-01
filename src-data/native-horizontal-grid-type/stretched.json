@@ -1,0 +1,11 @@
+{
+  "id": "stretched",
+  "validation-key": "stretched",
+  "ui-label": "Stretched",
+  "description": "a grid with higher resolution concentrated over an area of interest, at the expense of lower resolution elsewhere",
+  "@context": "_context_",
+  "type": [
+    "wcrp:native-horizontal-grid-type",
+    "universal"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "ucolorado",
+    "validation-key": "UColorado",
+    "ui-label": "University of Colorado System",
+    "description": "",
+    "acronyms": [
+        "CU"
+    ],
+    "aliases": [],
+    "established": 1876,
+    "kind": "Education",
+    "labels": [
+        "Universidad de Colorado",
+        "Université du Colorado"
+    ],
+    "location": {
+        "id": "universal:location/00jc20583",
+        "type": "wcrp:location",
+        "lat": 40.01499,
+        "lon": -105.27055,
+        "city": "Boulder",
+        "country": [
+            "United States",
+            "US"
+        ]
+    },
+    "ror": "00jc20583",
+    "url": [
+        "http://www.cu.edu/"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

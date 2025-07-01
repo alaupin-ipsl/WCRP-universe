@@ -1,0 +1,38 @@
+{
+  "id": "snu",
+  "validation-key": "SNU",
+  "ui-label": "Seoul National University",
+  "description": "",
+  "acronyms": [
+    "SNU"
+  ],
+  "aliases": [
+    "Seoul Daehakgyo"
+  ],
+  "established": 1946,
+  "kind": "Education",
+  "labels": [],
+  "location": {
+    "@nest": {
+      "city": "Seoul",
+      "country": [
+        "South Korea",
+        "KR"
+      ],
+      "lat": 37.460155,
+      "lon": 126.951894
+    },
+    "id": "universal:location/04h9pn542",
+    "type": "location"
+  },
+  "ror": "04h9pn542",
+  "url": [
+    "http://www.snu.ac.kr/index.html"
+  ],
+  "@context": "_context_",
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ]
+}

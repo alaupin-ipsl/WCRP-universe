@@ -1,0 +1,12 @@
+{
+  "id": "highresmip",
+  "validation-key": "HighResMIP",
+  "ui-label": "High Resolution Model Intercomparison Project",
+  "description": "",
+  "url": "https://www.highresmip.org",
+  "@context": "_context_",
+  "type": [
+    "wcrp:activity",
+    "universal"
+  ]
+}

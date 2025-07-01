@@ -1,0 +1,87 @@
+{
+  "@context": {
+    "@base": "https://wcrp-cmip.github.io/WCRP-universe/model-calendar/",
+    "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/model-calendar/",
+    "entries": "@none",
+    "id": "@id",
+    "type": "@type",
+    "cf": "https://wcrp-cmip.github.io/CF/",
+    "cmip6plus": "https://wcrp-cmip.github.io/CMIP6Plus_CVs/",
+    "cmip7": "https://wcrp-cmip.github.io/CMIP7_CVs/",
+    "obs4mips": "https://wolfiex.github.io/obs4MIPs-cmor-tables-ld/",
+    "universal": "https://wcrp-cmip.github.io/WCRP-universe/",
+    "variables": "https://wcrp-cmip.github.io/MIP-variables/"
+  },
+  "@graph": [
+    {
+      "id": "360-day",
+      "validation-key": "360-day",
+      "ui-label": "360 day",
+      "description": "a calendar in which all years are 360 days, and divided into 30 day months",
+      "type": [
+        "wcrp:model-calendar",
+        "universal"
+      ]
+    },
+    {
+      "id": "365-day",
+      "validation-key": "365-day",
+      "ui-label": "365 day",
+      "description": "a calendar with no leap years, i",
+      "type": [
+        "wcrp:model-calendar",
+        "universal"
+      ]
+    },
+    {
+      "id": "366-day",
+      "validation-key": "366-day",
+      "ui-label": "366 day",
+      "description": "a calendar in which every year is a leap year, i",
+      "type": [
+        "wcrp:model-calendar",
+        "universal"
+      ]
+    },
+    {
+      "id": "julian",
+      "validation-key": "julian",
+      "ui-label": "Julian",
+      "description": "the Julian calendar, in which a year is a leap year if it is divisible by 4, even if it is also divisible by 100",
+      "type": [
+        "wcrp:model-calendar",
+        "universal"
+      ]
+    },
+    {
+      "id": "none",
+      "validation-key": "none",
+      "ui-label": "None",
+      "description": "no calendar",
+      "type": [
+        "wcrp:model-calendar",
+        "universal"
+      ]
+    },
+    {
+      "id": "proleptic-gregorian",
+      "validation-key": "proleptic-gregorian",
+      "ui-label": "Proleptic gregorian",
+      "description": "a calendar with the Gregorian rules for leap-years extended to dates before 1582-10-15",
+      "type": [
+        "wcrp:model-calendar",
+        "universal"
+      ]
+    },
+    {
+      "id": "standard",
+      "validation-key": "standard",
+      "ui-label": "Standard",
+      "description": "mixed Gregorian/Julian calendar which is Gregorian after 1582-10-15, and Julian before",
+      "type": [
+        "wcrp:model-calendar",
+        "universal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ua",
+  "validation-key": "UA",
+  "ui-label": "University of Arizona",
+  "description": "",
+  "acronyms": [
+    "UA"
+  ],
+  "aliases": [],
+  "established": 1885,
+  "kind": "Education",
+  "labels": [],
+  "location": {
+    "@nest": {
+      "city": "Tucson",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 32.22174,
+      "lon": -110.92648
+    },
+    "id": "universal:location/03m2x1q45",
+    "type": "location"
+  },
+  "ror": "03m2x1q45",
+  "url": [
+    "http://www.arizona.edu/"
+  ],
+  "@context": "_context_",
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ]
+}

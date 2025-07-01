@@ -1,0 +1,35 @@
+{
+    "id": "uom",
+    "validation-key": "UoM",
+    "ui-label": "The University of Melbourne",
+    "description": "",
+    "acronyms": [],
+    "aliases": [
+        "Melbourne University",
+        "University of Melbourne"
+    ],
+    "established": 1853,
+    "kind": "Education",
+    "labels": [],
+    "location": {
+        "id": "universal:location/01ej9dk98",
+        "type": "wcrp:location",
+        "lat": -37.814,
+        "lon": 144.96332,
+        "city": "Melbourne",
+        "country": [
+            "Australia",
+            "AU"
+        ]
+    },
+    "ror": "01ej9dk98",
+    "url": [
+        "https://www.unimelb.edu.au"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

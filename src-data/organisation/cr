@@ -1,0 +1,38 @@
+{
+    "id": "cr",
+    "validation-key": "CR",
+    "ui-label": "Climate Resource (Australia)",
+    "description": "",
+    "acronyms": [
+        "CR"
+    ],
+    "aliases": [
+        "Climate Resource",
+        "Climate Resource Ltd",
+        "Climate Resource Pty Ltd"
+    ],
+    "established": 2020,
+    "kind": "Company",
+    "labels": [],
+    "location": {
+        "id": "universal:location/01kk86953",
+        "type": "wcrp:location",
+        "lat": -37.814,
+        "lon": 144.96332,
+        "city": "Melbourne",
+        "country": [
+            "Australia",
+            "AU"
+        ]
+    },
+    "ror": "01kk86953",
+    "url": [
+        "https://www.climate-resource.com"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

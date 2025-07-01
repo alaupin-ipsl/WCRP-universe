@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "../_context_",
+        {
+            "@base": "https://wcrp-cmip.github.io/WCRP-universe/grid/",
+            "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/grid/"
+        }
+    ],
+    "@embed": "@always",
+    "@type": [
+        "universal",
+        "wcrp:grid"
+    ]
+}

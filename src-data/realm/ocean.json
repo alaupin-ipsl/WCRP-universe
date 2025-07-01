@@ -1,0 +1,11 @@
+{
+  "id": "ocean",
+  "validation-key": "ocean",
+  "ui-label": "Ocean",
+  "description": "Ocean",
+  "@context": "_context_",
+  "type": [
+    "wcrp:realm",
+    "universal"
+  ]
+}

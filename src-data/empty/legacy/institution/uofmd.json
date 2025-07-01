@@ -1,0 +1,36 @@
+{
+  "id": "uofmd",
+  "validation-key": "UofMD",
+  "ui-label": "University of Maryland, College Park",
+  "description": "",
+  "acronyms": [
+    "UMD"
+  ],
+  "aliases": [],
+  "established": 1856,
+  "kind": "Education",
+  "labels": [],
+  "location": {
+    "@nest": {
+      "city": "College Park",
+      "country": [
+        "United States",
+        "US"
+      ],
+      "lat": 38.98067,
+      "lon": -76.93692
+    },
+    "id": "universal:location/047s2c258",
+    "type": "location"
+  },
+  "ror": "047s2c258",
+  "url": [
+    "http://www.umd.edu/"
+  ],
+  "@context": "_context_",
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ]
+}

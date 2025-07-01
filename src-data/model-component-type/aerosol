@@ -1,0 +1,11 @@
+{
+  "id": "aerosol",
+  "validation-key": "aerosol",
+  "ui-label": "Aerosol",
+  "description": "the behaviour and evolution of aerosols suspended in the atmosphere",
+  "@context": "_context_",
+  "type": [
+    "wcrp:model-component-type",
+    "universal"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "yrpt",
+  "validation-key": "yrPt",
+  "ui-label": "",
+  "description": "sampled yearly, at specified time point within the time period",
+  "long_name": "Yearly Point",
+  "unit": "year",
+  "@context": "_context_",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ]
+}

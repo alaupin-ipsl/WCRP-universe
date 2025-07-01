@@ -1,0 +1,13 @@
+{
+  "id": "monpt",
+  "validation-key": "monPt",
+  "ui-label": "",
+  "description": "sampled monthly, at specified time point within the time period",
+  "long_name": "Monthly Point",
+  "unit": "month",
+  "@context": "_context_",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ]
+}

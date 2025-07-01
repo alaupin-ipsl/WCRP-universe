@@ -1,0 +1,36 @@
+{
+    "id": "imperialcollege",
+    "validation-key": "ImperialCollege",
+    "ui-label": "Imperial College London",
+    "description": "",
+    "acronyms": [],
+    "aliases": [
+        "Imperial College of Science, Technology and Medicine"
+    ],
+    "established": 1907,
+    "kind": "Education",
+    "labels": [
+        "Coleg Imperial Llundain"
+    ],
+    "location": {
+        "id": "universal:location/041kmwe10",
+        "type": "wcrp:location",
+        "lat": 51.50853,
+        "lon": -0.12574,
+        "city": "London",
+        "country": [
+            "United Kingdom",
+            "GB"
+        ]
+    },
+    "ror": "041kmwe10",
+    "url": [
+        "https://www.imperial.ac.uk"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "regular-latitude-longitude",
+  "validation-key": "regular-latitude-longitude",
+  "ui-label": "Regular latitude longitude",
+  "description": "a rectilinear latitude-longitude grid with evenly spaced latitude points and evenly spaced longitude points",
+  "@context": "_context_",
+  "type": [
+    "wcrp:native-horizontal-grid-type",
+    "universal"
+  ]
+}

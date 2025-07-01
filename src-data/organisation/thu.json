@@ -1,0 +1,36 @@
+{
+    "id": "thu",
+    "validation-key": "THU",
+    "ui-label": "Tsinghua University",
+    "description": "",
+    "acronyms": [
+        "THU"
+    ],
+    "aliases": [],
+    "established": 1911,
+    "kind": "Education",
+    "labels": [
+        "清华大学"
+    ],
+    "location": {
+        "id": "universal:location/03cve4549",
+        "type": "wcrp:location",
+        "lat": 39.9075,
+        "lon": 116.39723,
+        "city": "Beijing",
+        "country": [
+            "China",
+            "CN"
+        ]
+    },
+    "ror": "03cve4549",
+    "url": [
+        "https://www.tsinghua.edu.cn"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

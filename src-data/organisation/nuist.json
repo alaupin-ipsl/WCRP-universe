@@ -1,0 +1,39 @@
+{
+    "id": "nuist",
+    "validation-key": "NUIST",
+    "ui-label": "Nanjing University",
+    "description": "",
+    "acronyms": [
+        "NJU",
+        "NU"
+    ],
+    "aliases": [
+        "Nanking University"
+    ],
+    "established": 1902,
+    "kind": "Education",
+    "labels": [
+        "南京大学"
+    ],
+    "location": {
+        "id": "universal:location/01rxvg760",
+        "type": "wcrp:location",
+        "lat": 32.06167,
+        "lon": 118.77778,
+        "city": "Nanjing",
+        "country": [
+            "China",
+            "CN"
+        ]
+    },
+    "ror": "01rxvg760",
+    "url": [
+        "http://www.nju.edu.cn/english/"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

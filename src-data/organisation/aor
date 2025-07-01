@@ -1,0 +1,37 @@
+{
+    "id": "aor",
+    "validation-key": "AoR",
+    "ui-label": "Astronomical Observatory of Rome",
+    "description": "",
+    "acronyms": [
+        "INAF-OAR",
+        "OAR"
+    ],
+    "aliases": [],
+    "established": 1938,
+    "kind": "Facility",
+    "labels": [
+        "Osservatorio Astronomico di Roma"
+    ],
+    "location": {
+        "id": "universal:location/02hnp4676",
+        "type": "wcrp:location",
+        "lat": 41.89193,
+        "lon": 12.51133,
+        "city": "Rome",
+        "country": [
+            "Italy",
+            "IT"
+        ]
+    },
+    "ror": "02hnp4676",
+    "url": [
+        "https://www.oa-roma.inaf.it"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

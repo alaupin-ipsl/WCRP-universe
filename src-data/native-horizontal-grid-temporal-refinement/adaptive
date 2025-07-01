@@ -1,0 +1,11 @@
+{
+  "id": "adaptive",
+  "validation-key": "adaptive",
+  "ui-label": "Adaptive",
+  "description": "the total number of grid points varies during the model run",
+  "@context": "_context_",
+  "type": [
+    "wcrp:native-horizontal-grid-temporal-refinement",
+    "universal"
+  ]
+}

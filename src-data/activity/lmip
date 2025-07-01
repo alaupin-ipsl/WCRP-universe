@@ -1,0 +1,12 @@
+{
+  "id": "lmip",
+  "validation-key": "LMIP",
+  "ui-label": "Land Model Intercomparison Project",
+  "description": "LMIP explores land-atmosphere interactions and processes, with experiments like land-hist.",
+  "url": "https://gmd.copernicus.org/articles/10/3977/2017/gmd-10-3977-2017.pdf",
+  "@context": "_context_",
+  "type": [
+    "wcrp:activity",
+    "universal"
+  ]
+}

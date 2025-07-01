@@ -1,0 +1,36 @@
+{
+  "id": "issi",
+  "validation-key": "ISSI",
+  "ui-label": "International Space Science Institute",
+  "description": "",
+  "acronyms": [
+    "ISSI"
+  ],
+  "aliases": [],
+  "established": 1995,
+  "kind": "Nonprofit",
+  "labels": [],
+  "location": {
+    "@nest": {
+      "city": "Bern",
+      "country": [
+        "Switzerland",
+        "CH"
+      ],
+      "lat": 46.952897,
+      "lon": 46.952897
+    },
+    "id": "universal:location/01xm30661",
+    "type": "location"
+  },
+  "ror": "01xm30661",
+  "url": [
+    "http://www.issibern.ch/"
+  ],
+  "@context": "_context_",
+  "type": [
+    "universal",
+    "wcrp:institution",
+    "wcrp:organisation"
+  ]
+}

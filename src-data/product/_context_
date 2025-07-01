@@ -1,0 +1,13 @@
+{
+    "@context": [
+        "../_context_",
+        {
+            "@base": "https://wcrp-cmip.github.io/WCRP-universe/product/",
+            "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/product/"
+        }
+    ],
+    "@embed": "@always",
+    "@type": [
+        "universal"
+    ]
+}

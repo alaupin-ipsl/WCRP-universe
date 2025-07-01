@@ -1,0 +1,32 @@
+{
+    "id": "uootago",
+    "validation-key": "UoOtago",
+    "ui-label": "University of Otago",
+    "description": "",
+    "acronyms": [],
+    "aliases": [],
+    "established": 1869,
+    "kind": "Education",
+    "labels": [],
+    "location": {
+        "id": "universal:location/01jmxt844",
+        "type": "wcrp:location",
+        "lat": -45.87416,
+        "lon": 170.50361,
+        "city": "Dunedin",
+        "country": [
+            "New Zealand",
+            "NZ"
+        ]
+    },
+    "ror": "01jmxt844",
+    "url": [
+        "http://www.otago.ac.nz/"
+    ],
+    "@context": "_context_",
+    "type": [
+        "wcrp:organisation",
+        "wcrp:institution",
+        "universal"
+    ]
+}

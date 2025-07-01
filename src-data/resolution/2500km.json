@@ -1,0 +1,13 @@
+{
+  "id": "2500km",
+  "validation-key": "2500 km",
+  "ui-label": "",
+  "description": "Resolution of 2500 km",
+  "unit": "km",
+  "value": "2500",
+  "@context": "_context_",
+  "type": [
+    "wcrp:resolution",
+    "universal"
+  ]
+}

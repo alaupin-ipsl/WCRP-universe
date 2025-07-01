@@ -1,0 +1,11 @@
+{
+  "id": "m",
+  "validation-key": "m",
+  "ui-label": "metre",
+  "description": "unit for length",
+  "@context": "_context_",
+  "type": [
+    "wcrp:native-vertical-grid-units",
+    "universal"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cmip7",
+  "validation-key": "CMIP7",
+  "ui-label": "",
+  "description": "",
+  "end": 2999,
+  "start": 2025,
+  "url": "https://wcrp-cmip.org/CMIP7",
+  "@context": "_context_",
+  "type": [
+    "wcrp:mip",
+    "universal"
+  ]
+}
