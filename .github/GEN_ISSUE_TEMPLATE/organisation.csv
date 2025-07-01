@@ -1,0 +1,7 @@
+field_order,field_type,field_id,label,description,data_source,required,placeholder,options_type,default_value
+1,markdown,header,,"#### \n## Adding a new Institution. \n\nPlease fill in the information below.",none,false,,,
+2,dropdown,category,Issue Type,This is pre-set and cannot be changed.,category,true,,list,0
+3,input,label,Acronym,A short acronym from which your institution can be identified with. \n\nNote: This name must be unique across all organisations and cannot be changed once data is published with it.,none,true,e.g. UoYork MOHC CMIP-IPO,,
+4,input,long_label,Full name of the organisation,Please provide a full name for the organisation to perform checks and help users understand the acronym.,none,true,e.g. University of York (UK),,
+5,input,description,ROR,To help maintain traceability we are making use of the research organisation registry (ROR). This allows us to generate a unique id for each institution and extract a detailed log of history.\n\nTo get your organisation ROR number visit ror.org and search. If your organisation is not registered please register it first.\n\nIf an open request exists on ROR but no number issued yet paste the reference URL here instead.,none,true,e.g. 04m01e293,,
+6,textarea,notes,Other Notes,Generally this section will remain empty but additional notes (e.g. source_id submissions using this institution) can be referenced here.,none,false,,,

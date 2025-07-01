@@ -1,0 +1,70 @@
+name: Update Organizations from ROR
+on:
+  schedule:
+    # Run at 2:00 AM UTC on the 1st day of January, April, July, and October
+    - cron: '0 2 1 1,4,7,10 *'
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  update-organizations:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Install CMIPLD
+      id: install-cmipld
+      uses: WCRP-CMIP/CMIPLD/actions/cmipld@main
+    
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Full history for git operations
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Configure Git
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+    
+    - name: Run Organization Update Script
+      run: |
+        cd $GITHUB_WORKSPACE
+        python .github/ISSUE_SCRIPT/upgrade_organisations.py
+      continue-on-error: true  # Don't fail if no updates needed
+    
+    - name: Check for Changes
+      id: check-changes
+      run: |
+        if [[ -n $(git status --porcelain) ]]; then
+          echo "changes=true" >> $GITHUB_OUTPUT
+          echo "📝 Changes detected in organization files"
+        else
+          echo "changes=false" >> $GITHUB_OUTPUT
+          echo "✅ No changes needed - all organizations up to date"
+        fi
+    
+    - name: Commit Changes
+      if: steps.check-changes.outputs.changes == 'true'
+      run: |
+        git add src-data/organisation/
+        git commit -m "Automated update: Organizations from ROR [$(date +'%Y-%m-%d')]"
+    
+    - name: Push Changes
+      if: steps.check-changes.outputs.changes == 'true'
+      run: |
+        git push origin HEAD
+    
+    - name: Create Summary
+      if: always()
+      run: |
+        echo "## Organization Update Summary" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "- **Run Date**: $(date +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+        echo "- **Changes Made**: ${{ steps.check-changes.outputs.changes == 'true' && 'Yes' || 'No' }}" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        if [[ "${{ steps.check-changes.outputs.changes }}" == "true" ]]; then
+          echo "### Changed Files:" >> $GITHUB_STEP_SUMMARY
+          git diff --name-only HEAD^ HEAD | sed 's/^/- /' >> $GITHUB_STEP_SUMMARY
+        else
+          echo "All organization files are up to date with ROR data." >> $GITHUB_STEP_SUMMARY
+        fi
