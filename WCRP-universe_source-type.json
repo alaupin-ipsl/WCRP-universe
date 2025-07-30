@@ -22,6 +22,14 @@
       "description": "coupled atmosphere-ocean global climate model, additionally including explicit representation of at least the land and sea ice",
       "validation-key": "AOGCM"
     },
+    "AORCM": {
+      "description": "atmosphere-ocean regional climate model",
+      "validation-key": "AORCM"
+    },
+    "ARCM": {
+      "description": "atmospheric regional climate model, including a land model",
+      "validation-key": "ARCM"
+    },
     "BGC": {
       "description": "biogeochemistry model component that at the very least accounts for carbon reservoirs and fluxes in the atmosphere, terrestrial biosphere, and ocean",
       "validation-key": "BGC"
