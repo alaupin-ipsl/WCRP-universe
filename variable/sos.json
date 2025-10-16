@@ -2,9 +2,9 @@
     "@context": "000_context.jsonld",
     "id": "sos",
     "cmip_acronym": "sos",
-    "long_name": "",
-    "standard_name": "",
+    "long_name": "Sea Surface Salinity",
+    "standard_name": "sea_surface_salinity",
     "type": "variable",
-    "units": "",
+    "units": "0.001",
     "drs_name": "sos"
 }

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ta750",
+    "cmip_acronym": "ta750",
+    "long_name": "Air Temperature at 750hPa",
+    "standard_name": "air_temperature",
+    "type": "variable",
+    "units": "K",
+    "drs_name": "ta750"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wsgsmax",
+    "cmip_acronym": "wsgsmax",
+    "long_name": "Daily Maximum Near-Surface Wind Speed of Gust",
+    "standard_name": "wind_speed_of_gust",
+    "type": "variable",
+    "units": "m s-1",
+    "drs_name": "wsgsmax"
+}

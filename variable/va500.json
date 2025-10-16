@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "va500",
+    "cmip_acronym": "va500",
+    "long_name": "Northward Wind at 500hPa",
+    "standard_name": "northward_wind",
+    "type": "variable",
+    "units": "m s-1",
+    "drs_name": "va500"
+}

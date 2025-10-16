@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ta30",
+    "cmip_acronym": "ta30",
+    "long_name": "Air Temperature at 30hPa",
+    "standard_name": "air_temperature",
+    "type": "variable",
+    "units": "K",
+    "drs_name": "ta30"
+}

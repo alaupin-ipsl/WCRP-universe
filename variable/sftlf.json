@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "sftlf",
     "cmip_acronym": "sftlf",
-    "long_name": "Percentage of the Grid Cell Occupied by Land (Including Lakes)",
+    "long_name": "Percentage of the Grid Cell Occupied by Land",
     "standard_name": "land_area_fraction",
     "type": "variable",
     "units": "%",

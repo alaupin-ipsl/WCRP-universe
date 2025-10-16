@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sftlaf",
+    "cmip_acronym": "sftlaf",
+    "long_name": "Percentage of the Grid Cell Occupied by Lake",
+    "standard_name": "area_fraction",
+    "type": "variable",
+    "units": "%",
+    "drs_name": "sftlaf"
+}

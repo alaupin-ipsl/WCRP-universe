@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hus1000",
+    "cmip_acronym": "hus1000",
+    "long_name": "Specific Humidity at 1000hPa",
+    "standard_name": "specific_humidity",
+    "type": "variable",
+    "units": "1",
+    "drs_name": "hus1000"
+}

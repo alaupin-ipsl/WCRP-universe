@@ -2,9 +2,9 @@
     "@context": "000_context.jsonld",
     "id": "vas",
     "cmip_acronym": "vas",
-    "long_name": "",
-    "standard_name": "",
+    "long_name": "Northward Near-Surface Wind",
+    "standard_name": "northward_wind",
     "type": "variable",
-    "units": "",
+    "units": "m s-1",
     "drs_name": "vas"
 }
