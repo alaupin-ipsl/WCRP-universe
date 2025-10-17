@@ -2,9 +2,9 @@
     "@context": "000_context.jsonld",
     "id": "vos",
     "cmip_acronym": "vos",
-    "long_name": "",
-    "standard_name": "",
+    "long_name": "Surface Y Velocity",
+    "standard_name": "surface_northward_sea_water_velocity",
     "type": "variable",
-    "units": "",
+    "units": "m s-1",
     "drs_name": "vos"
 }

@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "wo",
     "cmip_acronym": "wo",
-    "long_name": "Sea Water Vertical Velocity",
+    "long_name": "Sea Water Upward Velocity",
     "standard_name": "upward_sea_water_velocity",
     "type": "variable",
     "units": "m s-1",

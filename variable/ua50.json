@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ua50",
+    "cmip_acronym": "ua50",
+    "long_name": "Eastward Wind at 50hPa",
+    "standard_name": "eastward_wind",
+    "type": "variable",
+    "units": "m s-1",
+    "drs_name": "ua50"
+}

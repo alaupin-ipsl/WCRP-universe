@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "ta850",
     "cmip_acronym": "ta850",
-    "long_name": "Air Temperature",
+    "long_name": "Air Temperature at 850hPa",
     "standard_name": "air_temperature",
     "type": "variable",
     "units": "K",

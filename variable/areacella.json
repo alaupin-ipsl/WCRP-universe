@@ -2,9 +2,9 @@
     "@context": "000_context.jsonld",
     "id": "areacella",
     "cmip_acronym": "areacella",
-    "long_name": "",
-    "standard_name": "",
+    "long_name": "Atmosphere Grid-Cell Area",
+    "standard_name": "cell_area",
     "type": "variable",
-    "units": "",
+    "units": "m2",
     "drs_name": "areacella"
 }

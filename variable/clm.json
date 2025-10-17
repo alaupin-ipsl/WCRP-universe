@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clm",
+    "cmip_acronym": "clm",
+    "long_name": "Mid Level Cloud Fraction",
+    "standard_name": "cloud_area_fraction_in_atmosphere_layer",
+    "type": "variable",
+    "units": "%",
+    "drs_name": "clm"
+}

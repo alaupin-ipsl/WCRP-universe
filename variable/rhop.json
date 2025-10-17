@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rhop",
+    "cmip_acronym": "rhop",
+    "long_name": "Sea Water Potential Density",
+    "standard_name": "sea_water_potential_density",
+    "type": "variable",
+    "units": "kg m-3",
+    "drs_name": "rhop"
+}

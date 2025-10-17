@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wa100",
+    "cmip_acronym": "wa100",
+    "long_name": "Upward Air Velocity at 100hPa",
+    "standard_name": "upward_air_velocity",
+    "type": "variable",
+    "units": "m s-1",
+    "drs_name": "wa100"
+}

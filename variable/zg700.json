@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "zg700",
+    "cmip_acronym": "zg700",
+    "long_name": "Geopotential Height at 700hPa",
+    "standard_name": "geopotential_height",
+    "type": "variable",
+    "units": "m",
+    "drs_name": "zg700"
+}

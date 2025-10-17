@@ -2,9 +2,9 @@
     "@context": "000_context.jsonld",
     "id": "uas",
     "cmip_acronym": "uas",
-    "long_name": "",
-    "standard_name": "",
+    "long_name": "Eastward Near-Surface Wind",
+    "standard_name": "eastward_wind",
     "type": "variable",
-    "units": "",
+    "units": "m s-1",
     "drs_name": "uas"
 }

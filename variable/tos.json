@@ -2,9 +2,9 @@
     "@context": "000_context.jsonld",
     "id": "tos",
     "cmip_acronym": "tos",
-    "long_name": "",
-    "standard_name": "",
+    "long_name": "Sea Surface Temperature",
+    "standard_name": "sea_surface_temperature",
     "type": "variable",
-    "units": "",
+    "units": "degC",
     "drs_name": "tos"
 }

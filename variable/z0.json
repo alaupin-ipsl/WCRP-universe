@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "z0",
+    "cmip_acronym": "z0",
+    "long_name": "Surface Roughness Length",
+    "standard_name": "surface_roughness_length",
+    "type": "variable",
+    "units": "m",
+    "drs_name": "z0"
+}

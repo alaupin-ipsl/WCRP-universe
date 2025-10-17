@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "sftgif",
     "cmip_acronym": "sftgif",
-    "long_name": "Land Ice Area Percentage",
+    "long_name": "Percentage of the Grid Cell Covered by Glacier",
     "standard_name": "land_ice_area_fraction",
     "type": "variable",
     "units": "%",
