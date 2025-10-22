@@ -33,7 +33,7 @@
     "url": [
         "https://www.llnl.gov"
     ],
-    "@context": "_context_",
+    "@context": "@context",
     "type": [
         "wcrp:organisation",
         "wcrp:institution",

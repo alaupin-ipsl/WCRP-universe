@@ -4,7 +4,7 @@
   "ui-label": "What If Modeling Intercomparison Project",
   "description": "",
   "url": "In",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:activity",
     "universal"

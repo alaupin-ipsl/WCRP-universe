@@ -4,7 +4,7 @@
   "ui-label": "Paleoclimate Modelling Intercomparison Project",
   "description": "PMIP focuses on past climate variability, with experiments like LIGabrupt.",
   "url": "https://gmd.copernicus.org/articles/9/3461/2016/gmd-9-3461-2016.pdf",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:activity",
     "universal"

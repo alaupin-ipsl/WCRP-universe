@@ -5,7 +5,7 @@
   "description": "monthly mean samples",
   "long_name": "Monthly Frequency",
   "unit": "month",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:frequency",
     "universal"

@@ -3,7 +3,7 @@
   "validation-key": "atmosphere",
   "ui-label": "Atmosphere",
   "description": "dynamical, thermodynamical, and physical processes in the atmosphere",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:model-component-type",
     "universal"

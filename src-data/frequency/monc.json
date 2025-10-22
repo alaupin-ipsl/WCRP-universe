@@ -5,7 +5,7 @@
   "description": "monthly climatology computed from monthly mean samples",
   "long_name": "Monthly Climatology",
   "unit": "month",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:frequency",
     "universal"

@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "../_context_",
+        {
+            "@base": "https://wcrp-cmip.github.io/WCRP-universe/native-vertical-grid-units/",
+            "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/native-vertical-grid-units/"
+        }
+    ],
+    "@embed": "@always",
+    "@type": [
+        "universal",
+        "wcrp:native-vertical-grid-units"
+    ]
+}

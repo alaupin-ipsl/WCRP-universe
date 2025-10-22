@@ -4,7 +4,7 @@
   "ui-label": "",
   "description": "CMIP DECK: 1pctCO2, abrupt-4xCO2, amip, esm-piControl, esm-historical, historical, and piControl experiments",
   "url": "https://gmd.copernicus.org/articles/9/1937/2016/gmd-9-1937-2016.pdf",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:activity",
     "universal"

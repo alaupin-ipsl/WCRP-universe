@@ -5,7 +5,7 @@
   "description": "Resolution of 1x1 degree",
   "unit": "degree",
   "value": "1x1",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:resolution",
     "universal"

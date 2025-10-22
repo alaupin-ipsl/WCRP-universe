@@ -27,7 +27,7 @@
   "url": [
     "https://www.ipsl.fr/en/"
   ],
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "universal",
     "wcrp:institution",

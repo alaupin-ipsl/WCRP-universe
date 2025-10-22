@@ -28,7 +28,7 @@
     "url": [
         "https://www.fu-berlin.de"
     ],
-    "@context": "_context_",
+    "@context": "@context",
     "type": [
         "wcrp:organisation",
         "wcrp:institution",

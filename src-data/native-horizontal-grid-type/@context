@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "../_context_",
+        {
+            "@base": "https://wcrp-cmip.github.io/WCRP-universe/native-horizontal-grid-type/",
+            "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/native-horizontal-grid-type/"
+        }
+    ],
+    "@embed": "@always",
+    "@type": [
+        "universal",
+        "wcrp:native-horizontal-grid-type"
+    ]
+}

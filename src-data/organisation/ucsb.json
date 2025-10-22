@@ -30,7 +30,7 @@
     "url": [
         "https://www.ucsb.edu"
     ],
-    "@context": "_context_",
+    "@context": "@context",
     "type": [
         "wcrp:organisation",
         "wcrp:institution",

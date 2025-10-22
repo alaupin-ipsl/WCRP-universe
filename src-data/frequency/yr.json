@@ -5,7 +5,7 @@
   "description": "annual mean samples",
   "long_name": "Yearly Frequency",
   "unit": "year",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:frequency",
     "universal"

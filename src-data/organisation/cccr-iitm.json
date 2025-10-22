@@ -27,7 +27,7 @@
     "url": [
         "http://www.tropmet.res.in/"
     ],
-    "@context": "_context_",
+    "@context": "@context",
     "type": [
         "wcrp:organisation",
         "wcrp:institution",

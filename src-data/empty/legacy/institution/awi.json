@@ -27,7 +27,7 @@
   "url": [
     "https://www.awi.de"
   ],
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "universal",
     "wcrp:institution",

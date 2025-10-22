@@ -4,7 +4,7 @@
   "ui-label": "",
   "description": "Beijing Climate Center Climate System Model",
   "origin": "BCC (Beijing Climate Center)",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:model-family"
   ]

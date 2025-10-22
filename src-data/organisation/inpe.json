@@ -27,7 +27,7 @@
     "url": [
         "http://www.inpe.br/"
     ],
-    "@context": "_context_",
+    "@context": "@context",
     "type": [
         "wcrp:organisation",
         "wcrp:institution",

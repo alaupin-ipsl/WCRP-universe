@@ -27,7 +27,7 @@
   "url": [
     "http://www.giss.nasa.gov/"
   ],
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "universal",
     "wcrp:institution",

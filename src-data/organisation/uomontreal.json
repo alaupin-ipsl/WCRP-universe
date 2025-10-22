@@ -27,7 +27,7 @@
     "url": [
         "https://www.umontreal.ca"
     ],
-    "@context": "_context_",
+    "@context": "@context",
     "type": [
         "wcrp:organisation",
         "wcrp:institution",

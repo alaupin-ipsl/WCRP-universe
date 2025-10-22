@@ -27,7 +27,7 @@
   "url": [
     "http://www.cmcc.it/"
   ],
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "universal",
     "wcrp:institution",

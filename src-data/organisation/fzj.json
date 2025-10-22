@@ -27,7 +27,7 @@
     "url": [
         "https://www.fz-juelich.de"
     ],
-    "@context": "_context_",
+    "@context": "@context",
     "type": [
         "wcrp:organisation",
         "wcrp:institution",

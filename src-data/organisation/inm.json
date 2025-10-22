@@ -27,7 +27,7 @@
     "url": [
         "http://www.inm.ras.ru/inm_en_ver/index.htm"
     ],
-    "@context": "_context_",
+    "@context": "@context",
     "type": [
         "wcrp:organisation",
         "wcrp:institution",

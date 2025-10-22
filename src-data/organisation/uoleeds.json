@@ -25,7 +25,7 @@
     "url": [
         "https://www.leeds.ac.uk"
     ],
-    "@context": "_context_",
+    "@context": "@context",
     "type": [
         "wcrp:organisation",
         "wcrp:institution",

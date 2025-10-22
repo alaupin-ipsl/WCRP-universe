@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "../_context_",
+        {
+            "@base": "https://wcrp-cmip.github.io/WCRP-universe/native-horizontal-grid-temporal-refinement/",
+            "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/native-horizontal-grid-temporal-refinement/"
+        }
+    ],
+    "@embed": "@always",
+    "@type": [
+        "universal",
+        "wcrp:native-horizontal-grid-temporal-refinement"
+    ]
+}

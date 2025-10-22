@@ -29,7 +29,7 @@
     "url": [
         "https://www.snu.ac.kr"
     ],
-    "@context": "_context_",
+    "@context": "@context",
     "type": [
         "wcrp:organisation",
         "wcrp:institution",

@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "../_context_",
+        {
+            "@base": "https://wcrp-cmip.github.io/WCRP-universe/native-horizontal-grid-region/",
+            "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/native-horizontal-grid-region/"
+        }
+    ],
+    "@embed": "@always",
+    "@type": [
+        "universal",
+        "wcrp:native-horizontal-grid-region"
+    ]
+}

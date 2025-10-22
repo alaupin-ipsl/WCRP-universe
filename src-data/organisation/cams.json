@@ -27,7 +27,7 @@
     "url": [
         "http://www.camscma.cn/en.html"
     ],
-    "@context": "_context_",
+    "@context": "@context",
     "type": [
         "wcrp:organisation",
         "wcrp:institution",

@@ -27,7 +27,7 @@
   "url": [
     "http://www.remss.com/"
   ],
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "universal",
     "wcrp:institution",

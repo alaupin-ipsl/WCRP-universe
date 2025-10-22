@@ -25,7 +25,7 @@
     "url": [
         "http://www.incois.gov.in/portal/index.jsp"
     ],
-    "@context": "_context_",
+    "@context": "@context",
     "type": [
         "wcrp:organisation",
         "wcrp:institution",

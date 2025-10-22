@@ -25,7 +25,7 @@
   "url": [
     "http://www.uksresearch.com/"
   ],
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "universal",
     "wcrp:institution",

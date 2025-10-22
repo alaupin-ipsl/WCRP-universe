@@ -27,7 +27,7 @@
     "url": [
         "https://vu.nl/"
     ],
-    "@context": "_context_",
+    "@context": "@context",
     "type": [
         "wcrp:organisation",
         "wcrp:institution",

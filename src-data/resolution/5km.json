@@ -5,7 +5,7 @@
   "description": "Resolution of 5 km",
   "unit": "km",
   "value": "5",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:resolution",
     "universal"

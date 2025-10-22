@@ -4,7 +4,7 @@
   "ui-label": "Ice Sheet Model Intercomparison Project for CMIP",
   "description": "",
   "url": "https://theghub.org/groups/ismip6/wiki",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:activity",
     "universal"

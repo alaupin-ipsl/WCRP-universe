@@ -5,7 +5,7 @@
   "description": "6 hourly mean samples",
   "long_name": "6 Hourly Frequency",
   "unit": "hour",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:frequency",
     "universal"

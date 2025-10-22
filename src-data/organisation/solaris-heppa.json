@@ -95,7 +95,7 @@
     }
   },
   "url": "https://solarisheppa.geomar.de",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:consortium",
     "universal",

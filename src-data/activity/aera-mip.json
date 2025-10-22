@@ -4,7 +4,7 @@
   "ui-label": "Adaptive Emission Reduction Approach Modelling Intercomparison Project",
   "description": "",
   "url": "",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:activity",
     "universal"

@@ -28,7 +28,7 @@
     "url": [
         "https://umd.edu"
     ],
-    "@context": "_context_",
+    "@context": "@context",
     "type": [
         "wcrp:organisation",
         "wcrp:institution",

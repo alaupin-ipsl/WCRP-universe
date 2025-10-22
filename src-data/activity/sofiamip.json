@@ -4,7 +4,7 @@
   "ui-label": "Southern Ocean Freshwater Input from Antarctica Model Intercomparison Project",
   "description": "",
   "url": "https://sofiamip.github.io/",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:activity",
     "universal"

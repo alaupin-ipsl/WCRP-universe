@@ -4,7 +4,7 @@
   "ui-label": "Aerosol Chemistry Model Intercomparison Project phase 2",
   "description": "",
   "url": "https://wiki.met.no/aerocom/aerchemmip/start",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:activity",
     "universal"

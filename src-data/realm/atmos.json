@@ -3,7 +3,7 @@
   "validation-key": "atmos",
   "ui-label": "Atmosphere",
   "description": "Atmosphere",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:realm",
     "universal"

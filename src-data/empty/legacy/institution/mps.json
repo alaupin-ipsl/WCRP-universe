@@ -27,7 +27,7 @@
   "url": [
     "http://www.mps.mpg.de/en"
   ],
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "universal",
     "wcrp:institution",

@@ -28,7 +28,7 @@
     "url": [
         "http://en.ilmatieteenlaitos.fi/"
     ],
-    "@context": "_context_",
+    "@context": "@context",
     "type": [
         "wcrp:organisation",
         "wcrp:institution",

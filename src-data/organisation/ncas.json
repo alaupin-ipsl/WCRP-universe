@@ -23,7 +23,7 @@
     "url": [
         "http://www.uksresearch.com/"
     ],
-    "@context": "_context_",
+    "@context": "@context",
     "type": [
         "wcrp:organisation",
         "wcrp:institution",

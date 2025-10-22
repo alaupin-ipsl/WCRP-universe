@@ -6,7 +6,7 @@
   "end": 2024,
   "start": 2013,
   "url": "https://wcrp-cmip.org/CMIP6",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:mip",
     "universal"

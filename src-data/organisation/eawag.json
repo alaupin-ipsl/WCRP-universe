@@ -28,7 +28,7 @@
     "url": [
         "https://www.eawag.ch"
     ],
-    "@context": "_context_",
+    "@context": "@context",
     "type": [
         "wcrp:organisation",
         "wcrp:institution",

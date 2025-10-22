@@ -4,7 +4,7 @@
   "ui-label": "",
   "description": "Regional Aerosol Model Intercomparison Project",
   "url": "https://ramip.ncas.ac.uk",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:activity",
     "universal"

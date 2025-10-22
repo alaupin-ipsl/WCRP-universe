@@ -4,7 +4,7 @@
   "ui-label": "",
   "description": "Flexible Global Ocean-Atmosphere-Land System Model",
   "origin": "IAP (Institute of Atmospheric Physics)",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:model-family"
   ]

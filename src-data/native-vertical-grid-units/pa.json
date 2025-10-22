@@ -3,7 +3,7 @@
   "validation-key": "Pa",
   "ui-label": "pascal",
   "description": "unit for pressure",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:native-vertical-grid-units",
     "universal"

@@ -27,7 +27,7 @@
   "url": [
     "http://www.rcec.sinica.edu.tw/"
   ],
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "universal",
     "wcrp:institution",

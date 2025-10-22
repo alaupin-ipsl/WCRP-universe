@@ -5,7 +5,7 @@
   "description": "daily mean samples",
   "long_name": "Daily Frequency",
   "unit": "day",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:frequency",
     "universal"

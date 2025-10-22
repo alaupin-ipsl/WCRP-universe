@@ -8,7 +8,7 @@
     "atmos",
     "land"
   ],
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:model-family"
   ]

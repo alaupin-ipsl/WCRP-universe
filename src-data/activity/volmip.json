@@ -4,7 +4,7 @@
   "ui-label": "Model Intercomparison Project on the climate response to Volcanic forcing",
   "description": "",
   "url": "www.volmip.org",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:activity",
     "universal"

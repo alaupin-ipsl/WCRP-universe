@@ -4,7 +4,7 @@
   "ui-label": "",
   "description": "'none' entry permissable only for the experiment parent id. ",
   "url": "",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:activity",
     "universal"

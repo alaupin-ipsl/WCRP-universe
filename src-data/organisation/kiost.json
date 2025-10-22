@@ -27,7 +27,7 @@
     "url": [
         "http://eng.kiost.ac/"
     ],
-    "@context": "_context_",
+    "@context": "@context",
     "type": [
         "wcrp:organisation",
         "wcrp:institution",

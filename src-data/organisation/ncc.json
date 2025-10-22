@@ -36,7 +36,7 @@
   },
   "status": "active",
   "url": "",
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "wcrp:consortium",
     "universal",

@@ -27,7 +27,7 @@
   "url": [
     "http://www.umontreal.ca/english/"
   ],
-  "@context": "_context_",
+  "@context": "@context",
   "type": [
     "universal",
     "wcrp:institution",

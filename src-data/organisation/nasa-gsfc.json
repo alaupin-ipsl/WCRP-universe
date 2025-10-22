@@ -27,7 +27,7 @@
     "url": [
         "https://www.nasa.gov/centers/goddard/home/index.html"
     ],
-    "@context": "_context_",
+    "@context": "@context",
     "type": [
         "wcrp:organisation",
         "wcrp:institution",
