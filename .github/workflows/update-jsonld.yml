@@ -63,11 +63,11 @@ jobs:
       run: |
         git push 
 
-    - name: Publish
-      uses: WCRP-CMIP/CMIPLD/actions/publish2pages@main
-      with:
-        api_key: ${{ secrets.API_KEY }}
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch_name: ${{ github.ref_name }}
-
-
+  publish-pages:
+    needs: update-jsonld
+    uses: WCRP-CMIP/CMIPLD/.github/workflows/pages.yml@main
+    with:
+      branch: production
+      force: true
+    secrets:
+      token: ${{ secrets.GITHUB_TOKEN }}
