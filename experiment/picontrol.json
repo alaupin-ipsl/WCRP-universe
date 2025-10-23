@@ -2,8 +2,9 @@
     "@context": "000_context.jsonld",
     "id": "picontrol",
     "type": "experiment",
-    "experiment_id": "piControl",
-    "activity_id": [
+    "description": "Pre-industrial control simulation. Used to characterise natural variability and unforced behaviour.",
+    "drs_name": "piControl",
+    "activity": [
         "cmip"
     ],
     "additional_allowed_model_components": [
@@ -11,23 +12,16 @@
         "chem",
         "bgc"
     ],
-    "description": "DECK: control",
-    "end_year": null,
-    "experiment": "pre-industrial control (CO2 concentration-driven)",
+    "branch_information": "Branch from piControl-spinup at a time of your choosing",
+    "end_timestamp": null,
+    "min_ensemble_size": 1,
     "min_number_yrs_per_sim": 500,
-    "parent_activity_id": [
-        "cmip"
-    ],
-    "parent_experiment_id": [
-        "picontrol-spinup"
-    ],
+    "parent_activity": "cmip",
+    "parent_experiment": "picontrol-spinup",
+    "parent_mip_era": "cmip7",
     "required_model_components": [
         "aogcm"
     ],
-    "start_year": null,
-    "sub_experiment_id": [
-        "none"
-    ],
-    "tier": 1,
-    "drs_name": "piControl"
+    "start_timestamp": null,
+    "tier": 1
 }
