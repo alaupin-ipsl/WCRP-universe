@@ -1,10 +1,12 @@
 {
     "@context": "000_context.jsonld",
-    "type": "activity",
     "id": "cmip",
-    "name": "CMIP",
-    "cmip_acronym": "CMIP",
-    "long_name": "CMIP DECK: 1pctCO2, abrupt4xCO2, amip, esm-piControl, esm-historical, historical, and piControl experiments",
-    "url": "https://gmd.copernicus.org/articles/9/1937/2016/gmd-9-1937-2016.pdf",
-    "drs_name": "CMIP"
+    "type": "activity",
+    "description": "CMIP core common experiments i.e. the DECK (Diagnostic, Evaluation and Characterization of Klima)",
+    "drs_name": "CMIP",
+    "experiments": [
+        "historical",
+        "piControl"
+    ],
+    "url": "https://doi.org/10.5194/gmd-18-6671-2025"
 }
