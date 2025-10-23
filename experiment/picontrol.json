@@ -4,9 +4,7 @@
     "type": "experiment",
     "description": "Pre-industrial control simulation. Used to characterise natural variability and unforced behaviour.",
     "drs_name": "piControl",
-    "activity": [
-        "cmip"
-    ],
+    "activity": "cmip",
     "additional_allowed_model_components": [
         "aer",
         "chem",

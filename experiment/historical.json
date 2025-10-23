@@ -4,9 +4,7 @@
     "type": "experiment",
     "description": "Simulation of the climate of the recent past (typically meaning 1850 to present-day)",
     "drs_name": "historical",
-    "activity": [
-        "cmip"
-    ],
+    "activity": "cmip",
     "additional_allowed_model_components": [
         "aer",
         "chem",
