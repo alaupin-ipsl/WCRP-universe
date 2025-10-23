@@ -2,6 +2,9 @@
 
 {
      
+     "esgvoc_resolve_modes": {
+         "experiments": "shallow"
+     },
       "@context": {
       "@base":"https://espri-mod.github.io/mip-cmor-tables/activity/",
       "@vocab": "http://schema.org/",
