@@ -6,7 +6,7 @@
     "drs_name": "CMIP",
     "experiments": [
         "historical",
-        "piControl"
+        "picontrol"
     ],
     "url": "https://doi.org/10.5194/gmd-18-6671-2025"
 }
