@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mip-drs7",
+    "type": "drs_specs",
+    "description": "Data reference syntax (DRS) initially designed for use with CMIP7",
+    "drs_name": "MIP-DRS7"
+}
