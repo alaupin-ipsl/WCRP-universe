@@ -3,6 +3,6 @@
     "id": "aogcm",
     "type": "model_component",
     "description": "Coupled atmosphere-ocean global climate model, including explicit representation of at least the land and sea ice.",
-    "drs_name": "AOGCM",
+    "drs_name": "AOGCM"
 }
 
