@@ -1,8 +1,8 @@
 {
     "esgvoc_resolve_modes": {
         "activity": "shallow",
-        "parent_activity": "shallow",
-        "parent_experiment": "shallow",
+        "parent_activity": "full",
+        "parent_experiment": "full",
         "parent_mip_era": "shallow"
     },
     "@context": {
