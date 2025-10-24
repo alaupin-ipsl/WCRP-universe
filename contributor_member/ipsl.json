@@ -1,0 +1,20 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ipsl",
+    "type": "contributor_member",
+    "description": "location in context almost definitely wrong. Institut Pierre-Simon Laplace",
+    "drs_name": "IPSL",
+    "acronyms": ["IPSL"],
+    "labels": ["Institut Pierre-Simon Laplace"],
+    "location": [
+        {
+            "city": "Paris",
+            "country": "France",
+            "lat": 48.85567,
+            "lon": 2.332105
+        }
+    ],
+    "ror": "02haar591",
+    "url": ["https://www.ipsl.fr/en/"]
+}
+
