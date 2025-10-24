@@ -10,7 +10,7 @@
         "labels":{"@id":"https://schema.org/alternateName"},
         "location":{"@id":"https://schema.org/location"},
         "ror":{"@id":"https://ror.org/"},
-        "url":{"@id":"https://schema.org/url"}
+        "urls":{"@id":"https://schema.org/url"}
     }
 }
 
