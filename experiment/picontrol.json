@@ -2,8 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "picontrol",
     "type": "experiment",
-    "description": "Note the parent_mip_era key should be moved to the project-specific overrides. Pre-industrial control simulation. Used to characterise natural variability and unforced behaviour.",
-    "parent_mip_era": "cmip7",
+    "description": "Pre-industrial control simulation. Used to characterise natural variability and unforced behaviour.",
     "drs_name": "piControl",
     "activity": "cmip",
     "additional_allowed_model_components": [
