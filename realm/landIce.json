@@ -1,8 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "landIce",
-    "description": "Land Ice",
-    "name": "landIce",
-    "type": "realm",
-    "drs_name": "landIce"
-}

@@ -1,6 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "consortium/noaa-gfdl",
-    "type": "consortium",
-    "drs_name": "NOAA-GFDL"
-}

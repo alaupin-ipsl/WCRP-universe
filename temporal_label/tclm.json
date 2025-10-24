@@ -1,8 +1,0 @@
-{
-    "id": "tclm",
-    "label": "tclm",
-    "description": "climatology",
-    "type": "temporal_label",
-    "drs_name": "tclm",
-    "@context": "000_context.jsonld"
-}

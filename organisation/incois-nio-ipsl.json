@@ -1,6 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "consortium/incois-nio-ipsl",
-    "type": "consortium",
-    "drs_name": "INCOIS-NIO-IPSL"
-}

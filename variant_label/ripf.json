@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ripf",
-    "type": "variant_label",
-    "regex" : "^r\\d+i\\d+p\\d+f\\d+$",
-    "description": "ripf = r (realization: simulation run), i (initialization: initial conditions), p (physics: model configuration), f (forcing: external forcing dataset), together uniquely identifying a specific model simulation."
-}

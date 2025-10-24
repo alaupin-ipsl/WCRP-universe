@@ -1,8 +1,0 @@
-{
-    "id": "ng",
-    "label": "ng",
-    "description": "in cell_methods : natural_grasses",
-    "type": "area_label",
-    "drs_name": "ng",
-    "@context": "000_context.jsonld"
-}

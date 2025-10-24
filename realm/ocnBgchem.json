@@ -1,8 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ocnBgchem",
-    "description": "Ocean Biogeochemistry",
-    "name": "ocnBgchem",
-    "type": "realm",
-    "drs_name": "ocnBgchem"
-}

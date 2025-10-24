@@ -1,8 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "reanalysis",
-    "description": "Data is from reanalysis i.e. combination of observations and modelling",
-    "kind": "reanalysis",
-    "type": "product",
-    "drs_name": "reanalysis"
-}

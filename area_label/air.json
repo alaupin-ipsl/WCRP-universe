@@ -1,8 +1,0 @@
-{
-    "id": "air",
-    "label": "air",
-    "description": "in cell_methods : cloud",
-    "type": "area_label",
-    "drs_name": "air",
-    "@context": "000_context.jsonld"
-}

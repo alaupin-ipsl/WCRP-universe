@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "faroe_scotland_channel",
-    "type": "region",
-    "drs_name": "faroe_scotland_channel",
-    "description": ""
-}

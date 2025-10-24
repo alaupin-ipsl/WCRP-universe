@@ -1,6 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "institution/mpi-b",
-    "type": "institution",
-    "drs_name": "MPI-B"
-}

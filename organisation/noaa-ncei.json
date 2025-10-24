@@ -1,6 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "institution/noaa-ncei",
-    "type": "institution",
-    "drs_name": "NOAA-NCEI"
-}

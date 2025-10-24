@@ -1,8 +1,0 @@
-{
-    "id": "scl",
-    "label": "scl",
-    "description": "in cell_methods : stratiform_soil",
-    "type": "area_label",
-    "drs_name": "scl",
-    "@context": "000_context.jsonld"
-}

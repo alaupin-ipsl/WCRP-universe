@@ -1,8 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "land",
-    "description": "Land Surface and Subsurface",
-    "name": "land",
-    "type": "realm",
-    "drs_name": "land"
-}

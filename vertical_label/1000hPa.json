@@ -1,8 +1,0 @@
-{
-    "id": "1000hPa",
-    "label": "1000hPa",
-    "description": "TODO",
-    "type": "vertical_label",
-    "drs_name": "1000hPa",
-    "@context": "000_context.jsonld"
-}

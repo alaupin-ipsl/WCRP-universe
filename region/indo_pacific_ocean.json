@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "indo_pacific_ocean",
-    "type": "region",
-    "drs_name": "indo_pacific_ocean",
-    "description": ""
-}

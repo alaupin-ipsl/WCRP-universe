@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "hudson_bay",
-    "type": "region",
-    "drs_name": "hudson_bay",
-    "description": ""
-}

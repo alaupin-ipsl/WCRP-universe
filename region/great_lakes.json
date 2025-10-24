@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "great_lakes",
-    "type": "region",
-    "drs_name": "great_lakes",
-    "description": ""
-}

@@ -1,8 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "landstate",
-    "type": "realm",
-    "drs_name": "landState",
-    "name": "landState",
-    "description": ""
-}

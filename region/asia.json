@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "asia",
-    "type": "region",
-    "drs_name": "asia",
-    "description": ""
-}

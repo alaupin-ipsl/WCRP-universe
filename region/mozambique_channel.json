@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "mozambique_channel",
-    "type": "region",
-    "drs_name": "mozambique_channel",
-    "description": ""
-}

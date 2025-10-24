@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "slab",
-    "type": "source_type",
-    "description": "slab-ocean used with an AGCM in representing the atmosphere-ocean coupled system",
-    "drs_name": "SLAB"
-}

@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "antarctica",
-    "type": "region",
-    "drs_name": "antarctica",
-    "description": ""
-}

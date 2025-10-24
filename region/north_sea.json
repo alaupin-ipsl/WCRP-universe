@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "north_sea",
-    "type": "region",
-    "drs_name": "north_sea",
-    "description": ""
-}

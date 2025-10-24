@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "sam-50i",
-    "type": "region",
-    "drs_name": "SAM-50i",
-    "description": "South America"
-}

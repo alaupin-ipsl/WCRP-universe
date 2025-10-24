@@ -1,6 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "institution/clmcom-gerics",
-    "type": "institution",
-    "drs_name": "CLMcom-GERICS"
-}

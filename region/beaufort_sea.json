@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "beaufort_sea",
-    "type": "region",
-    "drs_name": "beaufort_sea",
-    "description": ""
-}

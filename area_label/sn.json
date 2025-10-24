@@ -1,8 +1,0 @@
-{
-    "id": "sn",
-    "label": "sn",
-    "description": "in cell_methods : snow",
-    "type": "area_label",
-    "drs_name": "sn",
-    "@context": "000_context.jsonld"
-}

@@ -1,8 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "sstsandseaice",
-    "type": "realm",
-    "drs_name": "SSTsAndSeaIce",
-    "name": "SSTsAndSeaIce",
-    "description": ""
-}

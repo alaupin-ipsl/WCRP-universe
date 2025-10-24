@@ -1,6 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "consortium/ec-earth-consortium",
-    "type": "consortium",
-    "drs_name": "EC-Earth-Consortium"
-}

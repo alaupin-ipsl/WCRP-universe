@@ -1,8 +1,0 @@
-{
-    "id": "tpt",
-    "label": "tpt",
-    "description": "synoptically sampled (i.e., a snapshot, referred to as 'point' data in the CF conventions cell_methods)",
-    "type": "temporal_label",
-    "drs_name": "tpt",
-    "@context": "000_context.jsonld"
-}

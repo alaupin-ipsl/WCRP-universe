@@ -1,8 +1,0 @@
-{
-    "id": "wl",
-    "label": "wl",
-    "description": "in cell_methods : wetland",
-    "type": "area_label",
-    "drs_name": "wl",
-    "@context": "000_context.jsonld"
-}

@@ -1,8 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "radiation",
-    "type": "realm",
-    "drs_name": "radiation",
-    "name": "radiation",
-    "description": ""
-}

@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "yellow_sea",
-    "type": "region",
-    "drs_name": "yellow_sea",
-    "description": ""
-}

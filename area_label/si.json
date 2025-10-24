@@ -1,8 +1,0 @@
-{
-    "id": "si",
-    "label": "si",
-    "description": "in cell_methods : sea_ice",
-    "type": "area_label",
-    "drs_name": "si",
-    "@context": "000_context.jsonld"
-}

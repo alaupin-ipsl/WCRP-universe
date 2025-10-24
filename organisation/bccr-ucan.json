@@ -1,6 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "consortium/bccr-ucan",
-    "type": "consortium",
-    "drs_name": "BCCR-UCAN"
-}

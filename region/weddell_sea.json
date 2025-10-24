@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "weddell_sea",
-    "type": "region",
-    "drs_name": "weddell_sea",
-    "description": ""
-}

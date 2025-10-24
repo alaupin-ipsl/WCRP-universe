@@ -1,8 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "atmos",
-    "description": "Atmosphere",
-    "name": "atmos",
-    "type": "realm",
-    "drs_name": "atmos"
-}

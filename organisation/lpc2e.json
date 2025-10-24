@@ -1,6 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "institution/lpc2e",
-    "type": "institution",
-    "drs_name": "LPC2E"
-}

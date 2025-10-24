@@ -1,8 +1,0 @@
-{
-    "id": "lus",
-    "label": "lus",
-    "description": "in cell_methods : sector (auxiliary coordinate for land-use erea types)",
-    "type": "area_label",
-    "drs_name": "lus",
-    "@context": "000_context.jsonld"
-}

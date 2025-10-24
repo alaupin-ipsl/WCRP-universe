@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "arc-50i",
-    "type": "region",
-    "drs_name": "ARC-50i",
-    "description": "Arctic"
-}

@@ -1,8 +1,0 @@
-{
-    "id": "veg",
-    "label": "veg",
-    "description": "in cell_methods : vegetation",
-    "type": "area_label",
-    "drs_name": "veg",
-    "@context": "000_context.jsonld"
-}

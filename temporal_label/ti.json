@@ -1,8 +1,0 @@
-{
-    "id": "ti",
-    "label": "ti",
-    "description": "time-independent data (no time coordinate)",
-    "type": "temporal_label",
-    "drs_name": "ti",
-    "@context": "000_context.jsonld"
-}

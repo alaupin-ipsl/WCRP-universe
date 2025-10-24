@@ -1,8 +1,0 @@
-{
-    "id": "ccl",
-    "label": "ccl",
-    "description": "in cell_methods : convective_cloud",
-    "type": "area_label",
-    "drs_name": "ccl",
-    "@context": "000_context.jsonld"
-}

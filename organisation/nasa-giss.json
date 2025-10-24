@@ -1,6 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "institution/nasa-giss",
-    "type": "institution",
-    "drs_name": "NASA-GISS"
-}

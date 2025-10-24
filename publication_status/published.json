@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "published",
-    "type": "publication_status",
-    "drs_name": "published",
-    "description": "Dataset is published"
-}
