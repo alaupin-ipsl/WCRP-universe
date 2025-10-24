@@ -1,8 +1,10 @@
 {
     "esgvoc_resolve_modes": {
-        "activity": "full",
+        "activity": "reference",
+        "required_model_components": "reference",
+        "additional_allowed_model_components": "reference",
         "parent_activity": "full",
-        "parent_experiment": "full",
+        "parent_experiment": "shallow",
         "parent_mip_era": "full"
     },
     "@context": {
