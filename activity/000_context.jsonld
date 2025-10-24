@@ -1,6 +1,6 @@
 {
     "esgvoc_resolve_modes": {
-        "experiments": "full"
+        "experiments": "shallow"
     },
     "@context": {
         "@base":"https://espri-mod.github.io/mip-cmor-tables/activity/",
