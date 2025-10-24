@@ -1,0 +1,25 @@
+{
+    "id": "branded-suffix",
+    "separator": "-",
+    "parts": [
+        {
+            "type" : "temporal_label",
+            "is_required": true 
+        },
+        {
+            "type" : "vertical_label",
+            "is_required": true 
+        },
+        {
+            "type" : "horizontal_label",
+            "is_required": true 
+        },
+        {
+            "type" : "area_label",
+            "is_required": true 
+        },
+    ],
+    "description": "Is separator missing from context? Is description missing from context? Should required be is_required in context? Suffix of a branded variable. For underlying details and logic, please see [Taylor et al., 2025](https://docs.google.com/document/d/19jzecgymgiiEsTDzaaqeLP6pTvLT-NzCMaq-wu-QoOc/edit?pli=1&tab=t.0).",
+    "type": "branded_suffix",
+    "@context": "000_context.jsonld"
+}

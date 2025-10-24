@@ -1,66 +1,59 @@
 {
-"@context": {
-       "@base":"https://espri-mod.github.io/mip-cmor-tables/branded_suffix/",
-       "@vocab":"https://espri-mod.github.io/mip-cmor-tables/branded_suffix/",
-       "id":"@id",
-       "type":"@type",
-       "branded_suffix":"https://espri-mod.github.io/mip-cmor-tables/branded_suffix",
-       "required":"https://espri-mod.github.io/mip-cmor-tables/required/",
-        
-       "parts": {
-      	  	"@id": "https://espri-mod.github.io/mip-cmor-tables/branded_suffix_parts",
-         	"@type":"@id",
-         	"@container": "@list",
-         	"@context":{
-              
-              "id":"@id",
-              "temporal_label": {
-               
-                  
-                "@context": {
-                      "id": {
-                        "@id":  "https://espri-mod.github.io/mip-cmor-tables/temporal_label",
-                        "@type": "@id",
-                        "@container": "@set",
-                        "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/temporal_label/"}
-                      }
+    "@context": {
+        "@base":"https://espri-mod.github.io/mip-cmor-tables/branded_suffix/",
+        "@vocab":"https://espri-mod.github.io/mip-cmor-tables/branded_suffix/",
+        "id":"@id",
+        "type":"@type",
+        "branded_suffix":"https://espri-mod.github.io/mip-cmor-tables/branded_suffix",
+        "required":"https://espri-mod.github.io/mip-cmor-tables/required/",
+        "parts": {
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/branded_suffix_parts",
+            "@type":"@id",
+            "@container": "@list",
+            "@context":{
+                "id":"@id",
+                "temporal_label": {
+                    "@context": {
+                        "id": {
+                            "@id":  "https://espri-mod.github.io/mip-cmor-tables/temporal_label",
+                            "@type": "@id",
+                            "@container": "@set",
+                            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/temporal_label/"}
+                        }
+                    }
+                },
+                "vertical_label": {
+                    "@context": {
+                        "id": {
+                            "@id":  "https://espri-mod.github.io/mip-cmor-tables/vertical_label",
+                            "@type": "@id",
+                            "@container": "@set",
+                            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/vertical_label/"}
+                        }
+                    }
+                },
+                "horizontal_label":  {
+                    "@context": {
+                        "id": {
+                            "@id":  "https://espri-mod.github.io/mip-cmor-tables/horizontal_label",
+                            "@type": "@id",
+                            "@container": "@set",
+                            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/horizontal_label/"}
+                        }
+                    }
+                },
+                "area_label": {
+                    "@context": {
+                        "id": {
+                            "@id":  "https://espri-mod.github.io/mip-cmor-tables/area_label",
+                            "@type": "@id",
+                            "@container": "@set",
+                            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/area_label/"}
+                        }
+                    }
                 }
-                
-               },
-              "vertical_label": {
-                  "@context": {
-                      "id": {
-                        "@id":  "https://espri-mod.github.io/mip-cmor-tables/vertical_label",
-                        "@type": "@id",
-                        "@container": "@set",
-                        "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/vertical_label/"}
-                      }
-                  }
-              },
-              "horizontal_label":  {
-                  "@context": {
-                      "id": {
-                        "@id":  "https://espri-mod.github.io/mip-cmor-tables/horizontal_label",
-                        "@type": "@id",
-                        "@container": "@set",
-                        "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/horizontal_label/"}
-                      }
-                   }
-                  },
-              "area_label": {
-                  "@context": {
-                      "id": {
-                        "@id":  "https://espri-mod.github.io/mip-cmor-tables/area_label",
-                        "@type": "@id",
-                        "@container": "@set",
-                        "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/area_label/"}
-                      }
-                  }
-               }
-              
             }
-    	}
-       
-	
+        }
 
-    } }
+    } 
+}
