@@ -3,6 +3,9 @@
     "id": "historical",
     "type": "experiment",
     "description": "Note the end timestamp min_number_yrs_per_sim and parent_mip_era keys should be moved to the project-specific overrides. Simulation of the climate of the recent past (typically meaning 1850 to present-day)",
+    "end_timestamp": "2021-12-31",
+    "min_number_yrs_per_sim": 172,
+    "parent_mip_era": "cmip7",
     "drs_name": "historical",
     "activity": "cmip",
     "additional_allowed_model_components": [
