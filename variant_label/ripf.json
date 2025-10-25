@@ -3,5 +3,5 @@
     "id": "ripf",
     "type": "variant_label",
     "description": "Is regexp missing from context? Identifier of the realisation (variation over stochastic changes), initialisation, physics and forcing used in a simulation. The parts do not have a separator, which is why this is a pattern term and not a composite term.",
-    "regexp": "^r(?<realization_index>\\d+)i(?<initialization_index>(\\d{4}\\d{2}[abcde]?|\\d+))p(?<physics_index>\\d+)f(?<forcing_index>\\d+)$"
+    "regex": "^r(?<realization_index>\\d+)i(?<initialization_index>(\\d{4}\\d{2}[abcde]?|\\d+))p(?<physics_index>\\d+)f(?<forcing_index>\\d+)$"
 }
