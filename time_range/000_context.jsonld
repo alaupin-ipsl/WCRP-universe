@@ -1,27 +1,9 @@
 {
-"@context":
- 	 {
-       "@base":"https://espri-mod.github.io/mip-cmor-tables",
-       "@vocab":"https://espri-mod.github.io/mip-cmor-tables/time_range/",
-       "id":"@id",
-       "type":"@type",
-       "variant_label":"https://espri-mod.github.io/mip-cmor-tables/time_range",
-       "required":"https://espri-mod.github.io/mip-cmor-tables/required/",
-        
-       "parts": {
-      	  	"@id": "https://espri-mod.github.io/mip-cmor-tables/time_range_parts",
-         	"@type":"@id",
-         	"@container": "@list",
-         	"@context":{
-              
-              "id":"@id",
-              "date": {
-                "@id":"https://espri-mod.github.io/mip-cmor-tables/date",
-                "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/date/"}
-               }
-                } 
-            
-    	}
-       
-     }
+    "@context": {
+        "@base":"https://espri-mod.github.io/mip-cmor-tables/variant_label/",
+        "@vocab":"https://espri-mod.github.io/mip-cmor-tables/variant_label/",
+        "id":"@id",
+        "type":"@type",
+        "description":{"@id":"https://schema.org/description"}
+    } 
 }

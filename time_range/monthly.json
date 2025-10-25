@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "monthly",
+    "type": "time_range",
+    "regex" : "^\\d{4}(0[1-9]|1[0-2])-\\d{4}(0[1-9]|1[0-2])$",
+    "description": "Is regexp missing from context? Time range format used when the data has a reporting interval (aka frequency) of monthly"
+}
