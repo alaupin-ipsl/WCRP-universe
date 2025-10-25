@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "global",
+    "type": "region",
+    "description": "The entire globe i.e. earth.",
+    "drs_name": "global"
+}
