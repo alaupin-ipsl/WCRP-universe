@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "h2m",
+    "type": "vertical_label",
+    "description": "Sampled at a height of (approximately) 2m above the surface",
+    "drs_name": "h2m"
+}

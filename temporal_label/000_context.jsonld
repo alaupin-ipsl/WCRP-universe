@@ -1,12 +1,10 @@
-
 {
-     
-      "@context": {
-      "@base":"https://espri-mod.github.io/mip-cmor-tables/temporal_label/",
-      "id": "@id",
-      "type":"@type",
-      "temporal_label": "https://espri-mod.github.io/mip-cmor-tables/temporal_label/",
-      "description":{"@id":"https://schema.org/description"}
-      
+    "@context": {
+        "@base":"https://espri-mod.github.io/mip-cmor-tables/temporal_label/",
+        "@vocab": "http://schema.org/",
+        "id": "@id",
+        "type":"@type",
+        "description":{"@id":"https://schema.org/description"},
+        "drs_name": {"@id": "acronym"}
     }
 }
