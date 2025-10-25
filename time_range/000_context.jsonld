@@ -1,7 +1,7 @@
 {
     "@context": {
-        "@base":"https://espri-mod.github.io/mip-cmor-tables/variant_label/",
-        "@vocab":"https://espri-mod.github.io/mip-cmor-tables/variant_label/",
+        "@base":"https://espri-mod.github.io/mip-cmor-tables/time_range/",
+        "@vocab":"https://espri-mod.github.io/mip-cmor-tables/time_range/",
         "id":"@id",
         "type":"@type",
         "description":{"@id":"https://schema.org/description"}
