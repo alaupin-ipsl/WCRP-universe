@@ -43,7 +43,7 @@
         "resolution_y": "https://schema.org/distance",
         "horizontal_units":"https://schema.org/unitText",
         "southernmonst_latitude":"https://schema.org/latitude",
-        "westernmonst_latitude":"https://schema.org/longitude",
+        "westernmonst_longitude":"https://schema.org/longitude",
         "n_cells":"https://schema.org/Number",
         "truncation_method":{ 
             "@id": "https://espri-mod.github.io/mip-cmor-tables/horizontal_grid_truncation_method/",
