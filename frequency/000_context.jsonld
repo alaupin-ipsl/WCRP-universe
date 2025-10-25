@@ -6,7 +6,7 @@
         "type":"@type",
         "description":{"@id":"https://schema.org/description"},
         "drs_name": {"@id": "acronym"},
-        "interval": {"@id": "https://schema.org/Number"}
+        "interval": {"@id": "https://schema.org/Number"},
         "units": {"@id": "https://schema.org/unitText"}
     }
 }
