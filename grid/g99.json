@@ -4,7 +4,7 @@
     "type": "grid",
     "description": "Demo entry - do not use",
     "drs_name": "g99",
-    "grid": "regular-latitude-longitude",
+    "horizontal_grid_type": "regular-latitude-longitude",
     "grid_mapping": "albers-conical-equal-area",
     "region": "global",
     "temporal_refinement": "static",

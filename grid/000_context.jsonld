@@ -9,7 +9,7 @@
         "type":"@type",
         "description":{"@id":"https://schema.org/description"},
         "drs_name": {"@id": "acronym"},
-        "grid":{ 
+        "horizontal_grid_type":{
             "@id": "https://espri-mod.github.io/mip-cmor-tables/horizontal_grid_type/",
             "@type":"@id",
             "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/horizontal_grid_type/"}
