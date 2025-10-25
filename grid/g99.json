@@ -1,0 +1,23 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "g99",
+    "type": "grid",
+    "description": "Demo entry - do not use",
+    "drs_name": "g99",
+    "grid": "regular-latitude-longitude",
+    "grid_mapping": "albers-conical-equal-area",
+    "region": "global",
+    "temporal_refinement": "static",
+    "arrangement": "arakawa-a",
+    "cell_variable_type": ["mass", "velocity-x", "velocity-y"],
+    "resolution_x": "100",
+    "resolution_y": null,
+    "horizontal_units": "km",
+    "southernmost_latitude": -89.5,
+    "westernmonst_latitude": 0.5,
+    "n_cells": 64800,
+    "truncation_method": null,
+    "resolution_range_km": [1.0, 140.0],
+    "mean_resolution_km": 100,
+    "nominal_resolution": "100.0 km"
+}

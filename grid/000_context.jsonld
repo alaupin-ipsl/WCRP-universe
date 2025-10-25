@@ -1,16 +1,61 @@
-
 {
-     
-      "@context": {
-      "@base":"https://espri-mod.github.io/mip-cmor-tables/grid/",
-      "@vocab": "http://schema.org/",
-      "id": "@id",
-      "type":"@type",
-      "grid": "https://espri-mod.github.io/mip-cmor-tables/grid/",
-      "short_name": {"@id": "https://schema.org/alternateName"},
-      "name": {"@id": "https://schema.org/name"},
-      "region": {"@id": "https://es-vocab.fr/region"},
-      "description":{"@id":"https://schema.org/description"}
-      
+    "esgvoc_resolve_modes": {
+        "experiments": "reference"
+    },
+    "@context": {
+        "@base":"https://espri-mod.github.io/mip-cmor-tables/grid/",
+        "@vocab": "http://schema.org/",
+        "id": "@id",
+        "type":"@type",
+        "description":{"@id":"https://schema.org/description"},
+        "drs_name": {"@id": "acronym"},
+        "grid":{ 
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/horizontal_grid_type/",
+            "@type":"@id",
+            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/horizontal_grid_type/"}
+        },
+        "grid_mapping":{ 
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/horizontal_grid_mapping/",
+            "@type":"@id",
+            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/horizontal_grid_mapping/"}
+        },
+        "region":{ 
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/region/",
+            "@type":"@id",
+            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/region/"}
+        },
+        "temporal_refinement":{ 
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/horizontal_grid_temporal_refinement/",
+            "@type":"@id",
+            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/horizontal_grid_temporal_refinement/"}
+        },
+        "arrangement":{ 
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/horizontal_grid_arrangement/",
+            "@type":"@id",
+            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/horizontal_grid_arrangement/"}
+        },
+        "cell_variable_type":{ 
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/horizontal_grid_cell_variable_type/",
+            "@type":"@id",
+            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/horizontal_grid_cell_variable_type/"}
+        },
+        "resolution_x": "https://schema.org/distance",
+        "resolution_y": "https://schema.org/distance",
+        "horizontal_units":"https://schema.org/unitText",
+        "southernmonst_latitude":"https://schema.org/latitude",
+        "westernmonst_latitude":"https://schema.org/longitude",
+        "n_cells":"https://schema.org/Number",
+        "truncation_method":{ 
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/horizontal_grid_truncation_method/",
+            "@type":"@id",
+            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/horizontal_grid_truncation_method/"}
+        },
+        "resolution_range_km": "https://schema.org/distance",
+        "mean_resolution_km": "https://schema.org/distance",
+        "nominal_resolution":{ 
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/nominal_resolution/",
+            "@type":"@id",
+            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/nominal_resolution/"}
+        }
     }
 }
