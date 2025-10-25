@@ -1,0 +1,25 @@
+{
+    "id": "ripf",
+    "separator": "",
+    "parts": [
+        {
+            "type" : "realization_index",
+            "is_required": true 
+        },
+        {
+            "type" : "initialization_index",
+            "is_required": true 
+        },
+        {
+            "type" : "physics_index",
+            "is_required": true 
+        },
+        {
+            "type" : "forcing_index",
+            "is_required": true 
+        }
+    ],
+    "description": "Is separator missing from context? Is description missing from context? Should required be is_required in context? Identifier of the realisation (variation over stochastic changes), initialisation, physics and forcing used in a simulation.",
+    "type": "variant_label",
+    "@context": "000_context.jsonld"
+}

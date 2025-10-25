@@ -1,39 +1,35 @@
 {
-"@context":
- 	 {
-       "@base":"https://espri-mod.github.io/mip-cmor-tables/variant_label/",
-       "@vocab":"https://espri-mod.github.io/mip-cmor-tables/variant_label/",
-       "id":"@id",
-       "type":"@type",
-       "variant_label":"https://espri-mod.github.io/mip-cmor-tables/variant_label",
-       "required":"https://espri-mod.github.io/mip-cmor-tables/required/",
-        
-       "parts": {
-      	  	"@id": "https://espri-mod.github.io/mip-cmor-tables/variant_label_parts",
-         	"@type":"@id",
-         	"@container": "@list",
-         	"@context":{
-              
-              "id":"@id",
-              "realisation_index": {
-                "@id":"https://espri-mod.github.io/mip-cmor-tables/realisation_index",
-                "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/realisation_index/"}
-               },
-              "initialisation_index": {
-                 "@id":"https://espri-mod.github.io/mip-cmor-tables/initialisation_index",
-                 "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/initialisation_index/"}
-               },
-              "physic_index": {
-                 "@id":"https://espri-mod.github.io/mip-cmor-tables/physic_index",
-                "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/physic_index/"}
-               },
-              "forcing_index": {
-                 "@id":"https://espri-mod.github.io/mip-cmor-tables/forcing_index",
-                "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/forcing_index/"}
-               }
-              
+    "@context": {
+        "@base":"https://espri-mod.github.io/mip-cmor-tables/variant_label/",
+        "@vocab":"https://espri-mod.github.io/mip-cmor-tables/variant_label/",
+        "id":"@id",
+        "type":"@type",
+        "variant_label":"https://espri-mod.github.io/mip-cmor-tables/variant_label",
+        "required":"https://espri-mod.github.io/mip-cmor-tables/required/",
+        "parts": {
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/variant_label_parts",
+            "@type":"@id",
+            "@container": "@list",
+            "@context":{
+                "id":"@id",
+                "realization_index": {
+                    "@id":"https://espri-mod.github.io/mip-cmor-tables/realization_index",
+                    "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/realization_index/"}
+                },
+                "initialization_index": {
+                    "@id":"https://espri-mod.github.io/mip-cmor-tables/initialization_index",
+                    "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/initialization_index/"}
+                },
+                "physics_index": {
+                    "@id":"https://espri-mod.github.io/mip-cmor-tables/physics_index",
+                    "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/physics_index/"}
+                },
+                "forcing_index": {
+                    "@id":"https://espri-mod.github.io/mip-cmor-tables/forcing_index",
+                    "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/forcing_index/"}
+                }
             }
-    	}
-       
-     }
+        }
+
+    } 
 }
