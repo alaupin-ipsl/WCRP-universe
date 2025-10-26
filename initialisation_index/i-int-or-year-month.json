@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "i-int-or-year-month",
+    "type": "initialization_index",
+    "description": "Is regexp missing from context? Initialisation index that follows the convention of always starting with 'i' before being followed by any integer or a year-month timestamp (the year and month in which the simulation was initialised), potentially followed by a character from a to e to differentiate between further variations.",
+    "regex": "^i(?P<initialization_index>(\\d{4}\\d{2}[abcde]?|\\d+))$"
+}
