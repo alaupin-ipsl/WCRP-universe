@@ -1,6 +1,6 @@
 {
     "@context": {
-        "@base":"https://espri-mod.github.io/mip-cmor-tables/horizontal_grid_type/",
+        "@base":"https://espri-mod.github.io/mip-cmor-tables/nominal_resolution/",
         "@vocab": "http://schema.org/",
         "id": "@id",
         "type":"@type",
