@@ -3,6 +3,6 @@
     "id": "iso-8601-full-utc",
     "type": "creation_date",
     "description": "Is regexp missing from context? ISO-8601 full timestamp in UTC of the time at which the file was created.",
-    "regex": "^(?P<year>\\d{4})-(?P<month>\\d{2})-(?P<day>\\d{2})T(?{<hour>}\\d{2}):(?{<minute>}\\d{2}):(?{<second>}\\d{2})Z$"
+    "regex": "^(?P<year>\\d{4})-(?P<month>\\d{2})-(?P<day>\\d{2})T(?P<hour>\\d{2}):(?P<minute>\\d{2}):(?P<second>\\d{2})Z$"
 }
 
