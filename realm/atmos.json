@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "atmos",
+    "type": "realm",
+    "description": "Dataset which applies (or mostly applies) to or is reported in the atmosphere part of the earth system.",
+    "drs_name": "atmos"
+}
