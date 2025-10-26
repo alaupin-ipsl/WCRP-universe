@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "mip-dataspecs7",
-    "type": "data_specs_version",
-    "description": "Is regexp missing from context? Model intercomparison project (MIP) dataspecs version 7. These dataspecs were originally created as part of CMIP7 (hence the '7' in the name). The exact version is defined by the suffix that comes after the hyphen. To convert the suffix into a version, replace 'p' with '.' and 'h' with '-'.",
-    "regex": "^MIPDS7-(?P<version_pre_parsing>([0-9]+p)+[0-9]+(h[0-9A-Za-z-\\.]+)?)$"
-}

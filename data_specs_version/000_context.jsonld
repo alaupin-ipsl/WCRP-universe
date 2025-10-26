@@ -4,6 +4,7 @@
         "@vocab":"https://espri-mod.github.io/mip-cmor-tables/data_specs_version/",
         "id":"@id",
         "type":"@type",
-        "description":{"@id":"https://schema.org/description"}
+        "description":{"@id":"https://schema.org/description"},
+        "drs_name": {"@id": "acronym"}
     }
 }

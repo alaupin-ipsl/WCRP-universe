@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mipds7-2025p10p1",
+    "type": "data_specs_version",
+    "description": "Model intercomparison project (MIP) dataspecs version 2025.10.1. This is the version used for testing CMIP7 CVs. It should not be relied upon for stability. The exact version is defined by the suffix that comes after the hyphen. To convert the suffix into a version, replace 'p' with '.'.",
+    "drs_name": "MIPDS7-2025p10p1"
+}
