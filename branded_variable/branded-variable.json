@@ -1,0 +1,17 @@
+{
+    "id": "branded-variable",
+    "separator": "_",
+    "parts": [
+        {
+            "type" : "variable",
+            "is_required": true 
+        },
+        {
+            "type" : "branded_suffix",
+            "is_required": true 
+        }
+    ],
+    "description": "Is separator missing from context? Is description missing from context? Should required be is_required in context? Branded variable i.e. the combination of a variable (a physical quantity) and a branded suffix (information about how the variable was sampled in time and space). For underlying details and logic, please see [Taylor et al., 2025](https://docs.google.com/document/d/19jzecgymgiiEsTDzaaqeLP6pTvLT-NzCMaq-wu-QoOc/edit?pli=1&tab=t.0).",
+    "type": "branded_variable",
+    "@context": "000_context.jsonld"
+}

@@ -1,4 +1,42 @@
+{
+    "@context": {
+        "@base":"https://espri-mod.github.io/mip-cmor-tables/branded_variable/",
+        "@vocab":"https://espri-mod.github.io/mip-cmor-tables/branded_variable/",
+        "id":"@id",
+        "type":"@type",
+        "branded_variable":"https://espri-mod.github.io/mip-cmor-tables/branded_variable",
+        "required":"https://espri-mod.github.io/mip-cmor-tables/required/",
+        "parts": {
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/branded_variable_parts",
+            "@type":"@id",
+            "@container": "@list",
+            "@context":{
+                "id":"@id",
+                "variable": {
+                    "@context": {
+                        "id": {
+                            "@id":  "https://espri-mod.github.io/mip-cmor-tables/variable",
+                            "@type": "@id",
+                            "@container": "@set",
+                            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/variable/"}
+                        }
+                    }
+                },
+                "branded_suffix": {
+                    "@context": {
+                        "id": {
+                            "@id":  "https://espri-mod.github.io/mip-cmor-tables/branded_suffix",
+                            "@type": "@id",
+                            "@container": "@set",
+                            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/branded_suffix/"}
+                        }
+                    }
+                }
+            }
+        }
 
+    } 
+}
 
 {
 "@context":
@@ -22,9 +60,9 @@
                 "@id":"https://espri-mod.github.io/mip-cmor-tables/variable",
                 "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/variable/"}
                },
-              "branded_suffix": {
-                 "@id":"https://espri-mod.github.io/mip-cmor-tables/branded_suffix",
-                 "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/branded_suffix/"}
+              "branded_variable": {
+                 "@id":"https://espri-mod.github.io/mip-cmor-tables/branded_variable",
+                 "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/branded_variable/"}
                }
                             
             }
