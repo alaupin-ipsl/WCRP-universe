@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "model-output",
+    "type": "product",
+    "description": "Output from a model (i.e. numerical representation), in this component typically of the climate system or a component thereof.",
+    "drs_name": "model-output"
+}
