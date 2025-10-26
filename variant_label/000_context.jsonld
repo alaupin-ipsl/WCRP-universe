@@ -5,5 +5,5 @@
         "id":"@id",
         "type":"@type",
         "description":{"@id":"https://schema.org/description"}
-    } 
+    }
 }

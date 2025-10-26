@@ -1,13 +1,9 @@
-
 {
-     
-      "@context": {
-      "@base":"https://espri-mod.github.io/mip-cmor-tables/conventions/",
-      "id": "@id",
-      "type":"@type",
-      "conventions": "https://espri-mod.github.io/mip-cmor-tables/conventions/",
-      "description":{"@id":"https://schema.org/description"}
-     
-     
+    "@context": {
+        "@base":"https://espri-mod.github.io/mip-cmor-tables/conventions/",
+        "@vocab":"https://espri-mod.github.io/mip-cmor-tables/conventions/",
+        "id":"@id",
+        "type":"@type",
+        "description":{"@id":"https://schema.org/description"}
     }
 }
