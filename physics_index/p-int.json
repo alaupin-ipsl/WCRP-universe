@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "p-int",
+    "type": "physics_index",
+    "description": "Is regexp missing from context? Physics index that follows the convention of always starting with 'p' before being followed by any integer.",
+    "regex": "^p(?P<physics_index>\\d+)$"
+}
