@@ -3,5 +3,5 @@
     "id": "cmip7",
     "type": "tracking_id",
     "description": "Is regexp missing from context? Tracking IDs used with CMIP7 data. The prefix ensures that the handle.net service looks in the right collection.",
-    "regex": "^hdl:(?P<handle_dot_net_prefix>21.14101)/(?P<uuid>[0-9A-Fa-f]{8}-[0-9A-Fa-f]{4}-4[0-9A-Fa-f]{3}-[89ABab][0-9A-Fa-f]{3}-[0-9A-Fa-f]{12})$"
+    "regex": "^hdl:(?P<handle_dot_net_prefix>21.14107)/(?P<uuid>[0-9A-Fa-f]{8}-[0-9A-Fa-f]{4}-4[0-9A-Fa-f]{3}-[89ABab][0-9A-Fa-f]{3}-[0-9A-Fa-f]{12})$"
 }
