@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "tas",
     "type": "variable",
-    "description": "Data reference syntax (DRS) initially designed for use with CMIP7",
+    "description": "Air temperature measured at 2m above the Earth's surface.",
     "drs_name": "tas",
     "long_name": null,
     "standard_name": "air_temperature",
