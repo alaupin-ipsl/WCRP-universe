@@ -5,7 +5,7 @@
   "description": "no calendar",
   "@context": "_context",
   "type": [
-    "wcrp:model-calendar",
+    "esgf:model-calendar",
     "universal"
   ]
 }

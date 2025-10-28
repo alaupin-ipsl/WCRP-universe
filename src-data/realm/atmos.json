@@ -5,7 +5,7 @@
   "description": "Atmosphere",
   "@context": "_context",
   "type": [
-    "wcrp:realm",
+    "esgf:realm",
     "universal"
   ]
 }

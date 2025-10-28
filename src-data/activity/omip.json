@@ -6,7 +6,7 @@
   "url": "https://OceanMIP.github.io",
   "@context": "_context",
   "type": [
-    "wcrp:activity",
+    "esgf:activity",
     "universal"
   ]
 }

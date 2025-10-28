@@ -5,7 +5,7 @@
   "description": "chemistry treatment in an atmospheric model that calculates atmospheric oxidant concentrations (including at least ozone), rather than prescribing them",
   "@context": "_context",
   "type": [
-    "wcrp:source-type",
+    "esgf:source-type",
     "universal"
   ]
 }

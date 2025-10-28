@@ -5,7 +5,7 @@
   "description": "a Gaussian grid for which the number of longitudinal points is constant for each latitude",
   "@context": "_context",
   "type": [
-    "wcrp:native-horizontal-grid-type",
+    "esgf:native-horizontal-grid-type",
     "universal"
   ]
 }

@@ -8,7 +8,7 @@
   "url": "https://wcrp-cmip.org/CMIP6",
   "@context": "_context",
   "type": [
-    "wcrp:mip",
+    "esgf:mip",
     "universal"
   ]
 }

@@ -7,7 +7,7 @@
       "description": "the spherical surface is defined as six coupled “logically square” regions",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     },
@@ -18,7 +18,7 @@
       "description": "a spectral reduced Gaussian grid for which the smallest spectral wavelength is represented by 4 grid points, and which uses an octahedron-based method to reduce the number of grid points towards the poles",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     },
@@ -29,7 +29,7 @@
       "description": "an ocean grid whose poles are not antipodean, typically with the northern pole displaced to lie over land",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     },
@@ -40,7 +40,7 @@
       "description": "a grid that uses hexagonal and pentagonal tiles and is the dual of an icosahedral_geodesic grid",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     },
@@ -51,7 +51,7 @@
       "description": "a grid that uses triangular tiles based on the subdivision of an icosahedron",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     },
@@ -62,7 +62,7 @@
       "description": "a spectral Gaussian grid for which the smallest spectral wavelength is represented by 2 grid points",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     },
@@ -73,7 +73,7 @@
       "description": "there is no horizontal grid",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     },
@@ -84,7 +84,7 @@
       "description": "any transformation employed to represent the spherical surface of the globe on a plane",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     },
@@ -95,7 +95,7 @@
       "description": "a spectral Gaussian grid for which the smallest spectral wavelength is represented by 3 grid points",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     },
@@ -106,7 +106,7 @@
       "description": "a Gaussian grid for which the number of longitudinal points is reduced as the poles are approached",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     },
@@ -117,7 +117,7 @@
       "description": "a Gaussian grid for which the number of longitudinal points is constant for each latitude",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     },
@@ -128,7 +128,7 @@
       "description": "a rectilinear latitude-longitude grid with evenly spaced latitude points and evenly spaced longitude points",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     },
@@ -139,7 +139,7 @@
       "description": "a regular latitude-longitude grid that is rotated to define a different north pole location",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     },
@@ -150,7 +150,7 @@
       "description": "a grid based on the transformation from spectral space to a reduced or nonreduced Gaussian grid",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     },
@@ -161,7 +161,7 @@
       "description": "a grid based on the transformation from spectral space to a reduced Gaussian grid",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     },
@@ -172,7 +172,7 @@
       "description": "a grid with higher resolution concentrated over an area of interest, at the expense of lower resolution elsewhere",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     },
@@ -183,7 +183,7 @@
       "description": "a global curvilinear ocean grid with a southern pole and two northern poles all placed over land",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     },
@@ -194,7 +194,7 @@
       "description": "an unstructured mesh consisting of arbitrary polygons",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     },
@@ -205,7 +205,7 @@
       "description": "an unstructured mesh consisting solely of triangles",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     },
@@ -216,7 +216,7 @@
       "description": "two overlapping grid patches",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-type",
+        "esgf:native-horizontal-grid-type",
         "universal"
       ]
     }

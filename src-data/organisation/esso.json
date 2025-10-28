@@ -12,7 +12,7 @@
   "labels": [],
   "location": {
     "id": "universal:location/04xbqmj23",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 17.38405,
     "lon": 78.45636,
     "city": "Hyderabad",
@@ -27,8 +27,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

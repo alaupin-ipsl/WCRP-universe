@@ -7,7 +7,7 @@
   "unit": "decade",
   "@context": "_context",
   "type": [
-    "wcrp:frequency",
+    "esgf:frequency",
     "universal"
   ]
 }

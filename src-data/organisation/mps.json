@@ -14,7 +14,7 @@
   ],
   "location": {
     "id": "universal:location/02j6gm739",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 51.53443,
     "lon": 9.93228,
     "city": "Göttingen",
@@ -29,8 +29,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

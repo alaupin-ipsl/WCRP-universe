@@ -16,7 +16,7 @@
   "labels": [],
   "location": {
     "id": "universal:location/027ka1x80",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 38.89511,
     "lon": -77.03637,
     "city": "Washington",
@@ -31,8 +31,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

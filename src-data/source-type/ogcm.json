@@ -5,7 +5,7 @@
   "description": "ocean general circulation model run uncoupled from an AGCM but, usually including a sea-ice model",
   "@context": "_context",
   "type": [
-    "wcrp:source-type",
+    "esgf:source-type",
     "universal"
   ]
 }

@@ -14,7 +14,7 @@
   ],
   "location": {
     "id": "universal:location/0161xgx34",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 45.50884,
     "lon": -73.58781,
     "city": "Montreal",
@@ -29,8 +29,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

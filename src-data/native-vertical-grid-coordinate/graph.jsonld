@@ -7,7 +7,7 @@
       "description": "Air potential temperature is the temperature a parcel of air would have if moved dry adiabatically to a standard pressure",
       "@context": "_context",
       "type": [
-        "wcrp:native-vertical-grid-coordinate",
+        "esgf:native-vertical-grid-coordinate",
         "universal"
       ]
     },
@@ -18,7 +18,7 @@
       "description": "Air pressure is the pressure that exists in the medium of air",
       "@context": "_context",
       "type": [
-        "wcrp:native-vertical-grid-coordinate",
+        "esgf:native-vertical-grid-coordinate",
         "universal"
       ]
     },
@@ -29,7 +29,7 @@
       "description": "Parametric atmosphere hybrid height coordinate",
       "@context": "_context",
       "type": [
-        "wcrp:native-vertical-grid-coordinate",
+        "esgf:native-vertical-grid-coordinate",
         "universal"
       ]
     },
@@ -40,7 +40,7 @@
       "description": "Parametric atmosphere hybrid sigma pressure coordinate",
       "@context": "_context",
       "type": [
-        "wcrp:native-vertical-grid-coordinate",
+        "esgf:native-vertical-grid-coordinate",
         "universal"
       ]
     },
@@ -51,7 +51,7 @@
       "description": "Parametric atmosphere natural log pressure coordinate",
       "@context": "_context",
       "type": [
-        "wcrp:native-vertical-grid-coordinate",
+        "esgf:native-vertical-grid-coordinate",
         "universal"
       ]
     },
@@ -62,7 +62,7 @@
       "description": "Parametric atmosphere sigma coordinate",
       "@context": "_context",
       "type": [
-        "wcrp:native-vertical-grid-coordinate",
+        "esgf:native-vertical-grid-coordinate",
         "universal"
       ]
     },
@@ -73,7 +73,7 @@
       "description": "Parametric atmosphere smooth vertical level coordinate",
       "@context": "_context",
       "type": [
-        "wcrp:native-vertical-grid-coordinate",
+        "esgf:native-vertical-grid-coordinate",
         "universal"
       ]
     },
@@ -84,7 +84,7 @@
       "description": "Depth is the vertical distance below the earth’s surface",
       "@context": "_context",
       "type": [
-        "wcrp:native-vertical-grid-coordinate",
+        "esgf:native-vertical-grid-coordinate",
         "universal"
       ]
     },
@@ -95,7 +95,7 @@
       "description": "Geopotential height is the geopotential divided by the standard acceleration due to gravity",
       "@context": "_context",
       "type": [
-        "wcrp:native-vertical-grid-coordinate",
+        "esgf:native-vertical-grid-coordinate",
         "universal"
       ]
     },
@@ -106,7 +106,7 @@
       "description": "Height is the vertical distance above the earth’s surface",
       "@context": "_context",
       "type": [
-        "wcrp:native-vertical-grid-coordinate",
+        "esgf:native-vertical-grid-coordinate",
         "universal"
       ]
     },
@@ -117,7 +117,7 @@
       "description": "Parametric ocean double sigma coordinate",
       "@context": "_context",
       "type": [
-        "wcrp:native-vertical-grid-coordinate",
+        "esgf:native-vertical-grid-coordinate",
         "universal"
       ]
     },
@@ -128,7 +128,7 @@
       "description": "Parametric ocean s-coordinate, generic form 1",
       "@context": "_context",
       "type": [
-        "wcrp:native-vertical-grid-coordinate",
+        "esgf:native-vertical-grid-coordinate",
         "universal"
       ]
     },
@@ -139,7 +139,7 @@
       "description": "Parametric ocean s-coordinate, generic form 2",
       "@context": "_context",
       "type": [
-        "wcrp:native-vertical-grid-coordinate",
+        "esgf:native-vertical-grid-coordinate",
         "universal"
       ]
     },
@@ -150,7 +150,7 @@
       "description": "Parametric ocean s-coordinate",
       "@context": "_context",
       "type": [
-        "wcrp:native-vertical-grid-coordinate",
+        "esgf:native-vertical-grid-coordinate",
         "universal"
       ]
     },
@@ -161,7 +161,7 @@
       "description": "Parametric ocean sigma coordinate",
       "@context": "_context",
       "type": [
-        "wcrp:native-vertical-grid-coordinate",
+        "esgf:native-vertical-grid-coordinate",
         "universal"
       ]
     },
@@ -172,7 +172,7 @@
       "description": "Parametric ocean sigma over z coordinate",
       "@context": "_context",
       "type": [
-        "wcrp:native-vertical-grid-coordinate",
+        "esgf:native-vertical-grid-coordinate",
         "universal"
       ]
     },
@@ -183,7 +183,7 @@
       "description": "Sea water potential temperature is the temperature a parcel of sea water would have if moved adiabatically to sea level pressure",
       "@context": "_context",
       "type": [
-        "wcrp:native-vertical-grid-coordinate",
+        "esgf:native-vertical-grid-coordinate",
         "universal"
       ]
     },
@@ -194,7 +194,7 @@
       "description": "Sea water pressure is the pressure that exists in the medium of sea water",
       "@context": "_context",
       "type": [
-        "wcrp:native-vertical-grid-coordinate",
+        "esgf:native-vertical-grid-coordinate",
         "universal"
       ]
     }

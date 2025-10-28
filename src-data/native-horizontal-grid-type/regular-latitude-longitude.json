@@ -5,7 +5,7 @@
   "description": "a rectilinear latitude-longitude grid with evenly spaced latitude points and evenly spaced longitude points",
   "@context": "_context",
   "type": [
-    "wcrp:native-horizontal-grid-type",
+    "esgf:native-horizontal-grid-type",
     "universal"
   ]
 }

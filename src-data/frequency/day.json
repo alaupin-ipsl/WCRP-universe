@@ -7,7 +7,7 @@
   "unit": "day",
   "@context": "_context",
   "type": [
-    "wcrp:frequency",
+    "esgf:frequency",
     "universal"
   ]
 }

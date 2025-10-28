@@ -5,7 +5,7 @@
   "description": "Depth is the vertical distance below the earth’s surface",
   "@context": "_context",
   "type": [
-    "wcrp:native-vertical-grid-coordinate",
+    "esgf:native-vertical-grid-coordinate",
     "universal"
   ]
 }

@@ -7,7 +7,7 @@
       "description": "aerosol treatment in an atmospheric model where concentrations are calculated based on emissions, transformation, and removal processes (rather than being prescribed or omitted entirely)",
       "@context": "_context",
       "type": [
-        "wcrp:source-type",
+        "esgf:source-type",
         "universal"
       ]
     },
@@ -18,7 +18,7 @@
       "description": "atmospheric general circulation model run with prescribed ocean surface conditions and usually a model of the land surface",
       "@context": "_context",
       "type": [
-        "wcrp:source-type",
+        "esgf:source-type",
         "universal"
       ]
     },
@@ -29,7 +29,7 @@
       "description": "coupled atmosphere-ocean global climate model, additionally including explicit representation of at least the land and sea ice",
       "@context": "_context",
       "type": [
-        "wcrp:source-type",
+        "esgf:source-type",
         "universal"
       ]
     },
@@ -40,7 +40,7 @@
       "description": "biogeochemistry model component that at the very least accounts for carbon reservoirs and fluxes in the atmosphere, terrestrial biosphere, and ocean",
       "@context": "_context",
       "type": [
-        "wcrp:source-type",
+        "esgf:source-type",
         "universal"
       ]
     },
@@ -51,7 +51,7 @@
       "description": "chemistry treatment in an atmospheric model that calculates atmospheric oxidant concentrations (including at least ozone), rather than prescribing them",
       "@context": "_context",
       "type": [
-        "wcrp:source-type",
+        "esgf:source-type",
         "universal"
       ]
     },
@@ -62,7 +62,7 @@
       "description": "gridded product based on measurements collected from in-situ instruments",
       "@context": "_context",
       "type": [
-        "wcrp:source-type",
+        "esgf:source-type",
         "universal"
       ]
     },
@@ -73,7 +73,7 @@
       "description": "ice-sheet model that includes ice-flow",
       "@context": "_context",
       "type": [
-        "wcrp:source-type",
+        "esgf:source-type",
         "universal"
       ]
     },
@@ -84,7 +84,7 @@
       "description": "land model run uncoupled from the atmosphere",
       "@context": "_context",
       "type": [
-        "wcrp:source-type",
+        "esgf:source-type",
         "universal"
       ]
     },
@@ -95,7 +95,7 @@
       "description": "ocean general circulation model run uncoupled from an AGCM but, usually including a sea-ice model",
       "@context": "_context",
       "type": [
-        "wcrp:source-type",
+        "esgf:source-type",
         "universal"
       ]
     },
@@ -106,7 +106,7 @@
       "description": "radiation component of an atmospheric model run 'offline'",
       "@context": "_context",
       "type": [
-        "wcrp:source-type",
+        "esgf:source-type",
         "universal"
       ]
     },
@@ -117,7 +117,7 @@
       "description": "gridded product generated from a model reanalysis based on in-situ instruments and possibly satellite measurements",
       "@context": "_context",
       "type": [
-        "wcrp:source-type",
+        "esgf:source-type",
         "universal"
       ]
     },
@@ -128,7 +128,7 @@
       "description": "gridded product based on both in-situ instruments and satellite measurements",
       "@context": "_context",
       "type": [
-        "wcrp:source-type",
+        "esgf:source-type",
         "universal"
       ]
     },
@@ -139,7 +139,7 @@
       "description": "gridded product based on satellite measurements",
       "@context": "_context",
       "type": [
-        "wcrp:source-type",
+        "esgf:source-type",
         "universal"
       ]
     },
@@ -150,7 +150,7 @@
       "description": "slab-ocean used with an AGCM in representing the atmosphere-ocean coupled system",
       "@context": "_context",
       "type": [
-        "wcrp:source-type",
+        "esgf:source-type",
         "universal"
       ]
     }

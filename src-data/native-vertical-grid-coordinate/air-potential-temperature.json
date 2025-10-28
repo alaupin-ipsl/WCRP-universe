@@ -5,7 +5,7 @@
   "description": "Air potential temperature is the temperature a parcel of air would have if moved dry adiabatically to a standard pressure",
   "@context": "_context",
   "type": [
-    "wcrp:native-vertical-grid-coordinate",
+    "esgf:native-vertical-grid-coordinate",
     "universal"
   ]
 }

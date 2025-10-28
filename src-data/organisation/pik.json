@@ -14,7 +14,7 @@
   ],
   "location": {
     "id": "universal:location/03e8s1d88",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 52.39886,
     "lon": 13.06566,
     "city": "Potsdam",
@@ -29,8 +29,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

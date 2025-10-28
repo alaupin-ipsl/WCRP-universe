@@ -5,7 +5,7 @@
   "description": "the total number of grid points stays constant during the model run and there is no grid refinement, i",
   "@context": "_context",
   "type": [
-    "wcrp:native-horizontal-grid-temporal-refinement",
+    "esgf:native-horizontal-grid-temporal-refinement",
     "universal"
   ]
 }

@@ -6,7 +6,7 @@
   "url": "",
   "@context": "_context",
   "type": [
-    "wcrp:activity",
+    "esgf:activity",
     "universal"
   ]
 }

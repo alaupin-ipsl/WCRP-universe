@@ -6,7 +6,7 @@
   "url": "https://gmd.copernicus.org/articles/9/2853/2016/gmd-9-2853-2016.pdf",
   "@context": "_context",
   "type": [
-    "wcrp:activity",
+    "esgf:activity",
     "universal"
   ]
 }

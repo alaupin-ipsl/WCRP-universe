@@ -6,7 +6,7 @@
   "url": "https://tipmip.pik-potsdam.de/",
   "@context": "_context",
   "type": [
-    "wcrp:activity",
+    "esgf:activity",
     "universal"
   ]
 }

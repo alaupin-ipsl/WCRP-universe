@@ -14,7 +14,7 @@
   ],
   "location": {
     "id": "universal:location/02nv7yv05",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 50.92149,
     "lon": 6.36267,
     "city": "Jülich",
@@ -29,8 +29,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

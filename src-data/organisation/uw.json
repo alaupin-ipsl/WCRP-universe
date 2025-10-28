@@ -15,7 +15,7 @@
   ],
   "location": {
     "id": "universal:location/00cvxb145",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 47.60621,
     "lon": -122.33207,
     "city": "Seattle",
@@ -30,8 +30,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

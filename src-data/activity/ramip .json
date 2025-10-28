@@ -6,7 +6,7 @@
   "url": "https://ramip.uk/",
   "@context": "_context",
   "type": [
-    "wcrp:activity",
+    "esgf:activity",
     "universal"
   ]
 }

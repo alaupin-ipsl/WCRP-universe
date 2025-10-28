@@ -5,7 +5,7 @@
   "description": "coupled atmosphere-ocean global climate model, additionally including explicit representation of at least the land and sea ice",
   "@context": "_context",
   "type": [
-    "wcrp:source-type",
+    "esgf:source-type",
     "universal"
   ]
 }

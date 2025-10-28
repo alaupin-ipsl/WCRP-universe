@@ -5,7 +5,7 @@
   "description": "Data sets used to drive model simulations. These include external factors like greenhouse gas concentrations, solar radiation, and land use changes that influence the climate model outputs.",
   "@context": "_context",
   "type": [
-    "wcrp:product",
+    "esgf:product",
     "universal"
   ]
 }

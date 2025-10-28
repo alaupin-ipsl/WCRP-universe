@@ -12,7 +12,7 @@
   "labels": [],
   "location": {
     "id": "universal:location/04j4kad11",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 53.41667,
     "lon": -0.96667,
     "city": "Harwell",
@@ -27,8 +27,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

@@ -5,7 +5,7 @@
   "description": "a grid that uses hexagonal and pentagonal tiles and is the dual of an icosahedral_geodesic grid",
   "@context": "_context",
   "type": [
-    "wcrp:native-horizontal-grid-type",
+    "esgf:native-horizontal-grid-type",
     "universal"
   ]
 }

@@ -9,7 +9,7 @@
       "value": "0.5",
       "@context": "_context",
       "type": [
-        "wcrp:resolution",
+        "esgf:resolution",
         "universal"
       ]
     },
@@ -22,7 +22,7 @@
       "value": "10000",
       "@context": "_context",
       "type": [
-        "wcrp:resolution",
+        "esgf:resolution",
         "universal"
       ]
     },
@@ -35,7 +35,7 @@
       "value": "1000",
       "@context": "_context",
       "type": [
-        "wcrp:resolution",
+        "esgf:resolution",
         "universal"
       ]
     },
@@ -48,7 +48,7 @@
       "value": "100",
       "@context": "_context",
       "type": [
-        "wcrp:resolution",
+        "esgf:resolution",
         "universal"
       ]
     },
@@ -61,7 +61,7 @@
       "value": "10",
       "@context": "_context",
       "type": [
-        "wcrp:resolution",
+        "esgf:resolution",
         "universal"
       ]
     },
@@ -74,7 +74,7 @@
       "value": "1",
       "@context": "_context",
       "type": [
-        "wcrp:resolution",
+        "esgf:resolution",
         "universal"
       ]
     },
@@ -87,7 +87,7 @@
       "value": "1x1",
       "@context": "_context",
       "type": [
-        "wcrp:resolution",
+        "esgf:resolution",
         "universal"
       ]
     },
@@ -100,7 +100,7 @@
       "value": "2.5",
       "@context": "_context",
       "type": [
-        "wcrp:resolution",
+        "esgf:resolution",
         "universal"
       ]
     },
@@ -113,7 +113,7 @@
       "value": "2500",
       "@context": "_context",
       "type": [
-        "wcrp:resolution",
+        "esgf:resolution",
         "universal"
       ]
     },
@@ -126,7 +126,7 @@
       "value": "250",
       "@context": "_context",
       "type": [
-        "wcrp:resolution",
+        "esgf:resolution",
         "universal"
       ]
     },
@@ -139,7 +139,7 @@
       "value": "25",
       "@context": "_context",
       "type": [
-        "wcrp:resolution",
+        "esgf:resolution",
         "universal"
       ]
     },
@@ -152,7 +152,7 @@
       "value": "5000",
       "@context": "_context",
       "type": [
-        "wcrp:resolution",
+        "esgf:resolution",
         "universal"
       ]
     },
@@ -165,7 +165,7 @@
       "value": "500",
       "@context": "_context",
       "type": [
-        "wcrp:resolution",
+        "esgf:resolution",
         "universal"
       ]
     },
@@ -178,7 +178,7 @@
       "value": "50",
       "@context": "_context",
       "type": [
-        "wcrp:resolution",
+        "esgf:resolution",
         "universal"
       ]
     },
@@ -191,7 +191,7 @@
       "value": "5",
       "@context": "_context",
       "type": [
-        "wcrp:resolution",
+        "esgf:resolution",
         "universal"
       ]
     }

@@ -14,7 +14,7 @@
   "labels": [],
   "location": {
     "id": "universal:location/008xxew50",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 52.37403,
     "lon": 4.88969,
     "city": "Amsterdam",
@@ -29,8 +29,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

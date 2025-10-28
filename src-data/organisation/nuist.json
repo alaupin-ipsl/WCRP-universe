@@ -17,7 +17,7 @@
   ],
   "location": {
     "id": "universal:location/01rxvg760",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 32.06167,
     "lon": 118.77778,
     "city": "Nanjing",
@@ -32,8 +32,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

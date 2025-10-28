@@ -12,7 +12,7 @@
   "labels": [],
   "location": {
     "id": "universal:location/058cmd703",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 38.96344,
     "lon": -76.93164,
     "city": "Riverdale Park",
@@ -27,8 +27,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

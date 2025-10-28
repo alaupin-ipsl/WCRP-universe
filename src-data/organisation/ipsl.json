@@ -12,7 +12,7 @@
   "labels": [],
   "location": {
     "id": "universal:location/02haar591",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 48.85341,
     "lon": 2.3488,
     "city": "Paris",
@@ -27,8 +27,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

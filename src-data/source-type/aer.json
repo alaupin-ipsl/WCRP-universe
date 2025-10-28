@@ -5,7 +5,7 @@
   "description": "aerosol treatment in an atmospheric model where concentrations are calculated based on emissions, transformation, and removal processes (rather than being prescribed or omitted entirely)",
   "@context": "_context",
   "type": [
-    "wcrp:source-type",
+    "esgf:source-type",
     "universal"
   ]
 }

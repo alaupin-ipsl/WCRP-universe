@@ -17,7 +17,7 @@
   ],
   "location": {
     "id": "universal:location/059yhyy33",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 35.6895,
     "lon": 139.69171,
     "city": "Tokyo",
@@ -32,8 +32,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

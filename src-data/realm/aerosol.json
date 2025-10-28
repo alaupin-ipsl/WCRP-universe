@@ -5,7 +5,7 @@
   "description": "Aerosol",
   "@context": "_context",
   "type": [
-    "wcrp:realm",
+    "esgf:realm",
     "universal"
   ]
 }

@@ -5,7 +5,7 @@
   "description": "any contiguous subregion of the Earth’s surface, used to indicate a limited area model that may be placed over different geographical regions independently of the model formulation",
   "@context": "_context",
   "type": [
-    "wcrp:native-horizontal-grid-region",
+    "esgf:native-horizontal-grid-region",
     "universal"
   ]
 }

@@ -5,7 +5,7 @@
   "description": "ice-sheet model that includes ice-flow",
   "@context": "_context",
   "type": [
-    "wcrp:source-type",
+    "esgf:source-type",
     "universal"
   ]
 }

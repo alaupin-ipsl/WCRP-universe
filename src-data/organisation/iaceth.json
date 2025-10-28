@@ -18,7 +18,7 @@
   ],
   "location": {
     "id": "universal:location/05a28rw58",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 47.36667,
     "lon": 8.55,
     "city": "Zurich",
@@ -33,8 +33,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

@@ -15,7 +15,7 @@
   ],
   "location": {
     "id": "universal:location/047s2c258",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 38.98067,
     "lon": -76.93692,
     "city": "College Park",
@@ -30,8 +30,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

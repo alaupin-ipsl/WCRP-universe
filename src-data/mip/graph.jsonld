@@ -10,7 +10,7 @@
       "url": "https://wcrp-cmip.org/CMIP5",
       "@context": "_context",
       "type": [
-        "wcrp:mip",
+        "esgf:mip",
         "universal"
       ]
     },
@@ -24,7 +24,7 @@
       "url": "https://wcrp-cmip.org/CMIP6",
       "@context": "_context",
       "type": [
-        "wcrp:mip",
+        "esgf:mip",
         "universal"
       ]
     },
@@ -38,7 +38,7 @@
       "url": "https://wcrp-cmip.org/CMIP6Plus",
       "@context": "_context",
       "type": [
-        "wcrp:mip",
+        "esgf:mip",
         "universal"
       ]
     },
@@ -52,7 +52,7 @@
       "url": "https://wcrp-cmip.org/CMIP7",
       "@context": "_context",
       "type": [
-        "wcrp:mip",
+        "esgf:mip",
         "universal"
       ]
     }

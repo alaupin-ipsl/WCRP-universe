@@ -7,7 +7,7 @@
       "description": "the behaviour and evolution of aerosols suspended in the atmosphere",
       "@context": "_context",
       "type": [
-        "wcrp:model-component-type",
+        "esgf:model-component-type",
         "universal"
       ]
     },
@@ -18,7 +18,7 @@
       "description": "dynamical, thermodynamical, and physical processes in the atmosphere",
       "@context": "_context",
       "type": [
-        "wcrp:model-component-type",
+        "esgf:model-component-type",
         "universal"
       ]
     },
@@ -29,7 +29,7 @@
       "description": "dynamical, thermodynamical, and physical processes in the ocean",
       "@context": "_context",
       "type": [
-        "wcrp:model-component-type",
+        "esgf:model-component-type",
         "universal"
       ]
     }

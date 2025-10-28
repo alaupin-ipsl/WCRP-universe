@@ -5,7 +5,7 @@
   "description": "a global curvilinear ocean grid with a southern pole and two northern poles all placed over land",
   "@context": "_context",
   "type": [
-    "wcrp:native-horizontal-grid-type",
+    "esgf:native-horizontal-grid-type",
     "universal"
   ]
 }

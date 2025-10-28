@@ -44,10 +44,18 @@
       "url": "",
       "@context": "_context",
       "type": [
-        "wcrp:consortium",
+        "esgf:consortium",
         "universal",
+<<<<<<< HEAD
         "wcrp:organisation"
       ]
+=======
+        "esgf:organisation"
+      ],
+      "url": "",
+      "long_label": "MIROC Consortium",
+      "label": "MIROC"
+>>>>>>> 30031c5a (reverting context)
     },
     {
       "id": "ncc",
@@ -117,10 +125,18 @@
       "url": "",
       "@context": "_context",
       "type": [
-        "wcrp:consortium",
+        "esgf:consortium",
         "universal",
+<<<<<<< HEAD
         "wcrp:organisation"
       ]
+=======
+        "esgf:organisation"
+      ],
+      "url": "",
+      "long_label": "NCC Consortium",
+      "label": "NCC"
+>>>>>>> 30031c5a (reverting context)
     },
     {
       "id": "solaris-heppa",
@@ -309,10 +325,18 @@
       "url": "https://solarisheppa.geomar.de",
       "@context": "_context",
       "type": [
-        "wcrp:consortium",
+        "esgf:consortium",
         "universal",
+<<<<<<< HEAD
         "wcrp:organisation"
       ]
+=======
+        "esgf:organisation"
+      ],
+      "url": "https://solarisheppa.geomar.de",
+      "long_label": "SOLARIS HEPPA Consortium",
+      "label": "SOLARIS HEPPA"
+>>>>>>> 30031c5a (reverting context)
     }
   ]
 }

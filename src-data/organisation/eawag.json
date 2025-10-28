@@ -15,7 +15,7 @@
   ],
   "location": {
     "id": "universal:location/00pc48d59",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 47.39724,
     "lon": 8.61872,
     "city": "Dübendorf",
@@ -30,8 +30,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

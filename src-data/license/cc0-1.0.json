@@ -6,7 +6,7 @@
   "url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "@context": "_context",
   "type": [
-    "wcrp:license",
+    "esgf:license",
     "universal"
   ]
 }

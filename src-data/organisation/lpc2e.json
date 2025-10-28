@@ -13,7 +13,7 @@
   "labels": [],
   "location": {
     "id": "universal:location/049k66y27",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 47.90289,
     "lon": 1.90389,
     "city": "Orléans",
@@ -28,8 +28,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

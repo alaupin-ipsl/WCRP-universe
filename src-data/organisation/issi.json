@@ -12,7 +12,7 @@
   "labels": [],
   "location": {
     "id": "universal:location/01xm30661",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 46.94809,
     "lon": 7.44744,
     "city": "Bern",
@@ -27,8 +27,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

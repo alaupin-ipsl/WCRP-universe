@@ -16,7 +16,7 @@
   "labels": [],
   "location": {
     "id": "universal:location/01tf11a61",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 40.35481,
     "lon": 18.17244,
     "city": "Lecce",
@@ -31,8 +31,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

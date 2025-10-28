@@ -15,7 +15,7 @@
   ],
   "location": {
     "id": "universal:location/02j61yw88",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 40.64361,
     "lon": 22.93086,
     "city": "Thessaloniki",
@@ -30,8 +30,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

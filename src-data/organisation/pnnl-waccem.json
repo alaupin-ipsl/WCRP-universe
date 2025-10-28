@@ -15,7 +15,7 @@
   "labels": [],
   "location": {
     "id": "universal:location/05h992307",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 46.28569,
     "lon": -119.28446,
     "city": "Richland",
@@ -30,8 +30,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

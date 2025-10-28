@@ -6,7 +6,7 @@
   "url": "https://www.frontiersin.org/articles/10.3389/fclim.2022.955414/full",
   "@context": "_context",
   "type": [
-    "wcrp:activity",
+    "esgf:activity",
     "universal"
   ]
 }

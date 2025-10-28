@@ -12,7 +12,7 @@
   "labels": [],
   "location": {
     "id": "universal:location/02gtrqv93",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 46.80429,
     "lon": 9.83723,
     "city": "Davos",
@@ -27,8 +27,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

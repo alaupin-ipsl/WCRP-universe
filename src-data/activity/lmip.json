@@ -6,7 +6,7 @@
   "url": "https://gmd.copernicus.org/articles/10/3977/2017/gmd-10-3977-2017.pdf",
   "@context": "_context",
   "type": [
-    "wcrp:activity",
+    "esgf:activity",
     "universal"
   ]
 }

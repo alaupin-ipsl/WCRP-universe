@@ -26,8 +26,8 @@
   "url": "",
   "@context": "_context",
   "type": [
-    "wcrp:consortium",
+    "esgf:consortium",
     "universal",
-    "wcrp:organisation"
+    "esgf:organisation"
   ]
 }

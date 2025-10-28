@@ -12,7 +12,7 @@
   "labels": [],
   "location": {
     "id": "universal:location/03qn8fb07",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": -35.28346,
     "lon": 149.12807,
     "city": "Canberra",
@@ -27,8 +27,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

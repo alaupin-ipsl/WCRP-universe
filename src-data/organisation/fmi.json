@@ -15,7 +15,7 @@
   ],
   "location": {
     "id": "universal:location/05hppb561",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 60.16952,
     "lon": 24.93545,
     "city": "Helsinki",
@@ -30,8 +30,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

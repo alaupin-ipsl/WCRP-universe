@@ -14,7 +14,7 @@
   ],
   "location": {
     "id": "universal:location/010x8gc63",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 52.13238,
     "lon": -106.66892,
     "city": "Saskatoon",
@@ -29,8 +29,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

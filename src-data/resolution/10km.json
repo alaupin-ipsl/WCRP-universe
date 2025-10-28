@@ -7,7 +7,7 @@
   "value": "10",
   "@context": "_context",
   "type": [
-    "wcrp:resolution",
+    "esgf:resolution",
     "universal"
   ]
 }

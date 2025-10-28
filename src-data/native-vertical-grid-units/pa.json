@@ -5,7 +5,7 @@
   "description": "unit for pressure",
   "@context": "_context",
   "type": [
-    "wcrp:native-vertical-grid-units",
+    "esgf:native-vertical-grid-units",
     "universal"
   ]
 }

@@ -14,7 +14,7 @@
   ],
   "location": {
     "id": "universal:location/03m2x1q45",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 32.22174,
     "lon": -110.92648,
     "city": "Tucson",
@@ -29,8 +29,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

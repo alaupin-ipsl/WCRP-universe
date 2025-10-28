@@ -12,7 +12,7 @@
   "labels": [],
   "location": {
     "id": "universal:location/02b5d8509",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 51.55797,
     "lon": -1.78116,
     "city": "Swindon",
@@ -27,8 +27,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

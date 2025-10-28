@@ -5,7 +5,7 @@
   "description": "the geographical region of Antarctica, as defined by the CF standardised regions",
   "@context": "_context",
   "type": [
-    "wcrp:native-horizontal-grid-region",
+    "esgf:native-horizontal-grid-region",
     "universal"
   ]
 }

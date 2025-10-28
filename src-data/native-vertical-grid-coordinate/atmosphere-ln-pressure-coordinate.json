@@ -5,7 +5,7 @@
   "description": "Parametric atmosphere natural log pressure coordinate",
   "@context": "_context",
   "type": [
-    "wcrp:native-vertical-grid-coordinate",
+    "esgf:native-vertical-grid-coordinate",
     "universal"
   ]
 }

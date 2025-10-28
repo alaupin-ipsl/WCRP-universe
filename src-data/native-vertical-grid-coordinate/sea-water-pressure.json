@@ -5,7 +5,7 @@
   "description": "Sea water pressure is the pressure that exists in the medium of sea water",
   "@context": "_context",
   "type": [
-    "wcrp:native-vertical-grid-coordinate",
+    "esgf:native-vertical-grid-coordinate",
     "universal"
   ]
 }

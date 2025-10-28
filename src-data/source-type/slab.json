@@ -5,7 +5,7 @@
   "description": "slab-ocean used with an AGCM in representing the atmosphere-ocean coupled system",
   "@context": "_context",
   "type": [
-    "wcrp:source-type",
+    "esgf:source-type",
     "universal"
   ]
 }

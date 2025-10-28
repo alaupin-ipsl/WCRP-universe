@@ -5,7 +5,7 @@
   "description": "the total number of grid points stays constant, but grid points can be dynamically relocated",
   "@context": "_context",
   "type": [
-    "wcrp:native-horizontal-grid-temporal-refinement",
+    "esgf:native-horizontal-grid-temporal-refinement",
     "universal"
   ]
 }

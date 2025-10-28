@@ -5,7 +5,7 @@
   "description": "land model run uncoupled from the atmosphere",
   "@context": "_context",
   "type": [
-    "wcrp:source-type",
+    "esgf:source-type",
     "universal"
   ]
 }

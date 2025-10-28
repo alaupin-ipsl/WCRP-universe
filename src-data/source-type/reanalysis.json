@@ -5,7 +5,7 @@
   "description": "gridded product generated from a model reanalysis based on in-situ instruments and possibly satellite measurements",
   "@context": "_context",
   "type": [
-    "wcrp:source-type",
+    "esgf:source-type",
     "universal"
   ]
 }

@@ -7,7 +7,7 @@
       "description": "a calendar in which all years are 360 days, and divided into 30 day months",
       "@context": "_context",
       "type": [
-        "wcrp:model-calendar",
+        "esgf:model-calendar",
         "universal"
       ]
     },
@@ -18,7 +18,7 @@
       "description": "a calendar with no leap years, i",
       "@context": "_context",
       "type": [
-        "wcrp:model-calendar",
+        "esgf:model-calendar",
         "universal"
       ]
     },
@@ -29,7 +29,7 @@
       "description": "a calendar in which every year is a leap year, i",
       "@context": "_context",
       "type": [
-        "wcrp:model-calendar",
+        "esgf:model-calendar",
         "universal"
       ]
     },
@@ -40,7 +40,7 @@
       "description": "the Julian calendar, in which a year is a leap year if it is divisible by 4, even if it is also divisible by 100",
       "@context": "_context",
       "type": [
-        "wcrp:model-calendar",
+        "esgf:model-calendar",
         "universal"
       ]
     },
@@ -51,7 +51,7 @@
       "description": "no calendar",
       "@context": "_context",
       "type": [
-        "wcrp:model-calendar",
+        "esgf:model-calendar",
         "universal"
       ]
     },
@@ -62,7 +62,7 @@
       "description": "a calendar with the Gregorian rules for leap-years extended to dates before 1582-10-15",
       "@context": "_context",
       "type": [
-        "wcrp:model-calendar",
+        "esgf:model-calendar",
         "universal"
       ]
     },
@@ -73,7 +73,7 @@
       "description": "mixed Gregorian/Julian calendar which is Gregorian after 1582-10-15, and Julian before",
       "@context": "_context",
       "type": [
-        "wcrp:model-calendar",
+        "esgf:model-calendar",
         "universal"
       ]
     }

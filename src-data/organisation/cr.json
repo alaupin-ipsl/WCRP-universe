@@ -16,7 +16,7 @@
   "labels": [],
   "location": {
     "id": "universal:location/01kk86953",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": -37.814,
     "lon": 144.96332,
     "city": "Melbourne",
@@ -31,8 +31,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

@@ -5,7 +5,7 @@
   "description": "Parametric ocean s-coordinate",
   "@context": "_context",
   "type": [
-    "wcrp:native-vertical-grid-coordinate",
+    "esgf:native-vertical-grid-coordinate",
     "universal"
   ]
 }

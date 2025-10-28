@@ -8,7 +8,7 @@
       "origin": "BoM/CSIRO (Bureau of Meteorology/Commonwealth Scientific and Industrial Research Organisation)",
       "@context": "_context",
       "type": [
-        "wcrp:model-family"
+        "esgf:model-family"
       ]
     },
     {
@@ -19,7 +19,7 @@
       "origin": "BCC (Beijing Climate Center)",
       "@context": "_context",
       "type": [
-        "wcrp:model-family"
+        "esgf:model-family"
       ]
     },
     {
@@ -33,7 +33,7 @@
       ],
       "@context": "_context",
       "type": [
-        "wcrp:model-family"
+        "esgf:model-family"
       ]
     },
     {
@@ -50,7 +50,7 @@
       ],
       "@context": "_context",
       "type": [
-        "wcrp:model-family"
+        "esgf:model-family"
       ]
     },
     {
@@ -68,7 +68,7 @@
       ],
       "@context": "_context",
       "type": [
-        "wcrp:model-family"
+        "esgf:model-family"
       ]
     },
     {
@@ -84,7 +84,7 @@
       ],
       "@context": "_context",
       "type": [
-        "wcrp:model-family"
+        "esgf:model-family"
       ]
     },
     {
@@ -101,7 +101,7 @@
       ],
       "@context": "_context",
       "type": [
-        "wcrp:model-family"
+        "esgf:model-family"
       ]
     },
     {
@@ -112,7 +112,7 @@
       "origin": "IAP (Institute of Atmospheric Physics)",
       "@context": "_context",
       "type": [
-        "wcrp:model-family"
+        "esgf:model-family"
       ]
     },
     {
@@ -127,7 +127,7 @@
       ],
       "@context": "_context",
       "type": [
-        "wcrp:model-family"
+        "esgf:model-family"
       ]
     },
     {
@@ -144,7 +144,7 @@
       ],
       "@context": "_context",
       "type": [
-        "wcrp:model-family"
+        "esgf:model-family"
       ]
     },
     {
@@ -160,7 +160,7 @@
       ],
       "@context": "_context",
       "type": [
-        "wcrp:model-family"
+        "esgf:model-family"
       ]
     },
     {
@@ -177,7 +177,7 @@
       ],
       "@context": "_context",
       "type": [
-        "wcrp:model-family"
+        "esgf:model-family"
       ]
     },
     {
@@ -194,7 +194,7 @@
       ],
       "@context": "_context",
       "type": [
-        "wcrp:model-family"
+        "esgf:model-family"
       ]
     },
     {
@@ -208,7 +208,7 @@
       ],
       "@context": "_context",
       "type": [
-        "wcrp:model-family"
+        "esgf:model-family"
       ]
     },
     {
@@ -225,7 +225,7 @@
       ],
       "@context": "_context",
       "type": [
-        "wcrp:model-family"
+        "esgf:model-family"
       ]
     },
     {
@@ -242,7 +242,7 @@
       ],
       "@context": "_context",
       "type": [
-        "wcrp:model-family"
+        "esgf:model-family"
       ]
     },
     {
@@ -259,7 +259,7 @@
       ],
       "@context": "_context",
       "type": [
-        "wcrp:model-family"
+        "esgf:model-family"
       ]
     },
     {
@@ -270,7 +270,7 @@
       "origin": "JAMSTEC (Japan Agency for Marine-Earth Science and Technology)",
       "@context": "_context",
       "type": [
-        "wcrp:model-family"
+        "esgf:model-family"
       ]
     },
     {
@@ -287,7 +287,7 @@
       ],
       "@context": "_context",
       "type": [
-        "wcrp:model-family"
+        "esgf:model-family"
       ]
     }
   ]

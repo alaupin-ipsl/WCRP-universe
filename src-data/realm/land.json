@@ -6,6 +6,6 @@
   "@context": "_context",
   "type": [
     "universal",
-    "wcrp:realm"
+    "esgf:realm"
   ]
 }

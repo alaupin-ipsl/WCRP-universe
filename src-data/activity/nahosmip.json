@@ -6,7 +6,7 @@
   "url": "https://www.tipes.dk/na-hosing-mip/",
   "@context": "_context",
   "type": [
-    "wcrp:activity",
+    "esgf:activity",
     "universal"
   ]
 }

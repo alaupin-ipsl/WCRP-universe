@@ -16,7 +16,7 @@
   ],
   "location": {
     "id": "universal:location/02h2x0161",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 54.32133,
     "lon": 10.13489,
     "city": "Kiel",
@@ -31,8 +31,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

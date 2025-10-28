@@ -10,7 +10,7 @@
   "labels": [],
   "location": {
     "id": "universal:location/03q36cn05",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 33.72148,
     "lon": 73.04329,
     "city": "Islamabad",
@@ -25,8 +25,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

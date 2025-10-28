@@ -5,7 +5,7 @@
   "description": "a grid with higher resolution concentrated over an area of interest, at the expense of lower resolution elsewhere",
   "@context": "_context",
   "type": [
-    "wcrp:native-horizontal-grid-type",
+    "esgf:native-horizontal-grid-type",
     "universal"
   ]
 }

@@ -16,7 +16,7 @@
   ],
   "location": {
     "id": "universal:location/04h9pn542",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 37.566,
     "lon": 126.9784,
     "city": "Seoul",
@@ -31,8 +31,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

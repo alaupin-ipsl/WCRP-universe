@@ -14,7 +14,7 @@
   ],
   "location": {
     "id": "universal:location/026ny0e17",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 45.41117,
     "lon": -75.69812,
     "city": "Ottawa",
@@ -29,8 +29,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

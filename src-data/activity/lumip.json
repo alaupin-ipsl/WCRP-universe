@@ -6,7 +6,7 @@
   "url": "https://www.cesm.ucar.edu/projects/cmip6/lumip",
   "@context": "_context",
   "type": [
-    "wcrp:activity",
+    "esgf:activity",
     "universal"
   ]
 }

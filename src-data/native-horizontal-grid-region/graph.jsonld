@@ -7,7 +7,7 @@
       "description": "the geographical region of Antarctica, as defined by the CF standardised regions",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-region",
+        "esgf:native-horizontal-grid-region",
         "universal"
       ]
     },
@@ -18,7 +18,7 @@
       "description": "the geographical region of the whole of the Earth’s surface, as defined by the CF standardised regions",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-region",
+        "esgf:native-horizontal-grid-region",
         "universal"
       ]
     },
@@ -29,7 +29,7 @@
       "description": "the geographical region of Greenland, as defined by the CF standardised regions",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-region",
+        "esgf:native-horizontal-grid-region",
         "universal"
       ]
     },
@@ -40,7 +40,7 @@
       "description": "any contiguous subregion of the Earth’s surface, used to indicate a limited area model that may be placed over different geographical regions independently of the model formulation",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-region",
+        "esgf:native-horizontal-grid-region",
         "universal"
       ]
     }

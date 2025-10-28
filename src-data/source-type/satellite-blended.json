@@ -5,7 +5,7 @@
   "description": "gridded product based on both in-situ instruments and satellite measurements",
   "@context": "_context",
   "type": [
-    "wcrp:source-type",
+    "esgf:source-type",
     "universal"
   ]
 }

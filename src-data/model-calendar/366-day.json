@@ -5,7 +5,7 @@
   "description": "a calendar in which every year is a leap year, i",
   "@context": "_context",
   "type": [
-    "wcrp:model-calendar",
+    "esgf:model-calendar",
     "universal"
   ]
 }

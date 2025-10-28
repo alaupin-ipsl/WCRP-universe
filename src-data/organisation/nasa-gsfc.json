@@ -14,7 +14,7 @@
   ],
   "location": {
     "id": "universal:location/0171mag52",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 39.00455,
     "lon": -76.87553,
     "city": "Greenbelt",
@@ -29,8 +29,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

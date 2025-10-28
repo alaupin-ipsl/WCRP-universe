@@ -5,7 +5,7 @@
   "description": "Sea Ice",
   "@context": "_context",
   "type": [
-    "wcrp:realm",
+    "esgf:realm",
     "universal"
   ]
 }

@@ -9,7 +9,7 @@
       "unit": "hour",
       "@context": "_context",
       "type": [
-        "wcrp:frequency",
+        "esgf:frequency",
         "universal"
       ]
     },
@@ -22,7 +22,7 @@
       "unit": "hour",
       "@context": "_context",
       "type": [
-        "wcrp:frequency",
+        "esgf:frequency",
         "universal"
       ]
     },
@@ -35,7 +35,7 @@
       "unit": "hour",
       "@context": "_context",
       "type": [
-        "wcrp:frequency",
+        "esgf:frequency",
         "universal"
       ]
     },
@@ -48,7 +48,7 @@
       "unit": "hour",
       "@context": "_context",
       "type": [
-        "wcrp:frequency",
+        "esgf:frequency",
         "universal"
       ]
     },
@@ -61,7 +61,7 @@
       "unit": "hour",
       "@context": "_context",
       "type": [
-        "wcrp:frequency",
+        "esgf:frequency",
         "universal"
       ]
     },
@@ -74,7 +74,7 @@
       "unit": "hour",
       "@context": "_context",
       "type": [
-        "wcrp:frequency",
+        "esgf:frequency",
         "universal"
       ]
     },
@@ -87,7 +87,7 @@
       "unit": "hour",
       "@context": "_context",
       "type": [
-        "wcrp:frequency",
+        "esgf:frequency",
         "universal"
       ]
     },
@@ -100,7 +100,7 @@
       "unit": "day",
       "@context": "_context",
       "type": [
-        "wcrp:frequency",
+        "esgf:frequency",
         "universal"
       ]
     },
@@ -113,7 +113,7 @@
       "unit": "decade",
       "@context": "_context",
       "type": [
-        "wcrp:frequency",
+        "esgf:frequency",
         "universal"
       ]
     },
@@ -126,7 +126,7 @@
       "unit": "none",
       "@context": "_context",
       "type": [
-        "wcrp:frequency",
+        "esgf:frequency",
         "universal"
       ]
     },
@@ -139,7 +139,7 @@
       "unit": "month",
       "@context": "_context",
       "type": [
-        "wcrp:frequency",
+        "esgf:frequency",
         "universal"
       ]
     },
@@ -152,7 +152,7 @@
       "unit": "month",
       "@context": "_context",
       "type": [
-        "wcrp:frequency",
+        "esgf:frequency",
         "universal"
       ]
     },
@@ -165,7 +165,7 @@
       "unit": "month",
       "@context": "_context",
       "type": [
-        "wcrp:frequency",
+        "esgf:frequency",
         "universal"
       ]
     },
@@ -178,7 +178,7 @@
       "unit": "minute",
       "@context": "_context",
       "type": [
-        "wcrp:frequency",
+        "esgf:frequency",
         "universal"
       ]
     },
@@ -191,7 +191,7 @@
       "unit": "year",
       "@context": "_context",
       "type": [
-        "wcrp:frequency",
+        "esgf:frequency",
         "universal"
       ]
     },
@@ -204,7 +204,7 @@
       "unit": "year",
       "@context": "_context",
       "type": [
-        "wcrp:frequency",
+        "esgf:frequency",
         "universal"
       ]
     }

@@ -17,7 +17,7 @@
   ],
   "location": {
     "id": "universal:location/027k65916",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 34.19917,
     "lon": -118.18785,
     "city": "La Cañada Flintridge",
@@ -32,8 +32,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

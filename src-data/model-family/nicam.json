@@ -6,6 +6,6 @@
   "origin": "JAMSTEC (Japan Agency for Marine-Earth Science and Technology)",
   "@context": "_context",
   "type": [
-    "wcrp:model-family"
+    "esgf:model-family"
   ]
 }

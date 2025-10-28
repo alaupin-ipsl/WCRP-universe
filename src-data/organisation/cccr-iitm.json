@@ -14,7 +14,7 @@
   ],
   "location": {
     "id": "universal:location/03jf2m686",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 18.51957,
     "lon": 73.85535,
     "city": "Pune",
@@ -29,8 +29,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

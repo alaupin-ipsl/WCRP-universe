@@ -5,7 +5,7 @@
   "description": "there is no horizontal grid",
   "@context": "_context",
   "type": [
-    "wcrp:native-horizontal-grid-type",
+    "esgf:native-horizontal-grid-type",
     "universal"
   ]
 }

@@ -7,7 +7,7 @@
   "unit": "hour",
   "@context": "_context",
   "type": [
-    "wcrp:frequency",
+    "esgf:frequency",
     "universal"
   ]
 }

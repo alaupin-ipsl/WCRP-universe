@@ -14,7 +14,7 @@
   ],
   "location": {
     "id": "universal:location/00520ey40",
-    "type": "wcrp:location",
+    "type": "esgf:location",
     "lat": 55.75222,
     "lon": 37.61556,
     "city": "Moscow",
@@ -29,8 +29,8 @@
   ],
   "@context": "_context",
   "type": [
-    "wcrp:organisation",
-    "wcrp:institution",
+    "esgf:organisation",
+    "esgf:institution",
     "universal"
   ]
 }

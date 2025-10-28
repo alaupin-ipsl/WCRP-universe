@@ -7,7 +7,7 @@
       "description": "the total number of grid points varies during the model run",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-temporal-refinement",
+        "esgf:native-horizontal-grid-temporal-refinement",
         "universal"
       ]
     },
@@ -18,7 +18,7 @@
       "description": "the total number of grid points stays constant, but grid points can be dynamically relocated",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-temporal-refinement",
+        "esgf:native-horizontal-grid-temporal-refinement",
         "universal"
       ]
     },
@@ -29,7 +29,7 @@
       "description": "the total number of grid points stays constant during the model run and there is no grid refinement, i",
       "@context": "_context",
       "type": [
-        "wcrp:native-horizontal-grid-temporal-refinement",
+        "esgf:native-horizontal-grid-temporal-refinement",
         "universal"
       ]
     }

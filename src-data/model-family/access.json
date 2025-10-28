@@ -6,6 +6,6 @@
   "origin": "BoM/CSIRO (Bureau of Meteorology/Commonwealth Scientific and Industrial Research Organisation)",
   "@context": "_context",
   "type": [
-    "wcrp:model-family"
+    "esgf:model-family"
   ]
 }

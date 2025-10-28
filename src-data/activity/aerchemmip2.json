@@ -6,7 +6,7 @@
   "url": "https://wiki.met.no/aerocom/aerchemmip/start",
   "@context": "_context",
   "type": [
-    "wcrp:activity",
+    "esgf:activity",
     "universal"
   ]
 }
