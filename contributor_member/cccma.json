@@ -1,0 +1,19 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cccma",
+    "type": "contributor_member",
+    "description": "location in context almost definitely wrong. Canadian Centre for Climate Modelling and Analysis",
+    "drs_name": "CCCma",
+    "acronyms": ["CCCma"],
+    "labels": ["Canadian Centre for Climate Modelling and Analysis"],
+    "location": [
+        {
+            "city": "Victoria",
+            "country": "Canada",
+            "lat": 48.468519834026225,
+            "lon": 236.7038174104
+        }
+    ],
+    "ror": null,
+    "urls": ["https://www.canada.ca/en/environment-climate-change/services/climate-change/science-research-data/modeling-projections-analysis/centre-modelling-analysis.html"]
+}
