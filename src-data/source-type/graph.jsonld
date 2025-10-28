@@ -1,23 +1,11 @@
 {
-  "@context": {
-    "@base": "https://wcrp-cmip.github.io/WCRP-universe/source-type/",
-    "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/source-type/",
-    "entries": "@none",
-    "id": "@id",
-    "type": "@type",
-    "cf": "https://wcrp-cmip.github.io/CF/",
-    "cmip6plus": "https://wcrp-cmip.github.io/CMIP6Plus_CVs/",
-    "cmip7": "https://wcrp-cmip.github.io/CMIP7_CVs/",
-    "obs4mips": "https://wolfiex.github.io/obs4MIPs-cmor-tables-ld/",
-    "universal": "https://wcrp-cmip.github.io/WCRP-universe/",
-    "variables": "https://wcrp-cmip.github.io/MIP-variables/"
-  },
   "@graph": [
     {
       "id": "aer",
       "validation-key": "AER",
       "ui-label": "",
       "description": "aerosol treatment in an atmospheric model where concentrations are calculated based on emissions, transformation, and removal processes (rather than being prescribed or omitted entirely)",
+      "@context": "_context",
       "type": [
         "wcrp:source-type",
         "universal"
@@ -28,6 +16,7 @@
       "validation-key": "AGCM",
       "ui-label": "",
       "description": "atmospheric general circulation model run with prescribed ocean surface conditions and usually a model of the land surface",
+      "@context": "_context",
       "type": [
         "wcrp:source-type",
         "universal"
@@ -38,6 +27,7 @@
       "validation-key": "AOGCM",
       "ui-label": "",
       "description": "coupled atmosphere-ocean global climate model, additionally including explicit representation of at least the land and sea ice",
+      "@context": "_context",
       "type": [
         "wcrp:source-type",
         "universal"
@@ -48,6 +38,7 @@
       "validation-key": "BGC",
       "ui-label": "",
       "description": "biogeochemistry model component that at the very least accounts for carbon reservoirs and fluxes in the atmosphere, terrestrial biosphere, and ocean",
+      "@context": "_context",
       "type": [
         "wcrp:source-type",
         "universal"
@@ -58,6 +49,7 @@
       "validation-key": "CHEM",
       "ui-label": "",
       "description": "chemistry treatment in an atmospheric model that calculates atmospheric oxidant concentrations (including at least ozone), rather than prescribing them",
+      "@context": "_context",
       "type": [
         "wcrp:source-type",
         "universal"
@@ -68,6 +60,7 @@
       "validation-key": "gridded_insitu",
       "ui-label": "",
       "description": "gridded product based on measurements collected from in-situ instruments",
+      "@context": "_context",
       "type": [
         "wcrp:source-type",
         "universal"
@@ -78,6 +71,7 @@
       "validation-key": "ISM",
       "ui-label": "",
       "description": "ice-sheet model that includes ice-flow",
+      "@context": "_context",
       "type": [
         "wcrp:source-type",
         "universal"
@@ -88,6 +82,7 @@
       "validation-key": "LAND",
       "ui-label": "",
       "description": "land model run uncoupled from the atmosphere",
+      "@context": "_context",
       "type": [
         "wcrp:source-type",
         "universal"
@@ -98,6 +93,7 @@
       "validation-key": "OGCM",
       "ui-label": "",
       "description": "ocean general circulation model run uncoupled from an AGCM but, usually including a sea-ice model",
+      "@context": "_context",
       "type": [
         "wcrp:source-type",
         "universal"
@@ -108,6 +104,7 @@
       "validation-key": "RAD",
       "ui-label": "",
       "description": "radiation component of an atmospheric model run 'offline'",
+      "@context": "_context",
       "type": [
         "wcrp:source-type",
         "universal"
@@ -118,6 +115,7 @@
       "validation-key": "reanalysis",
       "ui-label": "",
       "description": "gridded product generated from a model reanalysis based on in-situ instruments and possibly satellite measurements",
+      "@context": "_context",
       "type": [
         "wcrp:source-type",
         "universal"
@@ -128,6 +126,7 @@
       "validation-key": "satellite_blended",
       "ui-label": "",
       "description": "gridded product based on both in-situ instruments and satellite measurements",
+      "@context": "_context",
       "type": [
         "wcrp:source-type",
         "universal"
@@ -138,6 +137,7 @@
       "validation-key": "satellite_retrieval",
       "ui-label": "",
       "description": "gridded product based on satellite measurements",
+      "@context": "_context",
       "type": [
         "wcrp:source-type",
         "universal"
@@ -148,6 +148,7 @@
       "validation-key": "SLAB",
       "ui-label": "",
       "description": "slab-ocean used with an AGCM in representing the atmosphere-ocean coupled system",
+      "@context": "_context",
       "type": [
         "wcrp:source-type",
         "universal"

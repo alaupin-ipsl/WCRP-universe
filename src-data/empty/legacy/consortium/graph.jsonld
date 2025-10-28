@@ -1,326 +1,318 @@
 {
-  "@context": {
-    "@base": "https://wcrp-cmip.github.io/WCRP-universe/consortium/",
-    "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/consortium/",
-    "entries": "@none",
-    "id": "@id",
-    "type": "@type",
-    "cf": "https://wcrp-cmip.github.io/CF/",
-    "cmip6plus": "https://wcrp-cmip.github.io/CMIP6Plus_CVs/",
-    "cmip7": "https://wcrp-cmip.github.io/CMIP7_CVs/",
-    "obs4mips": "https://wolfiex.github.io/obs4MIPs-cmor-tables-ld/",
-    "universal": "https://wcrp-cmip.github.io/WCRP-universe/",
-    "variables": "https://wcrp-cmip.github.io/MIP-variables/",
-    "organisation": "https://wcrp-cmip.github.io/WCRP-universe/organisation/"
-  },
   "@graph": [
     {
-      "changes": "",
       "id": "miroc",
+      "validation-key": "MIROC",
+      "ui-label": "MIROC Consortium",
+      "description": "",
+      "changes": "",
       "members": {
-        "jamstec": {
-          "current": false,
-          "from": 2016,
-          "to": 2022,
-          "era": [
-            "cmip6"
-          ]
-        },
         "aori": {
           "current": false,
-          "from": 2016,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2016,
+          "to": 2022
+        },
+        "jamstec": {
+          "current": false,
+          "era": [
+            "cmip6"
+          ],
+          "from": 2016,
+          "to": 2022
         },
         "nies": {
           "current": false,
-          "from": 2016,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2016,
+          "to": 2022
         },
         "r-ccs": {
           "current": false,
-          "from": 2016,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2016,
+          "to": 2022
         }
       },
       "status": "active",
+      "url": "",
+      "@context": "_context",
       "type": [
         "wcrp:consortium",
         "universal",
         "wcrp:organisation"
-      ],
-      "url": "",
-      "long_label": "MIROC Consortium",
-      "label": "MIROC"
+      ]
     },
     {
-      "changes": "",
       "id": "ncc",
+      "validation-key": "NCC",
+      "ui-label": "NCC Consortium",
+      "description": "",
+      "changes": "",
       "members": {
-        "noresm": {
-          "current": false,
-          "from": 2016,
-          "to": 2022,
-          "era": [
-            "cmip6"
-          ]
-        },
         "met-norway": {
           "current": false,
-          "from": 2016,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2016,
+          "to": 2022
         },
         "nersc": {
           "current": false,
-          "from": 2016,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2016,
+          "to": 2022
         },
         "nilu": {
           "current": false,
-          "from": 2016,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2016,
+          "to": 2022
+        },
+        "noresm": {
+          "current": false,
+          "era": [
+            "cmip6"
+          ],
+          "from": 2016,
+          "to": 2022
         },
         "uib": {
           "current": false,
-          "from": 2016,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2016,
+          "to": 2022
         },
         "uio": {
           "current": false,
-          "from": 2016,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2016,
+          "to": 2022
         },
         "uni": {
           "current": false,
-          "from": 2016,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2016,
+          "to": 2022
         }
       },
       "status": "active",
+      "url": "",
+      "@context": "_context",
       "type": [
         "wcrp:consortium",
         "universal",
         "wcrp:organisation"
-      ],
-      "url": "",
-      "long_label": "NCC Consortium",
-      "label": "NCC"
+      ]
     },
     {
-      "changes": "",
       "id": "solaris-heppa",
+      "validation-key": "SOLARIS HEPPA",
+      "ui-label": "SOLARIS HEPPA Consortium",
+      "description": "",
+      "changes": "",
       "members": {
-        "auot": {
-          "current": true,
-          "from": 2013,
-          "to": 2022,
-          "era": [
-            "cmip6"
-          ]
-        },
         "aor": {
           "current": true,
-          "from": 2025,
-          "to": "-",
           "era": [
             "cmip7"
-          ]
+          ],
+          "from": 2025,
+          "to": "-"
+        },
+        "auot": {
+          "current": true,
+          "era": [
+            "cmip6"
+          ],
+          "from": 2013,
+          "to": 2022
         },
         "bas": {
           "current": true,
-          "from": 2013,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2013,
+          "to": 2022
         },
         "eawag": {
           "current": true,
-          "from": 2013,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2013,
+          "to": 2022
         },
         "fmi": {
           "current": true,
-          "from": 2013,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2013,
+          "to": 2022
         },
         "fuberlin": {
           "current": true,
-          "from": 2013,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2013,
+          "to": 2022
         },
         "geomar": {
           "current": true,
-          "from": 2013,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2013,
+          "to": 2022
         },
         "gsfc": {
           "current": true,
-          "from": 2013,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2013,
+          "to": 2022
         },
         "iaa-csic": {
           "current": true,
-          "from": 2013,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2013,
+          "to": 2022
         },
         "issi": {
           "current": true,
-          "from": 2013,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2013,
+          "to": 2022
         },
         "kit": {
           "current": true,
-          "from": 2013,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2013,
+          "to": 2022
         },
         "lasp": {
           "current": true,
-          "from": 2013,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2013,
+          "to": 2022
         },
         "lpc2e": {
           "current": true,
-          "from": 2013,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2013,
+          "to": 2022
         },
         "mohc": {
           "current": true,
-          "from": 2013,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2013,
+          "to": 2022
         },
         "mps": {
           "current": true,
-          "from": 2013,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2013,
+          "to": 2022
         },
         "ncar": {
           "current": true,
-          "from": 2013,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2013,
+          "to": 2022
         },
         "pmod": {
           "current": true,
-          "from": 2013,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2013,
+          "to": 2022
         },
         "uobergen": {
           "current": true,
-          "from": 2025,
-          "to": "-",
           "era": [
             "cmip7"
-          ]
+          ],
+          "from": 2025,
+          "to": "-"
         },
         "uoleeds": {
           "current": true,
-          "from": 2013,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2013,
+          "to": 2022
         },
         "uomontreal": {
           "current": true,
-          "from": 2013,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2013,
+          "to": 2022
         },
         "uootago": {
           "current": true,
-          "from": 2013,
-          "to": 2022,
           "era": [
             "cmip6"
-          ]
+          ],
+          "from": 2013,
+          "to": 2022
         },
         "uooulu": {
           "current": true,
-          "from": 2025,
-          "to": "-",
           "era": [
             "cmip7"
-          ]
+          ],
+          "from": 2025,
+          "to": "-"
         }
       },
+      "url": "https://solarisheppa.geomar.de",
+      "@context": "_context",
       "type": [
         "wcrp:consortium",
         "universal",
         "wcrp:organisation"
-      ],
-      "url": "https://solarisheppa.geomar.de",
-      "long_label": "SOLARIS HEPPA Consortium",
-      "label": "SOLARIS HEPPA"
+      ]
     }
   ]
 }
