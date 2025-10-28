@@ -1,12 +1,12 @@
 {
-  "id": "fx",
+  "@id": "fx",
   "validation-key": "fx",
   "ui-label": "",
   "description": "fixed (time invariant) field",
   "long_name": "Fixed Frequency",
   "unit": "none",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:frequency",
     "universal"
   ]

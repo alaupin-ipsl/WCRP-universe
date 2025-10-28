@@ -1,5 +1,5 @@
 {
-  "id": "ukesm1",
+  "@id": "ukesm1",
   "validation-key": "UKESM1",
   "ui-label": "",
   "description": "UK Earth System Model (based on HadGEM3)",
@@ -11,7 +11,7 @@
     "ocnbgchem"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:model-family"
   ]
 }

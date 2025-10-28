@@ -1,12 +1,12 @@
 {
-  "id": "3hr",
+  "@id": "3hr",
   "validation-key": "3hr",
   "ui-label": "",
   "description": "3 hourly mean samples",
   "long_name": "3 Hourly Frequency",
   "unit": "hour",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:frequency",
     "universal"
   ]

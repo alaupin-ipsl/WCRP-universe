@@ -1,5 +1,5 @@
 {
-  "id": "uomontreal",
+  "@id": "uomontreal",
   "validation-key": "UoMontreal",
   "ui-label": "Université de Montréal",
   "description": "",
@@ -13,8 +13,8 @@
     "University of Montreal"
   ],
   "location": {
-    "id": "universal:location/0161xgx34",
-    "type": "esgf:location",
+    "@id": "universal:location/0161xgx34",
+    "@type": "esgf:location",
     "lat": 45.50884,
     "lon": -73.58781,
     "city": "Montreal",
@@ -28,7 +28,7 @@
     "https://www.umontreal.ca"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

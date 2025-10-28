@@ -1,5 +1,5 @@
 {
-  "id": "ncas",
+  "@id": "ncas",
   "validation-key": "NCAS",
   "ui-label": "Uks",
   "description": "",
@@ -9,8 +9,8 @@
   "kind": "Facility",
   "labels": [],
   "location": {
-    "id": "universal:location/03q36cn05",
-    "type": "esgf:location",
+    "@id": "universal:location/03q36cn05",
+    "@type": "esgf:location",
     "lat": 33.72148,
     "lon": 73.04329,
     "city": "Islamabad",
@@ -24,7 +24,7 @@
     "http://www.uksresearch.com/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

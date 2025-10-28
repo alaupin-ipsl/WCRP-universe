@@ -1,5 +1,5 @@
 {
-  "id": "cams",
+  "@id": "cams",
   "validation-key": "CAMS",
   "ui-label": "Chinese Academy of Meteorological Sciences",
   "description": "",
@@ -20,15 +20,15 @@
       "lat": 39.9075,
       "lon": 116.39723
     },
-    "id": "universal:location/034b53w38",
-    "type": "location"
+    "@id": "universal:location/034b53w38",
+    "@type": "location"
   },
   "ror": "034b53w38",
   "url": [
     "http://www.camscma.cn/en.html"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "universal",
     "esgf:institution",
     "esgf:organisation"

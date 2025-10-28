@@ -1,10 +1,10 @@
 {
-  "id": "cubed-sphere",
+  "@id": "cubed-sphere",
   "validation-key": "cubed-sphere",
   "ui-label": "Cubed sphere",
   "description": "the spherical surface is defined as six coupled “logically square” regions",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-horizontal-grid-type",
     "universal"
   ]

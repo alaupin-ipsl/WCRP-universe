@@ -1,5 +1,5 @@
 {
-  "id": "ifs",
+  "@id": "ifs",
   "validation-key": "IFS",
   "ui-label": "",
   "description": "Integrated Forecasting System",
@@ -8,7 +8,7 @@
     "atmos"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:model-family"
   ]
 }

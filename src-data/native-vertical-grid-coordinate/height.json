@@ -1,10 +1,10 @@
 {
-  "id": "height",
+  "@id": "height",
   "validation-key": "height",
   "ui-label": "Height",
   "description": "Height is the vertical distance above the earth’s surface",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-vertical-grid-coordinate",
     "universal"
   ]

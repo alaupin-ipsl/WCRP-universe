@@ -1,10 +1,10 @@
 {
-  "id": "gridded-insitu",
+  "@id": "gridded-insitu",
   "validation-key": "gridded_insitu",
   "ui-label": "",
   "description": "gridded product based on measurements collected from in-situ instruments",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:source-type",
     "universal"
   ]

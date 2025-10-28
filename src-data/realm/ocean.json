@@ -1,10 +1,10 @@
 {
-  "id": "ocean",
+  "@id": "ocean",
   "validation-key": "ocean",
   "ui-label": "Ocean",
   "description": "Ocean",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:realm",
     "universal"
   ]

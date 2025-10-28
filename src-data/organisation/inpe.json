@@ -1,5 +1,5 @@
 {
-  "id": "inpe",
+  "@id": "inpe",
   "validation-key": "INPE",
   "ui-label": "National Institute for Space Research",
   "description": "",
@@ -13,8 +13,8 @@
     "Instituto Nacional de Pesquisas Espaciais"
   ],
   "location": {
-    "id": "universal:location/04xbn6x09",
-    "type": "esgf:location",
+    "@id": "universal:location/04xbn6x09",
+    "@type": "esgf:location",
     "lat": -23.17944,
     "lon": -45.88694,
     "city": "São José dos Campos",
@@ -28,7 +28,7 @@
     "http://www.inpe.br/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

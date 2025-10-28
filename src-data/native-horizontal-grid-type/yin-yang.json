@@ -1,10 +1,10 @@
 {
-  "id": "yin-yang",
+  "@id": "yin-yang",
   "validation-key": "yin-yang",
   "ui-label": "Yin yang",
   "description": "two overlapping grid patches",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-horizontal-grid-type",
     "universal"
   ]

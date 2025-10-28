@@ -1,10 +1,10 @@
 {
-  "id": "ocean",
+  "@id": "ocean",
   "validation-key": "ocean",
   "ui-label": "Ocean",
   "description": "dynamical, thermodynamical, and physical processes in the ocean",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:model-component-type",
     "universal"
   ]

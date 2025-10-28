@@ -1,5 +1,5 @@
 {
-  "id": "uoleeds",
+  "@id": "uoleeds",
   "validation-key": "UoLeeds",
   "ui-label": "University of Leeds",
   "description": "",
@@ -11,8 +11,8 @@
     "Prifysgol Leeds"
   ],
   "location": {
-    "id": "universal:location/024mrxd33",
-    "type": "esgf:location",
+    "@id": "universal:location/024mrxd33",
+    "@type": "esgf:location",
     "lat": 53.79648,
     "lon": -1.54785,
     "city": "Leeds",
@@ -26,7 +26,7 @@
     "https://www.leeds.ac.uk"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

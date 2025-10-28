@@ -1,5 +1,5 @@
 {
-  "id": "canesm",
+  "@id": "canesm",
   "validation-key": "CanESM",
   "ui-label": "",
   "description": "Canadian Earth System Model (developed by CCCma)",
@@ -11,7 +11,7 @@
     "ocnbgchem"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:model-family"
   ]
 }

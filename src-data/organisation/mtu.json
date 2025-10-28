@@ -1,5 +1,5 @@
 {
-  "id": "mtu",
+  "@id": "mtu",
   "validation-key": "MTU",
   "ui-label": "Michigan Technological University",
   "description": "",
@@ -13,8 +13,8 @@
   "kind": "Education",
   "labels": [],
   "location": {
-    "id": "universal:location/0036rpn28",
-    "type": "esgf:location",
+    "@id": "universal:location/0036rpn28",
+    "@type": "esgf:location",
     "lat": 47.12187,
     "lon": -88.56901,
     "city": "Houghton",
@@ -28,7 +28,7 @@
     "https://www.mtu.edu"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

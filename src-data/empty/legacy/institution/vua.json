@@ -1,5 +1,5 @@
 {
-  "id": "vua",
+  "@id": "vua",
   "validation-key": "VUA",
   "ui-label": "Vrije Universiteit Amsterdam",
   "description": "",
@@ -22,15 +22,15 @@
       "lat": 52.37403,
       "lon": 4.88969
     },
-    "id": "universal:location/008xxew50",
-    "type": "location"
+    "@id": "universal:location/008xxew50",
+    "@type": "location"
   },
   "ror": "008xxew50",
   "url": [
     "https://vu.nl/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "universal",
     "esgf:institution",
     "esgf:organisation"

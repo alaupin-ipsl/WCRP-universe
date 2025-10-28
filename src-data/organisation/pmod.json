@@ -1,5 +1,5 @@
 {
-  "id": "pmod",
+  "@id": "pmod",
   "validation-key": "PMOD",
   "ui-label": "Physikalisch-Meteorologisches Observatorium Davos",
   "description": "",
@@ -11,8 +11,8 @@
   "kind": "Facility",
   "labels": [],
   "location": {
-    "id": "universal:location/02gtrqv93",
-    "type": "esgf:location",
+    "@id": "universal:location/02gtrqv93",
+    "@type": "esgf:location",
     "lat": 46.80429,
     "lon": 9.83723,
     "city": "Davos",
@@ -26,7 +26,7 @@
     "https://www.pmodwrc.ch/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

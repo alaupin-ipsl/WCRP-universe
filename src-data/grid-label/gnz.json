@@ -1,11 +1,11 @@
 {
-  "id": "gnz",
+  "@id": "gnz",
   "validation-key": "gnz",
   "ui-label": "Grid Native Greenland Zonal Mean",
   "description": "zonal mean data reported on a model's native latitude grid",
   "region": "greenland",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:grid-label:['esgf:grid_label', 'universal']",
     "esgf:grid-label"
   ]

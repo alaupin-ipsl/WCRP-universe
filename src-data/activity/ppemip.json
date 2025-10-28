@@ -1,11 +1,11 @@
 {
-  "id": "ppemip",
+  "@id": "ppemip",
   "validation-key": "PPEMIP",
   "ui-label": "Perturbed Parameter Ensemble Model Inter-comparaison Project",
   "description": "",
   "url": "To",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:activity",
     "universal"
   ]

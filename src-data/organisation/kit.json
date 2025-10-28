@@ -1,5 +1,5 @@
 {
-  "id": "kit",
+  "@id": "kit",
   "validation-key": "KIT",
   "ui-label": "Karlsruhe Institute of Technology",
   "description": "",
@@ -16,8 +16,8 @@
     "Karlsruher Institut für Technologie"
   ],
   "location": {
-    "id": "universal:location/04t3en479",
-    "type": "esgf:location",
+    "@id": "universal:location/04t3en479",
+    "@type": "esgf:location",
     "lat": 49.00937,
     "lon": 8.40444,
     "city": "Karlsruhe",
@@ -31,7 +31,7 @@
     "https://www.kit.edu"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

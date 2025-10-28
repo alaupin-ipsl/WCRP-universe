@@ -1,5 +1,5 @@
 {
-  "id": "imperialcollege",
+  "@id": "imperialcollege",
   "validation-key": "ImperialCollege",
   "ui-label": "Imperial College London",
   "description": "",
@@ -13,8 +13,8 @@
     "Coleg Imperial Llundain"
   ],
   "location": {
-    "id": "universal:location/041kmwe10",
-    "type": "esgf:location",
+    "@id": "universal:location/041kmwe10",
+    "@type": "esgf:location",
     "lat": 51.50853,
     "lon": -0.12574,
     "city": "London",
@@ -28,7 +28,7 @@
     "https://www.imperial.ac.uk"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

@@ -1,5 +1,5 @@
 {
-  "id": "ua",
+  "@id": "ua",
   "validation-key": "UA",
   "ui-label": "University of Arizona",
   "description": "",
@@ -13,8 +13,8 @@
     "Universidad de Arizona"
   ],
   "location": {
-    "id": "universal:location/03m2x1q45",
-    "type": "esgf:location",
+    "@id": "universal:location/03m2x1q45",
+    "@type": "esgf:location",
     "lat": 32.22174,
     "lon": -110.92648,
     "city": "Tucson",
@@ -28,7 +28,7 @@
     "http://www.arizona.edu/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

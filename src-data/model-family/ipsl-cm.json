@@ -1,5 +1,5 @@
 {
-  "id": "ipsl-cm",
+  "@id": "ipsl-cm",
   "validation-key": "IPSL-CM",
   "ui-label": "",
   "description": "Institut Pierre-Simon Laplace model",
@@ -11,7 +11,7 @@
     "ocnbgchem"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:model-family"
   ]
 }

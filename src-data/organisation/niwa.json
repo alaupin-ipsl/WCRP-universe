@@ -1,5 +1,5 @@
 {
-  "id": "niwa",
+  "@id": "niwa",
   "validation-key": "NIWA",
   "ui-label": "National Institute of Water and Atmospheric Research",
   "description": "",
@@ -13,8 +13,8 @@
   "kind": "Facility",
   "labels": [],
   "location": {
-    "id": "universal:location/04hxcaz34",
-    "type": "esgf:location",
+    "@id": "universal:location/04hxcaz34",
+    "@type": "esgf:location",
     "lat": -36.84853,
     "lon": 174.76349,
     "city": "Auckland",
@@ -28,7 +28,7 @@
     "https://www.niwa.co.nz/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

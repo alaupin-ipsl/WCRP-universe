@@ -1,10 +1,10 @@
 {
-  "id": "regular-gaussian",
+  "@id": "regular-gaussian",
   "validation-key": "regular-gaussian",
   "ui-label": "Regular gaussian",
   "description": "a Gaussian grid for which the number of longitudinal points is constant for each latitude",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-horizontal-grid-type",
     "universal"
   ]

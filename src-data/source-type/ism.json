@@ -1,10 +1,10 @@
 {
-  "id": "ism",
+  "@id": "ism",
   "validation-key": "ISM",
   "ui-label": "",
   "description": "ice-sheet model that includes ice-flow",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:source-type",
     "universal"
   ]

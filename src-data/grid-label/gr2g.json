@@ -1,11 +1,11 @@
 {
-  "id": "gr2g",
+  "@id": "gr2g",
   "validation-key": "gr2g",
   "ui-label": "Regridded Greenland Alternate g",
   "description": "regridded data reported in the region of Greenland on a grid other than the native grid and other than the preferred target grid",
   "region": "greenland",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:grid-label:['esgf:grid_label', 'universal']",
     "esgf:grid-label"
   ]

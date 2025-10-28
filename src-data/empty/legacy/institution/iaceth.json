@@ -1,5 +1,5 @@
 {
-  "id": "iaceth",
+  "@id": "iaceth",
   "validation-key": "IACETH",
   "ui-label": "ETH Zurich",
   "description": "",
@@ -23,15 +23,15 @@
       "lat": 47.36667,
       "lon": 8.55
     },
-    "id": "universal:location/05a28rw58",
-    "type": "location"
+    "@id": "universal:location/05a28rw58",
+    "@type": "location"
   },
   "ror": "05a28rw58",
   "url": [
     "https://ethz.ch"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "universal",
     "esgf:institution",
     "esgf:organisation"

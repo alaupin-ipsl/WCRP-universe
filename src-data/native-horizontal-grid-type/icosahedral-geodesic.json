@@ -1,10 +1,10 @@
 {
-  "id": "icosahedral-geodesic",
+  "@id": "icosahedral-geodesic",
   "validation-key": "icosahedral-geodesic",
   "ui-label": "Icosahedral geodesic",
   "description": "a grid that uses triangular tiles based on the subdivision of an icosahedron",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-horizontal-grid-type",
     "universal"
   ]

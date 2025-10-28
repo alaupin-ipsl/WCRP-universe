@@ -1,12 +1,12 @@
 {
-  "id": "dec",
+  "@id": "dec",
   "validation-key": "dec",
   "ui-label": "",
   "description": "decadal mean samples",
   "long_name": "Decadal Frequency",
   "unit": "decade",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:frequency",
     "universal"
   ]

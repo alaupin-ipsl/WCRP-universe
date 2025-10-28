@@ -1,10 +1,10 @@
 {
-  "id": "global",
+  "@id": "global",
   "validation-key": "global",
   "ui-label": "Global",
   "description": "the geographical region of the whole of the Earth’s surface, as defined by the CF standardised regions",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-horizontal-grid-region",
     "universal"
   ]

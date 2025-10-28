@@ -1,11 +1,11 @@
 {
-  "id": "cordex",
+  "@id": "cordex",
   "validation-key": "CORDEX",
   "ui-label": "Coordinated Regional Climate Downscaling Experiment",
   "description": "",
   "url": "https://cordex.org",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:activity",
     "universal"
   ]

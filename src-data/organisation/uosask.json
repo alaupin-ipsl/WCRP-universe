@@ -1,5 +1,5 @@
 {
-  "id": "uosask",
+  "@id": "uosask",
   "validation-key": "UoSask",
   "ui-label": "University of Saskatchewan",
   "description": "",
@@ -13,8 +13,8 @@
     "Université de la saskatchewan"
   ],
   "location": {
-    "id": "universal:location/010x8gc63",
-    "type": "esgf:location",
+    "@id": "universal:location/010x8gc63",
+    "@type": "esgf:location",
     "lat": 52.13238,
     "lon": -106.66892,
     "city": "Saskatoon",
@@ -28,7 +28,7 @@
     "https://www.usask.ca/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

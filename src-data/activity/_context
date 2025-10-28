@@ -1,13 +1,6 @@
 {
-    "@context": [
-        "../_context_",
-        {
-            "@base": "https://wcrp-cmip.github.io/WCRP-universe/activity/",
-            "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/activity/"
-        }
-    ],
-    "@embed": "@always",
-    "@type": [
-        "universal"
-    ]
+    "@context": {
+        "@base": "https://wcrp-cmip.github.io/WCRP-universe/activity/",
+        "@vocab": "https://esgf.github.io/esgf-vocab/api_documentation/data_descriptors.html#esgvoc.api.data_descriptors.Activity"
+    }
 }

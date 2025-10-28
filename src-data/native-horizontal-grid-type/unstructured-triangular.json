@@ -1,10 +1,10 @@
 {
-  "id": "unstructured-triangular",
+  "@id": "unstructured-triangular",
   "validation-key": "unstructured-triangular",
   "ui-label": "Unstructured triangular",
   "description": "an unstructured mesh consisting solely of triangles",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-horizontal-grid-type",
     "universal"
   ]

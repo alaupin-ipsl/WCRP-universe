@@ -1,10 +1,10 @@
 {
-  "id": "none",
+  "@id": "none",
   "validation-key": "none",
   "ui-label": "None",
   "description": "no calendar",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:model-calendar",
     "universal"
   ]

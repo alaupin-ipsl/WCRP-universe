@@ -1,5 +1,5 @@
 {
-  "id": "ifm-geomar",
+  "@id": "ifm-geomar",
   "validation-key": "IFM-GEOMAR",
   "ui-label": "GEOMAR Helmholtz Centre for Ocean Research Kiel",
   "description": "",
@@ -15,8 +15,8 @@
     "GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel"
   ],
   "location": {
-    "id": "universal:location/02h2x0161",
-    "type": "esgf:location",
+    "@id": "universal:location/02h2x0161",
+    "@type": "esgf:location",
     "lat": 54.32133,
     "lon": 10.13489,
     "city": "Kiel",
@@ -30,7 +30,7 @@
     "https://www.geomar.de"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

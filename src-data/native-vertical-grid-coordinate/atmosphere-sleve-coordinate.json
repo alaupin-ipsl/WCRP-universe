@@ -1,10 +1,10 @@
 {
-  "id": "atmosphere-sleve-coordinate",
+  "@id": "atmosphere-sleve-coordinate",
   "validation-key": "atmosphere-sleve-coordinate",
   "ui-label": "Atmosphere sleve coordinate",
   "description": "Parametric atmosphere smooth vertical level coordinate",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-vertical-grid-coordinate",
     "universal"
   ]

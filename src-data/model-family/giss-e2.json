@@ -1,5 +1,5 @@
 {
-  "id": "giss-e2",
+  "@id": "giss-e2",
   "validation-key": "GISS-E2",
   "ui-label": "",
   "description": "NASA Goddard Institute for Space Studies model",
@@ -10,7 +10,7 @@
     "ocean"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:model-family"
   ]
 }

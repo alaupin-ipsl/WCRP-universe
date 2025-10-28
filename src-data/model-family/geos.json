@@ -1,5 +1,5 @@
 {
-  "id": "geos",
+  "@id": "geos",
   "validation-key": "GEOS",
   "ui-label": "",
   "description": "Goddard Earth Observing System",
@@ -9,7 +9,7 @@
     "land"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:model-family"
   ]
 }

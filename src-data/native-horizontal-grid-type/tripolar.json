@@ -1,10 +1,10 @@
 {
-  "id": "tripolar",
+  "@id": "tripolar",
   "validation-key": "tripolar",
   "ui-label": "Tripolar",
   "description": "a global curvilinear ocean grid with a southern pole and two northern poles all placed over land",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-horizontal-grid-type",
     "universal"
   ]

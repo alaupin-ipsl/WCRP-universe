@@ -1,10 +1,10 @@
 {
-  "id": "k",
+  "@id": "k",
   "validation-key": "K",
   "ui-label": "kelvin",
   "description": "unit for temperature",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-vertical-grid-units",
     "universal"
   ]

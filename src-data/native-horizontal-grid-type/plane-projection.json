@@ -1,10 +1,10 @@
 {
-  "id": "plane-projection",
+  "@id": "plane-projection",
   "validation-key": "plane-projection",
   "ui-label": "Plane projection",
   "description": "any transformation employed to represent the spherical surface of the globe on a plane",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-horizontal-grid-type",
     "universal"
   ]

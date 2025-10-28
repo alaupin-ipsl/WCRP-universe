@@ -1,10 +1,10 @@
 {
-  "id": "atmoschem",
+  "@id": "atmoschem",
   "validation-key": "atmosChem",
   "ui-label": "Atmospheric Chemistry",
   "description": "Atmospheric Chemistry",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:realm",
     "universal"
   ]

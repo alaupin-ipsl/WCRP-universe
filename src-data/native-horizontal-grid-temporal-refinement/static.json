@@ -1,10 +1,10 @@
 {
-  "id": "static",
+  "@id": "static",
   "validation-key": "static",
   "ui-label": "Static",
   "description": "the total number of grid points stays constant during the model run and there is no grid refinement, i",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-horizontal-grid-temporal-refinement",
     "universal"
   ]

@@ -1,10 +1,10 @@
 {
-  "id": "sea-water-pressure",
+  "@id": "sea-water-pressure",
   "validation-key": "sea-water-pressure",
   "ui-label": "Sea water pressure",
   "description": "Sea water pressure is the pressure that exists in the medium of sea water",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-vertical-grid-coordinate",
     "universal"
   ]

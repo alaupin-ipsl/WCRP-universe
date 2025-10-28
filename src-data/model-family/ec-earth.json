@@ -1,5 +1,5 @@
 {
-  "id": "ec-earth",
+  "@id": "ec-earth",
   "validation-key": "EC-Earth",
   "ui-label": "",
   "description": "Community-developed Earth system model based on IFS",
@@ -11,7 +11,7 @@
     "seaice"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:model-family"
   ]
 }

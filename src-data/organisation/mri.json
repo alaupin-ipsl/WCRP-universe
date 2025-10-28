@@ -1,5 +1,5 @@
 {
-  "id": "mri",
+  "@id": "mri",
   "validation-key": "MRI",
   "ui-label": "Japan Meteorological Agency",
   "description": "",
@@ -15,8 +15,8 @@
     "気象庁"
   ],
   "location": {
-    "id": "universal:location/02772kk97",
-    "type": "esgf:location",
+    "@id": "universal:location/02772kk97",
+    "@type": "esgf:location",
     "lat": 35.6895,
     "lon": 139.69171,
     "city": "Tokyo",
@@ -30,7 +30,7 @@
     "http://www.jma.go.jp/jma/indexe.html"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

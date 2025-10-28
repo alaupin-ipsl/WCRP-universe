@@ -1,5 +1,5 @@
 {
-  "id": "jaxa",
+  "@id": "jaxa",
   "validation-key": "JAXA",
   "ui-label": "Japan Aerospace Exploration Agency",
   "description": "",
@@ -16,8 +16,8 @@
     "宇宙航空研究開発機構"
   ],
   "location": {
-    "id": "universal:location/059yhyy33",
-    "type": "esgf:location",
+    "@id": "universal:location/059yhyy33",
+    "@type": "esgf:location",
     "lat": 35.6895,
     "lon": 139.69171,
     "city": "Tokyo",
@@ -31,7 +31,7 @@
     "https://www.jaxa.jp"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

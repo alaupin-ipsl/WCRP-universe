@@ -1,10 +1,10 @@
 {
-  "id": "360-day",
+  "@id": "360-day",
   "validation-key": "360-day",
   "ui-label": "360 day",
   "description": "a calendar in which all years are 360 days, and divided into 30 day months",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:model-calendar",
     "universal"
   ]

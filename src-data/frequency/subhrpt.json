@@ -1,12 +1,12 @@
 {
-  "id": "subhrpt",
+  "@id": "subhrpt",
   "validation-key": "subhrPt",
   "ui-label": "",
   "description": "sampled sub-hourly, at specified time point within an hour",
   "long_name": "Sub-Hourly Point",
   "unit": "minute",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:frequency",
     "universal"
   ]

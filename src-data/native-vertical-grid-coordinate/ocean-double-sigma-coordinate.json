@@ -1,10 +1,10 @@
 {
-  "id": "ocean-double-sigma-coordinate",
+  "@id": "ocean-double-sigma-coordinate",
   "validation-key": "ocean-double-sigma-coordinate",
   "ui-label": "Ocean double sigma coordinate",
   "description": "Parametric ocean double sigma coordinate",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-vertical-grid-coordinate",
     "universal"
   ]

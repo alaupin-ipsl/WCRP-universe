@@ -1,5 +1,5 @@
 {
-  "id": "cmip7",
+  "@id": "cmip7",
   "validation-key": "CMIP7",
   "ui-label": "",
   "description": "",
@@ -7,7 +7,7 @@
   "start": 2025,
   "url": "https://wcrp-cmip.org/CMIP7",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:mip",
     "universal"
   ]

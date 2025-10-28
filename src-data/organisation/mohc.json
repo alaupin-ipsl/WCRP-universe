@@ -1,5 +1,5 @@
 {
-  "id": "mohc",
+  "@id": "mohc",
   "validation-key": "MOHC",
   "ui-label": "Met Office",
   "description": "",
@@ -11,8 +11,8 @@
   "kind": "Funder",
   "labels": [],
   "location": {
-    "id": "universal:location/01ch2yn61",
-    "type": "esgf:location",
+    "@id": "universal:location/01ch2yn61",
+    "@type": "esgf:location",
     "lat": 50.7236,
     "lon": -3.52751,
     "city": "Exeter",
@@ -26,7 +26,7 @@
     "http://www.metoffice.gov.uk/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

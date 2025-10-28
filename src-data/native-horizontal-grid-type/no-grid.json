@@ -1,10 +1,10 @@
 {
-  "id": "no-grid",
+  "@id": "no-grid",
   "validation-key": "no-grid",
   "ui-label": "No grid",
   "description": "there is no horizontal grid",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-horizontal-grid-type",
     "universal"
   ]

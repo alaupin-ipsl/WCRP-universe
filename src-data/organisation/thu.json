@@ -1,5 +1,5 @@
 {
-  "id": "thu",
+  "@id": "thu",
   "validation-key": "THU",
   "ui-label": "Tsinghua University",
   "description": "",
@@ -13,8 +13,8 @@
     "清华大学"
   ],
   "location": {
-    "id": "universal:location/03cve4549",
-    "type": "esgf:location",
+    "@id": "universal:location/03cve4549",
+    "@type": "esgf:location",
     "lat": 39.9075,
     "lon": 116.39723,
     "city": "Beijing",
@@ -28,7 +28,7 @@
     "https://www.tsinghua.edu.cn"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

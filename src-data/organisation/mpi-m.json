@@ -1,5 +1,5 @@
 {
-  "id": "mpi-m",
+  "@id": "mpi-m",
   "validation-key": "MPI-M",
   "ui-label": "Max Planck Institute for Meteorology",
   "description": "",
@@ -13,8 +13,8 @@
     "Max-Planck-Institut für Meteorologie"
   ],
   "location": {
-    "id": "universal:location/05esem239",
-    "type": "esgf:location",
+    "@id": "universal:location/05esem239",
+    "@type": "esgf:location",
     "lat": 53.55073,
     "lon": 9.99302,
     "city": "Hamburg",
@@ -28,7 +28,7 @@
     "http://www.mpimet.mpg.de/en/home.html"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

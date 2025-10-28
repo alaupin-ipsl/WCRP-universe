@@ -1,5 +1,5 @@
 {
-  "id": "cnrm-cm",
+  "@id": "cnrm-cm",
   "validation-key": "CNRM-CM",
   "ui-label": "",
   "description": "Centre National de Recherches Météorologiques model",
@@ -10,7 +10,7 @@
     "ocean"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:model-family"
   ]
 }

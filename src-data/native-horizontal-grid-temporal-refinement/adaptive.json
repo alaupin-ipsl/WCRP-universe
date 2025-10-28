@@ -1,10 +1,10 @@
 {
-  "id": "adaptive",
+  "@id": "adaptive",
   "validation-key": "adaptive",
   "ui-label": "Adaptive",
   "description": "the total number of grid points varies during the model run",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-horizontal-grid-temporal-refinement",
     "universal"
   ]

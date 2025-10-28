@@ -1,5 +1,5 @@
 {
-  "id": "uoleeds",
+  "@id": "uoleeds",
   "validation-key": "UoLeeds",
   "ui-label": "University of Leeds",
   "description": "",
@@ -18,15 +18,15 @@
       "lat": 53.79648,
       "lon": 53.79648
     },
-    "id": "universal:location/024mrxd33",
-    "type": "location"
+    "@id": "universal:location/024mrxd33",
+    "@type": "location"
   },
   "ror": "024mrxd33",
   "url": [
     "http://www.leeds.ac.uk/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "universal",
     "esgf:institution",
     "esgf:organisation"

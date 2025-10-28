@@ -1,11 +1,11 @@
 {
-  "id": "omip",
+  "@id": "omip",
   "validation-key": "OMIP",
   "ui-label": "Ocean Model Intercomparison Project",
   "description": "",
   "url": "https://OceanMIP.github.io",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:activity",
     "universal"
   ]

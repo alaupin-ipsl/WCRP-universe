@@ -1,5 +1,5 @@
 {
-  "id": "hadgem3",
+  "@id": "hadgem3",
   "validation-key": "HadGEM3",
   "ui-label": "",
   "description": "Hadley Centre Global Environment Model",
@@ -11,7 +11,7 @@
     "seaice"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:model-family"
   ]
 }

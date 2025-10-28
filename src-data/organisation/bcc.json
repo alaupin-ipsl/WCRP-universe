@@ -1,5 +1,5 @@
 {
-  "id": "bcc",
+  "@id": "bcc",
   "validation-key": "BCC",
   "ui-label": "Beijing Biocytogen (China)",
   "description": "",
@@ -9,8 +9,8 @@
   "kind": "Company",
   "labels": [],
   "location": {
-    "id": "universal:location/01spyyb53",
-    "type": "esgf:location",
+    "@id": "universal:location/01spyyb53",
+    "@type": "esgf:location",
     "lat": 39.9075,
     "lon": 116.39723,
     "city": "Beijing",
@@ -24,7 +24,7 @@
     "http://www.bbctg.com.cn/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

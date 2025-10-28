@@ -1,10 +1,10 @@
 {
-  "id": "atmosphere-hybrid-height-coordinate",
+  "@id": "atmosphere-hybrid-height-coordinate",
   "validation-key": "atmosphere-hybrid-height-coordinate",
   "ui-label": "Atmosphere hybrid height coordinate",
   "description": "Parametric atmosphere hybrid height coordinate",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-vertical-grid-coordinate",
     "universal"
   ]

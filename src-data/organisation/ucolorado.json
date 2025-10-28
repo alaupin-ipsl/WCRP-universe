@@ -1,5 +1,5 @@
 {
-  "id": "ucolorado",
+  "@id": "ucolorado",
   "validation-key": "UColorado",
   "ui-label": "University of Colorado System",
   "description": "",
@@ -14,8 +14,8 @@
     "Université du Colorado"
   ],
   "location": {
-    "id": "universal:location/00jc20583",
-    "type": "esgf:location",
+    "@id": "universal:location/00jc20583",
+    "@type": "esgf:location",
     "lat": 40.01499,
     "lon": -105.27055,
     "city": "Boulder",
@@ -29,7 +29,7 @@
     "http://www.cu.edu/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

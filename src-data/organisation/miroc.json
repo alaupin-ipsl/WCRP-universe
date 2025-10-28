@@ -1,5 +1,5 @@
 {
-  "id": "miroc",
+  "@id": "miroc",
   "validation-key": "MIROC",
   "ui-label": "MIROC Consortium",
   "description": "",
@@ -25,7 +25,7 @@
   "status": "active",
   "url": "",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:consortium",
     "universal",
     "esgf:organisation"

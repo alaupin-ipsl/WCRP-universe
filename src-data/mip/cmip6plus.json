@@ -1,5 +1,5 @@
 {
-  "id": "cmip6plus",
+  "@id": "cmip6plus",
   "validation-key": "CMIP6Plus",
   "ui-label": "",
   "description": "",
@@ -7,7 +7,7 @@
   "start": 2023,
   "url": "https://wcrp-cmip.org/CMIP6Plus",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:mip",
     "universal"
   ]

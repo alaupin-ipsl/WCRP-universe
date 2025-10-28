@@ -1,11 +1,11 @@
 {
-  "id": "sofiamip",
+  "@id": "sofiamip",
   "validation-key": "SOFIAMIP",
   "ui-label": "Southern Ocean Freshwater Input from Antarctica Model Intercomparison Project",
   "description": "",
   "url": "https://sofiamip.github.io/",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:activity",
     "universal"
   ]

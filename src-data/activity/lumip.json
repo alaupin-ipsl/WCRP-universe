@@ -1,11 +1,11 @@
 {
-  "id": "lumip",
+  "@id": "lumip",
   "validation-key": "LUMIP",
   "ui-label": "Land-Use Model Intercomparison Project",
   "description": "",
   "url": "https://www.cesm.ucar.edu/projects/cmip6/lumip",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:activity",
     "universal"
   ]

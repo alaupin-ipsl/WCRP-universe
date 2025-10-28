@@ -1,11 +1,11 @@
 {
-  "id": "gng",
+  "@id": "gng",
   "validation-key": "gng",
   "ui-label": "Grid Native Greenland",
   "description": "data reported on a native grid in the region of Greenland",
   "region": "greenland",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:grid-label:['esgf:grid_label', 'universal']",
     "esgf:grid-label"
   ]

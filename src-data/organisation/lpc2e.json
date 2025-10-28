@@ -1,5 +1,5 @@
 {
-  "id": "lpc2e",
+  "@id": "lpc2e",
   "validation-key": "LPC2E",
   "ui-label": "Laboratoire de Physique et Chimie de l’Environnement et de l’Espace",
   "description": "",
@@ -12,8 +12,8 @@
   "kind": "Facility",
   "labels": [],
   "location": {
-    "id": "universal:location/049k66y27",
-    "type": "esgf:location",
+    "@id": "universal:location/049k66y27",
+    "@type": "esgf:location",
     "lat": 47.90289,
     "lon": 1.90389,
     "city": "Orléans",
@@ -27,7 +27,7 @@
     "https://www.lpc2e.cnrs.fr"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

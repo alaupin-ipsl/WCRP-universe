@@ -1,10 +1,10 @@
 {
-  "id": "ocean-s-coordinate",
+  "@id": "ocean-s-coordinate",
   "validation-key": "ocean-s-coordinate",
   "ui-label": "Ocean s coordinate",
   "description": "Parametric ocean s-coordinate",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-vertical-grid-coordinate",
     "universal"
   ]

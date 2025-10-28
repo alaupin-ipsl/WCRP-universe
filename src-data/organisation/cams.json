@@ -1,5 +1,5 @@
 {
-  "id": "cams",
+  "@id": "cams",
   "validation-key": "CAMS",
   "ui-label": "Chinese Academy of Meteorological Sciences",
   "description": "",
@@ -13,8 +13,8 @@
     "中国气象科学研究院"
   ],
   "location": {
-    "id": "universal:location/034b53w38",
-    "type": "esgf:location",
+    "@id": "universal:location/034b53w38",
+    "@type": "esgf:location",
     "lat": 39.9075,
     "lon": 116.39723,
     "city": "Beijing",
@@ -28,7 +28,7 @@
     "http://www.camscma.cn/en.html"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

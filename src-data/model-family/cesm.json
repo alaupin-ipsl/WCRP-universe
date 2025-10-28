@@ -1,5 +1,5 @@
 {
-  "id": "cesm",
+  "@id": "cesm",
   "validation-key": "CESM",
   "ui-label": "",
   "description": "Community Earth System Model",
@@ -12,7 +12,7 @@
     "ocnbgchem"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:model-family"
   ]
 }

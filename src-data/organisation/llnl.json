@@ -1,5 +1,5 @@
 {
-  "id": "llnl",
+  "@id": "llnl",
   "validation-key": "LLNL",
   "ui-label": "Lawrence Livermore National Laboratory",
   "description": "",
@@ -19,8 +19,8 @@
     "Laboratorio Nacional Lawrence Livermore"
   ],
   "location": {
-    "id": "universal:location/041nk4h53",
-    "type": "esgf:location",
+    "@id": "universal:location/041nk4h53",
+    "@type": "esgf:location",
     "lat": 37.68187,
     "lon": -121.76801,
     "city": "Livermore",
@@ -34,7 +34,7 @@
     "https://www.llnl.gov"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

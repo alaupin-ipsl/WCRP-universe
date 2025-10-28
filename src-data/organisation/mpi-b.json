@@ -1,5 +1,5 @@
 {
-  "id": "mpi-b",
+  "@id": "mpi-b",
   "validation-key": "MPI-B",
   "ui-label": "Max Planck Institute for Biogeochemistry",
   "description": "",
@@ -15,8 +15,8 @@
     "Max-Planck-Institut für Biogeochemie"
   ],
   "location": {
-    "id": "universal:location/051yxp643",
-    "type": "esgf:location",
+    "@id": "universal:location/051yxp643",
+    "@type": "esgf:location",
     "lat": 50.92878,
     "lon": 11.5899,
     "city": "Jena",
@@ -30,7 +30,7 @@
     "https://www.bgc-jena.mpg.de"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

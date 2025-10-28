@@ -1,5 +1,5 @@
 {
-  "id": "pcmdi",
+  "@id": "pcmdi",
   "validation-key": "PCMDI",
   "ui-label": "Program for Climate Model Diagnosis and Intercomparison",
   "description": "",
@@ -11,8 +11,8 @@
   "kind": "Facility",
   "labels": [],
   "location": {
-    "id": "universal:location/02k3nmd98",
-    "type": "esgf:location",
+    "@id": "universal:location/02k3nmd98",
+    "@type": "esgf:location",
     "lat": 37.68187,
     "lon": -121.76801,
     "city": "Livermore",
@@ -26,7 +26,7 @@
     "https://pcmdi.llnl.gov"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

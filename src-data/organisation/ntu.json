@@ -1,5 +1,5 @@
 {
-  "id": "ntu",
+  "@id": "ntu",
   "validation-key": "NTU",
   "ui-label": "National Taiwan University",
   "description": "",
@@ -11,8 +11,8 @@
   "kind": "Education",
   "labels": [],
   "location": {
-    "id": "universal:location/05bqach95",
-    "type": "esgf:location",
+    "@id": "universal:location/05bqach95",
+    "@type": "esgf:location",
     "lat": 25.05306,
     "lon": 121.52639,
     "city": "Taipei",
@@ -26,7 +26,7 @@
     "http://www.ntu.edu.tw/english/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

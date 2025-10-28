@@ -1,10 +1,10 @@
 {
-  "id": "ocnbgchem",
+  "@id": "ocnbgchem",
   "validation-key": "ocnBgchem",
   "ui-label": "Ocean Biogeochemistry",
   "description": "Ocean Biogeochemistry",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:realm",
     "universal"
   ]

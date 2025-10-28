@@ -1,5 +1,5 @@
 {
-  "id": "dwd",
+  "@id": "dwd",
   "validation-key": "DWD",
   "ui-label": "Deutscher Wetterdienst",
   "description": "",
@@ -13,8 +13,8 @@
   "kind": "Facility",
   "labels": [],
   "location": {
-    "id": "universal:location/02nrqs528",
-    "type": "esgf:location",
+    "@id": "universal:location/02nrqs528",
+    "@type": "esgf:location",
     "lat": 50.10061,
     "lon": 8.76647,
     "city": "Offenbach",
@@ -28,7 +28,7 @@
     "https://www.dwd.de"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

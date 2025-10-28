@@ -1,5 +1,5 @@
 {
-  "id": "gfdl-cm4",
+  "@id": "gfdl-cm4",
   "validation-key": "GFDL-CM4",
   "ui-label": "",
   "description": "NOAA Geophysical Fluid Dynamics Laboratory model",
@@ -11,7 +11,7 @@
     "ocnbgchem"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:model-family"
   ]
 }

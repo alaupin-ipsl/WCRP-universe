@@ -1,5 +1,5 @@
 {
-  "id": "ipsl",
+  "@id": "ipsl",
   "validation-key": "IPSL",
   "ui-label": "Institut Pierre-Simon Laplace",
   "description": "",
@@ -11,8 +11,8 @@
   "kind": "Facility",
   "labels": [],
   "location": {
-    "id": "universal:location/02haar591",
-    "type": "esgf:location",
+    "@id": "universal:location/02haar591",
+    "@type": "esgf:location",
     "lat": 48.85341,
     "lon": 2.3488,
     "city": "Paris",
@@ -26,7 +26,7 @@
     "https://www.ipsl.fr/en/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

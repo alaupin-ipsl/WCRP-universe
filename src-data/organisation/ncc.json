@@ -1,5 +1,5 @@
 {
-  "id": "ncc",
+  "@id": "ncc",
   "validation-key": "NCC",
   "ui-label": "NCC Consortium",
   "description": "",
@@ -37,7 +37,7 @@
   "status": "active",
   "url": "",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:consortium",
     "universal",
     "esgf:organisation"

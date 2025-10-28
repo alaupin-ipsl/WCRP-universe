@@ -1,10 +1,10 @@
 {
-  "id": "ocean-s-coordinate-g1",
+  "@id": "ocean-s-coordinate-g1",
   "validation-key": "ocean-s-coordinate-g1",
   "ui-label": "Ocean s coordinate g1",
   "description": "Parametric ocean s-coordinate, generic form 1",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-vertical-grid-coordinate",
     "universal"
   ]

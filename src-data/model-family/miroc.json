@@ -1,5 +1,5 @@
 {
-  "id": "miroc",
+  "@id": "miroc",
   "validation-key": "MIROC",
   "ui-label": "",
   "description": "Model for Interdisciplinary Research on Climate",
@@ -11,7 +11,7 @@
     "seaice"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:model-family"
   ]
 }

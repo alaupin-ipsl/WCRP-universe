@@ -1,5 +1,5 @@
 {
-  "id": "cnes",
+  "@id": "cnes",
   "validation-key": "CNES",
   "ui-label": "Centre National d'Études Spatiales",
   "description": "",
@@ -13,8 +13,8 @@
     "National Centre for Space Studies"
   ],
   "location": {
-    "id": "universal:location/04h1h0y33",
-    "type": "esgf:location",
+    "@id": "universal:location/04h1h0y33",
+    "@type": "esgf:location",
     "lat": 48.85341,
     "lon": 2.3488,
     "city": "Paris",
@@ -28,7 +28,7 @@
     "https://www.cnes.fr"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

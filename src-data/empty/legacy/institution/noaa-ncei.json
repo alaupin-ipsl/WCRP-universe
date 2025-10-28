@@ -1,5 +1,5 @@
 {
-  "id": "noaa-ncei",
+  "@id": "noaa-ncei",
   "validation-key": "NOAA-NCEI",
   "ui-label": "NOAA National Centers for Environmental Information",
   "description": "",
@@ -27,15 +27,15 @@
       "lat": 35.60095,
       "lon": -82.55402
     },
-    "id": "universal:location/04r0wrp59",
-    "type": "location"
+    "@id": "universal:location/04r0wrp59",
+    "@type": "location"
   },
   "ror": "04r0wrp59",
   "url": [
     "https://www.ncei.noaa.gov"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "universal",
     "esgf:institution",
     "esgf:organisation"

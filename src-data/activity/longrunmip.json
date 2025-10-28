@@ -1,11 +1,11 @@
 {
-  "id": "longrunmip",
+  "@id": "longrunmip",
   "validation-key": "LongRunMIP",
   "ui-label": "LongRunMIP",
   "description": "",
   "url": "https://www.longrunmip.org/",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:activity",
     "universal"
   ]

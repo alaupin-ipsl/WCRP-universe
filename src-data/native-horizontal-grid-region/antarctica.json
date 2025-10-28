@@ -1,10 +1,10 @@
 {
-  "id": "antarctica",
+  "@id": "antarctica",
   "validation-key": "antarctica",
   "ui-label": "Antarctica",
   "description": "the geographical region of Antarctica, as defined by the CF standardised regions",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-horizontal-grid-region",
     "universal"
   ]

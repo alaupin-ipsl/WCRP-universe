@@ -1,5 +1,5 @@
 {
-  "id": "nasa-larc",
+  "@id": "nasa-larc",
   "validation-key": "NASA-LaRC",
   "ui-label": "Langley Research Center",
   "description": "",
@@ -20,15 +20,15 @@
       "lat": 37.02987,
       "lon": -76.34522
     },
-    "id": "universal:location/0399mhs52",
-    "type": "location"
+    "@id": "universal:location/0399mhs52",
+    "@type": "location"
   },
   "ror": "0399mhs52",
   "url": [
     "http://www.nasa.gov/langley"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "universal",
     "esgf:institution",
     "esgf:organisation"

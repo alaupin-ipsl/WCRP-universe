@@ -1,5 +1,5 @@
 {
-  "id": "mpi-esm",
+  "@id": "mpi-esm",
   "validation-key": "MPI-ESM",
   "ui-label": "",
   "description": "Max Planck Institute Earth System Model",
@@ -11,7 +11,7 @@
     "ocnbgchem"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:model-family"
   ]
 }

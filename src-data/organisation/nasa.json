@@ -1,5 +1,5 @@
 {
-  "id": "nasa",
+  "@id": "nasa",
   "validation-key": "NASA",
   "ui-label": "National Aeronautics and Space Administration",
   "description": "",
@@ -15,8 +15,8 @@
   "kind": "Funder",
   "labels": [],
   "location": {
-    "id": "universal:location/027ka1x80",
-    "type": "esgf:location",
+    "@id": "universal:location/027ka1x80",
+    "@type": "esgf:location",
     "lat": 38.89511,
     "lon": -77.03637,
     "city": "Washington",
@@ -30,7 +30,7 @@
     "http://www.nasa.gov"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

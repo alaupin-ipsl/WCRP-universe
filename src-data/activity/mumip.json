@@ -1,11 +1,11 @@
 {
-  "id": "mumip",
+  "@id": "mumip",
   "validation-key": "MUMIP",
   "ui-label": "Model Uncertainty Model Intercomparison Project",
   "description": "",
   "url": "https://mumip.web.ox.ac.uk",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:activity",
     "universal"
   ]

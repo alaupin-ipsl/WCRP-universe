@@ -1,5 +1,5 @@
 {
-  "id": "solaris-heppa",
+  "@id": "solaris-heppa",
   "validation-key": "SOLARIS HEPPA",
   "ui-label": "SOLARIS HEPPA Consortium",
   "description": "",
@@ -96,7 +96,7 @@
   },
   "url": "https://solarisheppa.geomar.de",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:consortium",
     "universal",
     "esgf:organisation"

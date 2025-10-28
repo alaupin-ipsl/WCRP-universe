@@ -1,10 +1,10 @@
 {
-  "id": "slab",
+  "@id": "slab",
   "validation-key": "SLAB",
   "ui-label": "",
   "description": "slab-ocean used with an AGCM in representing the atmosphere-ocean coupled system",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:source-type",
     "universal"
   ]

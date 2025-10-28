@@ -1,5 +1,5 @@
 {
-  "id": "ceda",
+  "@id": "ceda",
   "validation-key": "CEDA",
   "ui-label": "Centre for Environmental Data Analysis",
   "description": "",
@@ -11,8 +11,8 @@
   "kind": "Government",
   "labels": [],
   "location": {
-    "id": "universal:location/04j4kad11",
-    "type": "esgf:location",
+    "@id": "universal:location/04j4kad11",
+    "@type": "esgf:location",
     "lat": 53.41667,
     "lon": -0.96667,
     "city": "Harwell",
@@ -26,7 +26,7 @@
     "https://www.ceda.ac.uk/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

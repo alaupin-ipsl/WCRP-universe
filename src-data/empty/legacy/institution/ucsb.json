@@ -1,5 +1,5 @@
 {
-  "id": "ucsb",
+  "@id": "ucsb",
   "validation-key": "UCSB",
   "ui-label": "University of California, Santa Barbara",
   "description": "",
@@ -22,15 +22,15 @@
       "lat": 34.42083,
       "lon": -119.69819
     },
-    "id": "universal:location/02t274463",
-    "type": "location"
+    "@id": "universal:location/02t274463",
+    "@type": "location"
   },
   "ror": "02t274463",
   "url": [
     "http://www.ucsb.edu/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "universal",
     "esgf:institution",
     "esgf:organisation"

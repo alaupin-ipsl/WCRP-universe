@@ -1,5 +1,5 @@
 {
-  "id": "cam",
+  "@id": "cam",
   "validation-key": "CAM",
   "ui-label": "",
   "description": "Community Atmosphere Model",
@@ -8,7 +8,7 @@
     "atmos"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:model-family"
   ]
 }

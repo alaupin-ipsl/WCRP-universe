@@ -1,11 +1,11 @@
 {
-  "id": "cc0-1.0",
+  "@id": "cc0-1.0",
   "validation-key": "CC0 1.0",
   "ui-label": "Creative Commons CC0 1.0 Universal Public Domain Dedication",
   "description": "",
   "url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:license",
     "universal"
   ]

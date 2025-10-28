@@ -1,5 +1,5 @@
 {
-  "id": "bas",
+  "@id": "bas",
   "validation-key": "BAS",
   "ui-label": "British Antarctic Survey",
   "description": "",
@@ -20,15 +20,15 @@
       "lat": 52.212965,
       "lon": 52.212965
     },
-    "id": "universal:location/01rhff309",
-    "type": "location"
+    "@id": "universal:location/01rhff309",
+    "@type": "location"
   },
   "ror": "01rhff309",
   "url": [
     "https://www.bas.ac.uk/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "universal",
     "esgf:institution",
     "esgf:organisation"

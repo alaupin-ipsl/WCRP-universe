@@ -1,5 +1,5 @@
 {
-  "id": "uom",
+  "@id": "uom",
   "validation-key": "UoM",
   "ui-label": "The University of Melbourne",
   "description": "",
@@ -12,8 +12,8 @@
   "kind": "Education",
   "labels": [],
   "location": {
-    "id": "universal:location/01ej9dk98",
-    "type": "esgf:location",
+    "@id": "universal:location/01ej9dk98",
+    "@type": "esgf:location",
     "lat": -37.814,
     "lon": 144.96332,
     "city": "Melbourne",
@@ -27,7 +27,7 @@
     "https://www.unimelb.edu.au"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

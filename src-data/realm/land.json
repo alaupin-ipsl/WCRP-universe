@@ -1,10 +1,10 @@
 {
-  "id": "land",
+  "@id": "land",
   "validation-key": "land",
   "ui-label": "Land Surface and Subsurface",
   "description": "Land Surface and Subsurface",
   "@context": "_context",
-  "type": [
+  "@type": [
     "universal",
     "esgf:realm"
   ]

@@ -1,14 +1,6 @@
 {
-    "@context": [
-        "../_context_",
-        {
-            "@base": "https://wcrp-cmip.github.io/WCRP-universe/native-horizontal-grid-region/",
-            "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/native-horizontal-grid-region/"
-        }
-    ],
-    "@embed": "@always",
-    "@type": [
-        "universal",
-        "wcrp:native-horizontal-grid-region"
-    ]
+    "@context": {
+        "@base": "https://wcrp-cmip.github.io/WCRP-universe/native_horizontal_grid_region/",
+        "@vocab": "https://esgf.github.io/esgf-vocab/api_documentation/data_descriptors.html#esgvoc.api.data_descriptors.NativeHorizontalGridRegion"
+    }
 }

@@ -1,10 +1,10 @@
 {
-  "id": "aerosol",
+  "@id": "aerosol",
   "validation-key": "aerosol",
   "ui-label": "Aerosol",
   "description": "Aerosol",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:realm",
     "universal"
   ]

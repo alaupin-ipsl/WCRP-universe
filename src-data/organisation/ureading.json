@@ -1,5 +1,5 @@
 {
-  "id": "ureading",
+  "@id": "ureading",
   "validation-key": "UReading",
   "ui-label": "University of Reading",
   "description": "",
@@ -9,8 +9,8 @@
   "kind": "Education",
   "labels": [],
   "location": {
-    "id": "universal:location/05v62cm79",
-    "type": "esgf:location",
+    "@id": "universal:location/05v62cm79",
+    "@type": "esgf:location",
     "lat": 51.45625,
     "lon": -0.97113,
     "city": "Reading",
@@ -24,7 +24,7 @@
     "https://www.reading.ac.uk"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

@@ -1,10 +1,10 @@
 {
-  "id": "366-day",
+  "@id": "366-day",
   "validation-key": "366-day",
   "ui-label": "366 day",
   "description": "a calendar in which every year is a leap year, i",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:model-calendar",
     "universal"
   ]

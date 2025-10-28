@@ -1,5 +1,5 @@
 {
-  "id": "nasa-jpl",
+  "@id": "nasa-jpl",
   "validation-key": "NASA-JPL",
   "ui-label": "Jet Propulsion Laboratory",
   "description": "",
@@ -16,8 +16,8 @@
     "Laboratorio de Propulsión a Chorro"
   ],
   "location": {
-    "id": "universal:location/027k65916",
-    "type": "esgf:location",
+    "@id": "universal:location/027k65916",
+    "@type": "esgf:location",
     "lat": 34.19917,
     "lon": -118.18785,
     "city": "La Cañada Flintridge",
@@ -31,7 +31,7 @@
     "http://www.jpl.nasa.gov/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

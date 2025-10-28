@@ -1,5 +1,5 @@
 {
-  "id": "nuist",
+  "@id": "nuist",
   "validation-key": "NUIST",
   "ui-label": "Nanjing University",
   "description": "",
@@ -16,8 +16,8 @@
     "南京大学"
   ],
   "location": {
-    "id": "universal:location/01rxvg760",
-    "type": "esgf:location",
+    "@id": "universal:location/01rxvg760",
+    "@type": "esgf:location",
     "lat": 32.06167,
     "lon": 118.77778,
     "city": "Nanjing",
@@ -31,7 +31,7 @@
     "http://www.nju.edu.cn/english/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

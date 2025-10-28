@@ -1,11 +1,11 @@
 {
-  "id": "gr4z",
+  "@id": "gr4z",
   "validation-key": "gr4z",
   "ui-label": "Regridded Greenland Zonal Mean Alternate z",
   "description": "regridded zonal mean data reported on a grid other than the native latitude grid and other than the preferred latitude target grid",
   "region": "greenland",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:grid-label:['esgf:grid_label', 'universal']",
     "esgf:grid-label"
   ]

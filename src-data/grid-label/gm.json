@@ -1,11 +1,11 @@
 {
-  "id": "gm",
+  "@id": "gm",
   "validation-key": "gm",
   "ui-label": "Greenland",
   "description": "global mean data",
   "region": "greenland",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:grid-label:['esgf:grid_label', 'universal']",
     "esgf:grid-label"
   ]

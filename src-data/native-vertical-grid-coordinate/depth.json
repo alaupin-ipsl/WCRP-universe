@@ -1,10 +1,10 @@
 {
-  "id": "depth",
+  "@id": "depth",
   "validation-key": "depth",
   "ui-label": "Depth",
   "description": "Depth is the vertical distance below the earth’s surface",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-vertical-grid-coordinate",
     "universal"
   ]

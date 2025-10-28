@@ -1,11 +1,11 @@
 {
-  "id": "aera-mip",
+  "@id": "aera-mip",
   "validation-key": "AERA-MIP",
   "ui-label": "Adaptive Emission Reduction Approach Modelling Intercomparison Project",
   "description": "",
   "url": "",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:activity",
     "universal"
   ]

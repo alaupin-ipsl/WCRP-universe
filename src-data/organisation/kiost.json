@@ -1,5 +1,5 @@
 {
-  "id": "kiost",
+  "@id": "kiost",
   "validation-key": "KIOST",
   "ui-label": "Korea Institute of Ocean Science and Technology",
   "description": "",
@@ -13,8 +13,8 @@
   "kind": "Facility",
   "labels": [],
   "location": {
-    "id": "universal:location/032m55064",
-    "type": "esgf:location",
+    "@id": "universal:location/032m55064",
+    "@type": "esgf:location",
     "lat": 35.10168,
     "lon": 129.03004,
     "city": "Busan",
@@ -28,7 +28,7 @@
     "http://eng.kiost.ac/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

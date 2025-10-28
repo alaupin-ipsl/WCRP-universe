@@ -1,11 +1,11 @@
 {
-  "id": "gr3a",
+  "@id": "gr3a",
   "validation-key": "gr3a",
   "ui-label": "Regridded Antarctica Greenland Alternate a",
   "description": "regridded data reported in the region of Antarctica on a grid other than the native grid and other than the preferred target grid",
   "region": "antarctica",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:grid-label:['esgf:grid_label', 'universal']",
     "esgf:grid-label"
   ]

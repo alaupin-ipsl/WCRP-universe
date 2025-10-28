@@ -1,10 +1,10 @@
 {
-  "id": "atmosphere-sigma-coordinate",
+  "@id": "atmosphere-sigma-coordinate",
   "validation-key": "atmosphere-sigma-coordinate",
   "ui-label": "Atmosphere sigma coordinate",
   "description": "Parametric atmosphere sigma coordinate",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:native-vertical-grid-coordinate",
     "universal"
   ]

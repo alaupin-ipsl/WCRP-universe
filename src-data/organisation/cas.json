@@ -1,5 +1,5 @@
 {
-  "id": "cas",
+  "@id": "cas",
   "validation-key": "CAS",
   "ui-label": "Chinese Academy of Sciences",
   "description": "",
@@ -13,8 +13,8 @@
     "中国科学院"
   ],
   "location": {
-    "id": "universal:location/034t30j35",
-    "type": "esgf:location",
+    "@id": "universal:location/034t30j35",
+    "@type": "esgf:location",
     "lat": 39.9075,
     "lon": 116.39723,
     "city": "Beijing",
@@ -28,7 +28,7 @@
     "http://english.cas.cn/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

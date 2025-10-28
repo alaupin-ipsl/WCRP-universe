@@ -1,5 +1,5 @@
 {
-  "id": "cr",
+  "@id": "cr",
   "validation-key": "CR",
   "ui-label": "Climate Resource (Australia)",
   "description": "",
@@ -15,8 +15,8 @@
   "kind": "Company",
   "labels": [],
   "location": {
-    "id": "universal:location/01kk86953",
-    "type": "esgf:location",
+    "@id": "universal:location/01kk86953",
+    "@type": "esgf:location",
     "lat": -37.814,
     "lon": 144.96332,
     "city": "Melbourne",
@@ -30,7 +30,7 @@
     "https://www.climate-resource.com"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

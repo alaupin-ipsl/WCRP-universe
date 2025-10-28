@@ -1,5 +1,5 @@
 {
-  "id": "dkrz",
+  "@id": "dkrz",
   "validation-key": "DKRZ",
   "ui-label": "German Climate Computing Centre",
   "description": "",
@@ -13,8 +13,8 @@
     "Deutsches Klimarechenzentrum"
   ],
   "location": {
-    "id": "universal:location/03ztgj037",
-    "type": "esgf:location",
+    "@id": "universal:location/03ztgj037",
+    "@type": "esgf:location",
     "lat": 53.55073,
     "lon": 9.99302,
     "city": "Hamburg",
@@ -28,7 +28,7 @@
     "https://www.dkrz.de/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"

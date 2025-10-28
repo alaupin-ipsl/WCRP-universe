@@ -1,5 +1,5 @@
 {
-  "id": "icon",
+  "@id": "icon",
   "validation-key": "ICON",
   "ui-label": "",
   "description": "Icosahedral Nonhydrostatic model",
@@ -11,7 +11,7 @@
     "seaice"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:model-family"
   ]
 }

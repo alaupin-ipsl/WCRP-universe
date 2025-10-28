@@ -1,12 +1,12 @@
 {
-  "id": "monc",
+  "@id": "monc",
   "validation-key": "monC",
   "ui-label": "",
   "description": "monthly climatology computed from monthly mean samples",
   "long_name": "Monthly Climatology",
   "unit": "month",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:frequency",
     "universal"
   ]

@@ -1,5 +1,5 @@
 {
-  "id": "esso",
+  "@id": "esso",
   "validation-key": "ESSO",
   "ui-label": "Indian National Centre for Ocean Information Services",
   "description": "",
@@ -20,15 +20,15 @@
       "lat": 17.528234,
       "lon": 78.400195
     },
-    "id": "universal:location/04xbqmj23",
-    "type": "location"
+    "@id": "universal:location/04xbqmj23",
+    "@type": "location"
   },
   "ror": "04xbqmj23",
   "url": [
     "http://www.incois.gov.in/portal/index.jsp"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "universal",
     "esgf:institution",
     "esgf:organisation"

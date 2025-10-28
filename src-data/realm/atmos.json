@@ -1,10 +1,10 @@
 {
-  "id": "atmos",
+  "@id": "atmos",
   "validation-key": "atmos",
   "ui-label": "Atmosphere",
   "description": "Atmosphere",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:realm",
     "universal"
   ]

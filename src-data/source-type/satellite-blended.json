@@ -1,10 +1,10 @@
 {
-  "id": "satellite-blended",
+  "@id": "satellite-blended",
   "validation-key": "satellite_blended",
   "ui-label": "",
   "description": "gridded product based on both in-situ instruments and satellite measurements",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:source-type",
     "universal"
   ]

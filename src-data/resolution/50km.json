@@ -1,12 +1,12 @@
 {
-  "id": "50km",
+  "@id": "50km",
   "validation-key": "50 km",
   "ui-label": "",
   "description": "Resolution of 50 km",
   "unit": "km",
   "value": "50",
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:resolution",
     "universal"
   ]

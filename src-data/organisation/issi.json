@@ -1,5 +1,5 @@
 {
-  "id": "issi",
+  "@id": "issi",
   "validation-key": "ISSI",
   "ui-label": "International Space Science Institute",
   "description": "",
@@ -11,8 +11,8 @@
   "kind": "Nonprofit",
   "labels": [],
   "location": {
-    "id": "universal:location/01xm30661",
-    "type": "esgf:location",
+    "@id": "universal:location/01xm30661",
+    "@type": "esgf:location",
     "lat": 46.94809,
     "lon": 7.44744,
     "city": "Bern",
@@ -26,7 +26,7 @@
     "http://www.issibern.ch/"
   ],
   "@context": "_context",
-  "type": [
+  "@type": [
     "esgf:organisation",
     "esgf:institution",
     "universal"
