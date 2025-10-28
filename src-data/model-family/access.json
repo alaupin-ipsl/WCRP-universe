@@ -4,7 +4,7 @@
   "ui-label": "",
   "description": "Australian Community Climate and Earth System Simulator",
   "origin": "BoM/CSIRO (Bureau of Meteorology/Commonwealth Scientific and Industrial Research Organisation)",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:model-family"
   ]

@@ -5,7 +5,7 @@
   "description": "sampled sub-hourly, at specified time point within an hour",
   "long_name": "Sub-Hourly Point",
   "unit": "minute",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:frequency",
     "universal"

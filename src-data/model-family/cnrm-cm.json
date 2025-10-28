@@ -9,7 +9,7 @@
     "land",
     "ocean"
   ],
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:model-family"
   ]

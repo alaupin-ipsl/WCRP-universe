@@ -3,7 +3,7 @@
   "validation-key": "air-pressure",
   "ui-label": "Air pressure",
   "description": "Air pressure is the pressure that exists in the medium of air",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:native-vertical-grid-coordinate",
     "universal"

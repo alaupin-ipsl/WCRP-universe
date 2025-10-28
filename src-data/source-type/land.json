@@ -3,7 +3,7 @@
   "validation-key": "LAND",
   "ui-label": "",
   "description": "land model run uncoupled from the atmosphere",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:source-type",
     "universal"

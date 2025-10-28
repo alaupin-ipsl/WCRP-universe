@@ -3,7 +3,7 @@
   "validation-key": "365-day",
   "ui-label": "365 day",
   "description": "a calendar with no leap years, i",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:model-calendar",
     "universal"

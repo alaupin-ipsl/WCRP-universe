@@ -29,7 +29,7 @@
   "url": [
     "http://www.geomar.de/en/"
   ],
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "universal",
     "wcrp:institution",

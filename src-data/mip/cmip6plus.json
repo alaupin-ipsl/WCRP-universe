@@ -6,7 +6,7 @@
   "end": 2999,
   "start": 2023,
   "url": "https://wcrp-cmip.org/CMIP6Plus",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:mip",
     "universal"

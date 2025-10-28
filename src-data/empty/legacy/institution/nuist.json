@@ -30,7 +30,7 @@
   "url": [
     "http://www.nju.edu.cn/english/"
   ],
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "universal",
     "wcrp:institution",

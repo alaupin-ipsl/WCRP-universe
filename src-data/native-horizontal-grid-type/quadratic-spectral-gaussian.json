@@ -3,7 +3,7 @@
   "validation-key": "quadratic-spectral-gaussian",
   "ui-label": "Quadratic spectral gaussian",
   "description": "a spectral Gaussian grid for which the smallest spectral wavelength is represented by 3 grid points",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:native-horizontal-grid-type",
     "universal"

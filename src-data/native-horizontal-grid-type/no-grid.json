@@ -3,7 +3,7 @@
   "validation-key": "no-grid",
   "ui-label": "No grid",
   "description": "there is no horizontal grid",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:native-horizontal-grid-type",
     "universal"

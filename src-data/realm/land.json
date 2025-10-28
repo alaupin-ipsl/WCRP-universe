@@ -3,7 +3,7 @@
   "validation-key": "land",
   "ui-label": "Land Surface and Subsurface",
   "description": "Land Surface and Subsurface",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "universal",
     "wcrp:realm"

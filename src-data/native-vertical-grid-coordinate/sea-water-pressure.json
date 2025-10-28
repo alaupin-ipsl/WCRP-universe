@@ -3,7 +3,7 @@
   "validation-key": "sea-water-pressure",
   "ui-label": "Sea water pressure",
   "description": "Sea water pressure is the pressure that exists in the medium of sea water",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:native-vertical-grid-coordinate",
     "universal"

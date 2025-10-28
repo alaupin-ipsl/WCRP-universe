@@ -29,7 +29,7 @@
   "url": [
     "http://eng.kiost.ac/"
   ],
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "universal",
     "wcrp:institution",

@@ -30,7 +30,7 @@
   "url": [
     "https://www.fu-berlin.de"
   ],
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "universal",
     "wcrp:institution",

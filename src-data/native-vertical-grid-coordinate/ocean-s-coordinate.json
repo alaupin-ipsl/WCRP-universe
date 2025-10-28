@@ -3,7 +3,7 @@
   "validation-key": "ocean-s-coordinate",
   "ui-label": "Ocean s coordinate",
   "description": "Parametric ocean s-coordinate",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:native-vertical-grid-coordinate",
     "universal"

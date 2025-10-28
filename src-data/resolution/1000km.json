@@ -5,7 +5,7 @@
   "description": "Resolution of 1000 km",
   "unit": "km",
   "value": "1000",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:resolution",
     "universal"

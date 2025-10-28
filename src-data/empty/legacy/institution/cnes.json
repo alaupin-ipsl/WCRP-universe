@@ -27,7 +27,7 @@
   "url": [
     "https://www.cnes.fr"
   ],
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "universal",
     "wcrp:institution",

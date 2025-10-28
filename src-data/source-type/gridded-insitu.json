@@ -3,7 +3,7 @@
   "validation-key": "gridded_insitu",
   "ui-label": "",
   "description": "gridded product based on measurements collected from in-situ instruments",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:source-type",
     "universal"

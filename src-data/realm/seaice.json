@@ -3,7 +3,7 @@
   "validation-key": "seaIce",
   "ui-label": "Sea Ice",
   "description": "Sea Ice",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:realm",
     "universal"

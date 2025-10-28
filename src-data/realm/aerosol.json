@@ -3,7 +3,7 @@
   "validation-key": "aerosol",
   "ui-label": "Aerosol",
   "description": "Aerosol",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:realm",
     "universal"

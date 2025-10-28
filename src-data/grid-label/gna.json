@@ -4,7 +4,7 @@
   "ui-label": "Grid Native Antarctica Greenland",
   "description": "data reported on a native grid in the region of Antarctica",
   "region": "antarctica",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:grid-label:['wcrp:grid_label', 'universal']",
     "wcrp:grid-label"

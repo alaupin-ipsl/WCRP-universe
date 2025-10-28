@@ -30,7 +30,7 @@
   "url": [
     "http://www.jpl.nasa.gov/"
   ],
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "universal",
     "wcrp:institution",

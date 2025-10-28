@@ -3,7 +3,7 @@
   "validation-key": "atmosphere-hybrid-height-coordinate",
   "ui-label": "Atmosphere hybrid height coordinate",
   "description": "Parametric atmosphere hybrid height coordinate",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:native-vertical-grid-coordinate",
     "universal"

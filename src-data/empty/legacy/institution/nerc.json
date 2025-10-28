@@ -27,7 +27,7 @@
   "url": [
     "https://www.ukri.org/councils/nerc/"
   ],
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "universal",
     "wcrp:institution",

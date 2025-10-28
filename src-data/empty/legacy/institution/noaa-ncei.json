@@ -34,7 +34,7 @@
   "url": [
     "https://www.ncei.noaa.gov"
   ],
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "universal",
     "wcrp:institution",

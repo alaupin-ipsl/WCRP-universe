@@ -4,7 +4,7 @@
   "ui-label": "Coordinated Regional Climate Downscaling Experiment",
   "description": "",
   "url": "https://cordex.org",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:activity",
     "universal"

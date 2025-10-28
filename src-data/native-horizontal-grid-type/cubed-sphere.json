@@ -3,7 +3,7 @@
   "validation-key": "cubed-sphere",
   "ui-label": "Cubed sphere",
   "description": "the spherical surface is defined as six coupled “logically square” regions",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:native-horizontal-grid-type",
     "universal"

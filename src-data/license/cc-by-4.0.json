@@ -4,7 +4,7 @@
   "ui-label": "Creative Commons Attribution 4.0 International",
   "description": "",
   "url": "https://creativecommons.org/licenses/by/4.0/",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:license",
     "universal"

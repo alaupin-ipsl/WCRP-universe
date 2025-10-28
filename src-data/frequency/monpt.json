@@ -5,7 +5,7 @@
   "description": "sampled monthly, at specified time point within the time period",
   "long_name": "Monthly Point",
   "unit": "month",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:frequency",
     "universal"

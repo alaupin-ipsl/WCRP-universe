@@ -27,7 +27,7 @@
   "url": [
     "http://www.mpimet.mpg.de/en/home.html"
   ],
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "universal",
     "wcrp:institution",

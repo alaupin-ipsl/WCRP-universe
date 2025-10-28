@@ -27,7 +27,7 @@
   "url": [
     "http://www.pnnl.gov/"
   ],
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "universal",
     "wcrp:institution",

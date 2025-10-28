@@ -5,7 +5,7 @@
   "description": "sampled hourly",
   "long_name": "1 Hourly Frequency",
   "unit": "hour",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:frequency",
     "universal"

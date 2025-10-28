@@ -3,7 +3,7 @@
   "validation-key": "satellite_blended",
   "ui-label": "",
   "description": "gridded product based on both in-situ instruments and satellite measurements",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:source-type",
     "universal"

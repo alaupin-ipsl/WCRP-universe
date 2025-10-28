@@ -5,7 +5,7 @@
   "description": "decadal mean samples",
   "long_name": "Decadal Frequency",
   "unit": "decade",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:frequency",
     "universal"

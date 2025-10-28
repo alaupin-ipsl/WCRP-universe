@@ -27,7 +27,7 @@
   "url": [
     "http://www.globalchange.umd.edu/"
   ],
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "universal",
     "wcrp:institution",

@@ -3,7 +3,7 @@
   "validation-key": "m",
   "ui-label": "metre",
   "description": "unit for length",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:native-vertical-grid-units",
     "universal"

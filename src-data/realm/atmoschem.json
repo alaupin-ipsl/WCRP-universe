@@ -3,7 +3,7 @@
   "validation-key": "atmosChem",
   "ui-label": "Atmospheric Chemistry",
   "description": "Atmospheric Chemistry",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:realm",
     "universal"

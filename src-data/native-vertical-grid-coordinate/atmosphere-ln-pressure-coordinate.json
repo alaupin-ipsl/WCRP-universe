@@ -3,7 +3,7 @@
   "validation-key": "atmosphere-ln-pressure-coordinate",
   "ui-label": "Atmosphere ln pressure coordinate",
   "description": "Parametric atmosphere natural log pressure coordinate",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:native-vertical-grid-coordinate",
     "universal"

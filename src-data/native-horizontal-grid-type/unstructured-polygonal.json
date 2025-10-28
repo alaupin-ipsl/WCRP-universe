@@ -3,7 +3,7 @@
   "validation-key": "unstructured-polygonal",
   "ui-label": "Unstructured polygonal",
   "description": "an unstructured mesh consisting of arbitrary polygons",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:native-horizontal-grid-type",
     "universal"

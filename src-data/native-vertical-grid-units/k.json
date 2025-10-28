@@ -3,7 +3,7 @@
   "validation-key": "K",
   "ui-label": "kelvin",
   "description": "unit for temperature",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:native-vertical-grid-units",
     "universal"

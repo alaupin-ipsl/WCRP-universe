@@ -27,7 +27,7 @@
   "url": [
     "http://oregonstate.edu/"
   ],
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "universal",
     "wcrp:institution",

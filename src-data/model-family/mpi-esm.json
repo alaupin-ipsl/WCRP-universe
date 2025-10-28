@@ -10,7 +10,7 @@
     "ocean",
     "ocnbgchem"
   ],
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:model-family"
   ]

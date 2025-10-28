@@ -29,7 +29,7 @@
   "url": [
     "https://www.niwa.co.nz/"
   ],
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "universal",
     "wcrp:institution",

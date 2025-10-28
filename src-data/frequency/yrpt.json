@@ -5,7 +5,7 @@
   "description": "sampled yearly, at specified time point within the time period",
   "long_name": "Yearly Point",
   "unit": "year",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:frequency",
     "universal"

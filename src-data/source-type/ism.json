@@ -3,7 +3,7 @@
   "validation-key": "ISM",
   "ui-label": "",
   "description": "ice-sheet model that includes ice-flow",
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "wcrp:source-type",
     "universal"

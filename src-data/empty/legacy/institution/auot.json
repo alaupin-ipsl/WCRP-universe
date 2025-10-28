@@ -27,7 +27,7 @@
   "url": [
     "https://www.auth.gr/en"
   ],
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "universal",
     "wcrp:institution",

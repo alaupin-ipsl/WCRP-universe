@@ -27,7 +27,7 @@
   "url": [
     "http://www.nasa.gov/langley"
   ],
-  "@context": "@context",
+  "@context": "_context",
   "type": [
     "universal",
     "wcrp:institution",
