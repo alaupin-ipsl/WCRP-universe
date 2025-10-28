@@ -1,34 +1,35 @@
 {
+  "@context": {
+    "@base": "https://wcrp-cmip.github.io/WCRP-universe/native_vertical_grid_units/",
+    "@vocab": "https://esgf.github.io/esgf-vocab/api_documentation/data_descriptors.html#esgvoc.api.data_descriptors.NativeVerticalGridUnits"
+  },
   "@graph": [
     {
-      "id": "k",
+      "@id": "k",
       "validation-key": "K",
       "ui-label": "kelvin",
       "description": "unit for temperature",
-      "@context": "_context",
-      "type": [
+      "@type": [
         "esgf:native-vertical-grid-units",
         "universal"
       ]
     },
     {
-      "id": "m",
+      "@id": "m",
       "validation-key": "m",
       "ui-label": "metre",
       "description": "unit for length",
-      "@context": "_context",
-      "type": [
+      "@type": [
         "esgf:native-vertical-grid-units",
         "universal"
       ]
     },
     {
-      "id": "pa",
+      "@id": "pa",
       "validation-key": "Pa",
       "ui-label": "pascal",
       "description": "unit for pressure",
-      "@context": "_context",
-      "type": [
+      "@type": [
         "esgf:native-vertical-grid-units",
         "universal"
       ]

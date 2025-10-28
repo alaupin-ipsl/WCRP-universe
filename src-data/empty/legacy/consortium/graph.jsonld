@@ -1,7 +1,12 @@
 {
+  "@context": {
+    "@base": "https://wcrp-cmip.github.io/WCRP-universe/consortium/",
+    "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/consortium/",
+    "organisation": "https://wcrp-cmip.github.io/WCRP-universe/organisation/"
+  },
   "@graph": [
     {
-      "id": "miroc",
+      "@id": "miroc",
       "validation-key": "MIROC",
       "ui-label": "MIROC Consortium",
       "description": "",
@@ -42,23 +47,14 @@
       },
       "status": "active",
       "url": "",
-      "@context": "_context",
-      "type": [
+      "@type": [
         "esgf:consortium",
         "universal",
-<<<<<<< HEAD
-        "wcrp:organisation"
-      ]
-=======
         "esgf:organisation"
-      ],
-      "url": "",
-      "long_label": "MIROC Consortium",
-      "label": "MIROC"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "ncc",
+      "@id": "ncc",
       "validation-key": "NCC",
       "ui-label": "NCC Consortium",
       "description": "",
@@ -123,23 +119,14 @@
       },
       "status": "active",
       "url": "",
-      "@context": "_context",
-      "type": [
+      "@type": [
         "esgf:consortium",
         "universal",
-<<<<<<< HEAD
-        "wcrp:organisation"
-      ]
-=======
         "esgf:organisation"
-      ],
-      "url": "",
-      "long_label": "NCC Consortium",
-      "label": "NCC"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "solaris-heppa",
+      "@id": "solaris-heppa",
       "validation-key": "SOLARIS HEPPA",
       "ui-label": "SOLARIS HEPPA Consortium",
       "description": "",
@@ -323,20 +310,11 @@
         }
       },
       "url": "https://solarisheppa.geomar.de",
-      "@context": "_context",
-      "type": [
+      "@type": [
         "esgf:consortium",
         "universal",
-<<<<<<< HEAD
-        "wcrp:organisation"
-      ]
-=======
         "esgf:organisation"
-      ],
-      "url": "https://solarisheppa.geomar.de",
-      "long_label": "SOLARIS HEPPA Consortium",
-      "label": "SOLARIS HEPPA"
->>>>>>> 30031c5a (reverting context)
+      ]
     }
   ]
 }

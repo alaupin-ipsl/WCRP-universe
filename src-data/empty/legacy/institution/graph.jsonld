@@ -1,7 +1,12 @@
 {
+  "@context": {
+    "@base": "https://wcrp-cmip.github.io/WCRP-universe/institution/",
+    "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/institution/",
+    "organisation": "https://wcrp-cmip.github.io/WCRP-universe/organisation/"
+  },
   "@graph": [
     {
-      "id": "aer",
+      "@id": "aer",
       "validation-key": "AER",
       "ui-label": "Atmospheric and Environmental Research",
       "description": "",
@@ -22,30 +27,21 @@
           "lat": 42.539472,
           "lon": -71.256946
         },
-        "id": "universal:location/04cg70g73",
-        "type": "location"
+        "@id": "universal:location/04cg70g73",
+        "@type": "location"
       },
       "ror": "04cg70g73",
       "url": [
         "http://www.aer.com/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Atmospheric and Environmental Research",
-      "label": "AER"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "aor",
+      "@id": "aor",
       "validation-key": "AoR",
       "ui-label": "Astronomical Observatory of Rome",
       "description": "",
@@ -64,30 +60,21 @@
           "lat": 41.921669,
           "lon": 41.921669
         },
-        "id": "universal:location/02hnp4676",
-        "type": "location"
+        "@id": "universal:location/02hnp4676",
+        "@type": "location"
       },
       "ror": "02hnp4676",
       "url": [
         "http://web.oa-roma.inaf.it/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Astronomical Observatory of Rome",
-      "label": "AoR"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "as-rcec",
+      "@id": "as-rcec",
       "validation-key": "AS-RCEC",
       "ui-label": "Research Center for Environmental Changes, Academia Sinica",
       "description": "",
@@ -108,30 +95,21 @@
           "lat": 25.040712,
           "lon": 121.614171
         },
-        "id": "universal:location/050qpg053",
-        "type": "location"
+        "@id": "universal:location/050qpg053",
+        "@type": "location"
       },
       "ror": "050qpg053",
       "url": [
         "http://www.rcec.sinica.edu.tw/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Research Center for Environmental Changes, Academia Sinica",
-      "label": "AS-RCEC"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "auot",
+      "@id": "auot",
       "validation-key": "AUoT",
       "ui-label": "Aristotle University of Thessaloniki",
       "description": "",
@@ -152,30 +130,21 @@
           "lat": 40.64361,
           "lon": 40.64361
         },
-        "id": "universal:location/02j61yw88",
-        "type": "location"
+        "@id": "universal:location/02j61yw88",
+        "@type": "location"
       },
       "ror": "02j61yw88",
       "url": [
         "https://www.auth.gr/en"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Aristotle University of Thessaloniki",
-      "label": "AUoT"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "awi",
+      "@id": "awi",
       "validation-key": "AWI",
       "ui-label": "Alfred Wegener Institute for Polar and Marine Research",
       "description": "",
@@ -196,30 +165,21 @@
           "lat": 53.53615,
           "lon": 8.59298
         },
-        "id": "universal:location/032e6b942",
-        "type": "location"
+        "@id": "universal:location/032e6b942",
+        "@type": "location"
       },
       "ror": "032e6b942",
       "url": [
         "https://www.awi.de"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Alfred Wegener Institute for Polar and Marine Research",
-      "label": "AWI"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "bas",
+      "@id": "bas",
       "validation-key": "BAS",
       "ui-label": "British Antarctic Survey",
       "description": "",
@@ -240,30 +200,21 @@
           "lat": 52.212965,
           "lon": 52.212965
         },
-        "id": "universal:location/01rhff309",
-        "type": "location"
+        "@id": "universal:location/01rhff309",
+        "@type": "location"
       },
       "ror": "01rhff309",
       "url": [
         "https://www.bas.ac.uk/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "British Antarctic Survey",
-      "label": "BAS"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "bcc",
+      "@id": "bcc",
       "validation-key": "BCC",
       "ui-label": "Beijing Biocytogen (China)",
       "description": "",
@@ -282,30 +233,21 @@
           "lat": 39.950128,
           "lon": 116.383679
         },
-        "id": "universal:location/01spyyb53",
-        "type": "location"
+        "@id": "universal:location/01spyyb53",
+        "@type": "location"
       },
       "ror": "01spyyb53",
       "url": [
         "http://www.bbctg.com.cn/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Beijing Biocytogen (China)",
-      "label": "BCC"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "cams",
+      "@id": "cams",
       "validation-key": "CAMS",
       "ui-label": "Chinese Academy of Meteorological Sciences",
       "description": "",
@@ -326,30 +268,21 @@
           "lat": 39.9075,
           "lon": 116.39723
         },
-        "id": "universal:location/034b53w38",
-        "type": "location"
+        "@id": "universal:location/034b53w38",
+        "@type": "location"
       },
       "ror": "034b53w38",
       "url": [
         "http://www.camscma.cn/en.html"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Chinese Academy of Meteorological Sciences",
-      "label": "CAMS"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "cas",
+      "@id": "cas",
       "validation-key": "CAS",
       "ui-label": "Chinese Academy of Sciences",
       "description": "",
@@ -370,30 +303,21 @@
           "lat": 39.9075,
           "lon": 116.39723
         },
-        "id": "universal:location/034t30j35",
-        "type": "location"
+        "@id": "universal:location/034t30j35",
+        "@type": "location"
       },
       "ror": "034t30j35",
       "url": [
         "http://english.cas.cn/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Chinese Academy of Sciences",
-      "label": "CAS"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "cccma",
+      "@id": "cccma",
       "validation-key": "CCCma",
       "ui-label": "Environment and Climate Change Canada",
       "description": "",
@@ -414,30 +338,21 @@
           "lat": 45.425373,
           "lon": -75.699862
         },
-        "id": "universal:location/026ny0e17",
-        "type": "location"
+        "@id": "universal:location/026ny0e17",
+        "@type": "location"
       },
       "ror": "026ny0e17",
       "url": [
         "https://www.canada.ca/en/environment-climate-change.html"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Environment and Climate Change Canada",
-      "label": "CCCma"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "cccr-iitm",
+      "@id": "cccr-iitm",
       "validation-key": "CCCR-IITM",
       "ui-label": "Indian Institute of Tropical Meteorology",
       "description": "",
@@ -458,30 +373,21 @@
           "lat": 18.51957,
           "lon": 73.85535
         },
-        "id": "universal:location/03jf2m686",
-        "type": "location"
+        "@id": "universal:location/03jf2m686",
+        "@type": "location"
       },
       "ror": "03jf2m686",
       "url": [
         "http://www.tropmet.res.in/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Indian Institute of Tropical Meteorology",
-      "label": "CCCR-IITM"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "ceda",
+      "@id": "ceda",
       "validation-key": "CEDA",
       "ui-label": "Centre for Environmental Data Analysis",
       "description": "",
@@ -502,30 +408,21 @@
           "lat": 53.41667,
           "lon": -0.96667
         },
-        "id": "universal:location/04j4kad11",
-        "type": "location"
+        "@id": "universal:location/04j4kad11",
+        "@type": "location"
       },
       "ror": "04j4kad11",
       "url": [
         "https://www.ceda.ac.uk/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Centre for Environmental Data Analysis",
-      "label": "CEDA"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "cmcc",
+      "@id": "cmcc",
       "validation-key": "CMCC",
       "ui-label": "Euro-Mediterranean Center for Climate Change",
       "description": "",
@@ -546,30 +443,21 @@
           "lat": 40.33942,
           "lon": 18.086602
         },
-        "id": "universal:location/01tf11a61",
-        "type": "location"
+        "@id": "universal:location/01tf11a61",
+        "@type": "location"
       },
       "ror": "01tf11a61",
       "url": [
         "http://www.cmcc.it/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Euro-Mediterranean Center for Climate Change",
-      "label": "CMCC"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "cnes",
+      "@id": "cnes",
       "validation-key": "CNES",
       "ui-label": "Centre National d'Études Spatiales",
       "description": "",
@@ -590,30 +478,21 @@
           "lat": 48.85341,
           "lon": 2.3488
         },
-        "id": "universal:location/04h1h0y33",
-        "type": "location"
+        "@id": "universal:location/04h1h0y33",
+        "@type": "location"
       },
       "ror": "04h1h0y33",
       "url": [
         "https://www.cnes.fr"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Centre National d'Études Spatiales",
-      "label": "CNES"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "csiro",
+      "@id": "csiro",
       "validation-key": "CSIRO",
       "ui-label": "Commonwealth Scientific and Industrial Research Organisation",
       "description": "",
@@ -634,30 +513,21 @@
           "lat": -35.28346,
           "lon": 149.12807
         },
-        "id": "universal:location/03qn8fb07",
-        "type": "location"
+        "@id": "universal:location/03qn8fb07",
+        "@type": "location"
       },
       "ror": "03qn8fb07",
       "url": [
         "http://www.csiro.au/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Commonwealth Scientific and Industrial Research Organisation",
-      "label": "CSIRO"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "dkrz",
+      "@id": "dkrz",
       "validation-key": "DKRZ",
       "ui-label": "German Climate Computing Centre",
       "description": "",
@@ -678,30 +548,21 @@
           "lat": 53.55073,
           "lon": 9.99302
         },
-        "id": "universal:location/03ztgj037",
-        "type": "location"
+        "@id": "universal:location/03ztgj037",
+        "@type": "location"
       },
       "ror": "03ztgj037",
       "url": [
         "https://www.dkrz.de/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "German Climate Computing Centre",
-      "label": "DKRZ"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "dwd",
+      "@id": "dwd",
       "validation-key": "DWD",
       "ui-label": "German Meteorological Service",
       "description": "",
@@ -722,30 +583,21 @@
           "lat": 50.103322,
           "lon": 8.747606
         },
-        "id": "universal:location/02nrqs528",
-        "type": "location"
+        "@id": "universal:location/02nrqs528",
+        "@type": "location"
       },
       "ror": "02nrqs528",
       "url": [
         "http://www.dwd.de/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "German Meteorological Service",
-      "label": "DWD"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "eawag",
+      "@id": "eawag",
       "validation-key": "EAWAG",
       "ui-label": "Swiss Federal Institute of Aquatic Science and Technology",
       "description": "",
@@ -766,30 +618,21 @@
           "lat": 47.39724,
           "lon": 47.39724
         },
-        "id": "universal:location/00pc48d59",
-        "type": "location"
+        "@id": "universal:location/00pc48d59",
+        "@type": "location"
       },
       "ror": "00pc48d59",
       "url": [
         "http://www.eawag.ch/en/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Swiss Federal Institute of Aquatic Science and Technology",
-      "label": "EAWAG"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "ecmwf",
+      "@id": "ecmwf",
       "validation-key": "ECMWF",
       "ui-label": "European Centre for Medium-Range Weather Forecasts",
       "description": "",
@@ -810,30 +653,21 @@
           "lat": 51.45625,
           "lon": -0.97113
         },
-        "id": "universal:location/014w0fd65",
-        "type": "location"
+        "@id": "universal:location/014w0fd65",
+        "@type": "location"
       },
       "ror": "014w0fd65",
       "url": [
         "http://www.ecmwf.int/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "European Centre for Medium-Range Weather Forecasts",
-      "label": "ECMWF"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "esso",
+      "@id": "esso",
       "validation-key": "ESSO",
       "ui-label": "Indian National Centre for Ocean Information Services",
       "description": "",
@@ -854,30 +688,21 @@
           "lat": 17.528234,
           "lon": 78.400195
         },
-        "id": "universal:location/04xbqmj23",
-        "type": "location"
+        "@id": "universal:location/04xbqmj23",
+        "@type": "location"
       },
       "ror": "04xbqmj23",
       "url": [
         "http://www.incois.gov.in/portal/index.jsp"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Indian National Centre for Ocean Information Services",
-      "label": "ESSO"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "fmi",
+      "@id": "fmi",
       "validation-key": "FMI",
       "ui-label": "Finnish Meteorological Institute",
       "description": "",
@@ -898,30 +723,21 @@
           "lat": 60.16952,
           "lon": 60.16952
         },
-        "id": "universal:location/05hppb561",
-        "type": "location"
+        "@id": "universal:location/05hppb561",
+        "@type": "location"
       },
       "ror": "05hppb561",
       "url": [
         "http://en.ilmatieteenlaitos.fi/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Finnish Meteorological Institute",
-      "label": "FMI"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "fuberlin",
+      "@id": "fuberlin",
       "validation-key": "FUBerlin",
       "ui-label": "Freie Universität Berlin",
       "description": "",
@@ -945,30 +761,21 @@
           "lat": 52.52437,
           "lon": 52.52437
         },
-        "id": "universal:location/046ak2485",
-        "type": "location"
+        "@id": "universal:location/046ak2485",
+        "@type": "location"
       },
       "ror": "046ak2485",
       "url": [
         "https://www.fu-berlin.de"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Freie Universität Berlin",
-      "label": "FUBerlin"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "iaceth",
+      "@id": "iaceth",
       "validation-key": "IACETH",
       "ui-label": "ETH Zurich",
       "description": "",
@@ -992,30 +799,21 @@
           "lat": 47.36667,
           "lon": 8.55
         },
-        "id": "universal:location/05a28rw58",
-        "type": "location"
+        "@id": "universal:location/05a28rw58",
+        "@type": "location"
       },
       "ror": "05a28rw58",
       "url": [
         "https://ethz.ch"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "ETH Zurich",
-      "label": "IACETH"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "ifm-geomar",
+      "@id": "ifm-geomar",
       "validation-key": "IFM-GEOMAR",
       "ui-label": "GEOMAR Helmholtz Centre for Ocean Research Kiel",
       "description": "",
@@ -1038,30 +836,21 @@
           "lat": 54.327138,
           "lon": 10.180141
         },
-        "id": "universal:location/02h2x0161",
-        "type": "location"
+        "@id": "universal:location/02h2x0161",
+        "@type": "location"
       },
       "ror": "02h2x0161",
       "url": [
         "http://www.geomar.de/en/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "GEOMAR Helmholtz Centre for Ocean Research Kiel",
-      "label": "IFM-GEOMAR"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "imperialcollege",
+      "@id": "imperialcollege",
       "validation-key": "ImperialCollege",
       "ui-label": "Imperial College London",
       "description": "",
@@ -1080,30 +869,21 @@
           "lat": 51.4986,
           "lon": -0.175478
         },
-        "id": "universal:location/041kmwe10",
-        "type": "location"
+        "@id": "universal:location/041kmwe10",
+        "@type": "location"
       },
       "ror": "041kmwe10",
       "url": [
         "http://www.imperial.ac.uk/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Imperial College London",
-      "label": "ImperialCollege"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "inm",
+      "@id": "inm",
       "validation-key": "INM",
       "ui-label": "Institute of Numerical Mathematics",
       "description": "",
@@ -1124,30 +904,21 @@
           "lat": 55.762997,
           "lon": 37.625605
         },
-        "id": "universal:location/00520ey40",
-        "type": "location"
+        "@id": "universal:location/00520ey40",
+        "@type": "location"
       },
       "ror": "00520ey40",
       "url": [
         "http://www.inm.ras.ru/inm_en_ver/index.htm"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Institute of Numerical Mathematics",
-      "label": "INM"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "ipsl",
+      "@id": "ipsl",
       "validation-key": "IPSL",
       "ui-label": "Institut Pierre-Simon Laplace",
       "description": "",
@@ -1168,30 +939,21 @@
           "lat": 48.855675,
           "lon": 2.332105
         },
-        "id": "universal:location/02haar591",
-        "type": "location"
+        "@id": "universal:location/02haar591",
+        "@type": "location"
       },
       "ror": "02haar591",
       "url": [
         "https://www.ipsl.fr/en/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Institut Pierre-Simon Laplace",
-      "label": "IPSL"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "issi",
+      "@id": "issi",
       "validation-key": "ISSI",
       "ui-label": "International Space Science Institute",
       "description": "",
@@ -1212,30 +974,21 @@
           "lat": 46.952897,
           "lon": 46.952897
         },
-        "id": "universal:location/01xm30661",
-        "type": "location"
+        "@id": "universal:location/01xm30661",
+        "@type": "location"
       },
       "ror": "01xm30661",
       "url": [
         "http://www.issibern.ch/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "International Space Science Institute",
-      "label": "ISSI"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "jaxa",
+      "@id": "jaxa",
       "validation-key": "JAXA",
       "ui-label": "Japan Aerospace Exploration Agency",
       "description": "",
@@ -1259,30 +1012,21 @@
           "lat": 35.680834,
           "lon": 139.558269
         },
-        "id": "universal:location/059yhyy33",
-        "type": "location"
+        "@id": "universal:location/059yhyy33",
+        "@type": "location"
       },
       "ror": "059yhyy33",
       "url": [
         "http://global.jaxa.jp/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Japan Aerospace Exploration Agency",
-      "label": "JAXA"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "kiost",
+      "@id": "kiost",
       "validation-key": "KIOST",
       "ui-label": "Korea Institute of Ocean Science and Technology",
       "description": "",
@@ -1305,30 +1049,21 @@
           "lat": 35.10168,
           "lon": 129.03004
         },
-        "id": "universal:location/032m55064",
-        "type": "location"
+        "@id": "universal:location/032m55064",
+        "@type": "location"
       },
       "ror": "032m55064",
       "url": [
         "http://eng.kiost.ac/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Korea Institute of Ocean Science and Technology",
-      "label": "KIOST"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "kit",
+      "@id": "kit",
       "validation-key": "KIT",
       "ui-label": "Karlsruhe Institute of Technology",
       "description": "",
@@ -1352,30 +1087,21 @@
           "lat": 49.00937,
           "lon": 49.00937
         },
-        "id": "universal:location/04t3en479",
-        "type": "location"
+        "@id": "universal:location/04t3en479",
+        "@type": "location"
       },
       "ror": "04t3en479",
       "url": [
         "http://www.kit.edu/english/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Karlsruhe Institute of Technology",
-      "label": "KIT"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "llnl",
+      "@id": "llnl",
       "validation-key": "LLNL",
       "ui-label": "Lawrence Livermore National Laboratory",
       "description": "",
@@ -1402,30 +1128,21 @@
           "lat": 37.68187,
           "lon": -121.76801
         },
-        "id": "universal:location/041nk4h53",
-        "type": "location"
+        "@id": "universal:location/041nk4h53",
+        "@type": "location"
       },
       "ror": "041nk4h53",
       "url": [
         "https://www.llnl.gov/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Lawrence Livermore National Laboratory",
-      "label": "LLNL"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "lpc2e",
+      "@id": "lpc2e",
       "validation-key": "LPC2E",
       "ui-label": "Laboratoire de Physique et Chimie de l’Environnement et de l’Espace",
       "description": "",
@@ -1446,30 +1163,21 @@
           "lat": 47.90289,
           "lon": 47.90289
         },
-        "id": "universal:location/049k66y27",
-        "type": "location"
+        "@id": "universal:location/049k66y27",
+        "@type": "location"
       },
       "ror": "049k66y27",
       "url": [
         "https://www.lpc2e.cnrs.fr"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Laboratoire de Physique et Chimie de l’Environnement et de l’Espace",
-      "label": "LPC2E"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "mohc",
+      "@id": "mohc",
       "validation-key": "MOHC",
       "ui-label": "Met Office",
       "description": "",
@@ -1490,30 +1198,21 @@
           "lat": 50.7236,
           "lon": 50.7236
         },
-        "id": "universal:location/01ch2yn61",
-        "type": "location"
+        "@id": "universal:location/01ch2yn61",
+        "@type": "location"
       },
       "ror": "01ch2yn61",
       "url": [
         "http://www.metoffice.gov.uk/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Met Office",
-      "label": "MOHC"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "mpi-b",
+      "@id": "mpi-b",
       "validation-key": "MPI-B",
       "ui-label": "Max Planck Institute for Biogeochemistry",
       "description": "",
@@ -1532,30 +1231,21 @@
           "lat": 50.910556,
           "lon": 11.567222
         },
-        "id": "universal:location/051yxp643",
-        "type": "location"
+        "@id": "universal:location/051yxp643",
+        "@type": "location"
       },
       "ror": "051yxp643",
       "url": [
         "http://www.bgc-jena.mpg.de/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Max Planck Institute for Biogeochemistry",
-      "label": "MPI-B"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "mpi-m",
+      "@id": "mpi-m",
       "validation-key": "MPI-M",
       "ui-label": "Max Planck Institute for Meteorology",
       "description": "",
@@ -1576,30 +1266,21 @@
           "lat": 53.567794,
           "lon": 9.975468
         },
-        "id": "universal:location/05esem239",
-        "type": "location"
+        "@id": "universal:location/05esem239",
+        "@type": "location"
       },
       "ror": "05esem239",
       "url": [
         "http://www.mpimet.mpg.de/en/home.html"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Max Planck Institute for Meteorology",
-      "label": "MPI-M"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "mps",
+      "@id": "mps",
       "validation-key": "MPS",
       "ui-label": "Max Planck Institute for Solar System Research",
       "description": "",
@@ -1620,30 +1301,21 @@
           "lat": 51.561218,
           "lon": 51.561218
         },
-        "id": "universal:location/02j6gm739",
-        "type": "location"
+        "@id": "universal:location/02j6gm739",
+        "@type": "location"
       },
       "ror": "02j6gm739",
       "url": [
         "http://www.mps.mpg.de/en"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Max Planck Institute for Solar System Research",
-      "label": "MPS"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "mri",
+      "@id": "mri",
       "validation-key": "MRI",
       "ui-label": "Japan Meteorological Agency",
       "description": "",
@@ -1666,30 +1338,21 @@
           "lat": 35.6895,
           "lon": 139.69171
         },
-        "id": "universal:location/02772kk97",
-        "type": "location"
+        "@id": "universal:location/02772kk97",
+        "@type": "location"
       },
       "ror": "02772kk97",
       "url": [
         "http://www.jma.go.jp/jma/indexe.html"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Japan Meteorological Agency",
-      "label": "MRI"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "nasa-giss",
+      "@id": "nasa-giss",
       "validation-key": "NASA-GISS",
       "ui-label": "Goddard Institute for Space Studies",
       "description": "",
@@ -1710,30 +1373,21 @@
           "lat": 40.71427,
           "lon": -74.00597
         },
-        "id": "universal:location/01cyfxe35",
-        "type": "location"
+        "@id": "universal:location/01cyfxe35",
+        "@type": "location"
       },
       "ror": "01cyfxe35",
       "url": [
         "http://www.giss.nasa.gov/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Goddard Institute for Space Studies",
-      "label": "NASA-GISS"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "nasa-gsfc",
+      "@id": "nasa-gsfc",
       "validation-key": "NASA-GSFC",
       "ui-label": "Goddard Space Flight Center",
       "description": "",
@@ -1754,30 +1408,21 @@
           "lat": 39.00455,
           "lon": -76.87553
         },
-        "id": "universal:location/0171mag52",
-        "type": "location"
+        "@id": "universal:location/0171mag52",
+        "@type": "location"
       },
       "ror": "0171mag52",
       "url": [
         "https://www.nasa.gov/centers/goddard/home/index.html"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Goddard Space Flight Center",
-      "label": "NASA-GSFC"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "nasa-jpl",
+      "@id": "nasa-jpl",
       "validation-key": "NASA-JPL",
       "ui-label": "Jet Propulsion Laboratory",
       "description": "",
@@ -1801,30 +1446,21 @@
           "lat": 34.19917,
           "lon": -118.18785
         },
-        "id": "universal:location/027k65916",
-        "type": "location"
+        "@id": "universal:location/027k65916",
+        "@type": "location"
       },
       "ror": "027k65916",
       "url": [
         "http://www.jpl.nasa.gov/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Jet Propulsion Laboratory",
-      "label": "NASA-JPL"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "nasa-larc",
+      "@id": "nasa-larc",
       "validation-key": "NASA-LaRC",
       "ui-label": "Langley Research Center",
       "description": "",
@@ -1845,30 +1481,21 @@
           "lat": 37.02987,
           "lon": -76.34522
         },
-        "id": "universal:location/0399mhs52",
-        "type": "location"
+        "@id": "universal:location/0399mhs52",
+        "@type": "location"
       },
       "ror": "0399mhs52",
       "url": [
         "http://www.nasa.gov/langley"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Langley Research Center",
-      "label": "NASA-LaRC"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "ncar",
+      "@id": "ncar",
       "validation-key": "NCAR",
       "ui-label": "National Center for Atmospheric Research",
       "description": "",
@@ -1889,30 +1516,21 @@
           "lat": 40.01499,
           "lon": 40.01499
         },
-        "id": "universal:location/05cvfcr44",
-        "type": "location"
+        "@id": "universal:location/05cvfcr44",
+        "@type": "location"
       },
       "ror": "05cvfcr44",
       "url": [
         "https://ncar.ucar.edu/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "National Center for Atmospheric Research",
-      "label": "NCAR"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "ncas",
+      "@id": "ncas",
       "validation-key": "NCAS",
       "ui-label": "Uks",
       "description": "",
@@ -1931,30 +1549,21 @@
           "lat": 33.72148,
           "lon": 73.04329
         },
-        "id": "universal:location/03q36cn05",
-        "type": "location"
+        "@id": "universal:location/03q36cn05",
+        "@type": "location"
       },
       "ror": "03q36cn05",
       "url": [
         "http://www.uksresearch.com/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Uks",
-      "label": "NCAS"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "nerc",
+      "@id": "nerc",
       "validation-key": "NERC",
       "ui-label": "Natural Environment Research Council",
       "description": "",
@@ -1975,30 +1584,21 @@
           "lat": 51.55797,
           "lon": -1.78116
         },
-        "id": "universal:location/02b5d8509",
-        "type": "location"
+        "@id": "universal:location/02b5d8509",
+        "@type": "location"
       },
       "ror": "02b5d8509",
       "url": [
         "https://www.ukri.org/councils/nerc/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Natural Environment Research Council",
-      "label": "NERC"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "niwa",
+      "@id": "niwa",
       "validation-key": "NIWA",
       "ui-label": "National Institute of Water and Atmospheric Research",
       "description": "",
@@ -2021,30 +1621,21 @@
           "lat": -36.84403,
           "lon": 174.76172
         },
-        "id": "universal:location/04hxcaz34",
-        "type": "location"
+        "@id": "universal:location/04hxcaz34",
+        "@type": "location"
       },
       "ror": "04hxcaz34",
       "url": [
         "https://www.niwa.co.nz/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "National Institute of Water and Atmospheric Research",
-      "label": "NIWA"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "noaa-ncei",
+      "@id": "noaa-ncei",
       "validation-key": "NOAA-NCEI",
       "ui-label": "NOAA National Centers for Environmental Information",
       "description": "",
@@ -2072,30 +1663,21 @@
           "lat": 35.60095,
           "lon": -82.55402
         },
-        "id": "universal:location/04r0wrp59",
-        "type": "location"
+        "@id": "universal:location/04r0wrp59",
+        "@type": "location"
       },
       "ror": "04r0wrp59",
       "url": [
         "https://www.ncei.noaa.gov"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "NOAA National Centers for Environmental Information",
-      "label": "NOAA-NCEI"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "ntu",
+      "@id": "ntu",
       "validation-key": "NTU",
       "ui-label": "National Taiwan University",
       "description": "",
@@ -2116,30 +1698,21 @@
           "lat": 25.016,
           "lon": 121.536
         },
-        "id": "universal:location/05bqach95",
-        "type": "location"
+        "@id": "universal:location/05bqach95",
+        "@type": "location"
       },
       "ror": "05bqach95",
       "url": [
         "http://www.ntu.edu.tw/english/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "National Taiwan University",
-      "label": "NTU"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "nuist",
+      "@id": "nuist",
       "validation-key": "NUIST",
       "ui-label": "Nanjing University",
       "description": "",
@@ -2163,30 +1736,21 @@
           "lat": 32.056111,
           "lon": 118.775
         },
-        "id": "universal:location/01rxvg760",
-        "type": "location"
+        "@id": "universal:location/01rxvg760",
+        "@type": "location"
       },
       "ror": "01rxvg760",
       "url": [
         "http://www.nju.edu.cn/english/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Nanjing University",
-      "label": "NUIST"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "osu",
+      "@id": "osu",
       "validation-key": "OSU",
       "ui-label": "Oregon State University",
       "description": "",
@@ -2207,30 +1771,21 @@
           "lat": 44.56457,
           "lon": -123.26204
         },
-        "id": "universal:location/00ysfqy60",
-        "type": "location"
+        "@id": "universal:location/00ysfqy60",
+        "@type": "location"
       },
       "ror": "00ysfqy60",
       "url": [
         "http://oregonstate.edu/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Oregon State University",
-      "label": "OSU"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "pcmdi",
+      "@id": "pcmdi",
       "validation-key": "PCMDI",
       "ui-label": "Lawrence Livermore National Laboratory",
       "description": "",
@@ -2257,30 +1812,21 @@
           "lat": 37.68187,
           "lon": -121.76801
         },
-        "id": "universal:location/041nk4h53",
-        "type": "location"
+        "@id": "universal:location/041nk4h53",
+        "@type": "location"
       },
       "ror": "041nk4h53",
       "url": [
         "https://www.llnl.gov/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Lawrence Livermore National Laboratory",
-      "label": "PCMDI"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "pmod",
+      "@id": "pmod",
       "validation-key": "PMOD",
       "ui-label": "Physikalisch-Meteorologisches Observatorium Davos",
       "description": "",
@@ -2301,30 +1847,21 @@
           "lat": 46.8133161,
           "lon": 46.8133161
         },
-        "id": "universal:location/02gtrqv93",
-        "type": "location"
+        "@id": "universal:location/02gtrqv93",
+        "@type": "location"
       },
       "ror": "02gtrqv93",
       "url": [
         "https://www.pmodwrc.ch/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Physikalisch-Meteorologisches Observatorium Davos",
-      "label": "PMOD"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "pnnl-jgcri",
+      "@id": "pnnl-jgcri",
       "validation-key": "PNNL-JGCRI",
       "ui-label": "Joint Global Change Research Institute",
       "description": "",
@@ -2345,30 +1882,21 @@
           "lat": 38.971106,
           "lon": -76.9217851
         },
-        "id": "universal:location/058cmd703",
-        "type": "location"
+        "@id": "universal:location/058cmd703",
+        "@type": "location"
       },
       "ror": "058cmd703",
       "url": [
         "http://www.globalchange.umd.edu/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Joint Global Change Research Institute",
-      "label": "PNNL-JGCRI"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "pnnl-waccem",
+      "@id": "pnnl-waccem",
       "validation-key": "PNNL-WACCEM",
       "ui-label": "Pacific Northwest National Laboratory",
       "description": "",
@@ -2389,30 +1917,21 @@
           "lat": 46.28569,
           "lon": -119.28446
         },
-        "id": "universal:location/05h992307",
-        "type": "location"
+        "@id": "universal:location/05h992307",
+        "@type": "location"
       },
       "ror": "05h992307",
       "url": [
         "http://www.pnnl.gov/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Pacific Northwest National Laboratory",
-      "label": "PNNL-WACCEM"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "rss",
+      "@id": "rss",
       "validation-key": "RSS",
       "ui-label": "Remote Sensing Systems (United States)",
       "description": "",
@@ -2433,30 +1952,21 @@
           "lat": 38.443733,
           "lon": -122.717185
         },
-        "id": "universal:location/01vp8h012",
-        "type": "location"
+        "@id": "universal:location/01vp8h012",
+        "@type": "location"
       },
       "ror": "01vp8h012",
       "url": [
         "http://www.remss.com/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Remote Sensing Systems (United States)",
-      "label": "RSS"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "snu",
+      "@id": "snu",
       "validation-key": "SNU",
       "ui-label": "Seoul National University",
       "description": "",
@@ -2479,30 +1989,21 @@
           "lat": 37.460155,
           "lon": 126.951894
         },
-        "id": "universal:location/04h9pn542",
-        "type": "location"
+        "@id": "universal:location/04h9pn542",
+        "@type": "location"
       },
       "ror": "04h9pn542",
       "url": [
         "http://www.snu.ac.kr/index.html"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Seoul National University",
-      "label": "SNU"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "thu",
+      "@id": "thu",
       "validation-key": "THU",
       "ui-label": "Tsinghua University",
       "description": "",
@@ -2523,30 +2024,21 @@
           "lat": 39.999585,
           "lon": 116.325414
         },
-        "id": "universal:location/03cve4549",
-        "type": "location"
+        "@id": "universal:location/03cve4549",
+        "@type": "location"
       },
       "ror": "03cve4549",
       "url": [
         "http://www.tsinghua.edu.cn/publish/newthuen/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Tsinghua University",
-      "label": "THU"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "ua",
+      "@id": "ua",
       "validation-key": "UA",
       "ui-label": "University of Arizona",
       "description": "",
@@ -2567,30 +2059,21 @@
           "lat": 32.22174,
           "lon": -110.92648
         },
-        "id": "universal:location/03m2x1q45",
-        "type": "location"
+        "@id": "universal:location/03m2x1q45",
+        "@type": "location"
       },
       "ror": "03m2x1q45",
       "url": [
         "http://www.arizona.edu/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "University of Arizona",
-      "label": "UA"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "uci",
+      "@id": "uci",
       "validation-key": "UCI",
       "ui-label": "University of California, Irvine",
       "description": "",
@@ -2613,30 +2096,21 @@
           "lat": 33.64535,
           "lon": -117.842642
         },
-        "id": "universal:location/04gyf1771",
-        "type": "location"
+        "@id": "universal:location/04gyf1771",
+        "@type": "location"
       },
       "ror": "04gyf1771",
       "url": [
         "http://uci.edu/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "University of California, Irvine",
-      "label": "UCI"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "ucolorado",
+      "@id": "ucolorado",
       "validation-key": "UColorado",
       "ui-label": "University of Colorado System",
       "description": "",
@@ -2657,30 +2131,21 @@
           "lat": 40.01499,
           "lon": -105.27055
         },
-        "id": "universal:location/00jc20583",
-        "type": "location"
+        "@id": "universal:location/00jc20583",
+        "@type": "location"
       },
       "ror": "00jc20583",
       "url": [
         "http://www.cu.edu/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "University of Colorado System",
-      "label": "UColorado"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "ucsb",
+      "@id": "ucsb",
       "validation-key": "UCSB",
       "ui-label": "University of California, Santa Barbara",
       "description": "",
@@ -2703,30 +2168,21 @@
           "lat": 34.42083,
           "lon": -119.69819
         },
-        "id": "universal:location/02t274463",
-        "type": "location"
+        "@id": "universal:location/02t274463",
+        "@type": "location"
       },
       "ror": "02t274463",
       "url": [
         "http://www.ucsb.edu/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "University of California, Santa Barbara",
-      "label": "UCSB"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "uhh",
+      "@id": "uhh",
       "validation-key": "UHH",
       "ui-label": "Universität Hamburg",
       "description": "",
@@ -2749,30 +2205,21 @@
           "lat": 53.55073,
           "lon": 9.99302
         },
-        "id": "universal:location/00g30e956",
-        "type": "location"
+        "@id": "universal:location/00g30e956",
+        "@type": "location"
       },
       "ror": "00g30e956",
       "url": [
         "http://www.uni-hamburg.de"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Universität Hamburg",
-      "label": "UHH"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "uobergen",
+      "@id": "uobergen",
       "validation-key": "UoBergen",
       "ui-label": "University of Bergen",
       "description": "",
@@ -2793,30 +2240,21 @@
           "lat": 60.39299,
           "lon": 60.39299
         },
-        "id": "universal:location/03zga2b32",
-        "type": "location"
+        "@id": "universal:location/03zga2b32",
+        "@type": "location"
       },
       "ror": "03zga2b32",
       "url": [
         "http://www.uib.no/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "University of Bergen",
-      "label": "UoBergen"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "uofmd",
+      "@id": "uofmd",
       "validation-key": "UofMD",
       "ui-label": "University of Maryland, College Park",
       "description": "",
@@ -2837,30 +2275,21 @@
           "lat": 38.98067,
           "lon": -76.93692
         },
-        "id": "universal:location/047s2c258",
-        "type": "location"
+        "@id": "universal:location/047s2c258",
+        "@type": "location"
       },
       "ror": "047s2c258",
       "url": [
         "http://www.umd.edu/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "University of Maryland, College Park",
-      "label": "UofMD"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "uoleeds",
+      "@id": "uoleeds",
       "validation-key": "UoLeeds",
       "ui-label": "University of Leeds",
       "description": "",
@@ -2879,30 +2308,21 @@
           "lat": 53.79648,
           "lon": 53.79648
         },
-        "id": "universal:location/024mrxd33",
-        "type": "location"
+        "@id": "universal:location/024mrxd33",
+        "@type": "location"
       },
       "ror": "024mrxd33",
       "url": [
         "http://www.leeds.ac.uk/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "University of Leeds",
-      "label": "UoLeeds"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "uom",
+      "@id": "uom",
       "validation-key": "UoM",
       "ui-label": "University of Melbourne",
       "description": "",
@@ -2923,30 +2343,21 @@
           "lat": -37.814,
           "lon": 144.96332
         },
-        "id": "universal:location/01ej9dk98",
-        "type": "location"
+        "@id": "universal:location/01ej9dk98",
+        "@type": "location"
       },
       "ror": "01ej9dk98",
       "url": [
         "http://www.unimelb.edu.au/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "University of Melbourne",
-      "label": "UoM"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "uomontreal",
+      "@id": "uomontreal",
       "validation-key": "UoMontreal",
       "ui-label": "Université de Montréal",
       "description": "",
@@ -2967,30 +2378,21 @@
           "lat": 45.50884,
           "lon": 45.50884
         },
-        "id": "universal:location/0161xgx34",
-        "type": "location"
+        "@id": "universal:location/0161xgx34",
+        "@type": "location"
       },
       "ror": "0161xgx34",
       "url": [
         "http://www.umontreal.ca/english/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Université de Montréal",
-      "label": "UoMontreal"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "uootago",
+      "@id": "uootago",
       "validation-key": "UoOtago",
       "ui-label": "University of Otago",
       "description": "",
@@ -3009,30 +2411,21 @@
           "lat": -45.87416,
           "lon": -45.87416
         },
-        "id": "universal:location/01jmxt844",
-        "type": "location"
+        "@id": "universal:location/01jmxt844",
+        "@type": "location"
       },
       "ror": "01jmxt844",
       "url": [
         "http://www.otago.ac.nz/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "University of Otago",
-      "label": "UoOtago"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "uooulu",
+      "@id": "uooulu",
       "validation-key": "UoOulu",
       "ui-label": "University of Oulu",
       "description": "",
@@ -3051,30 +2444,21 @@
           "lat": 65.01236,
           "lon": 65.01236
         },
-        "id": "universal:location/03yj89h83",
-        "type": "location"
+        "@id": "universal:location/03yj89h83",
+        "@type": "location"
       },
       "ror": "03yj89h83",
       "url": [
         "http://www.oulu.fi/english/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "University of Oulu",
-      "label": "UoOulu"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "ureading",
+      "@id": "ureading",
       "validation-key": "UReading",
       "ui-label": "University of Reading",
       "description": "",
@@ -3093,30 +2477,21 @@
           "lat": 51.440832,
           "lon": -0.942503
         },
-        "id": "universal:location/05v62cm79",
-        "type": "location"
+        "@id": "universal:location/05v62cm79",
+        "@type": "location"
       },
       "ror": "05v62cm79",
       "url": [
         "http://www.reading.ac.uk/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "University of Reading",
-      "label": "UReading"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "uw",
+      "@id": "uw",
       "validation-key": "UW",
       "ui-label": "University of Washington",
       "description": "",
@@ -3137,30 +2512,21 @@
           "lat": 47.60621,
           "lon": -122.33207
         },
-        "id": "universal:location/00cvxb145",
-        "type": "location"
+        "@id": "universal:location/00cvxb145",
+        "@type": "location"
       },
       "ror": "00cvxb145",
       "url": [
         "http://www.washington.edu/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "University of Washington",
-      "label": "UW"
->>>>>>> 30031c5a (reverting context)
+      ]
     },
     {
-      "id": "vua",
+      "@id": "vua",
       "validation-key": "VUA",
       "ui-label": "Vrije Universiteit Amsterdam",
       "description": "",
@@ -3183,27 +2549,18 @@
           "lat": 52.37403,
           "lon": 4.88969
         },
-        "id": "universal:location/008xxew50",
-        "type": "location"
+        "@id": "universal:location/008xxew50",
+        "@type": "location"
       },
       "ror": "008xxew50",
       "url": [
         "https://vu.nl/"
       ],
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
-<<<<<<< HEAD
-        "wcrp:institution",
-        "wcrp:organisation"
-      ]
-=======
         "esgf:institution",
         "esgf:organisation"
-      ],
-      "long_label": "Vrije Universiteit Amsterdam",
-      "label": "VUA"
->>>>>>> 30031c5a (reverting context)
+      ]
     }
   ]
 }

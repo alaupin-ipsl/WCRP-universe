@@ -1,89 +1,85 @@
 {
+  "@context": {
+    "@base": "https://wcrp-cmip.github.io/WCRP-universe/realm/",
+    "@vocab": "https://esgf.github.io/esgf-vocab/api_documentation/data_descriptors.html#esgvoc.api.data_descriptors.Realm"
+  },
   "@graph": [
     {
-      "id": "aerosol",
+      "@id": "aerosol",
       "validation-key": "aerosol",
       "ui-label": "Aerosol",
       "description": "Aerosol",
-      "@context": "_context",
-      "type": [
+      "@type": [
         "esgf:realm",
         "universal"
       ]
     },
     {
-      "id": "atmos",
+      "@id": "atmos",
       "validation-key": "atmos",
       "ui-label": "Atmosphere",
       "description": "Atmosphere",
-      "@context": "_context",
-      "type": [
+      "@type": [
         "esgf:realm",
         "universal"
       ]
     },
     {
-      "id": "atmoschem",
+      "@id": "atmoschem",
       "validation-key": "atmosChem",
       "ui-label": "Atmospheric Chemistry",
       "description": "Atmospheric Chemistry",
-      "@context": "_context",
-      "type": [
+      "@type": [
         "esgf:realm",
         "universal"
       ]
     },
     {
-      "id": "land",
+      "@id": "land",
       "validation-key": "land",
       "ui-label": "Land Surface and Subsurface",
       "description": "Land Surface and Subsurface",
-      "@context": "_context",
-      "type": [
+      "@type": [
         "universal",
         "esgf:realm"
       ]
     },
     {
-      "id": "landice",
+      "@id": "landice",
       "validation-key": "landIce",
       "ui-label": "Land Ice",
       "description": "Land Ice",
-      "@context": "_context",
-      "type": [
+      "@type": [
         "esgf:realm",
         "universal"
       ]
     },
     {
-      "id": "ocean",
+      "@id": "ocean",
       "validation-key": "ocean",
       "ui-label": "Ocean",
       "description": "Ocean",
-      "@context": "_context",
-      "type": [
+      "@type": [
         "esgf:realm",
         "universal"
       ]
     },
     {
-      "id": "ocnbgchem",
+      "@id": "ocnbgchem",
       "validation-key": "ocnBgchem",
       "ui-label": "Ocean Biogeochemistry",
       "description": "Ocean Biogeochemistry",
-      "@context": "_context",
-      "type": [
+      "@type": [
         "esgf:realm",
         "universal"
       ]
     },
     {
-      "id": "seaice",
+      "@id": "seaice",
       "validation-key": "seaIce",
       "ui-label": "Sea Ice",
       "description": "Sea Ice",
-      "@context": "_context",
-      "type": [
+      "@type": [
         "esgf:realm",
         "universal"
       ]
