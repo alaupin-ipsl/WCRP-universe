@@ -1,0 +1,43 @@
+name: "Add/Modify: Native Horizontal Grid Temporal Refinement"
+description: Add or modify a grid temporal refinement in WCRP Universe
+title: "Add/Modify: Grid Temporal Refinement: <Type name here>"
+labels: ['delta', 'grid-temporal-refinement', 'Review']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Add/Modify: Native Horizontal Grid Temporal Refinement
+
+  - type: dropdown
+    id: issue_kind
+    attributes:
+      label: Issue Type
+      description: New or modify existing
+      options:
+        - "New"
+        - "Modify"
+      default: New
+    validations:
+      required: true
+
+  - type: input
+    id: validation_key
+    attributes:
+      label: Validation Key
+      description: Unique identifier
+      placeholder: "e.g. standard"
+    validations:
+      required: true
+
+  - type: input
+    id: ui_label
+    attributes:
+      label: UI Label
+      description: Full name
+      placeholder: "e.g. Standard"
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Detailed description

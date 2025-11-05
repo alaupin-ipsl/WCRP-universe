@@ -1,0 +1,43 @@
+name: "Add/Modify: Activity"
+description: Add or modify an activity in WCRP Universe
+title: "Add/Modify: Activity: <Type activity name here>"
+labels: ['delta', 'activity', 'Review']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Add/Modify: Activity
+
+  - type: dropdown
+    id: issue_kind
+    attributes:
+      label: Issue Type
+      description: New or modify existing
+      options:
+        - "New"
+        - "Modify"
+      default: New
+    validations:
+      required: true
+
+  - type: input
+    id: validation_key
+    attributes:
+      label: Validation Key
+      description: Unique identifier (lowercase)
+      placeholder: "e.g. cmip"
+    validations:
+      required: true
+
+  - type: input
+    id: ui_label
+    attributes:
+      label: UI Label
+      description: Full name
+      placeholder: "e.g. CMIP"
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Detailed description

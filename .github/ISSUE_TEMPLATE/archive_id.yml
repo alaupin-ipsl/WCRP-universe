@@ -1,0 +1,43 @@
+name: "Add/Modify: Archive ID"
+description: Add or modify an archive ID in WCRP Universe
+title: "Add/Modify: Archive ID: <Type archive name here>"
+labels: ['delta', 'archive-id', 'Review']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Add/Modify: Archive ID
+
+  - type: dropdown
+    id: issue_kind
+    attributes:
+      label: Issue Type
+      description: New or modify existing
+      options:
+        - "New"
+        - "Modify"
+      default: New
+    validations:
+      required: true
+
+  - type: input
+    id: validation_key
+    attributes:
+      label: Validation Key
+      description: Unique identifier (lowercase)
+      placeholder: "e.g. wcrp"
+    validations:
+      required: true
+
+  - type: input
+    id: ui_label
+    attributes:
+      label: UI Label
+      description: Full name
+      placeholder: "e.g. WCRP"
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Detailed description

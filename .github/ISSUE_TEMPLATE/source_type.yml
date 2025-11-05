@@ -1,0 +1,43 @@
+name: "Add/Modify: Source Type"
+description: Add or modify a source type in WCRP Universe
+title: "Add/Modify: Source Type: <Type source type name here>"
+labels: ['delta', 'source-type', 'Review']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Add/Modify: Source Type
+
+  - type: dropdown
+    id: issue_kind
+    attributes:
+      label: Issue Type
+      description: New or modify existing
+      options:
+        - "New"
+        - "Modify"
+      default: New
+    validations:
+      required: true
+
+  - type: input
+    id: validation_key
+    attributes:
+      label: Validation Key
+      description: Unique identifier (lowercase)
+      placeholder: "e.g. aogcm"
+    validations:
+      required: true
+
+  - type: input
+    id: ui_label
+    attributes:
+      label: UI Label
+      description: Full name
+      placeholder: "e.g. AOGCM"
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Detailed description

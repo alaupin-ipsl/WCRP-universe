@@ -1,0 +1,43 @@
+name: "Add/Modify: Model Calendar"
+description: Add or modify a model calendar in WCRP Universe
+title: "Add/Modify: Model Calendar: <Type calendar name here>"
+labels: ['delta', 'model-calendar', 'Review']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Add/Modify: Model Calendar
+
+  - type: dropdown
+    id: issue_kind
+    attributes:
+      label: Issue Type
+      description: New or modify existing
+      options:
+        - "New"
+        - "Modify"
+      default: New
+    validations:
+      required: true
+
+  - type: input
+    id: validation_key
+    attributes:
+      label: Validation Key
+      description: Unique identifier
+      placeholder: "e.g. gregorian"
+    validations:
+      required: true
+
+  - type: input
+    id: ui_label
+    attributes:
+      label: UI Label
+      description: Full name
+      placeholder: "e.g. Gregorian"
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Detailed description
