@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-- name: View Documentation
-  url: ''
-  description: Documentation for CMIP7 Controlled Vocabularies.
-- name: All Options
-  url: Contributing md
-  description: All possible new submissions
