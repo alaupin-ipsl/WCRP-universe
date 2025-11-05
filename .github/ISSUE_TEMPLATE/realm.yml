@@ -16,7 +16,7 @@ body:
       options:
         - "New"
         - "Modify"
-      default: New
+      default: 0
     validations:
       required: true
 
