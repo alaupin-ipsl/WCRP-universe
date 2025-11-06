@@ -20,10 +20,10 @@ WCRP-universe repository used by CMIP and other WCRP activities.
 
 | Required |  |
 |--------|-------------|
-| [`main`](https://github.com/WCRP-CMIP/CMIP7-CVs/tree/main) | The landing page directing users to the relevant content. |
-| [`docs`](https://github.com/WCRP-CMIP/CMIP7-CVs/tree/docs) | Contains the documentation and is version-controlled. This is the branch where documentation edits are made. Actions and automations (e.g., workflows that update docs or summaries) are also configured from this branch. |
-| [`src-data`](https://github.com/WCRP-CMIP/CMIP7-CVs/tree/src-data) | Stores the JSONLD content used to link all files. Updates here trigger automated workflows that identify changed JSON files and update documentation or summaries accordingly. |
-| [`production`](https://github.com/WCRP-CMIP/CMIP7-CVs/tree/production) | Not for user digestion. Hosts the compiled documentation and JSONLD files, as well as the static pages site. Updated automatically via workflows when changes in `src-data` or `docs` are processed. |
+| [`main`](https://github.com/WCRP-CMIP/WCRP-universe/tree/main) | The landing page directing users to the relevant content. |
+| [`docs`](https://github.com/WCRP-CMIP/WCRP-universe/tree/docs) | Contains the documentation and is version-controlled. This is the branch where documentation edits are made. Actions and automations (e.g., workflows that update docs or summaries) are also configured from this branch. |
+| [`src-data`](https://github.com/WCRP-CMIP/WCRP-universe/tree/src-data) | Stores the JSONLD content used to link all files. Updates here trigger automated workflows that identify changed JSON files and update documentation or summaries accordingly. |
+| [`production`](https://github.com/WCRP-CMIP/WCRP-universe/tree/production) | Not for user digestion. Hosts the compiled documentation and JSONLD files, as well as the static pages site. Updated automatically via workflows when changes in `src-data` or `docs` are processed. |
 
 
 
