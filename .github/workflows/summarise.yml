@@ -33,6 +33,10 @@ jobs:
         run: |
           generate_summary .github/GENERATE_SUMMARY/
 
+      - name: List summary files
+        run: ls -R .summaries/
+      
+
       - name: Upload folder as artifact
         uses: actions/upload-artifact@v4
         with:
