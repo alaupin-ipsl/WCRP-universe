@@ -1,0 +1,30 @@
+{
+    "Header": {
+        "file": "wcrp-universe_mip.json",
+        "file_creation_date": "2025-11-10T16:04:56.981447",
+        "version": "fatal: No names found, cannot describe anything.",
+        "checksum": "md5: c7ea6ed4959bff434a60a27a618b661f",
+        "repo_url": "https://github.com/WCRP-CMIP/WCRP-universe",
+        "repo_prefix": "universal",
+        "last_commit": "28adee447030a7ebc41c123c199b42a94fb7bed8",
+        "comment": "This is an automatically generated file. Do not edit."
+    },
+    "mip": {
+        "CMIP5": {
+            "description": "",
+            "url": "https://wcrp-cmip.org/CMIP5"
+        },
+        "CMIP6": {
+            "description": "",
+            "url": "https://wcrp-cmip.org/CMIP6"
+        },
+        "CMIP6Plus": {
+            "description": "",
+            "url": "https://wcrp-cmip.org/CMIP6Plus"
+        },
+        "CMIP7": {
+            "description": "",
+            "url": "https://wcrp-cmip.org/CMIP7"
+        }
+    }
+}
