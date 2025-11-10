@@ -192,4 +192,4 @@ jobs:
 
 
   summarise:
-    uses: .github/workflows/summarise.yml@main
+    uses: ./.github/workflows/summarise.yml@main
