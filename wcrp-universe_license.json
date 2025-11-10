@@ -1,0 +1,38 @@
+{
+    "Header": {
+        "file": "wcrp-universe_license.json",
+        "file_creation_date": "2025-11-10T17:12:38.063308",
+        "version": "fatal: No names found, cannot describe anything.",
+        "checksum": "md5: 5eeeea5b7de18cfd33581d1d661c14f7",
+        "repo_url": "https://github.com/WCRP-CMIP/WCRP-universe",
+        "repo_prefix": "universal",
+        "last_commit": "b8f0ffdab88cd657bb0fd8d346f0eebe5d4a8aa9",
+        "comment": "This is an automatically generated file. Do not edit."
+    },
+    "license": {
+        "CC BY 4.0": {
+            "description": "",
+            "ui_label": "Creative Commons Attribution 4.0 International",
+            "url": "https://creativecommons.org/licenses/by/4.0/",
+            "validation_key": "CC BY 4.0"
+        },
+        "CC BY-NC-SA 4.0": {
+            "description": "",
+            "ui_label": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+            "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "validation_key": "CC BY-NC-SA 4.0"
+        },
+        "CC BY-SA 4.0": {
+            "description": "",
+            "ui_label": "Creative Commons Attribution-ShareAlike 4.0 International",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "validation_key": "CC BY-SA 4.0"
+        },
+        "CC0 1.0": {
+            "description": "",
+            "ui_label": "Creative Commons CC0 1.0 Universal Public Domain Dedication",
+            "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "validation_key": "CC0 1.0"
+        }
+    }
+}
