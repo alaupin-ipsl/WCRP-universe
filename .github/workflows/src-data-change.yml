@@ -189,3 +189,7 @@ jobs:
       force: true
     secrets:
       token: ${{ secrets.GITHUB_TOKEN }}
+
+
+  summarise:
+    uses: summarise.yml

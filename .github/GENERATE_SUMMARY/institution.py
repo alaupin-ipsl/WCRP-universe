@@ -1,23 +1,19 @@
 import cmipld
+import os
 from cmipld.utils.ldparse import *
 from cmipld.utils.checksum import version
 
 me = __file__.split('/')[-1].replace('.py','')
 
-def run(localhost,whoami,repopath,reponame):
-
-    url = f'{localhost}/{whoami}/organisation/graph.jsonld'
-    ctx = f'{localhost}/{whoami}/organisation/_context_'
+def run(whoami, path, name, url, io):
     
-    frame = {
-        "@context": ctx,
-        "@type": "wcrp:institution"
-    }
     
-    data = cmipld.jsonld.frame(url,frame)["@graph"]
     
-    summary = name_extract(data,['acronyms', 'ui-label','url','ror'])
+    url = f'{whoami}:organisation/graph.jsonld'
     
-    location = f'{repopath}/{reponame}_{me}.json'
-    summary = version(summary, me, location.split("/")[-1])
-    cmipld.utils.io.wjsn(summary,location)
+    data = cmipld.get(url,depth=1)['@graph']
+    
+    summary = name_extract(data,['acronyms', 'ui_label','url','ror'])
+    
+    location = f'{path}/{name.lower()}_{me}.json'
+    return location, me, summary

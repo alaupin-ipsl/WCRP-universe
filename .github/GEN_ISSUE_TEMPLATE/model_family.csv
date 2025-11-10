@@ -1,6 +1,0 @@
-field_order,field_type,field_id,label,description,data_source,required,placeholder,options_type,default_value
-1,markdown,header,,"# Add/Modify: Model Family",none,false,,,
-2,dropdown,issue_kind,Issue Type,New or modify existing,issue_kind,true,,list,0
-3,input,validation_key,Validation Key,Unique identifier,none,true,e.g. ec-earth,,
-4,input,ui_label,UI Label,Full name,none,false,e.g. EC-Earth,,
-5,textarea,description,Description,Detailed description,none,false,,,
