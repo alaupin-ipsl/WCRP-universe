@@ -8,6 +8,8 @@ on:
       - '.github/workflows/**'
       - '.github/CONTRIBUTING.md'
 
+  workflow_dispatch:
+
 permissions:
   contents: write
 
