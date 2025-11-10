@@ -1,4 +1,4 @@
-name: generate_summaries
+name: ⌮ Summarise
 description: generate a summary from the src-data branch and sync to production
 permissions:
   contents: write
