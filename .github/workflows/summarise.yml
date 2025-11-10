@@ -31,7 +31,7 @@ jobs:
 
       - name: generate the summaries
         run: |
-          generate_summary .github/GENERATE_SUMMARY/
+          generate_summary .github/GENERATE_SUMMARIES/
 
       - name: List summary files
         run: ls -R .summaries/
