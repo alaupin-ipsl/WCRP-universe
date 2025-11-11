@@ -16,7 +16,8 @@
 !.gitignore
 
 # keep hidden directories
-!.*/
+!.*/**
+
 
 !content_summmaries/
 
