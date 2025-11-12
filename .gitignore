@@ -22,7 +22,8 @@
 !.*/**
 
 
-!./content_summaries/**
+!content_summaries/
+!content_summaries/**
 
 # Don't ignore directories (so git can traverse them)
 #!*/
