@@ -1,7 +1,8 @@
 # Ignore everything
 *
 
-**.DS_Store
+*/**.DS_Store
+.DS_Store
 **__pycache__
 
 # But not these file types
