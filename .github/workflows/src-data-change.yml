@@ -17,7 +17,7 @@ on:
         default: 'false'
         type: boolean
 jobs:
-  sync:
+  sync_to_production:
     runs-on: ubuntu-latest
     steps:
           
