@@ -1,0 +1,119 @@
+{
+    "Header": {
+        "file": "wcrp-universe_resolution.json",
+        "file_creation_date": "2025-11-12T13:19:06.183701",
+        "version": "fatal: No names found, cannot describe anything.",
+        "checksum": "md5: 0fdab6049ff998272b5cdda9a5b9bbcd",
+        "repo_url": "https://github.com/WCRP-CMIP/WCRP-universe",
+        "repo_prefix": "universal",
+        "last_commit": "aea3f05c2ff2d3f40475557d27cfd91610f1cde4",
+        "comment": "This is an automatically generated file. Do not edit."
+    },
+    "resolution": {
+        "0.5 km": {
+            "description": "Resolution of 0.5 km",
+            "ui_label": "",
+            "unit": "km",
+            "validation_key": "0.5 km",
+            "value": "0.5"
+        },
+        "1 km": {
+            "description": "Resolution of 1 km",
+            "ui_label": "",
+            "unit": "km",
+            "validation_key": "1 km",
+            "value": "1"
+        },
+        "10 km": {
+            "description": "Resolution of 10 km",
+            "ui_label": "",
+            "unit": "km",
+            "validation_key": "10 km",
+            "value": "10"
+        },
+        "100 km": {
+            "description": "Resolution of 100 km",
+            "ui_label": "",
+            "unit": "km",
+            "validation_key": "100 km",
+            "value": "100"
+        },
+        "1000 km": {
+            "description": "Resolution of 1000 km",
+            "ui_label": "",
+            "unit": "km",
+            "validation_key": "1000 km",
+            "value": "1000"
+        },
+        "10000 km": {
+            "description": "Resolution of 10000 km",
+            "ui_label": "",
+            "unit": "km",
+            "validation_key": "10000 km",
+            "value": "10000"
+        },
+        "1x1 degree": {
+            "description": "Resolution of 1x1 degree",
+            "ui_label": "",
+            "unit": "degree",
+            "validation_key": "1x1 degree",
+            "value": "1x1"
+        },
+        "2.5 km": {
+            "description": "Resolution of 2.5 km",
+            "ui_label": "",
+            "unit": "km",
+            "validation_key": "2.5 km",
+            "value": "2.5"
+        },
+        "25 km": {
+            "description": "Resolution of 25 km",
+            "ui_label": "",
+            "unit": "km",
+            "validation_key": "25 km",
+            "value": "25"
+        },
+        "250 km": {
+            "description": "Resolution of 250 km",
+            "ui_label": "",
+            "unit": "km",
+            "validation_key": "250 km",
+            "value": "250"
+        },
+        "2500 km": {
+            "description": "Resolution of 2500 km",
+            "ui_label": "",
+            "unit": "km",
+            "validation_key": "2500 km",
+            "value": "2500"
+        },
+        "5 km": {
+            "description": "Resolution of 5 km",
+            "ui_label": "",
+            "unit": "km",
+            "validation_key": "5 km",
+            "value": "5"
+        },
+        "50 km": {
+            "description": "Resolution of 50 km",
+            "ui_label": "",
+            "unit": "km",
+            "validation_key": "50 km",
+            "value": "50"
+        },
+        "500 km": {
+            "description": "Resolution of 500 km",
+            "ui_label": "",
+            "unit": "km",
+            "validation_key": "500 km",
+            "value": "500"
+        },
+        "5000 km": {
+            "description": "Resolution of 5000 km",
+            "ui_label": "",
+            "unit": "km",
+            "validation_key": "5000 km",
+            "value": "5000"
+        }
+    }
+}
