@@ -2,32 +2,24 @@
     "@context": "000_context.jsonld",
     "id": "esm-picontrol-spinup",
     "type": "experiment",
-    "experiment_id": "esm-piControl-spinup",
-    "activity_id": [
-        "cmip"
-    ],
+    "description": "Pre-industrial control spin-up simulation with prescribed CO2 emissions (for spin-up with prescribed CO2 concentrations, see `piControl-spinup`). Used to get the model into a state of approximate radiative equilibrium before starting the piControl simulation.",
+    "drs_name": "esm-piControl-spinup",
+    "activity": "cmip",
     "additional_allowed_model_components": [
         "aer",
         "chem"
     ],
-    "description": "DECK: spin-up portion of the control (emission-driven)",
-    "end_year": null,
-    "experiment": "pre-industrial control simulation with CO2 concentration calculated (spin-up)",
-    "min_number_yrs_per_sim": 100,
-    "parent_activity_id": [
-        "no parent"
-    ],
-    "parent_experiment_id": [
-        "no parent"
-    ],
+    "branch_information": null,
+    "end_timestamp": null,
+    "min_ensemble_size": 1,
+    "min_number_yrs_per_sim": null,
+    "parent_activity": null,
+    "parent_experiment": null,
+    "parent_mip_era": null,
     "required_model_components": [
         "aogcm",
         "bgc"
     ],
-    "start_year": null,
-    "sub_experiment_id": [
-        "none"
-    ],
-    "tier": 2,
-    "drs_name": "esm-piControl-spinup"
+    "start_timestamp": null,
+    "tier": 1
 }
