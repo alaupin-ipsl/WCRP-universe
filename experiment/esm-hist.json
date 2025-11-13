@@ -2,32 +2,21 @@
     "@context": "000_context.jsonld",
     "id": "esm-hist",
     "type": "experiment",
-    "experiment_id": "esm-hist",
-    "activity_id": [
-        "cmip"
-    ],
+    "description": "Simulation of the climate of the recent past (typically meaning 1850 to present-day) with prescribed CO2 emissions (for prescribed CO2 concentration runs, see `historical`)",
+    "drs_name": "esm-hist",
+    "activity": "cmip",
     "additional_allowed_model_components": [
         "aer",
         "chem"
     ],
-    "description": "CMIP6 historical (CO2 emission-driven)",
-    "end_year": 2014,
-    "experiment": "all-forcing simulation of the recent past with atmospheric CO2 concentration calculated (CO2 emission-driven)",
-    "min_number_yrs_per_sim": 165,
-    "parent_activity_id": [
-        "cmip"
-    ],
-    "parent_experiment_id": [
-        "esm-picontrol"
-    ],
+    "branch_information": "Note entry in context is wrong. Branch from piControl at a time of your choosing",
+    "min_ensemble_size": 1,
+    "parent_activity": "cmip",
+    "parent_experiment": "esm-picontrol",
     "required_model_components": [
         "aogcm",
         "bgc"
     ],
-    "start_year": 1850,
-    "sub_experiment_id": [
-        "none"
-    ],
-    "tier": 1,
-    "drs_name": "esm-hist"
+    "start_timestamp": "1850-01-01",
+    "tier": 1
 }

@@ -5,6 +5,7 @@
     "description": "CMIP core common experiments i.e. the DECK (Diagnostic, Evaluation and Characterization of Klima)",
     "drs_name": "CMIP",
     "experiments": [
+        "esm-hist",
         "historical",
         "picontrol"
     ],
