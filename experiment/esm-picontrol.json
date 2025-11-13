@@ -2,32 +2,24 @@
     "@context": "000_context.jsonld",
     "id": "esm-picontrol",
     "type": "experiment",
-    "experiment_id": "esm-piControl",
-    "activity_id": [
-        "cmip"
-    ],
+    "description": "Pre-industrial control simulation with prescribed CO2 emissions (for pre-industrial control with prescribed CO2 concentrations, see `piControl`). Used to characterise natural variability and unforced behaviour.",
+    "drs_name": "esm-piControl",
+    "activity": "cmip",
     "additional_allowed_model_components": [
         "aer",
         "chem"
     ],
-    "description": "DECK: control (emission-driven)",
-    "end_year": null,
-    "experiment": "pre-industrial control simulation with preindustrial CO2 emissions defined (CO2 emission-driven)",
+    "branch_information": "Note entry in context is wrong. Branch from esm-piControl-spinup at a time of your choosing",
+    "end_timestamp": null,
+    "min_ensemble_size": 1,
     "min_number_yrs_per_sim": 500,
-    "parent_activity_id": [
-        "cmip"
-    ],
-    "parent_experiment_id": [
-        "esm-picontrol-spinup"
-    ],
+    "parent_activity": "cmip",
+    "parent_experiment": "esm-picontrol-spinup",
+    "parent_mip_era": "cmip7",
     "required_model_components": [
         "aogcm",
         "bgc"
     ],
-    "start_year": null,
-    "sub_experiment_id": [
-        "none"
-    ],
-    "tier": 1,
-    "drs_name": "esm-piControl"
+    "start_timestamp": null,
+    "tier": 1
 }
