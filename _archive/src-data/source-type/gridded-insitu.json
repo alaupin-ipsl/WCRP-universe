@@ -1,0 +1,10 @@
+{
+    "@context": "_context_",
+    "description": "gridded product based on measurements collected from in-situ instruments",
+    "id": "gridded-insitu",
+    "type": [
+        "wcrp:source_type",
+        "universal"
+    ],
+    "label": "gridded_insitu"
+}

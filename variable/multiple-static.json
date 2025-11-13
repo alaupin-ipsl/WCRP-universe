@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "multiple-static",
+    "cmip_acronym": "multiple-static",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "multiple-static"
+}

@@ -1,0 +1,20 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "enea-reg2",
+    "type": "source",
+    "drs_name": "ENEA-REG2",
+    "activity_participation": [
+        "DD"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "organisation_id": [
+        "ENEA"
+    ],
+    "label": "ENEA-REG v2.0",
+    "label_extended": "The ENEA-REG regional Earth System Model version 2.0 based on WRF v4.2.2, MITgcm z67, and HD v1.0.2",
+    "license": {},
+    "model_component": null,
+    "release_year": "2021"
+}

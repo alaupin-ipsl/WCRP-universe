@@ -1,0 +1,28 @@
+{
+  "id": "msfty_tavg-rho-hys-sea",
+  "type": "known_branded_variable",
+  "drs_name": "msfty_tavg-rho-hys-sea",
+  "cf_standard_name": "ocean_y_overturning_mass_streamfunction",
+  "cf_units": "kg s-1",
+  "cf_sn_status": "approved",
+  "variable_root_name": "msfty",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-rho-hys-sea",
+  "description": "Overturning mass streamfunction arising from all advective mass transport processes, resolved and parameterized.\n",
+  "dimensions": [
+    "rho",
+    "basin",
+    "time"
+  ],
+  "cell_methods": "grid_longitude: sum where sea time: mean",
+  "cell_measures": "",
+  "history": "",
+  "realm": "ocean",
+  "temporal_label": "tavg",
+  "vertical_label": "rho",
+  "horizontal_label": "hys",
+  "area_label": "sea",
+  "bn_status": "Provisional - likely accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

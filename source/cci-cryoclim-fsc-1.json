@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cci-cryoclim-fsc-1",
+    "type": "source",
+    "drs_name": "CCI-CryoClim-FSC-1",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "CCI/CryoClim FSC",
+    "label_extended": "Fractional Snow Cover CDR v1 from ESA CCI / CryoClim",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

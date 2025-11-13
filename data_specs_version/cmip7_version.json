@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cmip7_version",
+    "type": "data_specs_version",
+    "regex": "^CMIP7\\.\\d{2}\\.\\d{2}\\.\\d{2}$"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "utsvolcemis",
+    "cmip_acronym": "utsvolcemis",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "utsvolcemis"
+}

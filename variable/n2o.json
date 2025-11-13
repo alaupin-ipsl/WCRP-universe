@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "n2o",
+    "cmip_acronym": "n2o",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "n2o"
+}

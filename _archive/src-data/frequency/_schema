@@ -1,0 +1,49 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "CMIP Frequency Descriptor",
+    "description": "Defines the properties of a CMIP frequency descriptor, including measurement intervals, units, and naming conventions.",
+    "references": ["https://github.com/WCRP-CMIP/WCRP-universe/frequency"],
+    "repo": "https://github.com/WCRP-CMIP/WCRP-universe/",
+    "prefix": "mip",
+    
+    "type": "object",
+    "properties": {
+        "@context": {
+            "type": "string",
+            "description": "URI for the JSON-LD context describing frequency descriptors",
+            "examples": ["https://github.com/WCRP-CMIP/WCRP-universe/frequency/_context"]
+        },
+        "description": {
+            "type": "string",
+            "description": "Detailed description of the frequency, specifying the data collection interval and resolution",
+            "examples": ["monthly-mean diurnal cycle resolving each day into 1-hour means"]
+        },
+        "id": {
+            "type": "string",
+            "description": "Unique identifier for this frequency descriptor file",
+            "examples": ["1hrcm.json"]
+        },
+        "long_name": {
+            "type": "string",
+            "description": "Extended name providing a full description of the frequency",
+            "examples": ["1 Hour Climatology Monthly"]
+        },
+        "name": {
+            "type": "string",
+            "description": "Short name or standardized label for the frequency",
+            "examples": ["1hrCM"]
+        },
+        "type": {
+            "type": "string",
+            "description": "Data type classification (e.g., frequency)",
+            "examples": ["frequency"]
+        },
+        "unit": {
+            "type": "string",
+            "description": "Measurement unit for the frequency (e.g., hour, day)",
+            "examples": ["hour"]
+        }
+    },
+    "required": ["@context", "description", "id", "long_name", "name", "type", "unit"]
+}
+

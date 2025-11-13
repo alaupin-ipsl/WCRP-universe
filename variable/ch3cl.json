@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ch3cl",
+    "cmip_acronym": "ch3cl",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "ch3cl"
+}

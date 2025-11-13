@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "espri-ipsl",
+    "type": "institution",
+    "drs_name": "ESPRI-IPSL",
+    "name": "ESPRI-IPSL",
+    "acronym": [
+        "ESPRI-IPSL"
+    ],
+    "aliases": [],
+    "established": null,
+    "labels": [
+        "Ensemble de Services Pour la Recherche, Institut Pierre Simon Laplace (France)"
+    ],
+    "location": {},
+    "ror": null,
+    "url": []
+}

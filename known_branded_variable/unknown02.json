@@ -1,0 +1,28 @@
+{
+  "id": "unknown02",
+  "type": "known_branded_variable",
+  "drs_name": "unknown02",
+  "cf_standard_name": "sea_surface_wave_significant_height",
+  "cf_units": "m",
+  "cf_sn_status": "approved",
+  "variable_root_name": "unknown02",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "",
+  "description": "Average height of the highest one-third of waves present in the sea state, incorporating both wind-sea and swell waves. This is a key parameter for describing wave energy and is derived from the wave spectrum using spectral moments. Specifically, this parameter is four times the square root of the integral over all directions and all frequencies of the two-dimensional wave spectrum.\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1"
+  ],
+  "cell_methods": "area: mean where sea time: mean",
+  "cell_measures": "area: areacello",
+  "history": "",
+  "realm": "ocean",
+  "temporal_label": "",
+  "vertical_label": "",
+  "horizontal_label": "",
+  "area_label": "",
+  "bn_status": "Provisional - discussion required",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

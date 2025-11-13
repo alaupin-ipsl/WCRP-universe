@@ -1,0 +1,47 @@
+[project]
+name = "WCRP-universe"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "TROUSSELLIER Laurent", email = "laurent.troussellier@ipsl.fr" }
+]
+dependencies = [
+    "pyld>=2.0.4",
+    "pytest>=8.3.3",
+    "pydantic>=2.9.2",
+    "requests>=2.32.3",
+    "python-dotenv>=1.1.1",
+    "icecream>=2.1.7",
+    "devtools>=0.12.2",
+    "esgvoc",
+]
+readme = "README.md"
+requires-python = ">= 3.10"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+dev-dependencies = []
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["_src/wcrp_universe"]
+
+[tool.pytest.ini_options]
+log_cli = true
+log_cli_level = "INFO"
+log_cli_format = "%(asctime)s [%(levelname)8s] %(message)s (%(filename)s:%(lineno)s)"
+log_cli_date_format = "%Y-%m-%d %H:%M:%S"
+
+[dependency-groups]
+dev = [
+    "jupyter-console>=6.6.3",
+    "pyairtable>=3.1.1",
+]
+[tool.uv.sources]
+esgvoc = { git = "https://github.com/ESGF/esgf-vocab.git", branch = "integration" }

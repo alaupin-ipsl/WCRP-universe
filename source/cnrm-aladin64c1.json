@@ -1,0 +1,20 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cnrm-aladin64c1",
+    "type": "source",
+    "drs_name": "CNRM-ALADIN64C1",
+    "activity_participation": [
+        "DD"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "organisation_id": [
+        "CNRM"
+    ],
+    "label": "CNRM-ALADIN64C1",
+    "label_extended": "CNRM-ALADIN regional climate model, version 6.4, physics tuning specific for the CAM domain (C1)",
+    "license": {},
+    "model_component": null,
+    "release_year": "2025"
+}

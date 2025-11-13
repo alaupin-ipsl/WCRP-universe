@@ -1,0 +1,20 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ccam-v2112",
+    "type": "source",
+    "drs_name": "CCAM-v2112",
+    "activity_participation": [
+        "DD"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "organisation_id": [
+        "UQ-DEC"
+    ],
+    "label": "CCAM v2112",
+    "label_extended": "Conformal Cubic Atmospheric Model version 2112",
+    "license": {},
+    "model_component": null,
+    "release_year": "2022"
+}

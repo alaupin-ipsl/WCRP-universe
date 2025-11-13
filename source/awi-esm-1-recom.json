@@ -1,0 +1,33 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "awi-esm-1-recom",
+    "type": "source",
+    "drs_name": "AWI-ESM-1-REcoM",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "c4mip",
+        "cdrmip",
+        "cmip",
+        "scenariomip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "AWI-ESM 1 REcoM",
+    "label_extended": "AWI-ESM 1 REcoM",
+    "model_component": {
+        "atmos": "echam6.3.04p1",
+        "land": "jsbach",
+        "ocean": "fesom",
+        "ocnBgchem": "recom2",
+        "seaIce": "fesom"
+    },
+    "release_year": "2024",
+    "organisation_id": [
+        "awi"
+    ]
+}

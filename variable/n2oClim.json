@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "n2oClim",
+    "cmip_acronym": "n2oClim",
+    "long_name": "Mole Fraction of N2O",
+    "standard_name": "mole_fraction_of_nitrous_oxide_in_air",
+    "type": "variable",
+    "units": "mol mol-1",
+    "drs_name": "n2oClim"
+}

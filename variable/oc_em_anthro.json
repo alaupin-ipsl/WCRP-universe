@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "oc_em_anthro",
+    "cmip_acronym": "OC_em_anthro",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "OC_em_anthro"
+}

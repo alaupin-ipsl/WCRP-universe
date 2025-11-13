@@ -1,0 +1,12 @@
+{
+    "@context": "_context_",
+    "end": 2999,
+    "id": "cmip7",
+    "start": 2025,
+    "type": [
+        "wcrp:mip",
+        "universal"
+    ],
+    "url": "https://wcrp-cmip.org/CMIP7",
+    "label": "CMIP7"
+}

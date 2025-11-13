@@ -1,0 +1,47 @@
+{
+    "@context": "_context_",
+    "changes": "",
+    "id": "miroc",
+    "members": {
+        "jamstec": {
+            "current": false,
+            "from": 2016,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "aori": {
+            "current": false,
+            "from": 2016,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "nies": {
+            "current": false,
+            "from": 2016,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "r-ccs": {
+            "current": false,
+            "from": 2016,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        }
+    },
+    "status": "active",
+    "type": [
+        "wcrp:consortium",
+        "universal"
+    ],
+    "url": "",
+    "long_label": "MIROC Consortium",
+    "label": "MIROC"
+}

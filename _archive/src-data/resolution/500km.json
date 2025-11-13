@@ -1,0 +1,12 @@
+{
+    "@context": "_context_",
+    "description": "Resolution of 500 km",
+    "id": "500km",
+    "type": [
+        "wcrp:resolution",
+        "universal"
+    ],
+    "unit": "km",
+    "value": "500",
+    "label": "500 km"
+}

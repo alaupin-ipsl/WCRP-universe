@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "o3zm",
+    "cmip_acronym": "o3zm",
+    "long_name": "Mole Fraction of O3",
+    "standard_name": "mole_fraction_of_ozone_in_air",
+    "type": "variable",
+    "units": "mol mol-1",
+    "drs_name": "o3zm"
+}

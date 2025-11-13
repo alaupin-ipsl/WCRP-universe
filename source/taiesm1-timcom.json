@@ -1,0 +1,32 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "taiesm1-timcom",
+    "type": "source",
+    "drs_name": "TaiESM1-TIMCOM",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "cmip",
+        "omip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "TaiESM1-TIMCOM",
+    "label_extended": "Taiwan Earth System Model 1.0 using TIMCOM ocean model",
+    "model_component": {
+        "aerosol": "snap",
+        "atmos": "taiam1",
+        "atmosChem": "snap",
+        "land": "clm4.0",
+        "ocean": "timcom",
+        "seaIce": "cice4"
+    },
+    "release_year": "2020",
+    "organisation_id": [
+        "ntu"
+    ]
+}

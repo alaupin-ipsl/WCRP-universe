@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "retracted",
+    "type": "publication_status",
+    "drs_name": "retracted",
+    "description": "Dataset has been retracted. It should no longer be used, except for reproduction of earlier results/experiments"
+}

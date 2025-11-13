@@ -1,0 +1,23 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wrf451q",
+    "type": "source",
+    "drs_name": "WRF451Q",
+    "activity_participation": [
+        "DD"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "organisation_id": [
+        "AUTH",
+        "BCCR-UCAN",
+        "CESAM-UA",
+        "IDL-FCUL"
+    ],
+    "label": "WRF v4.5.1-Q",
+    "label_extended": "Weather Research and Forecasting model version 4.5.1, CORDEX WRF Community configuration Q",
+    "license": {},
+    "model_component": null,
+    "release_year": "2022"
+}

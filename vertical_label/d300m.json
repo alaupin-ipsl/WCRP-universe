@@ -1,0 +1,8 @@
+{
+    "id": "d300m",
+    "label": "d300m",
+    "description": "TODO",
+    "type": "vertical_label",
+    "drs_name": "d300m",
+    "@context": "000_context.jsonld"
+}

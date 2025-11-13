@@ -1,0 +1,29 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "clmcom-dwd",
+  "acronyms": [
+    "CLMcom-DWD"
+  ],
+  "aliases": [
+    "Deutscher Wetterdienst"
+  ],
+  "cmip-acronym": "CLMcom-DWD",
+  "established": 1952,
+  "labels": [],
+  "location": {
+    "city": "Offenbach am Main",
+    "country": [
+      "Germany",
+      "DE"
+    ],
+    "lat": 50.101799,
+    "lon": 8.746422
+  },
+  "name": "Climate Limited-area Modelling Community (CLMcom) partner: German Meteorological Service",
+  "ror": "02nrqs528",
+  "url": [
+    "https://www.dwd.de/"
+  ],
+  "type": "institution",
+  "drs_name": "CLMcom-DWD"
+}

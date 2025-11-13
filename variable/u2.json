@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "u2",
+    "cmip_acronym": "u2",
+    "long_name": "Mean-Squared Eastward Wind Speed",
+    "standard_name": "square_of_eastward_wind",
+    "type": "variable",
+    "units": "m2 s-2",
+    "drs_name": "u2"
+}

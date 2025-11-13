@@ -1,0 +1,29 @@
+{
+  "id": "tnhusa_tavg-al-hxy-u",
+  "type": "known_branded_variable",
+  "drs_name": "tnhusa_tavg-al-hxy-u",
+  "cf_standard_name": "tendency_of_specific_humidity_due_to_advection",
+  "cf_units": "s-1",
+  "cf_sn_status": "approved",
+  "variable_root_name": "tnhusa",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-al-hxy-u",
+  "description": "Tendency of Specific Humidity due to Advection\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "cell_methods": "area: time: mean",
+  "cell_measures": "area: areacella",
+  "history": "",
+  "realm": "atmos",
+  "temporal_label": "tavg",
+  "vertical_label": "al",
+  "horizontal_label": "hxy",
+  "area_label": "u",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

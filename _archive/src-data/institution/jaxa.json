@@ -1,0 +1,37 @@
+{
+    "@context": "_context_",
+    "id": "jaxa",
+    "acronyms": [
+        "JAXA"
+    ],
+    "aliases": [
+        "Dokuritsu-gy\u014dsei-h\u014djin Uch\u016b K\u014dk\u016b Kenky\u016b Kaihatsu Kik\u014d",
+        "Independent Administrative Institution on Aerospace Research and Development"
+    ],
+    "established": 2003,
+    "labels": [],
+    "location": {
+        "id": "universal:location/059yhyy33",
+        "@nest": {
+            "city": "Tokyo",
+            "country": [
+                "Japan",
+                "JP"
+            ],
+            "lat": 35.680834,
+            "lon": 139.558269
+        },
+        "type": "location"
+    },
+    "ror": "059yhyy33",
+    "kind": "Facility",
+    "url": [
+        "http://global.jaxa.jp/"
+    ],
+    "type": [
+        "wcrp:institution",
+        "universal"
+    ],
+    "long_label": "Japan Aerospace Exploration Agency",
+    "label": "JAXA"
+}

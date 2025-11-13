@@ -1,0 +1,27 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "esm-scen7-vlho",
+    "type": "experiment",
+    "experiment_id": "esm-scen7-vlho",
+    "activity_id": [
+        "scenariomip"
+    ],
+    "additional_allowed_model_components": [],
+    "description": "Scenario with similar endof-century temperature impact to VLLO, but with less aggressive near-term mitigation and large reliance on net negative emissions, resulting in a higher overshoot.",
+    "end_year": null,
+    "experiment": "Very Low Scenario after High Overshoot",
+    "min_number_yrs_per_sim": null,
+    "parent_activity_id": [
+        "cmip"
+    ],
+    "parent_experiment_id": [
+        "esm-hist"
+    ],
+    "required_model_components": [],
+    "start_year": null,
+    "sub_experiment_id": [
+        "none"
+    ],
+    "tier": 0,
+    "drs_name": "esm-scen7-vlho"
+}

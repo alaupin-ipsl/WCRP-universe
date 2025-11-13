@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "n2osmoothedpercentagesava",
+    "cmip_acronym": "N2OsmoothedpercentageSAVA",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "N2OsmoothedpercentageSAVA"
+}

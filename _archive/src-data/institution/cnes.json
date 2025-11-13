@@ -1,0 +1,34 @@
+{
+    "@context": "_context_",
+    "id": "cnes",
+    "acronyms": [
+        "CNES"
+    ],
+    "aliases": [],
+    "established": 1961,
+    "labels": [],
+    "location": {
+        "id": "universal:location/04h1h0y33",
+        "@nest": {
+            "city": "Paris",
+            "country": [
+                "France",
+                "FR"
+            ],
+            "lat": 48.85341,
+            "lon": 2.3488
+        },
+        "type": "location"
+    },
+    "ror": "04h1h0y33",
+    "kind": "Government",
+    "url": [
+        "https://www.cnes.fr"
+    ],
+    "type": [
+        "wcrp:institution",
+        "universal"
+    ],
+    "long_label": "Centre National d'\u00c9tudes Spatiales",
+    "label": "CNES"
+}

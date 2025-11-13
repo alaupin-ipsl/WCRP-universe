@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "friver",
+    "cmip_acronym": "friver",
+    "long_name": "Water Flux into Sea Water from Rivers",
+    "standard_name": "water_flux_into_sea_water_from_rivers",
+    "type": "variable",
+    "units": "kg m-2 s-1",
+    "drs_name": "friver"
+}

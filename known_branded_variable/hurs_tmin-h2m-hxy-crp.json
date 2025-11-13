@@ -1,0 +1,29 @@
+{
+  "id": "hurs_tmin-h2m-hxy-crp",
+  "type": "known_branded_variable",
+  "drs_name": "hurs_tmin-h2m-hxy-crp",
+  "cf_standard_name": "relative_humidity",
+  "cf_units": "%",
+  "cf_sn_status": "approved",
+  "variable_root_name": "hurs",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tmin-h2m-hxy-crp",
+  "description": "The relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "height2m"
+  ],
+  "cell_methods": "area: mean where crops time: minimum",
+  "cell_measures": "area: areacella",
+  "history": "",
+  "realm": "atmos",
+  "temporal_label": "tmin",
+  "vertical_label": "h2m",
+  "horizontal_label": "hxy",
+  "area_label": "crp",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

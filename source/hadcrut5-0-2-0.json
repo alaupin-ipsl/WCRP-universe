@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hadcrut5-0-2-0",
+    "type": "source",
+    "drs_name": "HadCRUT5-0-2-0",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "HadCRUT5",
+    "label_extended": "HadCRUT5 blended air temperature and sea surface temperature anomalies",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "prrc",
+    "cmip_acronym": "prrc",
+    "long_name": "Convective Rainfall Rate",
+    "standard_name": "convective_rainfall_flux",
+    "type": "variable",
+    "units": "kg m-2 s-1",
+    "drs_name": "prrc"
+}

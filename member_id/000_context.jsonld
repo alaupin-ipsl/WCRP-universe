@@ -1,0 +1,30 @@
+{
+"@context":
+ 	 {
+       "@base":"https://espri-mod.github.io/mip-cmor-tables/member_id/",
+       "@vocab":"https://espri-mod.github.io/mip-cmor-tables/member_id/",
+       "id":"@id",
+       "type":"@type",
+       "member_id":"https://espri-mod.github.io/mip-cmor-tables/member_id",
+       "required":"https://espri-mod.github.io/mip-cmor-tables/required/",
+        
+       "parts": {
+      	  	"@id": "https://espri-mod.github.io/mip-cmor-tables/member_id_parts",
+         	"@type":"@id",
+         	"@container": "@list",
+         	"@context":{
+              
+              "id":"@id",
+              "sub_experiment": {
+                "@id":"https://espri-mod.github.io/mip-cmor-tables/sub_experiment",
+                "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/sub_experiment/"}
+               },
+              "initialisation_index": {
+                 "@id":"https://espri-mod.github.io/mip-cmor-tables/variant_label",
+                 "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/variant_label/"}
+               }              
+            }
+    	}
+       
+     }
+}

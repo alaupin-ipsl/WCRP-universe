@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mekpercentagedefo",
+    "cmip_acronym": "MEKpercentageDEFO",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "MEKpercentageDEFO"
+}

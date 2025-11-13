@@ -1,0 +1,8 @@
+{
+    "id": "tmin",
+    "label": "tmin",
+    "description": "minimum (or mean of daily minima)",
+    "type": "temporal_label",
+    "drs_name": "tmin",
+    "@context": "000_context.jsonld"
+}

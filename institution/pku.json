@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "pku",
+    "type": "institution",
+    "drs_name": "PKU",
+    "name": "PKU",
+    "acronym": [
+        "PKU"
+    ],
+    "aliases": [],
+    "established": null,
+    "labels": [
+        "Peking University, Beijing, China"
+    ],
+    "location": {},
+    "ror": null,
+    "url": []
+}

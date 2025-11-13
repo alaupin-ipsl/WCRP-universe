@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nam-12",
+    "type": "region",
+    "drs_name": "NAM-12",
+    "description": "North America"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "_context_",
+    "description": "atmospheric general circulation model run with prescribed ocean surface conditions and usually a model of the land surface",
+    "id": "agcm",
+    "type": [
+        "wcrp:source_type",
+        "universal"
+    ],
+    "label": "AGCM"
+}

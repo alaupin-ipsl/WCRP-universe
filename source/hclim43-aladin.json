@@ -1,0 +1,22 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hclim43-aladin",
+    "type": "source",
+    "drs_name": "HCLIM43-ALADIN",
+    "activity_participation": [
+        "DD"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "organisation_id": [
+        "HCLIMcom-DMI",
+        "HCLIMcom-METNo",
+        "HCLIMcom-SMHI"
+    ],
+    "label": "HCLIM43-ALADIN",
+    "label_extended": "HARMONIE Climate model cycle 43 with ALADIN physics",
+    "license": {},
+    "model_component": null,
+    "release_year": "2022"
+}

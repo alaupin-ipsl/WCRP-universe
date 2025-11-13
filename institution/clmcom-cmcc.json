@@ -1,0 +1,32 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clmcom-cmcc",
+    "acronyms": [
+        "CLMcom-CMCC"
+    ],
+    "aliases": [
+        "CMCC Foundation",
+        "Euro-Mediterranean Center for Climate Change",
+        "Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici",
+        "CMCC"
+    ],
+    "cmip-acronym": "CLMcom-CMCC",
+    "established": 2009,
+    "labels": [],
+    "location": {
+        "city": "Lecce",
+        "country": [
+            "Italy",
+            "IT"
+        ],
+        "lat": 40.35643,
+        "lon": 18.194769
+    },
+    "name": "Climate Limited-area Modelling Community (CLMcom) partner: Euro-Mediterranean Center on Climate Change (CMCC Foundation)",
+    "ror": "01tf11a61",
+    "url": [
+        "https://www.cmcc.it/"
+    ],
+    "type": "institution",
+    "drs_name": "CLMcom-CMCC"
+}

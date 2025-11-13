@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "land",
+    "type": "source_type",
+    "description": "land model run uncoupled from the atmosphere",
+    "drs_name": "LAND"
+}

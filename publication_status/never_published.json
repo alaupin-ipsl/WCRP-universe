@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "never_published",
+    "type": "publication_status",
+    "drs_name": "never_published",
+    "description": "The dataset was registered, but never published on ESGF. Note: the dataset may have been published via other channels, that is out of our control."
+}

@@ -1,0 +1,34 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ipsl-cm5a2-inca",
+    "type": "source",
+    "drs_name": "IPSL-CM5A2-INCA",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "aerchemmip",
+        "lumip",
+        "scenariomip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "IPSL-CM5A2-INCA",
+    "label_extended": "IPSL-CM5A2-INCA",
+    "model_component": {
+        "aerosol": "inca",
+        "atmos": "lmdz",
+        "atmosChem": "inca",
+        "land": "orchidee",
+        "ocean": "nemo-opa",
+        "ocnBgchem": "nemo-pisces",
+        "seaIce": "nemo-lim2"
+    },
+    "release_year": "2019",
+    "organisation_id": [
+        "ipsl"
+    ]
+}

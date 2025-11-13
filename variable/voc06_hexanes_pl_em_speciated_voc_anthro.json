@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "voc06_hexanes_pl_em_speciated_voc_anthro",
+    "cmip_acronym": "VOC06_hexanes_pl_em_speciated_VOC_anthro",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "VOC06_hexanes_pl_em_speciated_VOC_anthro"
+}

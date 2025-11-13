@@ -1,0 +1,31 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nicam16-8s",
+    "type": "source",
+    "drs_name": "NICAM16-8S",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "cmip",
+        "dynvarmip",
+        "highresmip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "NICAM16-8S",
+    "label_extended": "NICAM.16 gl08-L38 with NSW6",
+    "model_component": {
+        "aerosol": "prescribed",
+        "atmos": "nicam.16",
+        "land": "matsiro6",
+        "seaIce": "fixed"
+    },
+    "release_year": "2017",
+    "organisation_id": [
+        "miroc"
+    ]
+}

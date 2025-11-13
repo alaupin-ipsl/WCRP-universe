@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfc236fa",
+    "cmip_acronym": "hfc236fa",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "hfc236fa"
+}

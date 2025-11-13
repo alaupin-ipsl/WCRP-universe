@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "h2smoothed",
+    "cmip_acronym": "H2smoothed",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "H2smoothed"
+}

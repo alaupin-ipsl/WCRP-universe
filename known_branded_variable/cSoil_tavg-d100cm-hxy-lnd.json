@@ -1,0 +1,29 @@
+{
+  "id": "cSoil_tavg-d100cm-hxy-lnd",
+  "type": "known_branded_variable",
+  "drs_name": "cSoil_tavg-d100cm-hxy-lnd",
+  "cf_standard_name": "soil_mass_content_of_carbon",
+  "cf_units": "kg m-2",
+  "cf_sn_status": "approved",
+  "variable_root_name": "cSoil",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-d100cm-hxy-lnd",
+  "description": "Report missing data over ocean grid cells. For fractional land report value averaged over the land fraction.\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "sdepth100cm"
+  ],
+  "cell_methods": "area: mean where land time: mean",
+  "cell_measures": "area: areacella",
+  "history": "",
+  "realm": "land",
+  "temporal_label": "tavg",
+  "vertical_label": "d100cm",
+  "horizontal_label": "hxy",
+  "area_label": "lnd",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chldiat_tavg-d0m-hxy-sea",
+  "type": "known_branded_variable",
+  "drs_name": "chldiat_tavg-d0m-hxy-sea",
+  "cf_standard_name": "mass_concentration_of_diatoms_expressed_as_chlorophyll_in_sea_water",
+  "cf_units": "kg m-3",
+  "cf_sn_status": "approved",
+  "variable_root_name": "chldiat",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-d0m-hxy-sea",
+  "description": "chlorophyll from diatom phytoplankton component concentration alone\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "cell_methods": "area: mean where sea time: mean",
+  "cell_measures": "area: areacello",
+  "history": "",
+  "realm": "ocnBgchem",
+  "temporal_label": "tavg",
+  "vertical_label": "d0m",
+  "horizontal_label": "hxy",
+  "area_label": "sea",
+  "bn_status": "Provisional - likely accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

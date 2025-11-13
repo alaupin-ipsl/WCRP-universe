@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cVegShrub",
+    "cmip_acronym": "cVegShrub",
+    "long_name": "Carbon Mass in Vegetation on Shrub Tiles",
+    "standard_name": "vegetation_carbon_content",
+    "type": "variable",
+    "units": "kg m-2",
+    "drs_name": "cVegShrub"
+}

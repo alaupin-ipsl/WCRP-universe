@@ -1,0 +1,20 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "roam-nbs",
+    "type": "source",
+    "drs_name": "ROAM-NBS",
+    "activity_participation": [
+        "DD"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "organisation_id": [
+        "DWD-BSH"
+    ],
+    "label": "ROAM-NBS",
+    "label_extended": "Regional coupled ocean-atmosphere model based on icon-2024.07 and NEMO4.2.0 for the North and Baltic Sea",
+    "license": {},
+    "model_component": null,
+    "release_year": "2024"
+}

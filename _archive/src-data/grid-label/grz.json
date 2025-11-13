@@ -1,0 +1,12 @@
+{
+    "@context": "_context_",
+    "description": "regridded zonal mean data reported on the data provider's preferred latitude target grid",
+    "id": "grz",
+    "region": "greenland",
+    "type": [
+        "wcrp:grid_label",
+        "universal"
+    ],
+    "label": "grz",
+    "long_label": "Regridded Greenland Zonal Mean"
+}

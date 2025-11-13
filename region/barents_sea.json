@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "barents_sea",
+    "type": "region",
+    "drs_name": "barents_sea",
+    "description": ""
+}

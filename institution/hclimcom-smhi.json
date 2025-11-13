@@ -1,0 +1,33 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hclimcom-smhi",
+    "acronyms": [
+        "HCLIMcom-SMHI"
+    ],
+    "aliases": [
+        "Swedish Meteorological and Hydrological Institute",
+        "Ruotsin meteorologinen ja hydrologinen laitos",
+        "Sveriges meteorologiska och hydrologiska institut",
+        "Sveriges Meteorologiska och Hydrologiska Institut",
+        "SMHI"
+    ],
+    "cmip-acronym": "HCLIMcom-SMHI",
+    "established": 1873,
+    "labels": [],
+    "location": {
+        "city": "Norrköping",
+        "country": [
+            "Sweden",
+            "SE"
+        ],
+        "lat": 58.581665,
+        "lon": 16.147304
+    },
+    "name": "HARMONIE Climate Modelling Community (HCLIMcom) partner: Swedish Meteorological and Hydrological Institute (SMHI)",
+    "ror": "00hgzve81",
+    "url": [
+        "https://www.smhi.se/"
+    ],
+    "type": "institution",
+    "drs_name": "HCLIMcom-SMHI"
+}

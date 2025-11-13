@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "arcm",
+    "type": "source_type",
+    "description": "atmosphere global climate model including variable resolution",
+    "drs_name": "ARCM"
+}

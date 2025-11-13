@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rt",
+    "cmip_acronym": "rt",
+    "long_name": "Top of Atmosphere Net Radation",
+    "standard_name": "Net_TOA_Radiation",
+    "type": "variable",
+    "units": "W m-2",
+    "drs_name": "rt"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "noxpercentagetemf",
+    "cmip_acronym": "NOxpercentageTEMF",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "NOxpercentageTEMF"
+}

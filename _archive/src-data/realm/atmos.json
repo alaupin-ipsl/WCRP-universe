@@ -1,0 +1,11 @@
+{
+    "@context": "_context_",
+    "description": "Atmosphere",
+    "id": "atmos",
+    "type": [
+        "wcrp:realm",
+        "universal"
+    ],
+    "label": "atmos",
+    "long_label": "Atmosphere"
+}

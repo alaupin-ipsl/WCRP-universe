@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "incois-nio-ipsl",
+    "type": "institution",
+    "drs_name": "INCOIS-NIO-IPSL",
+    "name": "INCOIS-NIO-IPSL",
+    "acronym": [
+        "INCOIS-NIO-IPSL"
+    ],
+    "aliases": [],
+    "established": null,
+    "labels": [
+        "Joint research colloboration between INCOIS(India), NIO(India) and IPSL(France)"
+    ],
+    "location": {},
+    "ror": null,
+    "url": []
+}

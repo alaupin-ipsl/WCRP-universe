@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "med-12",
+    "type": "region",
+    "drs_name": "MED-12",
+    "description": "Mediterranean"
+}

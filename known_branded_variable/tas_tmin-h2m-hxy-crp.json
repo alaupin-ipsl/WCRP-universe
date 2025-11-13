@@ -1,0 +1,29 @@
+{
+  "id": "tas_tmin-h2m-hxy-crp",
+  "type": "known_branded_variable",
+  "drs_name": "tas_tmin-h2m-hxy-crp",
+  "cf_standard_name": "air_temperature",
+  "cf_units": "K",
+  "cf_sn_status": "approved",
+  "variable_root_name": "tas",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tmin-h2m-hxy-crp",
+  "description": "minimum near-surface (usually, 2 meter) air temperature (add cell\\_method attribute \"time: min\")\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "height2m"
+  ],
+  "cell_methods": "area: mean where crops time: minimum",
+  "cell_measures": "area: areacella",
+  "history": "",
+  "realm": "atmos",
+  "temporal_label": "tmin",
+  "vertical_label": "h2m",
+  "horizontal_label": "hxy",
+  "area_label": "crp",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

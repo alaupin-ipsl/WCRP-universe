@@ -1,0 +1,29 @@
+{
+  "id": "tntscpbl_tavg-al-hxy-u",
+  "type": "known_branded_variable",
+  "drs_name": "tntscpbl_tavg-al-hxy-u",
+  "cf_standard_name": "tendency_of_air_temperature_due_to_stratiform_cloud_and_precipitation_and_boundary_layer_mixing",
+  "cf_units": "K s-1",
+  "cf_sn_status": "approved",
+  "variable_root_name": "tntscpbl",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-al-hxy-u",
+  "description": "To be specified only in  models which do not separate cloud, precipitation and boundary layer terms.  Includes all boundary layer terms including diffusive ones.\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "cell_methods": "area: time: mean",
+  "cell_measures": "area: areacella",
+  "history": "",
+  "realm": "atmos",
+  "temporal_label": "tavg",
+  "vertical_label": "al",
+  "horizontal_label": "hxy",
+  "area_label": "u",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

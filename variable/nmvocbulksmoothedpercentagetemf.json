@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nmvocbulksmoothedpercentagetemf",
+    "cmip_acronym": "NMVOCbulksmoothedpercentageTEMF",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "NMVOCbulksmoothedpercentageTEMF"
+}

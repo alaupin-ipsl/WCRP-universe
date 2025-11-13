@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "n2opercentageagri",
+    "cmip_acronym": "N2OpercentageAGRI",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "N2OpercentageAGRI"
+}

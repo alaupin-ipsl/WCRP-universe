@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cordex_cmip6",
+    "end": 2020,
+    "name": "CORDEX",
+    "start": 2006,
+    "url": "https://wcrp-cmip.org/CORDEX",
+    "type": "mip_era",
+    "drs_name": "CORDEX"
+}

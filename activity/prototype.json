@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "type": "activity",
+    "id": "prototype",
+    "name": "Prototype",
+    "cmip_acronym": "Prototype",
+    "long_name": "MIP identity to capture all prototype datasets collected for uncertainty exploration - not for CMIP production use",
+    "url": null,
+    "drs_name": "Prototype"
+}

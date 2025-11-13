@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "gsmap-gauges-nrt-v6-0",
+    "type": "source",
+    "drs_name": "GSMAP-gauges-NRT-v6-0",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "GSMAP",
+    "label_extended": "JAXA GSMAP prepared for FROGS",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

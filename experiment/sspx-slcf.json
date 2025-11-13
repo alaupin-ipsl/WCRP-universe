@@ -1,0 +1,27 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sspx-slcf",
+    "type": "experiment",
+    "experiment_id": "SSPX-SLCF",
+    "activity_id": [
+        "aerchemmip"
+    ],
+    "additional_allowed_model_components": [],
+    "description": "Future scenario with specified SLCF emissions \n Future scenario simulation with specified short-lived climate forcer emissions",
+    "end_year": null,
+    "experiment": "Describe SSPX-SLCF in one sentence.",
+    "min_number_yrs_per_sim": null,
+    "parent_activity_id": [
+        "no parent"
+    ],
+    "parent_experiment_id": [
+        "no parent"
+    ],
+    "required_model_components": [],
+    "start_year": null,
+    "sub_experiment_id": [
+        "none"
+    ],
+    "tier": 0,
+    "drs_name": "SSPX-SLCF"
+}

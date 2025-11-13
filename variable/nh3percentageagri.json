@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nh3percentageagri",
+    "cmip_acronym": "NH3percentageAGRI",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "NH3percentageAGRI"
+}

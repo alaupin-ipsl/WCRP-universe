@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "co2_em_solid_biofuel_anthro",
+    "cmip_acronym": "CO2_em_SOLID_BIOFUEL_anthro",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "CO2_em_SOLID_BIOFUEL_anthro"
+}

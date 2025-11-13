@@ -1,0 +1,28 @@
+{
+  "id": "wppwindsea_tavg-u-hxy-sea",
+  "type": "known_branded_variable",
+  "drs_name": "wppwindsea_tavg-u-hxy-sea",
+  "cf_standard_name": "sea_surface_wind_wave_period_at_variance_spectral_density_maximum",
+  "cf_units": "s",
+  "cf_sn_status": "approved",
+  "variable_root_name": "wppwindsea",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-u-hxy-sea",
+  "description": "Wave period associated with the most energetic wind-sea waves (i.e., local wind waves). In spectral wind wave models, this represents the spectral peak across part of the two-dimensional wave spectrum, incorporating just wind-sea waves.\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "cell_methods": "area: mean where sea time: mean",
+  "cell_measures": "area: areacello",
+  "history": "",
+  "realm": "ocean",
+  "temporal_label": "tavg",
+  "vertical_label": "u",
+  "horizontal_label": "hxy",
+  "area_label": "sea",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

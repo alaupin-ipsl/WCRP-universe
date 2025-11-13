@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "multiple-states",
+    "cmip_acronym": "multiple-states",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "multiple-states"
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "uu-imau",
+    "acronyms": [
+        "UU-IMAU"
+    ],
+    "aliases": [],
+    "cmip-acronym": "UU-IMAU",
+    "established": 1974,
+    "labels": [],
+    "location": {
+        "city": "Utrecht",
+        "country": [
+            "Netherlands",
+            "NL"
+        ],
+        "lat": 52.085967,
+        "lon": 5.171537
+    },
+    "name": "Institute for Marine and Atmospheric research Utrecht (IMAU), Utrecht University",
+    "ror": "04pp8hn57",
+    "url": [
+        "https://www.uu.nl"
+    ],
+    "type": "institution",
+    "drs_name": "UU-IMAU"
+}

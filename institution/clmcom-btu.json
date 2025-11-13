@@ -1,0 +1,33 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clmcom-btu",
+    "acronyms": [
+        "CLMcom-BTU"
+    ],
+    "aliases": [
+        "Brandenburgische Technische Universität Cottbus-Senftenberg",
+        "Technical University of Cottbus",
+        "Brandenburg University of Technology",
+        "TU Cottbus",
+        "BTU"
+    ],
+    "cmip-acronym": "CLMcom-BTU",
+    "established": null,
+    "labels": [],
+    "location": {
+        "city": "Cottbus",
+        "country": [
+            "Germany",
+            "DE"
+        ],
+        "lat": 51.766175,
+        "lon": 14.325696
+    },
+    "name": "Climate Limited-area Modelling Community (CLMcom) partner: Brandenburg University of Technology Cottbus-Senftenberg",
+    "ror": "02wxx3e24",
+    "url": [
+        "https://www.b-tu.de/"
+    ],
+    "type": "institution",
+    "drs_name": "CLMcom-BTU"
+}

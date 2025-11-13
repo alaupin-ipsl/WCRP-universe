@@ -1,0 +1,41 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "gfdl-cm4",
+    "type": "source",
+    "drs_name": "GFDL-CM4",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "cfmip",
+        "cmip",
+        "damip",
+        "dynvarmip",
+        "fafmip",
+        "gmmip",
+        "omip",
+        "rfmip",
+        "scenariomip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "GFDL-CM4",
+    "label_extended": "GFDL-CM4",
+    "model_component": {
+        "aerosol": "interactive",
+        "atmos": "gfdl-am4.0.1",
+        "atmosChem": "fast",
+        "land": "gfdl-lm4.0.1",
+        "landIce": "gfdl-lm4.0.1",
+        "ocean": "gfdl-om4p25",
+        "ocnBgchem": "gfdl-blingv2",
+        "seaIce": "gfdl-sim4p25"
+    },
+    "release_year": "2018",
+    "organisation_id": [
+        "noaa-gfdl"
+    ]
+}

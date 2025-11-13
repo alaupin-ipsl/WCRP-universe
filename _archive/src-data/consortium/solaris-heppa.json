@@ -1,0 +1,190 @@
+{
+    "@context": "_context_",
+    "changes": "",
+    "id": "solaris-heppa",
+    "members": {
+        "auot": {
+            "current": true,
+            "from": 2013,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "aor": {
+            "current": true,
+            "from": 2025,
+            "to": "-",
+            "era": [
+                "cmip7"
+            ]
+        },
+        "bas": {
+            "current": true,
+            "from": 2013,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "eawag": {
+            "current": true,
+            "from": 2013,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "fmi": {
+            "current": true,
+            "from": 2013,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "fuberlin": {
+            "current": true,
+            "from": 2013,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "geomar": {
+            "current": true,
+            "from": 2013,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "gsfc": {
+            "current": true,
+            "from": 2013,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "iaa-csic": {
+            "current": true,
+            "from": 2013,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "issi": {
+            "current": true,
+            "from": 2013,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "kit": {
+            "current": true,
+            "from": 2013,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "lasp": {
+            "current": true,
+            "from": 2013,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "lpc2e": {
+            "current": true,
+            "from": 2013,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "mohc": {
+            "current": true,
+            "from": 2013,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "mps": {
+            "current": true,
+            "from": 2013,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "ncar": {
+            "current": true,
+            "from": 2013,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "pmod": {
+            "current": true,
+            "from": 2013,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "uobergen": {
+            "current": true,
+            "from": 2025,
+            "to": "-",
+            "era": [
+                "cmip7"
+            ]
+        },
+        "uoleeds": {
+            "current": true,
+            "from": 2013,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "uomontreal": {
+            "current": true,
+            "from": 2013,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "uootago": {
+            "current": true,
+            "from": 2013,
+            "to": 2022,
+            "era": [
+                "cmip6"
+            ]
+        },
+        "uooulu": {
+            "current": true,
+            "from": 2025,
+            "to": "-",
+            "era": [
+                "cmip7"
+            ]
+        }
+    },
+    "type": [
+        "wcrp:consortium",
+        "universal"
+    ],
+    "url": "https://solarisheppa.geomar.de",
+    "long_label": "SOLARIS HEPPA Consortium",
+    "label": "SOLARIS HEPPA"
+}

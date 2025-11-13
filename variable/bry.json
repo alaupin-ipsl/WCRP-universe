@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "bry",
+    "cmip_acronym": "bry",
+    "long_name": "Total Inorganic Bromine Volume Mixing Ratio",
+    "standard_name": "mole_fraction_of_inorganic_bromine_in_air",
+    "type": "variable",
+    "units": "mol mol-1",
+    "drs_name": "bry"
+}

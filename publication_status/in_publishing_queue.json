@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "in_publishing_queue",
+    "type": "publication_status",
+    "drs_name": "in_publishing_queue",
+    "description": "Dataset is known and in the publication queue"
+}

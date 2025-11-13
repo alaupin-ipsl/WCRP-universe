@@ -1,0 +1,22 @@
+
+
+{
+     
+"@context": {
+      "@base":"https://espri-mod.github.io/mip-cmor-tables/table/",
+      "@vocab": "http://schema.org/",
+      "id": "@id",
+      "type":"@type",
+      "table": "https://espri-mod.github.io/mip-cmor-tables/table/",
+      "product": {"@id": "https://espri-mod.github.io/mip-cmor-tables/product/"},
+      "table_date": {"@id": "https://schema.org/Date"},
+      "variable_entry": {"@id": "https://es-vocab.ipsl.fr/variable_entry",
+                         "@type":"@id",
+                         "@context":{
+                           "@base":"https://espri-mod.github.io/mip-cmor-tables/variable/"
+                              }
+                         
+                        
+                        }
+      }
+}

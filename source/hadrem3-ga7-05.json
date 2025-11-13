@@ -1,0 +1,20 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hadrem3-ga7-05",
+    "type": "source",
+    "drs_name": "HadREM3-GA7-05",
+    "activity_participation": [
+        "DD"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "organisation_id": [
+        "MOHC"
+    ],
+    "label": "HadREM3-GA7-05",
+    "label_extended": "Hadley Centre Regional Model using Global Atmosphere version 7-05",
+    "license": {},
+    "model_component": null,
+    "release_year": "2018"
+}

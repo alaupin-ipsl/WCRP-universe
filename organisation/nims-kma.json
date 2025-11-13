@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "consortium/nims-kma",
+    "type": "consortium",
+    "drs_name": "NIMS-KMA"
+}

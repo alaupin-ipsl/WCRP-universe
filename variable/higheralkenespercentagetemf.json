@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "higheralkenespercentagetemf",
+    "cmip_acronym": "HigherAlkenespercentageTEMF",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "HigherAlkenespercentageTEMF"
+}

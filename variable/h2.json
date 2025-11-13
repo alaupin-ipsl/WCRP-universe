@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "h2",
+    "cmip_acronym": "H2",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "H2"
+}

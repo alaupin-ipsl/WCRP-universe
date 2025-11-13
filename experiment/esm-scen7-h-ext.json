@@ -1,0 +1,27 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "esm-scen7-h-ext",
+    "type": "experiment",
+    "experiment_id": "esm-scen7-h-ext",
+    "activity_id": [
+        "scenariomip"
+    ],
+    "additional_allowed_model_components": [],
+    "description": "High emission scenario extension to explore potential high-end impacts",
+    "end_year": null,
+    "experiment": "High Scenario Extension",
+    "min_number_yrs_per_sim": null,
+    "parent_activity_id": [
+        "scenariomip"
+    ],
+    "parent_experiment_id": [
+        "esm-scen7-h"
+    ],
+    "required_model_components": [],
+    "start_year": null,
+    "sub_experiment_id": [
+        "none"
+    ],
+    "tier": 0,
+    "drs_name": "esm-scen7-h-ext"
+}

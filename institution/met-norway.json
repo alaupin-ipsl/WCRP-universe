@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "met-norway",
+    "type": "institution",
+    "drs_name": "MET-Norway",
+    "name": "MET-Norway",
+    "acronym": [
+        "MET-Norway"
+    ],
+    "aliases": [],
+    "established": null,
+    "labels": [
+        "Norwegian Meteorological Institute"
+    ],
+    "location": {},
+    "ror": null,
+    "url": []
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ocpercentagesava",
+    "cmip_acronym": "OCpercentageSAVA",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "OCpercentageSAVA"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "scint_tavg-op4-hxy-sea",
+  "type": "known_branded_variable",
+  "drs_name": "scint_tavg-op4-hxy-sea",
+  "cf_standard_name": "integral_wrt_depth_of_sea_water_practical_salinity_expressed_as_salt_mass_content",
+  "cf_units": "kg m-2",
+  "cf_sn_status": "approved",
+  "variable_root_name": "scint",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-op4-hxy-sea",
+  "description": "This is a fundamental aspect of the changes in the hydrological cycle and their impact on the oceans, and due to new numerical schemes and vertical discretizations, it is important to calculate it consistently with the model formulation. \n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "oplayer4",
+    "time"
+  ],
+  "cell_methods": "area: time: mean where sea",
+  "cell_measures": "area: areacello",
+  "history": "",
+  "realm": "ocean",
+  "temporal_label": "tavg",
+  "vertical_label": "op4",
+  "horizontal_label": "hxy",
+  "area_label": "sea",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

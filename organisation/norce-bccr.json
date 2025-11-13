@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "consortium/norce-bccr",
+    "type": "consortium",
+    "drs_name": "NORCE-BCCR"
+}

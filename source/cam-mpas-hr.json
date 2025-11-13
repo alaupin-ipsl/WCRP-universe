@@ -1,0 +1,28 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cam-mpas-hr",
+    "type": "source",
+    "drs_name": "CAM-MPAS-HR",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "highresmip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "CAM-MPAS-HR",
+    "label_extended": "CAM MPAS (Community Atmosphere Model - Model for Prediction Across Scales)",
+    "model_component": {
+        "aerosol": "none,",
+        "atmos": "cam-mpas",
+        "land": "clm"
+    },
+    "release_year": "2018",
+    "organisation_id": [
+        "pnnl-waccem"
+    ]
+}

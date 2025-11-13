@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nmvocbulksmoothed",
+    "cmip_acronym": "NMVOCbulksmoothed",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "NMVOCbulksmoothed"
+}

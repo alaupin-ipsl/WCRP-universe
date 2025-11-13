@@ -1,0 +1,31 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nkua",
+    "acronyms": [
+        "NKUA"
+    ],
+    "aliases": [
+        "Université nationale et capodistrienne d'athènes",
+        "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών",
+        "University of Athens"
+    ],
+    "cmip-acronym": "NKUA",
+    "established": 1837,
+    "labels": [],
+    "location": {
+        "city": "Athens",
+        "country": [
+            "Greece",
+            "GR"
+        ],
+        "lat": 37.978899,
+        "lon": 23.754866
+    },
+    "name": "National and Kapodistrian University of Athens",
+    "ror": "04gnjpq42",
+    "url": [
+        "https://www.uoa.gr/"
+    ],
+    "type": "institution",
+    "drs_name": "NKUA"
+}

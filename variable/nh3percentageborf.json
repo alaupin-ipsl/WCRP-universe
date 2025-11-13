@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nh3percentageborf",
+    "cmip_acronym": "NH3percentageBORF",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "NH3percentageBORF"
+}

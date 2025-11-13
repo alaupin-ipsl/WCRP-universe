@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sad",
+    "cmip_acronym": "sad",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "sad"
+}

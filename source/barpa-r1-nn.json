@@ -1,0 +1,20 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "barpa-r1-nn",
+    "type": "source",
+    "drs_name": "BARPA-R1-NN",
+    "activity_participation": [
+        "DD"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "organisation_id": [
+        "BOM"
+    ],
+    "label": "BARPA-R1-NN",
+    "label_extended": "Bureau of Meteorology Atmospheric Regional Projections for Australia (BARPA) Regional Climate Model version 1 with Newtonian nudging",
+    "license": {},
+    "model_component": null,
+    "release_year": "2022"
+}

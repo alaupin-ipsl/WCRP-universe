@@ -1,0 +1,12 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ouranos",
+    "type": "consortium",
+    "status": "active",
+    "changes": "",
+    "cmip-acronym": "OURANOS",
+    "description": "Consortium on Regional Climatology and Adaptation to Climate Change (Québec, Canada)",
+    "members": [],
+    "url": "https://www.ouranos.ca/",
+    "drs_name": "OURANOS"
+}

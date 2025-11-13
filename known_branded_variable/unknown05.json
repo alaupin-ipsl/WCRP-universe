@@ -1,0 +1,28 @@
+{
+  "id": "unknown05",
+  "type": "known_branded_variable",
+  "drs_name": "unknown05",
+  "cf_standard_name": "sea_surface_wave_period_at_variance_spectral_density_maximum",
+  "cf_units": "s",
+  "cf_sn_status": "approved",
+  "variable_root_name": "unknown05",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "",
+  "description": "Wave period associated with the most energetic waves in total wave spectrum, incorporating both wind-sea and swell waves. In spectral wind wave models, this represents the spectral peak across the entire two-dimensional wave spectrum, incorporating both wind-sea and swell waves.\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1"
+  ],
+  "cell_methods": "area: mean where sea time: mean",
+  "cell_measures": "area: areacello",
+  "history": "",
+  "realm": "ocean",
+  "temporal_label": "",
+  "vertical_label": "",
+  "horizontal_label": "",
+  "area_label": "",
+  "bn_status": "Provisional - discussion required",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

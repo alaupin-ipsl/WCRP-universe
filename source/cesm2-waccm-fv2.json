@@ -1,0 +1,34 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cesm2-waccm-fv2",
+    "type": "source",
+    "drs_name": "CESM2-WACCM-FV2",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "cmip",
+        "pmip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "CESM2-WACCM-FV2",
+    "label_extended": "CESM2-WACCM-FV2",
+    "model_component": {
+        "aerosol": "mam4",
+        "atmos": "waccm6",
+        "atmosChem": "mam4",
+        "land": "clm5",
+        "landIce": "cism2.1",
+        "ocean": "pop2",
+        "ocnBgchem": "marbl",
+        "seaIce": "cice5.1"
+    },
+    "release_year": "2019",
+    "organisation_id": [
+        "ncar"
+    ]
+}

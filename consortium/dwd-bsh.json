@@ -1,0 +1,38 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dwd-bsh",
+    "type": "consortium",
+    "status": "active",
+    "changes": "",
+    "cmip-acronym": "DWD-BSH",
+    "description": "DWD [Deutscher Wetterdienst]; BSH [Bundesamt fuer Seeschifffahrt und Hydrographie]",
+    "members": [
+      {
+        "type": "member",
+        "institution": "dwd",
+        "dates": [
+          {
+            "from": 1952,
+            "phase": "cmip6",
+            "to": 2025
+          }
+        ],
+        "membership_type": "prior"
+      },
+      {
+        "type": "member",
+        "institution": "bsh",
+        "dates": [
+          {
+            "from": 1868,
+            "phase": "cmip6",
+            "to": 2025
+          }
+        ],
+        "membership_type": "prior"
+      }
+    ],
+    "url": "",
+    "drs_name": "DWD-BSH"
+  }
+  

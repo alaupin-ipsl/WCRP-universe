@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "c4f10",
+    "cmip_acronym": "c4f10",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "c4f10"
+}

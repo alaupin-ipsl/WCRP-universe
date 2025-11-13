@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "edt",
+    "cmip_acronym": "edt",
+    "long_name": "Eddy Diffusivity Coefficient for Temperature",
+    "standard_name": "atmosphere_heat_diffusivity",
+    "type": "variable",
+    "units": "m2 s-1",
+    "drs_name": "edt"
+}

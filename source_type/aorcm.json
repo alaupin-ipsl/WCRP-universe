@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "aorcm",
+    "type": "source_type",
+    "description": "atmosphere-ocean regional climate model",
+    "drs_name": "AORCM"
+}

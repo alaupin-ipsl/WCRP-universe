@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "noaa-ncei-ersst-5-0",
+    "type": "source",
+    "drs_name": "NOAA-NCEI-ERSST-5-0",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "NOAA NCEI ERSST",
+    "label_extended": "Extended Reconstructed Sea Surface Temperatures",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

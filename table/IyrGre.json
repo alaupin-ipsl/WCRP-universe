@@ -1,0 +1,9 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "IyrGre",
+    "type": "table",
+    "product": "model-output",
+    "table_date": "2023-11-16",
+    "variable_entry": [],
+    "drs_name": "IyrGre"
+}

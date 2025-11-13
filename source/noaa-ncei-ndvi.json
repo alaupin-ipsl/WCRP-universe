@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "noaa-ncei-ndvi",
+    "type": "source",
+    "drs_name": "NOAA-NCEI-NDVI",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "NOAA NCEI NDVI",
+    "label_extended": "Normalized Difference Vegetation Index",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

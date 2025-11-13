@@ -1,0 +1,20 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cnrm-rcsm6b-sn",
+    "type": "source",
+    "drs_name": "CNRM-RCSM6B-SN",
+    "activity_participation": [
+        "DD"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "organisation_id": [
+        "CNRM"
+    ],
+    "label": "CNRM-RCSM6 version 6B",
+    "label_extended": "Version 6B of the fully-coupled Regional Climate System Model (RCSM) of the Centre National de Recherches Meteorologiques (CNRM)",
+    "license": {},
+    "model_component": null,
+    "release_year": "2024"
+}

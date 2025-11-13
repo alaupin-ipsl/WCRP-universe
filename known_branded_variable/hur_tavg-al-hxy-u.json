@@ -1,0 +1,29 @@
+{
+  "id": "hur_tavg-al-hxy-u",
+  "type": "known_branded_variable",
+  "drs_name": "hur_tavg-al-hxy-u",
+  "cf_standard_name": "relative_humidity",
+  "cf_units": "%",
+  "cf_sn_status": "approved",
+  "variable_root_name": "hur",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-al-hxy-u",
+  "description": "The relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "cell_methods": "area: time: mean",
+  "cell_measures": "area: areacella",
+  "history": "",
+  "realm": "atmos",
+  "temporal_label": "tavg",
+  "vertical_label": "al",
+  "horizontal_label": "hxy",
+  "area_label": "u",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

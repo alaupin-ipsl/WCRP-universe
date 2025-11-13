@@ -1,0 +1,29 @@
+{
+  "id": "ua_tpt-p6-hxy-air",
+  "type": "known_branded_variable",
+  "drs_name": "ua_tpt-p6-hxy-air",
+  "cf_standard_name": "eastward_wind",
+  "cf_units": "m s-1",
+  "cf_sn_status": "approved",
+  "variable_root_name": "ua",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tpt-p6-hxy-air",
+  "description": "Zonal wind (positive in a eastward direction) on 6 pressure levels in the lower troposphere\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev6",
+    "time1"
+  ],
+  "cell_methods": "area: mean where air time: point",
+  "cell_measures": "area: areacella",
+  "history": "",
+  "realm": "atmos",
+  "temporal_label": "tpt",
+  "vertical_label": "p6",
+  "horizontal_label": "hxy",
+  "area_label": "air",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "insitu",
+    "type": "obs_type",
+    "drs_name": "insitu",
+    "description": "site data"
+}

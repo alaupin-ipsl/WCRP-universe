@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "uah",
+    "type": "institution",
+    "drs_name": "UAH",
+    "name": "UAH",
+    "acronym": [
+        "UAH"
+    ],
+    "aliases": [],
+    "established": null,
+    "labels": [
+        "University of Alcala, Spain"
+    ],
+    "location": {},
+    "ror": null,
+    "url": []
+}

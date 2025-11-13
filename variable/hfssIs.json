@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfssIs",
+    "cmip_acronym": "hfssIs",
+    "long_name": "Ice Sheet Surface Upward Sensible Heat Flux",
+    "standard_name": "surface_upward_sensible_heat_flux",
+    "type": "variable",
+    "units": "W m-2",
+    "drs_name": "hfssIs"
+}

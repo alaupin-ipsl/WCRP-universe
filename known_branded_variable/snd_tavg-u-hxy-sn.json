@@ -1,0 +1,28 @@
+{
+  "id": "snd_tavg-u-hxy-sn",
+  "type": "known_branded_variable",
+  "drs_name": "snd_tavg-u-hxy-sn",
+  "cf_standard_name": "surface_snow_thickness",
+  "cf_units": "m",
+  "cf_sn_status": "approved",
+  "variable_root_name": "snd",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-u-hxy-sn",
+  "description": "Actual thickness of snow averaged over the snow-covered part of the sea ice. This thickness is usually directly available within the model formulation. It can also be derived by dividing the total volume of snow by the area of the snow.\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "cell_methods": "area: time: mean where snow (for snow on sea ice only)",
+  "cell_measures": "area: areacello",
+  "history": "",
+  "realm": "seaIce",
+  "temporal_label": "tavg",
+  "vertical_label": "u",
+  "horizontal_label": "hxy",
+  "area_label": "sn",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

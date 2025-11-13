@@ -1,0 +1,49 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "csir-wits-csiro",
+    "type": "consortium",
+    "status": "active",
+    "changes": "",
+    "cmip-acronym": "CSIR-Wits-CSIRO",
+    "description": "Council for Scientific and Industrial Research - University of the Witwatersrand - Commonwealth Scientific and Industrial Research Organisation",
+    "members": [
+        {
+            "type": "member",
+            "institution": "csir",
+            "dates": [
+                {
+                    "from": 2016,
+                    "phase": "cmip6",
+                    "to": 2022
+                }
+            ],
+            "membership_type": "prior"
+        },
+        {
+            "type": "member",
+            "institution": "wits",
+            "dates": [
+                {
+                    "from": 2016,
+                    "phase": "cmip6",
+                    "to": 2022
+                }
+            ],
+            "membership_type": "prior"
+        },
+        {
+            "type": "member",
+            "institution": "csiro",
+            "dates": [
+                {
+                    "from": 2016,
+                    "phase": "cmip6",
+                    "to": 2022
+                }
+            ],
+            "membership_type": "prior"
+        }
+    ],
+    "url": "",
+    "drs_name": "CSIR-Wits-CSIRO"
+}

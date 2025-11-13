@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "voc24_acids_em_speciated_voc_anthro",
+    "cmip_acronym": "VOC24_acids_em_speciated_VOC_anthro",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "VOC24_acids_em_speciated_VOC_anthro"
+}

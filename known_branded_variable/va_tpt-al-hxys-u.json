@@ -1,0 +1,28 @@
+{
+  "id": "va_tpt-al-hxys-u",
+  "type": "known_branded_variable",
+  "drs_name": "va_tpt-al-hxys-u",
+  "cf_standard_name": "northward_wind",
+  "cf_units": "m s-1",
+  "cf_sn_status": "approved",
+  "variable_root_name": "va",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tpt-al-hxys-u",
+  "description": "Meridional wind (positive in a northward direction).\n",
+  "dimensions": [
+    "alevel",
+    "site",
+    "time1"
+  ],
+  "cell_methods": "area: point time: point",
+  "cell_measures": "",
+  "history": "",
+  "realm": "atmos",
+  "temporal_label": "tpt",
+  "vertical_label": "al",
+  "horizontal_label": "hxys",
+  "area_label": "u",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

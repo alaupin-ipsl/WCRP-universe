@@ -1,0 +1,12 @@
+{
+    "@context": "_context_",
+    "description": "data reported on a native grid in the region of Antarctica",
+    "id": "gna",
+    "region": "antarctica",
+    "type": [
+        "wcrp:grid_label",
+        "universal"
+    ],
+    "label": "gna",
+    "long_label": "Grid Native Antarctica Greenland"
+}

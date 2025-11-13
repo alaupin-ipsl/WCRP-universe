@@ -1,0 +1,28 @@
+{
+  "id": "unknown04",
+  "type": "known_branded_variable",
+  "drs_name": "unknown04",
+  "cf_standard_name": "sea_surface_wave_from_direction_at_variance_spectral_density_maximum",
+  "cf_units": "degree",
+  "cf_sn_status": "approved",
+  "variable_root_name": "unknown04",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "",
+  "description": "Direction of wave propagation (direction from which the wave is coming) derived from the total wave energy spectrum, incorporating both wind-sea and swell waves, by identifying the direction associated with the peak (maximum) energy density. This variable is usually expressed in degrees relative to true north.\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1"
+  ],
+  "cell_methods": "area: mean where sea time: mean",
+  "cell_measures": "area: areacello",
+  "history": "",
+  "realm": "ocean",
+  "temporal_label": "",
+  "vertical_label": "",
+  "horizontal_label": "",
+  "area_label": "",
+  "bn_status": "Provisional - discussion required",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

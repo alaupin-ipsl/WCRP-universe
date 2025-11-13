@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sltbasin",
+    "cmip_acronym": "sltbasin",
+    "long_name": "Northward Ocean Salt Transport",
+    "standard_name": "northward_ocean_salt_transport",
+    "type": "variable",
+    "units": "kg s-1",
+    "drs_name": "sltbasin"
+}

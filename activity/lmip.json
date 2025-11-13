@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "type": "activity",
+    "id": "lmip",
+    "name": "LMIP",
+    "cmip_acronym": "LMIP",
+    "long_name": "Land-offline Model Intercomparison Project",
+    "url": null,
+    "drs_name": "LMIP"
+}

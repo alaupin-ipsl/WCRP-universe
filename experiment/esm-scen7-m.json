@@ -1,0 +1,27 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "esm-scen7-m",
+    "type": "experiment",
+    "experiment_id": "esm-scen7-m",
+    "activity_id": [
+        "scenariomip"
+    ],
+    "additional_allowed_model_components": [],
+    "description": "Medium emission scenario consistent with current policies",
+    "end_year": null,
+    "experiment": "Medium Scenario",
+    "min_number_yrs_per_sim": null,
+    "parent_activity_id": [
+        "cmip"
+    ],
+    "parent_experiment_id": [
+        "esm-hist"
+    ],
+    "required_model_components": [],
+    "start_year": null,
+    "sub_experiment_id": [
+        "none"
+    ],
+    "tier": 0,
+    "drs_name": "esm-scen7-m"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "va-plev37",
+    "cmip_acronym": "va-plev37",
+    "long_name": "Northward Wind",
+    "standard_name": "northward_wind",
+    "type": "variable",
+    "units": "m s-1",
+    "drs_name": "va-plev37"
+}

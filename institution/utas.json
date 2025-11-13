@@ -1,0 +1,27 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "utas",
+    "acronyms": [
+        "UTAS"
+    ],
+    "aliases": [],
+    "cmip-acronym": "UTAS",
+    "established": 1890,
+    "labels": [],
+    "location": {
+        "city": "Hobart",
+        "country": [
+            "Australia",
+            "AU"
+        ],
+        "lat": -42.8806,
+        "lon": 147.3250
+    },
+    "name": "University of Tasmania",
+    "ror": "01nfmeh72",
+    "url": [
+        "https://www.utas.edu.au/"
+    ],
+    "type": "institution",
+    "drs_name": "UTAS"
+}

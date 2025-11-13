@@ -1,0 +1,29 @@
+{
+  "id": "edt_tavg-al-hxy-u",
+  "type": "known_branded_variable",
+  "drs_name": "edt_tavg-al-hxy-u",
+  "cf_standard_name": "atmosphere_heat_diffusivity",
+  "cf_units": "m2 s-1",
+  "cf_sn_status": "approved",
+  "variable_root_name": "edt",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-al-hxy-u",
+  "description": "Vertical diffusion coefficient for temperature due to parametrised eddies\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "cell_methods": "area: time: mean",
+  "cell_measures": "area: areacella",
+  "history": "",
+  "realm": "atmos",
+  "temporal_label": "tavg",
+  "vertical_label": "al",
+  "horizontal_label": "hxy",
+  "area_label": "u",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

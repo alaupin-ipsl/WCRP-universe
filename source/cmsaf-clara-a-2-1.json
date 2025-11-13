@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cmsaf-clara-a-2-1",
+    "type": "source",
+    "drs_name": "CMSAF-CLARA-A-2-1",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "CMSAF-CLARA-A",
+    "label_extended": "CM SAF cLoud, Albedo and surface RAdiation dataset from AVHRR data",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

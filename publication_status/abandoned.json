@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "abandoned",
+    "type": "publication_status",
+    "drs_name": "abandoned",
+    "description": "The dataset was registered, but then never produced (for whatever reason)."
+}

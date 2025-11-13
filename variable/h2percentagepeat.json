@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "h2percentagepeat",
+    "cmip_acronym": "H2percentagePEAT",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "H2percentagePEAT"
+}

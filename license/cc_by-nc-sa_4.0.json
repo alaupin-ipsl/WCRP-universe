@@ -1,0 +1,9 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cc_by-nc-sa_4.0",
+    "kind": "CC BY-NC-SA 4.0",
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "type": "license",
+    "drs_name": "CC-BY-NC-SA-4.0"
+}

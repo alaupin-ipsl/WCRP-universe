@@ -1,0 +1,27 @@
+{
+  "id": "topg_ti-u-hxy-gis",
+  "type": "known_branded_variable",
+  "drs_name": "topg_ti-u-hxy-gis",
+  "cf_standard_name": "bedrock_altitude",
+  "cf_units": "m",
+  "cf_sn_status": "approved",
+  "variable_root_name": "topg",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "ti-u-hxy-gis",
+  "description": "The bedrock topography beneath the land ice\n",
+  "dimensions": [
+    "xgre",
+    "ygre"
+  ],
+  "cell_methods": "area: mean where grounded_ice_sheet",
+  "cell_measures": "area: areacellg",
+  "history": "",
+  "realm": "landIce",
+  "temporal_label": "ti",
+  "vertical_label": "u",
+  "horizontal_label": "hxy",
+  "area_label": "gis",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

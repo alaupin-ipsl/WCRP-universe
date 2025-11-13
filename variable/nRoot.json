@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nRoot",
+    "cmip_acronym": "nRoot",
+    "long_name": "Nitrogen Mass in Roots",
+    "standard_name": "root_mass_content_of_nitrogen",
+    "type": "variable",
+    "units": "kg m-2",
+    "drs_name": "nRoot"
+}

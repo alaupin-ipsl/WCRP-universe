@@ -1,0 +1,12 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "AP6hrPtZ",
+    "type": "table",
+    "product": "model-output",
+    "table_date": "2023-11-16",
+    "variable_entry": [
+        "zmlwaero",
+        "zmswaero"
+    ],
+    "drs_name": "AP6hrPtZ"
+}

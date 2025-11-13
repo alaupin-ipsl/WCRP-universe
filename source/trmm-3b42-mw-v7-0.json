@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "trmm-3b42-mw-v7-0",
+    "type": "source",
+    "drs_name": "TRMM-3B42-MW-v7-0",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "TRMM",
+    "label_extended": "NASA-TRMM prepared for FROGS",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

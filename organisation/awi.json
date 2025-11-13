@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "institution/awi",
+    "type": "institution",
+    "drs_name": "AWI"
+}

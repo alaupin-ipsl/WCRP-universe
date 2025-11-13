@@ -1,0 +1,29 @@
+{
+  "id": "tnhusscpbl_tavg-al-hxy-u",
+  "type": "known_branded_variable",
+  "drs_name": "tnhusscpbl_tavg-al-hxy-u",
+  "cf_standard_name": "tendency_of_specific_humidity_due_to_stratiform_cloud_and_precipitation_and_boundary_layer_mixing",
+  "cf_units": "s-1",
+  "cf_sn_status": "approved",
+  "variable_root_name": "tnhusscpbl",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-al-hxy-u",
+  "description": "To be specified only in  models which do not separate budget terms for stratiform cloud, precipitation and boundary layer schemes.  Includes all bounday layer terms including and diffusive terms.\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "cell_methods": "area: time: mean",
+  "cell_measures": "area: areacella",
+  "history": "",
+  "realm": "atmos",
+  "temporal_label": "tavg",
+  "vertical_label": "al",
+  "horizontal_label": "hxy",
+  "area_label": "u",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

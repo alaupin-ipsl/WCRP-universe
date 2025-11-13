@@ -1,0 +1,20 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "regcm5-0",
+    "type": "source",
+    "drs_name": "RegCM5-0",
+    "activity_participation": [
+        "DD"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "organisation_id": [
+        "ICTP"
+    ],
+    "label": "RegCM V5 MOLOCH",
+    "label_extended": "The ICTP RegCM version 5 using non hydrostatic MOLOCH dynamical core",
+    "license": {},
+    "model_component": null,
+    "release_year": "2023"
+}

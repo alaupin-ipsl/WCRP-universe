@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sifb",
+    "cmip_acronym": "sifb",
+    "long_name": "Sea-Ice Freeboard",
+    "standard_name": "sea_ice_freeboard",
+    "type": "variable",
+    "units": "m",
+    "drs_name": "sifb"
+}

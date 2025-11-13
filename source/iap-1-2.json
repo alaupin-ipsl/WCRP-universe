@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "iap-1-2",
+    "type": "source",
+    "drs_name": "IAP-1-2",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "IAP",
+    "label_extended": "Sea Water Potential Temperature-In-situ (gridded) Chinese Academy of Sciences",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "vegHeightCrop",
+    "cmip_acronym": "vegHeightCrop",
+    "long_name": "Height of Crops",
+    "standard_name": "canopy_height",
+    "type": "variable",
+    "units": "m",
+    "drs_name": "vegHeightCrop"
+}

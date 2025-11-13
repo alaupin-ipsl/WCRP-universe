@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "zhalf",
+    "cmip_acronym": "zhalf",
+    "long_name": "Altitude of Model Half-Levels",
+    "standard_name": "height_above_reference_ellipsoid",
+    "type": "variable",
+    "units": "m",
+    "drs_name": "zhalf"
+}

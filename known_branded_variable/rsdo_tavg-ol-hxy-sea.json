@@ -1,0 +1,29 @@
+{
+  "id": "rsdo_tavg-ol-hxy-sea",
+  "type": "known_branded_variable",
+  "drs_name": "rsdo_tavg-ol-hxy-sea",
+  "cf_standard_name": "downwelling_shortwave_flux_in_sea_water",
+  "cf_units": "W m-2",
+  "cf_sn_status": "approved",
+  "variable_root_name": "rsdo",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-ol-hxy-sea",
+  "description": "Downwelling Shortwave Radiation in Sea Water\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "olevel",
+    "time"
+  ],
+  "cell_methods": "area: mean where sea time: mean",
+  "cell_measures": "area: areacello volume: volcello",
+  "history": "",
+  "realm": "ocean",
+  "temporal_label": "tavg",
+  "vertical_label": "ol",
+  "horizontal_label": "hxy",
+  "area_label": "sea",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

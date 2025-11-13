@@ -1,0 +1,26 @@
+{
+  "id": "iareagr_tavg-u-hm-gis",
+  "type": "known_branded_variable",
+  "drs_name": "iareagr_tavg-u-hm-gis",
+  "cf_standard_name": "grounded_ice_sheet_area",
+  "cf_units": "m2",
+  "cf_sn_status": "approved",
+  "variable_root_name": "iareagr",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-u-hm-gis",
+  "description": "Greenland\n",
+  "dimensions": [
+    "time"
+  ],
+  "cell_methods": "area: sum where grounded_ice_sheet (mask=sfgrlf) time: mean",
+  "cell_measures": "",
+  "history": "",
+  "realm": "landIce",
+  "temporal_label": "tavg",
+  "vertical_label": "u",
+  "horizontal_label": "hm",
+  "area_label": "gis",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

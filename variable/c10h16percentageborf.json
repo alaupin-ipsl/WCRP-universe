@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "c10h16percentageborf",
+    "cmip_acronym": "C10H16percentageBORF",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "C10H16percentageBORF"
+}

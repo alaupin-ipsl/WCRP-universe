@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "consortium/cnrm-cerfacs",
+    "type": "consortium",
+    "drs_name": "CNRM-CERFACS"
+}

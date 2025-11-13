@@ -1,0 +1,29 @@
+{
+  "id": "chcint_tavg-op4-hxy-sea",
+  "type": "known_branded_variable",
+  "drs_name": "chcint_tavg-op4-hxy-sea",
+  "cf_standard_name": "integral_wrt_depth_of_sea_water_conservative_temperature_expressed_as_heat_content",
+  "cf_units": "J m-2",
+  "cf_sn_status": "approved",
+  "variable_root_name": "chcint",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-op4-hxy-sea",
+  "description": "This is the vertically-integrated heat content derived from conservative temperature (bigthetao).\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "oplayer4",
+    "time"
+  ],
+  "cell_methods": "area: time: mean where sea",
+  "cell_measures": "area: areacello",
+  "history": "",
+  "realm": "ocean",
+  "temporal_label": "tavg",
+  "vertical_label": "op4",
+  "horizontal_label": "hxy",
+  "area_label": "sea",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

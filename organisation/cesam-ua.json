@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "institution/cesam-ua",
+    "type": "institution",
+    "drs_name": "CESAM-UA"
+}

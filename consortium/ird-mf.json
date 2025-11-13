@@ -1,0 +1,37 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ird-mf",
+    "type": "consortium",
+    "status": "active",
+    "changes": "",
+    "cmip-acronym": "IRD-MF",
+    "description": "IRD [Institut de Recherche pour le Developpement, Noumea (New Caledonia), France]; MF [Meteo France, Toulouse, France]",
+    "members": [
+        {
+            "type": "member",
+            "institution": "ird",
+            "dates": [
+                {
+                    "from": 1944,
+                    "phase": "cmip6",
+                    "to": 2025
+                }
+            ],
+            "membership_type": "prior"
+        },
+        {
+            "type": "member",
+            "institution": "mf",
+            "dates": [
+                {
+                    "from": 1993,
+                    "phase": "cmip6",
+                    "to": 2025
+                }
+            ],
+            "membership_type": "prior"
+        }
+    ],
+    "url": "",
+    "drs_name": "IRD-MF"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "vertices_latitude",
+    "cmip_acronym": "vertices_latitude",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "degrees_north",
+    "drs_name": "vertices_latitude"
+}

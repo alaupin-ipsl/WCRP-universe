@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sossq",
+    "cmip_acronym": "sossq",
+    "long_name": "Square of Sea Surface Salinity",
+    "standard_name": "square_of_sea_surface_salinity",
+    "type": "variable",
+    "units": "1e-06",
+    "drs_name": "sossq"
+}

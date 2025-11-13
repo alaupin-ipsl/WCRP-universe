@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "afr-25",
+    "type": "region",
+    "drs_name": "AFR-25",
+    "description": "Africa"
+}

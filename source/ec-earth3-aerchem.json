@@ -1,0 +1,32 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ec-earth3-aerchem",
+    "type": "source",
+    "drs_name": "EC-Earth3-AerChem",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "cmip",
+        "ramip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "EC-Earth3-AerChem",
+    "label_extended": "EC-Earth3-AerChem",
+    "model_component": {
+        "aerosol": "tm5",
+        "atmos": "ifs",
+        "atmosChem": "tm5",
+        "land": "htessel",
+        "ocean": "nemo3.6",
+        "seaIce": "lim3"
+    },
+    "release_year": "2019",
+    "organisation_id": [
+        "ec-earth-consortium"
+    ]
+}

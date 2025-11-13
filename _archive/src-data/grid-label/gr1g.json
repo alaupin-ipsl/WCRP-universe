@@ -1,0 +1,12 @@
+{
+    "@context": "_context_",
+    "description": "regridded data reported in the region of Greenland on a grid other than the native grid and other than the preferred target grid",
+    "id": "gr1g",
+    "region": "greenland",
+    "type": [
+        "wcrp:grid_label",
+        "universal"
+    ],
+    "label": "gr1g",
+    "long_label": "Regridded Greenland Alternate g"
+}

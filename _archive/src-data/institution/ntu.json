@@ -1,0 +1,34 @@
+{
+    "@context": "_context_",
+    "id": "ntu",
+    "acronyms": [
+        "NTU"
+    ],
+    "aliases": [],
+    "established": 1928,
+    "labels": [],
+    "location": {
+        "id": "universal:location/05bqach95",
+        "@nest": {
+            "city": "Taipei",
+            "country": [
+                "Taiwan",
+                "TW"
+            ],
+            "lat": 25.016,
+            "lon": 121.536
+        },
+        "type": "location"
+    },
+    "ror": "05bqach95",
+    "kind": "Education",
+    "url": [
+        "http://www.ntu.edu.tw/english/"
+    ],
+    "type": [
+        "wcrp:institution",
+        "universal"
+    ],
+    "long_label": "National Taiwan University",
+    "label": "NTU"
+}

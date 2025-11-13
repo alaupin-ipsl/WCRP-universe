@@ -1,0 +1,34 @@
+{
+    "@context": "_context_",
+    "id": "cas",
+    "acronyms": [
+        "CAS"
+    ],
+    "aliases": [],
+    "established": 1949,
+    "labels": [],
+    "location": {
+        "id": "universal:location/034t30j35",
+        "@nest": {
+            "city": "Beijing",
+            "country": [
+                "China",
+                "CN"
+            ],
+            "lat": 39.9075,
+            "lon": 116.39723
+        },
+        "type": "location"
+    },
+    "ror": "034t30j35",
+    "kind": "Government",
+    "url": [
+        "http://english.cas.cn/"
+    ],
+    "type": [
+        "wcrp:institution",
+        "universal"
+    ],
+    "long_label": "Chinese Academy of Sciences",
+    "label": "CAS"
+}

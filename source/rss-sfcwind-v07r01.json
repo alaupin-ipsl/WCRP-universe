@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rss-sfcwind-v07r01",
+    "type": "source",
+    "drs_name": "RSS-sfcWind-v07r01",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "RSS-sfcWind",
+    "label_extended": "RSS-sfcWind 7.0 (2021): 10m Surface Wind",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

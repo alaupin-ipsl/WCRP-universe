@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "noxasno2smoothedpercentageborf",
+    "cmip_acronym": "NOxasNO2smoothedpercentageBORF",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "NOxasNO2smoothedpercentageBORF"
+}

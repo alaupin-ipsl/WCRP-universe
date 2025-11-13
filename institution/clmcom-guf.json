@@ -1,0 +1,29 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clmcom-guf",
+    "acronyms": [
+        "CLMcom-GUF"
+    ],
+    "aliases": [
+        "Goethe University Frankfurt",
+        "Goethe-Universität Frankfurt am Main",
+        "Johann Wolfgang Goethe-Universität Frankfurt am Main"
+    ],
+    "cmip-acronym": "CLMcom-GUF",
+    "established": null,
+    "labels": [],
+    "location": {
+        "city": "Frankfurt am Main",
+        "country": [
+            "Germany",
+            "DE"
+        ],
+        "lat": 50.127068,
+        "lon": 8.667764
+    },
+    "name": "Climate Limited-area Modelling Community (CLMcom) partner: Goethe University Frankfurt",
+    "ror": "04cvxnb49",
+    "url": [],
+    "type": "institution",
+    "drs_name": "CLMcom-GUF"
+}

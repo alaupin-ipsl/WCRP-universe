@@ -1,0 +1,33 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "evaluation",
+    "type": "experiment",
+    "experiment_id": "evaluation",
+    "activity_id": [
+        "dd",
+        "esd"
+    ],
+    "additional_allowed_model_components": [
+        "aer",
+        "atmos"
+    ],
+    "description": "CORDEX evaluation driven by reanalysis (ERA5)",
+    "end_year": 2020,
+    "experiment": "reanalysis simulation of the recent past",
+    "min_number_yrs_per_sim": 42,
+    "parent_activity_id": [
+        "none"
+    ],
+    "parent_experiment_id": [
+        "none"
+    ],
+    "required_model_components": [
+        "rcm"
+    ],
+    "start_year": 1979,
+    "sub_experiment_id": [
+        "none"
+    ],
+    "tier": 1,
+    "drs_name": "evaluation"
+}

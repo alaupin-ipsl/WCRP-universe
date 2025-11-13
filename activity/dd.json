@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "type": "activity",
+    "id": "dd",
+    "name": "DD",
+    "cmip_acronym": "DD",
+    "long_name": "Dynamical downscaling",
+    "url": null,
+    "drs_name": "DD"
+}

@@ -1,0 +1,32 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "gerics",
+    "acronyms": [
+        "GERICS"
+    ],
+    "aliases": [
+        "Climate Service Center",
+        "GERICS Climate Service Center",
+        "GERICS Climate Service Center Germany",
+        "GERICS"
+    ],
+    "cmip-acronym": "GERICS",
+    "established": 2009,
+    "labels": [],
+    "location": {
+        "city": "Hamburg",
+        "country": [
+            "Germany",
+            "DE"
+        ],
+        "lat": 53.548289,
+        "lon": 10.002121
+    },
+    "name": "Climate Service Center Germany, Helmholtz Centre hereon GmbH",
+    "ror": "022rwzq94",
+    "url": [
+        "https://www.gerics.de/"
+    ],
+    "type": "institution",
+    "drs_name": "GERICS"
+}

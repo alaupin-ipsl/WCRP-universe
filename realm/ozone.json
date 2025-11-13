@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ozone",
+    "type": "realm",
+    "drs_name": "ozone",
+    "name": "ozone",
+    "description": ""
+}

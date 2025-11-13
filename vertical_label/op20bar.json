@@ -1,0 +1,8 @@
+{
+    "id": "op20bar",
+    "label": "op20bar",
+    "description": "TODO",
+    "type": "vertical_label",
+    "drs_name": "op20bar",
+    "@context": "000_context.jsonld"
+}

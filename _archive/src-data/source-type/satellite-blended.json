@@ -1,0 +1,10 @@
+{
+    "@context": "_context_",
+    "description": "gridded product based on both in-situ instruments and satellite measurements",
+    "id": "satellite-blended",
+    "type": [
+        "wcrp:source_type",
+        "universal"
+    ],
+    "label": "satellite_blended"
+}

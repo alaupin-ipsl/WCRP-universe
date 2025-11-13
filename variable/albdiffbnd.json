@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "albdiffbnd",
+    "cmip_acronym": "albdiffbnd",
+    "long_name": "Diffuse Surface Albedo for Each Band",
+    "standard_name": "surface_diffuse_shortwave_hemispherical_reflectance",
+    "type": "variable",
+    "units": "1",
+    "drs_name": "albdiffbnd"
+}

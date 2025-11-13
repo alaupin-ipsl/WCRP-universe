@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hoch2chopercentagepeat",
+    "cmip_acronym": "HOCH2CHOpercentagePEAT",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "HOCH2CHOpercentagePEAT"
+}

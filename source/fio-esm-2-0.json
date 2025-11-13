@@ -1,0 +1,35 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "fio-esm-2-0",
+    "type": "source",
+    "drs_name": "FIO-ESM-2-0",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "cmip",
+        "dcpp",
+        "gmmip",
+        "omip",
+        "scenariomip",
+        "simip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "FIO-ESM 2.0",
+    "label_extended": "FIO-ESM 2.0",
+    "model_component": {
+        "aerosol": "prescribed",
+        "atmos": "cam4",
+        "land": "clm4.0",
+        "ocean": "pop2-w",
+        "seaIce": "cice4.0"
+    },
+    "release_year": "2018",
+    "organisation_id": [
+        "fio-qlnm"
+    ]
+}

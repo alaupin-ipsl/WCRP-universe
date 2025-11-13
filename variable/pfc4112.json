@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "pfc4112",
+    "cmip_acronym": "pfc4112",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "pfc4112"
+}

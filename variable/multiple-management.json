@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "multiple-management",
+    "cmip_acronym": "multiple-management",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "multiple-management"
+}

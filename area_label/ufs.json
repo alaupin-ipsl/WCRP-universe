@@ -1,0 +1,8 @@
+{
+    "id": "ufs",
+    "label": "ufs",
+    "description": "in cell_methods : unfrozen_soil",
+    "type": "area_label",
+    "drs_name": "ufs",
+    "@context": "000_context.jsonld"
+}

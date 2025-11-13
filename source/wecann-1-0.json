@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wecann-1-0",
+    "type": "source",
+    "drs_name": "WECANN-1-0",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "WECANN",
+    "label_extended": "Water, Energy, and Carbon with Artificial Neural Networks",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

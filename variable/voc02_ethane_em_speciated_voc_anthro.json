@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "voc02_ethane_em_speciated_voc_anthro",
+    "cmip_acronym": "VOC02_ethane_em_speciated_VOC_anthro",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "VOC02_ethane_em_speciated_VOC_anthro"
+}

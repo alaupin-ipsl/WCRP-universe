@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tls",
+    "cmip_acronym": "tls",
+    "long_name": "MSU Temperature Lower Stratosphere",
+    "standard_name": "MSU_Temperature_Lower_Stratosphere",
+    "type": "variable",
+    "units": "K",
+    "drs_name": "tls"
+}

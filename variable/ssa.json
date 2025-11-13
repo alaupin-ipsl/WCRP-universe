@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ssa",
+    "cmip_acronym": "ssa",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "ssa"
+}

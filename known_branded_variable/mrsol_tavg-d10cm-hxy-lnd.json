@@ -1,0 +1,29 @@
+{
+  "id": "mrsol_tavg-d10cm-hxy-lnd",
+  "type": "known_branded_variable",
+  "drs_name": "mrsol_tavg-d10cm-hxy-lnd",
+  "cf_standard_name": "mass_content_of_water_in_soil_layer",
+  "cf_units": "kg m-2",
+  "cf_sn_status": "approved",
+  "variable_root_name": "mrsol",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-d10cm-hxy-lnd",
+  "description": "the mass of water in all phases in a thin surface soil layer.\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "sdepth10cm"
+  ],
+  "cell_methods": "area: mean where land time: mean",
+  "cell_measures": "area: areacella",
+  "history": "",
+  "realm": "land",
+  "temporal_label": "tavg",
+  "vertical_label": "d10cm",
+  "horizontal_label": "hxy",
+  "area_label": "lnd",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

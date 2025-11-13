@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "doe-arm",
+    "type": "institution",
+    "drs_name": "DOE-ARM",
+    "name": "DOE-ARM",
+    "acronym": [
+        "DOE-ARM"
+    ],
+    "aliases": [],
+    "established": null,
+    "labels": [
+        "U.S. Department of Energy, Atmospheric Radiation Measurment Program"
+    ],
+    "location": {},
+    "ror": null,
+    "url": []
+}

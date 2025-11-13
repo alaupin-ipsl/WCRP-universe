@@ -1,0 +1,30 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "bcc-csm2-hr",
+    "type": "source",
+    "drs_name": "BCC-CSM2-HR",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "cmip",
+        "highresmip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "BCC-CSM 2 HR",
+    "label_extended": "BCC-CSM 2 HR",
+    "model_component": {
+        "atmos": "bcc_agcm3_hr",
+        "land": "bcc_avim2",
+        "ocean": "mom4",
+        "seaIce": "sis2"
+    },
+    "release_year": "2017",
+    "organisation_id": [
+        "bcc"
+    ]
+}

@@ -1,0 +1,192 @@
+{
+  "@context": {
+  "@base": "https://wcrp-cmip.github.io/WCRP-universe/frequency/",
+  "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/frequency/",
+  "id": "@id",
+  "type": "@type",
+  "cf": "https://wcrp-cmip.github.io/CF/",
+  "cmip6plus": "https://wcrp-cmip.github.io/CMIP6Plus_CVs/",
+  "cmip7": "https://wcrp-cmip.github.io/CMIP7_CVs/",
+  "obs4mips": "https://wolfiex.github.io/obs4MIPs-cmor-tables-ld/",
+  "universal": "https://wcrp-cmip.github.io/WCRP-universe/",
+  "variables": "https://wcrp-cmip.github.io/MIP-variables/"
+},
+  "@graph": [
+    {
+  "description": "sampled hourly",
+  "id": "1hr",
+  "long_name": "1 Hourly Frequency",
+  "name": "1hr",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ],
+  "unit": "hour"
+}
+    ,{
+  "description": "monthly-mean diurnal cycle resolving each day into 1-hour means",
+  "id": "1hrcm",
+  "long_name": "1 Hour Climatology Monthly",
+  "name": "1hrCM",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ],
+  "unit": "hour"
+}
+    ,{
+  "description": "sampled hourly, at specified time point within an hour",
+  "id": "1hrpt",
+  "long_name": "1 Hour Point",
+  "name": "1hrPt",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ],
+  "unit": "hour"
+}
+    ,{
+  "description": "3 hourly mean samples",
+  "id": "3hr",
+  "long_name": "3 Hourly Frequency",
+  "name": "3hr",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ],
+  "unit": "hour"
+}
+    ,{
+  "description": "sampled 3 hourly, at specified time point within the time period",
+  "id": "3hrpt",
+  "long_name": "3 Hour Point",
+  "name": "3hrPt",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ],
+  "unit": "hour"
+}
+    ,{
+  "description": "6 hourly mean samples",
+  "id": "6hr",
+  "long_name": "6 Hourly Frequency",
+  "name": "6hr",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ],
+  "unit": "hour"
+}
+    ,{
+  "description": "sampled 6 hourly, at specified time point within the time period",
+  "id": "6hrpt",
+  "long_name": "6 Hour Point",
+  "name": "6hrPt",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ],
+  "unit": "hour"
+}
+    ,{
+  "description": "daily mean samples",
+  "id": "day",
+  "long_name": "Daily Frequency",
+  "name": "day",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ],
+  "unit": "day"
+}
+    ,{
+  "description": "decadal mean samples",
+  "id": "dec",
+  "long_name": "Decadal Frequency",
+  "name": "dec",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ],
+  "unit": "decade"
+}
+    ,{
+  "description": "fixed (time invariant) field",
+  "id": "fx",
+  "long_name": "Fixed Frequency",
+  "name": "fx",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ],
+  "unit": "none"
+}
+    ,{
+  "description": "monthly mean samples",
+  "id": "mon",
+  "long_name": "Monthly Frequency",
+  "name": "mon",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ],
+  "unit": "month"
+}
+    ,{
+  "description": "monthly climatology computed from monthly mean samples",
+  "id": "monc",
+  "long_name": "Monthly Climatology",
+  "name": "monC",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ],
+  "unit": "month"
+}
+    ,{
+  "description": "sampled monthly, at specified time point within the time period",
+  "id": "monpt",
+  "long_name": "Monthly Point",
+  "name": "monPt",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ],
+  "unit": "month"
+}
+    ,{
+  "description": "sampled sub-hourly, at specified time point within an hour",
+  "id": "subhrpt",
+  "long_name": "Sub-Hourly Point",
+  "name": "subhrPt",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ],
+  "unit": "minute"
+}
+    ,{
+  "description": "annual mean samples",
+  "id": "yr",
+  "long_name": "Yearly Frequency",
+  "name": "yr",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ],
+  "unit": "year"
+}
+    ,{
+  "description": "sampled yearly, at specified time point within the time period",
+  "id": "yrpt",
+  "long_name": "Yearly Point",
+  "name": "yrPt",
+  "type": [
+    "wcrp:frequency",
+    "universal"
+  ],
+  "unit": "year"
+}
+  ]
+}

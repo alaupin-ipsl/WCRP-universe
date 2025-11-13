@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "gpcp-sg",
+    "type": "source",
+    "drs_name": "GPCP-SG",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "GPCP SG",
+    "label_extended": "Global Precipitation Climatology Project Satellite-Gauge",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

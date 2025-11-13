@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mrsoLut",
+    "cmip_acronym": "mrsoLut",
+    "long_name": "Total Soil Moisture",
+    "standard_name": "mass_content_of_water_in_soil",
+    "type": "variable",
+    "units": "kg m-2",
+    "drs_name": "mrsoLut"
+}

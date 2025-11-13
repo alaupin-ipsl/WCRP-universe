@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "daily",
+    "type": "time_range",
+    "regex": "^\\d{4}(0[1-9]|1[0-2])(0[1-9]|[12]\\d|3[01])-\\d{4}(0[1-9]|1[0-2])(0[1-9]|[12]\\d|3[01])$",
+    "description": "TODO IMPROVE THIS"
+}

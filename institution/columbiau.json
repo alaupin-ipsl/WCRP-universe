@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "columbiau",
+    "type": "institution",
+    "drs_name": "ColumbiaU",
+    "name": "ColumbiaU",
+    "acronym": [
+        "ColumbiaU"
+    ],
+    "aliases": [],
+    "established": null,
+    "labels": [
+        "Columbia University, NY, USA"
+    ],
+    "location": {},
+    "ror": null,
+    "url": []
+}

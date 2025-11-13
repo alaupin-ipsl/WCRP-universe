@@ -1,0 +1,10 @@
+{
+	"@context": {
+      	"@base":"https://espri-mod.github.io/mip-cmor-tables/contact/",
+	"@vocab":"https://espri-mod.github.io/mip-cmor-tables/",
+	"id":"@id",
+	"type":"@type",
+	"regex":"https://espri-mod.github.io/mip-cmor-tables/regex"
+  		
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "so2_em_anthro",
+    "cmip_acronym": "SO2_em_anthro",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "SO2_em_anthro"
+}

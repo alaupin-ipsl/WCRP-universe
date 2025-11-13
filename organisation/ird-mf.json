@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "consortium/ird-mf",
+    "type": "consortium",
+    "drs_name": "IRD-MF"
+}

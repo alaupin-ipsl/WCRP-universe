@@ -1,0 +1,12 @@
+{
+    "@context": "_context_",
+    "description": "data reported on a model's native grid",
+    "id": "gn",
+    "region": "greenland",
+    "type": [
+        "wcrp:grid_label",
+        "universal"
+    ],
+    "label": "gn",
+    "long_label": "Grid Native Greenland"
+}

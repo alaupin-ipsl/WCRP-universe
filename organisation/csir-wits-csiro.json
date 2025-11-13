@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "consortium/csir-wits-csiro",
+    "type": "consortium",
+    "drs_name": "CSIR-Wits-CSIRO"
+}

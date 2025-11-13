@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "imerg-v06-eu",
+    "type": "source",
+    "drs_name": "IMERG-V06-EU",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "IMERG-V06-EU",
+    "label_extended": "NASA IMERG prepared for FROGS",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

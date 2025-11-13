@@ -1,0 +1,37 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "e3sm-1-1",
+    "type": "source",
+    "drs_name": "E3SM-1-1",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "c4mip",
+        "cmip",
+        "damip",
+        "ls3mip",
+        "scenariomip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "E3SM 1.1",
+    "label_extended": "E3SM 1.1 (Energy Exascale Earth System Model)",
+    "model_component": {
+        "aerosol": "mam4",
+        "atmos": "eam",
+        "atmosChem": "troposphere",
+        "land": "elm",
+        "ocean": "mpas-ocean",
+        "ocnBgchem": "bec",
+        "seaIce": "mpas-seaice"
+    },
+    "release_year": "2019",
+    "organisation_id": [
+        "e3sm-project",
+        "rubisco"
+    ]
+}

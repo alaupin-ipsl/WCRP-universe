@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cVeg",
+    "cmip_acronym": "cVeg",
+    "long_name": "Carbon Mass in Vegetation",
+    "standard_name": "vegetation_carbon_content",
+    "type": "variable",
+    "units": "kg m-2",
+    "drs_name": "cVeg"
+}

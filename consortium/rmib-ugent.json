@@ -1,0 +1,37 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rmib-ugent",
+    "type": "consortium",
+    "status": "active",
+    "changes": "",
+    "cmip-acronym": "RMIB-UGent",
+    "description": "Royal Meteorological Institute of Belgium & Ghent University downscaling consortium",
+    "members": [
+        {
+            "type": "member",
+            "institution": "rmib",
+            "dates": [
+                {
+                    "from": 1913,
+                    "phase": "cmip6",
+                    "to": 2025
+                }
+            ],
+            "membership_type": "prior"
+        },
+        {
+            "type": "member",
+            "institution": "ugent",
+            "dates": [
+                {
+                    "from": 2020,
+                    "phase": "cmip6",
+                    "to": 2025
+                }
+            ],
+            "membership_type": "prior"
+        }
+    ],
+    "url": "",
+    "drs_name": "RMIB-UGent"
+}

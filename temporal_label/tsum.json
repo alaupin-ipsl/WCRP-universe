@@ -1,0 +1,8 @@
+{
+    "id": "tsum",
+    "label": "tsum",
+    "description": "accumulation, sum, or integral over the reporting interval",
+    "type": "temporal_label",
+    "drs_name": "tsum",
+    "@context": "000_context.jsonld"
+}

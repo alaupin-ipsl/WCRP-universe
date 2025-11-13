@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "albc",
+    "cmip_acronym": "albc",
+    "long_name": "Canopy Albedo",
+    "standard_name": "canopy_albedo",
+    "type": "variable",
+    "units": "1",
+    "drs_name": "albc"
+}

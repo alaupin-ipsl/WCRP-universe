@@ -1,0 +1,8 @@
+{
+    "id": "sir",
+    "label": "sir",
+    "description": "in cell_methods : sea_ice_ridges",
+    "type": "area_label",
+    "drs_name": "sir",
+    "@context": "000_context.jsonld"
+}

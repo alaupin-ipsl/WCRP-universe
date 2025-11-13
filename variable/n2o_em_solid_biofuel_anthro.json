@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "n2o_em_solid_biofuel_anthro",
+    "cmip_acronym": "N2O_em_SOLID_BIOFUEL_anthro",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "N2O_em_SOLID_BIOFUEL_anthro"
+}

@@ -1,0 +1,39 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "CMIP Product Descriptor",
+    "description": "Defines a CMIP product, including descriptions, types, and unique identifiers for observational data and other products.",
+    "references": ["https://github.com/WCRP-CMIP/WCRP-universe/product"],
+    "repo": "https://github.com/WCRP-CMIP/WCRP-universe/",
+    "prefix": "mip",
+
+    "type": "object",
+    "properties": {
+        "@context": {
+            "type": "string",
+            "description": "URI for the JSON-LD context describing product descriptors",
+            "examples": ["https://github.com/WCRP-CMIP/WCRP-universe/product/_context"]
+        },
+        "description": {
+            "type": "string",
+            "description": "Description of the product, including data sources and usage",
+            "examples": ["Data collected from direct measurements of the climate system. This includes data from ground stations, satellites, buoys, and other observational platforms, which serve as a reference for validating and comparing model outputs."]
+        },
+        "id": {
+            "type": "string",
+            "description": "Unique identifier for the product descriptor JSON",
+            "examples": ["observations.json"]
+        },
+        "kind": {
+            "type": "string",
+            "description": "Specific kind of product (e.g., observations, reanalysis)",
+            "examples": ["observations"]
+        },
+        "type": {
+            "type": "string",
+            "description": "Classification type of the descriptor",
+            "examples": ["product"]
+        }
+    },
+    "required": ["@context", "description", "id", "kind", "type"]
+}
+

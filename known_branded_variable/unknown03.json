@@ -1,0 +1,28 @@
+{
+  "id": "unknown03",
+  "type": "known_branded_variable",
+  "drs_name": "unknown03",
+  "cf_standard_name": "sea_surface_wave_from_direction",
+  "cf_units": "degree",
+  "cf_sn_status": "approved",
+  "variable_root_name": "unknown03",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "",
+  "description": "Mean direction of wave propagation (direction from which the wave is coming) derived from the total wave energy spectrum, incorporating both wind-sea and swell waves. This variable is usually expressed in degrees relative to true north.\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time1"
+  ],
+  "cell_methods": "area: mean where sea time: mean",
+  "cell_measures": "area: areacello",
+  "history": "",
+  "realm": "ocean",
+  "temporal_label": "",
+  "vertical_label": "",
+  "horizontal_label": "",
+  "area_label": "",
+  "bn_status": "Provisional - discussion required",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

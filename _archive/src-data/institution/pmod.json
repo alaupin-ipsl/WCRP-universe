@@ -1,0 +1,34 @@
+{
+    "@context": "_context_",
+    "id": "pmod",
+    "acronyms": [
+        "PMOD"
+    ],
+    "aliases": [],
+    "established": 1907,
+    "labels": [],
+    "location": {
+        "id": "universal:location/02gtrqv93",
+        "@nest": {
+            "city": "Davos",
+            "country": [
+                "Switzerland",
+                "CH"
+            ],
+            "lat": 46.8133161,
+            "lon": 46.8133161
+        },
+        "type": "location"
+    },
+    "ror": "02gtrqv93",
+    "kind": "Facility",
+    "url": [
+        "https://www.pmodwrc.ch/"
+    ],
+    "type": [
+        "wcrp:institution",
+        "universal"
+    ],
+    "long_label": "Physikalisch-Meteorologisches Observatorium Davos",
+    "label": "PMOD"
+}

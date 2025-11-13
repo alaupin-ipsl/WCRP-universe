@@ -1,0 +1,10 @@
+{
+    "@context": "_context_",
+    "description": "ice-sheet model that includes ice-flow",
+    "id": "ism",
+    "type": [
+        "wcrp:source_type",
+        "universal"
+    ],
+    "label": "ISM"
+}

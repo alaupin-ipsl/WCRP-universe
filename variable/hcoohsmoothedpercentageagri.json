@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hcoohsmoothedpercentageagri",
+    "cmip_acronym": "HCOOHsmoothedpercentageAGRI",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "HCOOHsmoothedpercentageAGRI"
+}

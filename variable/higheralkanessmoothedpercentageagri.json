@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "higheralkanessmoothedpercentageagri",
+    "cmip_acronym": "HigherAlkanessmoothedpercentageAGRI",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "HigherAlkanessmoothedpercentageAGRI"
+}

@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "airs-1-0",
+    "type": "source",
+    "drs_name": "AIRS-1-0",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "AIRS",
+    "label_extended": "Atmospheric Infrared Sounder",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

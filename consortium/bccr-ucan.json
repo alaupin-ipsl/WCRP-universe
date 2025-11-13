@@ -1,0 +1,37 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "bccr-ucan",
+    "type": "consortium",
+    "status": "active",
+    "changes": "",
+    "cmip-acronym": "BCCR-UCAN",
+    "description": "BCCR [Bjerknes Center for Climate Research (BCCR), NORCE Norwegian Research Center, Bergen, Norway]; UCAN [Instituto de Fisica de Cantabria (IFCA), CSIC-Universidad de Cantabria, Santander, Spain]",
+    "members": [
+        {
+            "type": "member",
+            "institution": "bccr",
+            "dates": [
+                {
+                    "from": 2000,
+                    "phase": "cmip6",
+                    "to": 2025
+                }
+            ],
+            "membership_type": "prior"
+        },
+        {
+            "type": "member",
+            "institution": "ucan",
+            "dates": [
+                {
+                    "from": 1995,
+                    "phase": "cmip6",
+                    "to": 2025
+                }
+            ],
+            "membership_type": "prior"
+        }
+    ],
+    "url": "",
+    "drs_name": "BCCR-UCAN"
+}

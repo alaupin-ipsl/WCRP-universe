@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "lai",
+    "cmip_acronym": "lai",
+    "long_name": "Leaf Area Index",
+    "standard_name": "leaf_area_index",
+    "type": "variable",
+    "units": "1",
+    "drs_name": "lai"
+}

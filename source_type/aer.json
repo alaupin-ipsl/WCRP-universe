@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "aer",
+    "type": "source_type",
+    "description": "aerosol treatment in an atmospheric model where concentrations are calculated based on emissions, transformation, and removal processes (rather than being prescribed or omitted entirely)",
+    "drs_name": "AER"
+}

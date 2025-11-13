@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "grassFracC4",
+    "cmip_acronym": "grassFracC4",
+    "long_name": "C4 Natural Grass Area Percentage",
+    "standard_name": "area_fraction",
+    "type": "variable",
+    "units": "%",
+    "drs_name": "grassFracC4"
+}

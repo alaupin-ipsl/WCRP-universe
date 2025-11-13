@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mekpercentageagri",
+    "cmip_acronym": "MEKpercentageAGRI",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "MEKpercentageAGRI"
+}

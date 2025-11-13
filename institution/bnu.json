@@ -1,0 +1,27 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "bnu",
+    "acronyms": [
+        "BNU"
+    ],
+    "aliases": [],
+    "cmip-acronym": "BNU",
+    "established": 2003,
+    "labels": [],
+    "location": {
+        "city": "Lahore",
+        "country": [
+            "Pakistan",
+            "PK"
+        ],
+        "lat": 31.3648,
+        "lon": 74.2161
+    },
+    "name": "Beaconhouse National University",
+    "ror": "03e6rv013",
+    "url": [
+        "https://www.bnu.edu.pk/"
+    ],
+    "type": "institution",
+    "drs_name": "BNU"
+}

@@ -1,0 +1,11 @@
+
+{
+    "@context": "000_context.jsonld",
+    "id": "3hr",
+    "type": "table",
+    "product": "model-output",
+    "table_date": "2023-11-16",
+    "variable_entry": [
+    ],
+    "drs_name": "3hr"
+}

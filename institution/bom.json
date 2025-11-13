@@ -1,0 +1,31 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "bom",
+    "acronyms": [
+        "BOM"
+    ],
+    "aliases": [
+        "Australia Bureau of Meteorology",
+        "Australian Bureau of Meteorology",
+        "BOM"
+    ],
+    "cmip-acronym": "BOM",
+    "established": 1908,
+    "labels": [],
+    "location": {
+        "city": "Melbourne",
+        "country": [
+            "Australia",
+            "AU"
+        ],
+        "lat": -37.819624,
+        "lon": 144.950945
+    },
+    "name": "Bureau of Meteorology",
+    "ror": "04dkp1p98",
+    "url": [
+        "http://www.bom.gov.au/"
+    ],
+    "type": "institution",
+    "drs_name": "BOM"
+}

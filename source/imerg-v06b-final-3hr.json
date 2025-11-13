@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "imerg-v06b-final-3hr",
+    "type": "source",
+    "drs_name": "IMERG-V06B-Final-3hr",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "IMERG-V06-Final-3hr",
+    "label_extended": "NASA IMERG averaged to 3-hourly maps",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

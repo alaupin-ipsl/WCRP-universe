@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "aerosol",
+    "description": "Aerosol",
+    "name": "aerosol",
+    "type": "realm",
+    "drs_name": "aerosol"
+}

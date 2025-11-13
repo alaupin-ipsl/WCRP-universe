@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "type": "activity",
+    "id": "esd",
+    "name": "ESD",
+    "cmip_acronym": "ESD",
+    "long_name": "Empirical-statistical downscaling",
+    "url": null,
+    "drs_name": "ESD"
+}

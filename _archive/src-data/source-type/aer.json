@@ -1,0 +1,10 @@
+{
+    "@context": "_context_",
+    "description": "aerosol treatment in an atmospheric model where concentrations are calculated based on emissions, transformation, and removal processes (rather than being prescribed or omitted entirely)",
+    "id": "aer",
+    "type": [
+        "wcrp:source_type",
+        "universal"
+    ],
+    "label": "AER"
+}

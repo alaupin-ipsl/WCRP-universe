@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "institution/uootago",
+    "type": "institution",
+    "drs_name": "UOOTAGO"
+}

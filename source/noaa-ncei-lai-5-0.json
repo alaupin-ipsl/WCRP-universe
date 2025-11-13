@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "noaa-ncei-lai-5-0",
+    "type": "source",
+    "drs_name": "NOAA-NCEI-LAI-5-0",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "NOAA NCEI LAI",
+    "label_extended": "AVHRR Leaf Area Index",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

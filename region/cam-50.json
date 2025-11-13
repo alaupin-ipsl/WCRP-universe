@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cam-50",
+    "type": "region",
+    "drs_name": "CAM-50",
+    "description": "Central America"
+}

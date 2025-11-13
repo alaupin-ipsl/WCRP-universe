@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tslsiLut",
+    "cmip_acronym": "tslsiLut",
+    "long_name": "Surface Temperature on Landuse Tile",
+    "standard_name": "surface_temperature",
+    "type": "variable",
+    "units": "K",
+    "drs_name": "tslsiLut"
+}

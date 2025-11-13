@@ -1,0 +1,35 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "awi-cm-1-1-mr",
+    "type": "source",
+    "drs_name": "AWI-CM-1-1-MR",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "cmip",
+        "cordex",
+        "omip",
+        "pamip",
+        "simip",
+        "scenariomip",
+        "viacsab"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "AWI-CM 1.1 MR",
+    "label_extended": "AWI-CM 1.1 MR",
+    "model_component": {
+        "atmos": "echam6.3.04p1",
+        "land": "jsbach",
+        "ocean": "fesom",
+        "seaIce": "fesom"
+    },
+    "release_year": "2018",
+    "organisation_id": [
+        "awi"
+    ]
+}

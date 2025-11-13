@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "limncalc",
+    "cmip_acronym": "limncalc",
+    "long_name": "Nitrogen Limitation of Calcareous Phytoplankton",
+    "standard_name": "nitrogen_growth_limitation_of_calcareous_phytoplankton",
+    "type": "variable",
+    "units": "1",
+    "drs_name": "limncalc"
+}

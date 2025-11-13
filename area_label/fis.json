@@ -1,0 +1,8 @@
+{
+    "id": "fis",
+    "label": "fis",
+    "description": "in cell_methods : floating_ice_shelf",
+    "type": "area_label",
+    "drs_name": "fis",
+    "@context": "000_context.jsonld"
+}

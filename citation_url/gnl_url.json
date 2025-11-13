@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "gnl_url",
+    "type": "citation_url",
+    "regex": "^(https?|ftp):\\/\\/[a-zA-Z0-9.-]+(\\.[a-zA-Z]{2,})(:[0-9]{1,5})?(\\/[^\\s]*)?$"
+}

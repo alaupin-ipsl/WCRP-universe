@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "voc05_pentanes_em_speciated_voc_anthro",
+    "cmip_acronym": "VOC05_pentanes_em_speciated_VOC_anthro",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "VOC05_pentanes_em_speciated_VOC_anthro"
+}

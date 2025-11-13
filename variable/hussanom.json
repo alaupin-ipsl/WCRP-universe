@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hussanom",
+    "cmip_acronym": "hussanom",
+    "long_name": "Near-Surface Specific Humidity Anomaly",
+    "standard_name": "specific_humidity_anomaly",
+    "type": "variable",
+    "units": "1",
+    "drs_name": "hussanom"
+}

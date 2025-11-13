@@ -1,0 +1,27 @@
+{
+  "id": "sci_tavg-u-hxys-u",
+  "type": "known_branded_variable",
+  "drs_name": "sci_tavg-u-hxys-u",
+  "cf_standard_name": "shallow_convection_time_fraction",
+  "cf_units": "1",
+  "cf_sn_status": "approved",
+  "variable_root_name": "sci",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-u-hxys-u",
+  "description": "Fraction of time that shallow convection occurs in the grid cell.\n",
+  "dimensions": [
+    "site",
+    "time1"
+  ],
+  "cell_methods": "area: point time: point",
+  "cell_measures": "",
+  "history": "",
+  "realm": "atmos",
+  "temporal_label": "tavg",
+  "vertical_label": "u",
+  "horizontal_label": "hxys",
+  "area_label": "u",
+  "bn_status": "Provisional - discussion required",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

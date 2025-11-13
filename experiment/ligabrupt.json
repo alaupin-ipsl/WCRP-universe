@@ -1,0 +1,27 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ligabrupt",
+    "type": "experiment",
+    "experiment_id": "LIGabrupt",
+    "activity_id": [
+        "pmip"
+    ],
+    "additional_allowed_model_components": [],
+    "description": "Last Interglacial abrupt change experiment \n Simulation of abrupt change during the Last Interglacial period",
+    "end_year": null,
+    "experiment": "Describe LIGabrupt in one sentence.",
+    "min_number_yrs_per_sim": null,
+    "parent_activity_id": [
+        "no parent"
+    ],
+    "parent_experiment_id": [
+        "no parent"
+    ],
+    "required_model_components": [],
+    "start_year": null,
+    "sub_experiment_id": [
+        "none"
+    ],
+    "tier": 0,
+    "drs_name": "LIGabrupt"
+}

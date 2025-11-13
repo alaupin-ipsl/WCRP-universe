@@ -1,0 +1,51 @@
+{
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "string",
+            "description": "A unique identifier for the realm.",
+            "pattern": "^[a-z0-9-]+$"
+        },
+        "type": {
+            "type": "string",
+            "description": "The type of entity being described (e.g., 'realm').",
+            "enum": [
+                "realm"
+            ]
+        },
+        "description": {
+            "type": "string",
+            "description": "A detailed description of the realm .",
+            "minLength": 10
+        },
+        "name": {
+            "type": "string",
+            "description": "CMIP name used by the realm.",
+            "pattern": "^[A-Za-z0-9 ]+$"
+        }
+    },
+    "required": [
+        "@context",
+        "id",
+        "type",
+        "description",
+        "name"
+    ],
+    "additionalProperties": false,
+    "id": "realm",
+    "contains": {
+        "type": "string",
+        "enum": [
+            "aerosol",
+            "atmos",
+            "atmoschem",
+            "land",
+            "landice",
+            "ocean",
+            "ocnbgchem",
+            "seaice"
+        ]
+    },
+    "markdown_content": " To add a new {id} please fill in the form below. \n\n Existing entries are: \n\n\t  {contains}  \n ___ \n Alternatively [see here]({base}) for more examples. \n  ___",
+    "base": "https://github.com/wcrp-cmip/WCRP-universe/tree/main/src-data/realm/"
+}

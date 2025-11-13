@@ -1,0 +1,20 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "crcm5-sn",
+    "type": "source",
+    "drs_name": "CRCM5-SN",
+    "activity_participation": [
+        "DD"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "organisation_id": [
+        "OURANOS"
+    ],
+    "label": "CRCM5-SN",
+    "label_extended": "Canadian Regional Climate Model version 5",
+    "license": {},
+    "model_component": null,
+    "release_year": "2015"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "zfull_ti-al-hxy-u",
+  "type": "known_branded_variable",
+  "drs_name": "zfull_ti-al-hxy-u",
+  "cf_standard_name": "height_above_reference_ellipsoid",
+  "cf_units": "m",
+  "cf_sn_status": "approved",
+  "variable_root_name": "zfull",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "ti-al-hxy-u",
+  "description": "Provide only if altitude of full model levels is fixed\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel"
+  ],
+  "cell_methods": "area: mean",
+  "cell_measures": "area: areacella",
+  "history": "",
+  "realm": "atmos",
+  "temporal_label": "ti",
+  "vertical_label": "al",
+  "horizontal_label": "hxy",
+  "area_label": "u",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

@@ -1,0 +1,31 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "kace-1-0-g",
+    "type": "source",
+    "drs_name": "KACE-1-0-G",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "cmip",
+        "scenariomip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "KACE1.0-G",
+    "label_extended": "KACE1.0-GLOMAP",
+    "model_component": {
+        "aerosol": "ukca-glomap-mode",
+        "atmos": "metum-hadgem3-ga7.1",
+        "land": "jules-hadgem3-gl7.1",
+        "ocean": "mom4p1",
+        "seaIce": "cice-hadgem3-gsi8"
+    },
+    "release_year": "2018",
+    "organisation_id": [
+        "nims-kma"
+    ]
+}

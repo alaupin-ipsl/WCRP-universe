@@ -1,0 +1,30 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cornell",
+    "acronyms": [
+        "CORNELL"
+    ],
+    "aliases": [
+        "Universidad Cornell",
+        "CU"
+    ],
+    "cmip-acronym": "CORNELL",
+    "established": 1865,
+    "labels": [],
+    "location": {
+        "city": "Ithaca",
+        "country": [
+            "USA",
+            "US"
+        ],
+        "lat": 42.453449,
+        "lon": -76.473503
+    },
+    "name": "Cornell University",
+    "ror": "05bnh6r87",
+    "url": [
+        "https://www.cornell.edu/"
+    ],
+    "type": "institution",
+    "drs_name": "CORNELL"
+}

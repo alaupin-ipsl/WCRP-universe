@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ceres-ebaf-4-0",
+    "type": "source",
+    "drs_name": "CERES-EBAF-4-0",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "CERES-EBAF-4-0",
+    "label_extended": "CERES EBAF (Energy Balanced and Filled) TOA Fluxes. Monthly Averages",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

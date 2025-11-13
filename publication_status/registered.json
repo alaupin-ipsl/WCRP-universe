@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "registered",
+    "type": "publication_status",
+    "drs_name": "registered",
+    "description": "Dataset is known, but no data has been received for publication yet"
+}

@@ -1,0 +1,37 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cnrm-mf",
+    "type": "consortium",
+    "status": "active",
+    "changes": "",
+    "cmip-acronym": "CNRM-MF",
+    "description": "CNRM [Centre National de Recherches Meteorologiques, Toulouse, France]; MF [Meteo France, Toulouse, France]",
+    "members": [
+        {
+            "type": "member",
+            "institution": "cnrm",
+            "dates": [
+                {
+                    "from": 2016,
+                    "phase": "cmip6",
+                    "to": 2025
+                }
+            ],
+            "membership_type": "prior"
+        },
+        {
+            "type": "member",
+            "institution": "mf",
+            "dates": [
+                {
+                    "from": 1993,
+                    "phase": "cmip6",
+                    "to": 2025
+                }
+            ],
+            "membership_type": "prior"
+        }
+    ],
+    "url": "https://comfort.w.uib.no/meteo-france/",
+    "drs_name": "CNRM-MF"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ua-plev37",
+    "cmip_acronym": "ua-plev37",
+    "long_name": "Eastward Wind",
+    "standard_name": "eastward_wind",
+    "type": "variable",
+    "units": "m s-1",
+    "drs_name": "ua-plev37"
+}

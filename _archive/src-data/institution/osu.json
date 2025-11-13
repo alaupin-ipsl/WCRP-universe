@@ -1,0 +1,34 @@
+{
+    "@context": "_context_",
+    "id": "osu",
+    "acronyms": [
+        "OSU"
+    ],
+    "aliases": [],
+    "established": 1868,
+    "labels": [],
+    "location": {
+        "id": "universal:location/00ysfqy60",
+        "@nest": {
+            "city": "Corvallis",
+            "country": [
+                "United States",
+                "US"
+            ],
+            "lat": 44.56457,
+            "lon": -123.26204
+        },
+        "type": "location"
+    },
+    "ror": "00ysfqy60",
+    "kind": "Education",
+    "url": [
+        "http://oregonstate.edu/"
+    ],
+    "type": [
+        "wcrp:institution",
+        "universal"
+    ],
+    "long_label": "Oregon State University",
+    "label": "OSU"
+}

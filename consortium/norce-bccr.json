@@ -1,0 +1,37 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "norce-bccr",
+  "type": "consortium",
+  "status": "active",
+  "changes": "",
+  "cmip-acronym": "NORCE-BCCR",
+  "description": "NORCE [NORCE Norwegian Research Centre, Bergen, Norway]; BCCR [Bjerknes Centre for Climate Research, Bergen, Norway]",
+  "members": [
+    {
+      "type": "member",
+      "institution": "norce",
+      "dates": [
+        {
+          "from": 2017,
+          "phase": "cmip6",
+          "to": 2025
+        }
+      ],
+      "membership_type": "prior"
+    },
+    {
+      "type": "member",
+      "institution": "bccr",
+      "dates": [
+        {
+          "from": 2000,
+          "phase": "cmip6",
+          "to": 2025
+        }
+      ],
+      "membership_type": "prior"
+    }
+  ],
+  "url": "https://www.bjerknes.uib.no/",
+  "drs_name": "NORCE-BCCR"
+}

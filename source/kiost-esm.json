@@ -1,0 +1,36 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "kiost-esm",
+    "type": "source",
+    "drs_name": "KIOST-ESM",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "c4mip",
+        "cmip",
+        "dynvarmip",
+        "pmip",
+        "scenariomip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "KIOST-ESM",
+    "label_extended": "KIOST Earth System Model v2",
+    "model_component": {
+        "atmos": "gfdl-am2.0",
+        "atmosChem": "simple",
+        "land": "ncar-clm4",
+        "landIce": "ncar-clm4",
+        "ocean": "gfdl-mom5.0",
+        "ocnBgchem": "topaz2",
+        "seaIce": "gfdl-sis"
+    },
+    "release_year": "2018",
+    "organisation_id": [
+        "kiost"
+    ]
+}

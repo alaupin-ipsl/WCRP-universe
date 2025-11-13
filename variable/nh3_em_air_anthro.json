@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nh3_em_air_anthro",
+    "cmip_acronym": "NH3_em_AIR_anthro",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "NH3_em_AIR_anthro"
+}

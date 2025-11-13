@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sea-12",
+    "type": "region",
+    "drs_name": "SEA-12",
+    "description": "South East Asia"
+}

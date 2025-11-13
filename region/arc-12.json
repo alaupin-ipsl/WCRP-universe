@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "arc-12",
+    "type": "region",
+    "drs_name": "ARC-12",
+    "description": "Arctic"
+}

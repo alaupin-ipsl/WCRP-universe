@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "noaa-ncei-gridsat-4-0",
+    "type": "source",
+    "drs_name": "NOAA-NCEI-GridSat-4-0",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "NOAA-NCEI-GridSat",
+    "label_extended": "Gridded Satellite ISCCP B1 11 Micron Brightness Temperature",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

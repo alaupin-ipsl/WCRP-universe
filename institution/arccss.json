@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "arccss",
+    "type": "institution",
+    "drs_name": "ARCCSS",
+    "name": "ARCCSS",
+    "acronym": [
+        "ARCCSS"
+    ],
+    "aliases": [],
+    "established": null,
+    "labels": [
+        "ARC Centre of Excellence for Climate System Science, NSW, Australia,"
+    ],
+    "location": {},
+    "ror": null,
+    "url": []
+}

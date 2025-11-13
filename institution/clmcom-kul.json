@@ -1,0 +1,33 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clmcom-kul",
+    "acronyms": [
+        "CLMcom-KUL"
+    ],
+    "aliases": [
+        "KU Leuven",
+        "Katholieke Universiteit Leuven",
+        "Catholic University of Leuven",
+        "University of Leuven",
+        "KUL"
+    ],
+    "cmip-acronym": "CLMcom-KUL",
+    "established": 1425,
+    "labels": [],
+    "location": {
+        "city": "Leuven",
+        "country": [
+            "Belgium",
+            "BE"
+        ],
+        "lat": 50.878097,
+        "lon": 4.699705
+    },
+    "name": "Climate Limited-area Modelling Community (CLMcom) partner: KU Leuven",
+    "ror": "05f950310",
+    "url": [
+        "https://www.kuleuven.be/"
+    ],
+    "type": "institution",
+    "drs_name": "CLMcom-KUL"
+}

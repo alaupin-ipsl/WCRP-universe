@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "c2h4percentagesava",
+    "cmip_acronym": "C2H4percentageSAVA",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "C2H4percentageSAVA"
+}

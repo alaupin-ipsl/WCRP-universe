@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "type": "activity",
+    "id": "input4mip",
+    "name": "input4MIPs",
+    "cmip_acronym": "input4MIPs",
+    "long_name": "input forcing datasets for Model Intercomparison Projects",
+    "url": "https://pcmdi.llnl.gov/mips/input4MIPs/",
+    "drs_name": "input4MIPs"
+}

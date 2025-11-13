@@ -1,0 +1,47 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "iiasa-iamc",
+  "type": "consortium",
+  "changes": "",
+  "cmip-acronym": "IIASA-IAMC",
+  "members": [
+    {
+      "type": "member",
+      "institution": "iiasa",
+      "dates": [
+        {
+          "from": 2023,
+          "phase": "cmip6plus",
+          "to": 2999
+        },
+        {
+          "from": 2025,
+          "phase": "cmip7",
+          "to": 2999
+        }
+      ],
+      "membership_type": "prior"
+    },
+    {
+      "type": "member",
+      "institution": "iamc",
+      "dates": [
+        {
+          "from": 2023,
+          "phase": "cmip6plus",
+          "to": 2999
+        },
+        {
+          "from": 2025,
+          "phase": "cmip7",
+          "to": 2999
+        }
+      ],
+      "membership_type": "prior"
+    }
+  ],
+  "name": "International Institue for Applied Systems Analysis - Integrated Assessment Modeling Consortium",
+  "status": "active",
+  "url": "",
+  "drs_name": "IIASA-IAMC"
+}

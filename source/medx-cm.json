@@ -1,0 +1,20 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "medx-cm",
+    "type": "source",
+    "drs_name": "MedX-CM",
+    "activity_participation": [
+        "DD"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "organisation_id": [
+        "NKUA"
+    ],
+    "label": "MedX-CM",
+    "label_extended": "The NKUA regional Coupled Model for the eXtended Mediterranean region",
+    "license": {},
+    "model_component": null,
+    "release_year": "2025"
+}

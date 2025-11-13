@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "c3h6osmoothedpercentagedefo",
+    "cmip_acronym": "C3H6OsmoothedpercentageDEFO",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "C3H6OsmoothedpercentageDEFO"
+}

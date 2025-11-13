@@ -1,0 +1,36 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cnrm-cm6-1-hr",
+    "type": "source",
+    "drs_name": "CNRM-CM6-1-HR",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "cmip",
+        "dcpp",
+        "gmmip",
+        "highresmip",
+        "omip",
+        "scenariomip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "CNRM-CM6-1-HR",
+    "label_extended": "CNRM-CM6-1-HR",
+    "model_component": {
+        "aerosol": "prescribed",
+        "atmos": "arpege",
+        "atmosChem": "ozl_v2",
+        "land": "surfex",
+        "ocean": "nemo",
+        "seaIce": "gelato"
+    },
+    "release_year": "2017",
+    "organisation_id": [
+        "cnrm-cerfacs"
+    ]
+}

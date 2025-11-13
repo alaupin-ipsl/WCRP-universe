@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tmt",
+    "cmip_acronym": "tmt",
+    "long_name": "MSU Temperature Mid Troposphere",
+    "standard_name": "MSU_Temperature_Mid_Troposphere",
+    "type": "variable",
+    "units": "K",
+    "drs_name": "tmt"
+}

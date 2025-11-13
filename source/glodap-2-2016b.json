@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "glodap-2-2016b",
+    "type": "source",
+    "drs_name": "GLODAP-2-2016b",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "GLODAP",
+    "label_extended": "Global Ocean Data Analysis Project Version 2",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fracOutLut_tsum-u-hxy-lnd",
+  "type": "known_branded_variable",
+  "drs_name": "fracOutLut_tsum-u-hxy-lnd",
+  "cf_standard_name": "area_fraction",
+  "cf_units": "%",
+  "cf_sn_status": "approved",
+  "variable_root_name": "fracOutLut",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tsum-u-hxy-lnd",
+  "description": "Cumulative percentage transitions over the year; note that percentage should be reported as percentage of atmospheric grid cell\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "landuse",
+    "time"
+  ],
+  "cell_methods": "area: mean where land over all_area_types time: sum",
+  "cell_measures": "area: areacella",
+  "history": "",
+  "realm": "land",
+  "temporal_label": "tsum",
+  "vertical_label": "u",
+  "horizontal_label": "hxy",
+  "area_label": "lnd",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

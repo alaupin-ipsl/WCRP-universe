@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "../_context_",
+        {
+            "@base": "https://wcrp-cmip.github.io/WCRP-universe/institution/",
+            "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/institution/",
+            "organisation": "https://wcrp-cmip.github.io/WCRP-universe/organisation/"
+        }
+    ],
+    "@embed": "@always",
+    "@type": [
+        "universal"
+    ]
+}

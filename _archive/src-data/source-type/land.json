@@ -1,0 +1,10 @@
+{
+    "@context": "_context_",
+    "description": "land model run uncoupled from the atmosphere",
+    "id": "land",
+    "type": [
+        "wcrp:source_type",
+        "universal"
+    ],
+    "label": "LAND"
+}

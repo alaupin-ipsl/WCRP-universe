@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "multiple-transitions",
+    "cmip_acronym": "multiple-transitions",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "multiple-transitions"
+}

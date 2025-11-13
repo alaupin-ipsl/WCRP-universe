@@ -1,0 +1,24 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "gfdl-rfm-disort",
+    "type": "source",
+    "drs_name": "GFDL-RFM-DISORT",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "rfmip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "GFDL-RFM-DISORT",
+    "label_extended": "GFDL Reference Forward Model Line-by-Line with DISORT solver (March 2019)",
+    "model_component": {},
+    "release_year": "2019",
+    "organisation_id": [
+        "noaa-gfdl"
+    ]
+}

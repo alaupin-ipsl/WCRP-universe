@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "difvmo",
+    "cmip_acronym": "difvmo",
+    "long_name": "Ocean Vertical Momentum Diffusivity",
+    "standard_name": "ocean_vertical_momentum_diffusivity",
+    "type": "variable",
+    "units": "m2 s-1",
+    "drs_name": "difvmo"
+}

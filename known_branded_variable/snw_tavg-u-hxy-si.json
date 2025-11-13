@@ -1,0 +1,28 @@
+{
+  "id": "snw_tavg-u-hxy-si",
+  "type": "known_branded_variable",
+  "drs_name": "snw_tavg-u-hxy-si",
+  "cf_standard_name": "surface_snow_amount",
+  "cf_units": "kg m-2",
+  "cf_sn_status": "approved",
+  "variable_root_name": "snw",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-u-hxy-si",
+  "description": "Total mass of snow on sea ice divided by grid-cell area. This then allows one to analyse the storage of latent heat in the snow, and to calculate the snow-water equivalent.\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "cell_methods": "area: time: mean where sea_ice (mask=siconc)",
+  "cell_measures": "area: areacello",
+  "history": "",
+  "realm": "seaIce",
+  "temporal_label": "tavg",
+  "vertical_label": "u",
+  "horizontal_label": "hxy",
+  "area_label": "si",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

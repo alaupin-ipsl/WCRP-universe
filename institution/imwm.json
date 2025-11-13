@@ -1,0 +1,30 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "imwm",
+    "acronyms": [
+        "IMWM"
+    ],
+    "aliases": [
+        "Instytut Meteorologii i Gospodarki Wodnej – Państwowy Instytut Badawczy",
+        "IMGW-PIB"
+    ],
+    "cmip-acronym": "IMWM",
+    "established": 1972,
+    "labels": [],
+    "location": {
+        "city": "Warsaw",
+        "country": [
+            "Poland",
+            "PL"
+        ],
+        "lat": 52.280933,
+        "lon": 20.96136
+    },
+    "name": "Institute of Meteorology and Water Management",
+    "ror": "0406s2v03",
+    "url": [
+        "https://imgw.pl/en/"
+    ],
+    "type": "institution",
+    "drs_name": "IMWM"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "c6h6smoothed",
+    "cmip_acronym": "C6H6smoothed",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "C6H6smoothed"
+}

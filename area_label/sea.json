@@ -1,0 +1,8 @@
+{
+    "id": "sea",
+    "label": "sea",
+    "description": "in cell_methods : sea",
+    "type": "area_label",
+    "drs_name": "sea",
+    "@context": "000_context.jsonld"
+}

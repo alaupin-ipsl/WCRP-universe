@@ -1,0 +1,12 @@
+{
+    "@context": "_context_",
+    "description": "Resolution of 1x1 degree",
+    "id": "1x1degree",
+    "type": [
+        "wcrp:resolution",
+        "universal"
+    ],
+    "unit": "degree",
+    "value": "1x1",
+    "label": "1x1 degree"
+}

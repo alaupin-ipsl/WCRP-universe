@@ -1,0 +1,8 @@
+{
+    "id": "tmax",
+    "label": "tmax",
+    "description": "maximum (or mean of daily maxima)",
+    "type": "temporal_label",
+    "drs_name": "tmax",
+    "@context": "000_context.jsonld"
+}

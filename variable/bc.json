@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "bc",
+    "cmip_acronym": "BC",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "BC"
+}

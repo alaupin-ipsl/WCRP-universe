@@ -1,0 +1,12 @@
+{
+    "@context": "_context_",
+    "description": "global mean data",
+    "id": "gm",
+    "region": "greenland",
+    "type": [
+        "wcrp:grid_label",
+        "universal"
+    ],
+    "label": "gm",
+    "long_label": "Greenland"
+}

@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nasa-gsfc",
+    "type": "institution",
+    "drs_name": "NASA-GSFC",
+    "name": "NASA-GSFC",
+    "acronym": [
+        "NASA-GSFC"
+    ],
+    "aliases": [],
+    "established": null,
+    "labels": [
+        "NASA Goddard Space Flight Center, Greenbelt MD, USA"
+    ],
+    "location": {},
+    "ror": null,
+    "url": []
+}

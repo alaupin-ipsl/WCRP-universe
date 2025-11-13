@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nmvocbulkpercentagedefo",
+    "cmip_acronym": "NMVOCbulkpercentageDEFO",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "NMVOCbulkpercentageDEFO"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tasmax",
+    "cmip_acronym": "tasmax",
+    "long_name": "Daily Maximum Near-Surface Air Temperature",
+    "standard_name": "air_temperature",
+    "type": "variable",
+    "units": "K",
+    "drs_name": "tasmax"
+}

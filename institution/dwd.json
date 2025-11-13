@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dwd",
+    "type": "institution",
+    "drs_name": "DWD",
+    "name": "DWD",
+    "acronym": [
+        "DWD"
+    ],
+    "aliases": [],
+    "established": null,
+    "labels": [
+        "Deutscher Wetterdienst, Offenbach 63067, Germany"
+    ],
+    "location": {},
+    "ror": null,
+    "url": []
+}

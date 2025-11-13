@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "imerg-v07-final-daily",
+    "type": "source",
+    "drs_name": "IMERG-V07-Final-Daily",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "IMERG-V07-Final-Daily",
+    "label_extended": "NASA IMERG Daily Averages",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

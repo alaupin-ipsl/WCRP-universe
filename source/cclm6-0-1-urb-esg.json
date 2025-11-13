@@ -1,0 +1,20 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cclm6-0-1-urb-esg",
+    "type": "source",
+    "drs_name": "CCLM6-0-1-URB-ESG",
+    "activity_participation": [
+        "DD"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "organisation_id": [
+        "CLMcom-KUL"
+    ],
+    "label": "CCLM6-0-1-URB-ESG",
+    "label_extended": "COSMO model in climate mode (COSMO-CLM), Version 6.0 clm 1 with Urban Parametrization and ECOCLIMAP-Second Generation land cover",
+    "license": {},
+    "model_component": null,
+    "release_year": "2021"
+}

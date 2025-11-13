@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "fluxnet2015-1-0",
+    "type": "source",
+    "drs_name": "FLUXNET2015-1-0",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "FLUXNET2015",
+    "label_extended": "FLUXNET Community Product",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

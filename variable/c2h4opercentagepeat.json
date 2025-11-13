@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "c2h4opercentagepeat",
+    "cmip_acronym": "C2H4OpercentagePEAT",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "C2H4OpercentagePEAT"
+}

@@ -1,0 +1,12 @@
+{
+    "@context": "_context_",
+    "description": "sampled monthly, at specified time point within the time period",
+    "id": "monpt",
+    "long_name": "Monthly Point",
+    "type": [
+        "wcrp:frequency",
+        "universal"
+    ],
+    "unit": "month",
+    "label": "monPt"
+}

@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "gpcp-ip",
+    "type": "source",
+    "drs_name": "GPCP-IP",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "GPCP",
+    "label_extended": "NASA GPCP prepared for FROGS",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

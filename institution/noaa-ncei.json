@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "noaa-ncei",
+    "type": "institution",
+    "drs_name": "NOAA-NCEI",
+    "name": "NOAA-NCEI",
+    "acronym": [
+        "NOAA-NCEI"
+    ],
+    "aliases": [],
+    "established": null,
+    "labels": [
+        "NOAA National Centers for Environmental Information, Asheville, NC 28801, USA"
+    ],
+    "location": {},
+    "ror": null,
+    "url": []
+}

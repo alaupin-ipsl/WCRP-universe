@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ods-2.5",
+    "label": "ODS-2.5",
+    "type": "conventions",
+    "drs_name": "ODS-2.5",
+    "description": ""
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rss",
+    "cmip_acronym": "rss",
+    "long_name": "Net Shortwave Surface Radiation",
+    "standard_name": "surface_net_downward_shortwave_flux",
+    "type": "variable",
+    "units": "W m-2",
+    "drs_name": "rss"
+}

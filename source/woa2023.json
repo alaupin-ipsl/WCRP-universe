@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "woa2023",
+    "type": "source",
+    "drs_name": "WOA2023",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "WOA",
+    "label_extended": "World Ocean Atlas",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

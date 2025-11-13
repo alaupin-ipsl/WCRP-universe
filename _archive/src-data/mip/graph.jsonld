@@ -1,0 +1,60 @@
+{
+  "@context": {
+  "@base": "https://wcrp-cmip.github.io/WCRP-universe/mip/",
+  "@vocab": "https://wcrp-cmip.github.io/WCRP-universe/mip/",
+  "id": "@id",
+  "type": "@type",
+  "cf": "https://wcrp-cmip.github.io/CF/",
+  "cmip6plus": "https://wcrp-cmip.github.io/CMIP6Plus_CVs/",
+  "cmip7": "https://wcrp-cmip.github.io/CMIP7_CVs/",
+  "obs4mips": "https://wolfiex.github.io/obs4MIPs-cmor-tables-ld/",
+  "universal": "https://wcrp-cmip.github.io/WCRP-universe/",
+  "variables": "https://wcrp-cmip.github.io/MIP-variables/"
+},
+  "@graph": [
+    {
+  "end": 2020,
+  "id": "cmip5",
+  "name": "CMIP5",
+  "start": 2006,
+  "type": [
+    "wcrp:mip",
+    "universal"
+  ],
+  "url": "https://wcrp-cmip.org/CMIP5"
+}
+    ,{
+  "end": 2024,
+  "id": "cmip6",
+  "name": "CMIP6",
+  "start": 2013,
+  "type": [
+    "wcrp:mip",
+    "universal"
+  ],
+  "url": "https://wcrp-cmip.org/CMIP6"
+}
+    ,{
+  "end": 2999,
+  "id": "cmip6plus",
+  "name": "CMIP6Plus",
+  "start": 2023,
+  "type": [
+    "wcrp:mip",
+    "universal"
+  ],
+  "url": "https://wcrp-cmip.org/CMIP6Plus"
+}
+    ,{
+  "end": 2999,
+  "id": "cmip7",
+  "name": "CMIP7",
+  "start": 2025,
+  "type": [
+    "wcrp:mip",
+    "universal"
+  ],
+  "url": "https://wcrp-cmip.org/CMIP7"
+}
+  ]
+}

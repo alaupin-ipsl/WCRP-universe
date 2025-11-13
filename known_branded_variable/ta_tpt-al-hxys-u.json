@@ -1,0 +1,28 @@
+{
+  "id": "ta_tpt-al-hxys-u",
+  "type": "known_branded_variable",
+  "drs_name": "ta_tpt-al-hxys-u",
+  "cf_standard_name": "air_temperature",
+  "cf_units": "K",
+  "cf_sn_status": "approved",
+  "variable_root_name": "ta",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tpt-al-hxys-u",
+  "description": "Air Temperature\n",
+  "dimensions": [
+    "alevel",
+    "site",
+    "time1"
+  ],
+  "cell_methods": "area: point time: point",
+  "cell_measures": "",
+  "history": "",
+  "realm": "atmos",
+  "temporal_label": "tpt",
+  "vertical_label": "al",
+  "horizontal_label": "hxys",
+  "area_label": "u",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

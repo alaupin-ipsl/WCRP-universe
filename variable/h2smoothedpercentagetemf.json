@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "h2smoothedpercentagetemf",
+    "cmip_acronym": "H2smoothedpercentageTEMF",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "H2smoothedpercentageTEMF"
+}

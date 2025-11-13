@@ -1,0 +1,20 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cnrm-aladin64e1",
+    "type": "source",
+    "drs_name": "CNRM-ALADIN64E1",
+    "activity_participation": [
+        "DD"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "organisation_id": [
+        "CNRM-MF"
+    ],
+    "label": "CNRM-ALADIN64E1",
+    "label_extended": "CNRM-ALADIN regional climate model, version 6.4 E1",
+    "license": {},
+    "model_component": null,
+    "release_year": "2023"
+}

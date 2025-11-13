@@ -1,0 +1,26 @@
+{
+  "id": "cfc113_tavg-u-hm-u",
+  "type": "known_branded_variable",
+  "drs_name": "cfc113_tavg-u-hm-u",
+  "cf_standard_name": "mole_fraction_of_cfc113_in_air",
+  "cf_units": "1E-12",
+  "cf_sn_status": "approved",
+  "variable_root_name": "cfc113",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-u-hm-u",
+  "description": "Mole fraction is used in the construction mole\\_fraction\\_of\\_X\\_in\\_Y, where X is a material constituent of Y.  The chemical formula of CFC113 is CCl2FCClF2.  The IUPAC name for CFC113 is 1,1,2-trichloro-1,2,2-trifluoro-ethane.\n",
+  "dimensions": [
+    "time"
+  ],
+  "cell_methods": "height: area: time: mean (with all samples weighted by the number of moles of air in the sample)",
+  "cell_measures": "",
+  "history": "",
+  "realm": "atmosChem",
+  "temporal_label": "tavg",
+  "vertical_label": "u",
+  "horizontal_label": "hm",
+  "area_label": "u",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

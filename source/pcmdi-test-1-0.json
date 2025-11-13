@@ -1,0 +1,24 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "pcmdi-test-1-0",
+    "type": "source",
+    "drs_name": "PCMDI-test-1-0",
+    "activity_participation": [
+        "cmip"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "label": "PCMDI-test 1.0",
+    "label_extended": "PCMDI-test 1.0 (This entry is free text for users to contribute verbose information)",
+    "model_component": {
+        "atmos": "earth1.0-gettinghotter",
+        "land": "earth1.0",
+        "ocean": "bluemarble1.0-warming",
+        "seaIce": "declining1.0-warming"
+    },
+    "release_year": "1989",
+    "organisation_id": [
+        "pcmdi"
+    ]
+}

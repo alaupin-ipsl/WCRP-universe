@@ -1,0 +1,29 @@
+{
+  "id": "ph_tavg-op20bar-hxy-sea",
+  "type": "known_branded_variable",
+  "drs_name": "ph_tavg-op20bar-hxy-sea",
+  "cf_standard_name": "sea_water_ph_reported_on_total_scale",
+  "cf_units": "1",
+  "cf_sn_status": "approved",
+  "variable_root_name": "ph",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-op20bar-hxy-sea",
+  "description": "negative log10 of hydrogen ion concentration with the concentration expressed as mol H kg-1.\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time",
+    "op20bar"
+  ],
+  "cell_methods": "area: mean where sea time: mean",
+  "cell_measures": "area: areacello",
+  "history": "",
+  "realm": "ocnBgchem",
+  "temporal_label": "tavg",
+  "vertical_label": "op20bar",
+  "horizontal_label": "hxy",
+  "area_label": "sea",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

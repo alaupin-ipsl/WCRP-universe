@@ -1,0 +1,34 @@
+{
+    "@context": "_context_",
+    "id": "thu",
+    "acronyms": [
+        "THU"
+    ],
+    "aliases": [],
+    "established": 1911,
+    "labels": [],
+    "location": {
+        "id": "universal:location/03cve4549",
+        "@nest": {
+            "city": "Beijing",
+            "country": [
+                "China",
+                "CN"
+            ],
+            "lat": 39.999585,
+            "lon": 116.325414
+        },
+        "type": "location"
+    },
+    "ror": "03cve4549",
+    "kind": "Education",
+    "url": [
+        "http://www.tsinghua.edu.cn/publish/newthuen/"
+    ],
+    "type": [
+        "wcrp:institution",
+        "universal"
+    ],
+    "long_label": "Tsinghua University",
+    "label": "THU"
+}

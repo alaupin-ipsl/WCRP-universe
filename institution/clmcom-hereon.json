@@ -1,0 +1,31 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clmcom-hereon",
+    "acronyms": [
+        "CLMcom-Hereon"
+    ],
+    "aliases": [
+        "Helmholtz-Zentrum Hereon",
+        "Helmholtz-Zentrum Geesthacht Centre for Materials and Coastal Research",
+        "HZG"
+    ],
+    "cmip-acronym": "CLMcom-Hereon",
+    "established": 1956,
+    "labels": [],
+    "location": {
+        "city": "Geesthacht",
+        "country": [
+            "Germany",
+            "DE"
+        ],
+        "lat": 53.410446,
+        "lon": 10.422401
+    },
+    "name": "Climate Limited-area Modelling Community (CLMcom) partner: Helmholtz-Zentrum Hereon",
+    "ror": "03qjp1d79",
+    "url": [
+        "https://www.hereon.de/"
+    ],
+    "type": "institution",
+    "drs_name": "CLMcom-Hereon"
+}

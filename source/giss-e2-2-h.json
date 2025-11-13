@@ -1,0 +1,34 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "giss-e2-2-h",
+    "type": "source",
+    "drs_name": "GISS-E2-2-H",
+    "license": {
+        "id": "CC0 1.0",
+        "exceptions-contact": null,
+        "source-specific-info": "https://data.giss.nasa.gov/modelE/cmip6/#datalicense"
+    },
+    "activity_participation": [
+        "cfmip",
+        "cmip",
+        "simip",
+        "scenariomip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "GISS-E2.2H",
+    "label_extended": "GISS-E2.2H",
+    "model_component": {
+        "aerosol": "varies",
+        "atmos": "giss-e2.2",
+        "atmosChem": "varies",
+        "land": "giss",
+        "ocean": "hycom",
+        "seaIce": "giss"
+    },
+    "release_year": "2021",
+    "organisation_id": [
+        "nasa-giss"
+    ]
+}

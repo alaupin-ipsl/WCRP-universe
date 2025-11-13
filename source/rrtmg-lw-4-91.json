@@ -1,0 +1,24 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rrtmg-lw-4-91",
+    "type": "source",
+    "drs_name": "RRTMG-LW-4-91",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "rfmip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "RRTMG-LW 4.91",
+    "label_extended": "RRTM for GCMs v4.91, longwave",
+    "model_component": {},
+    "release_year": "2017",
+    "organisation_id": [
+        "aer"
+    ]
+}

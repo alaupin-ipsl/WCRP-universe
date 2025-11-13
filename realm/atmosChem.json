@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "atmosChem",
+    "description": "Atmospheric Chemistry",
+    "name": "atmosChem",
+    "type": "realm",
+    "drs_name": "atmosChem"
+}

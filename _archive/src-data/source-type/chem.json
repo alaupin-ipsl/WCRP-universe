@@ -1,0 +1,10 @@
+{
+    "@context": "_context_",
+    "description": "chemistry treatment in an atmospheric model that calculates atmospheric oxidant concentrations (including at least ozone), rather than prescribing them",
+    "id": "chem",
+    "type": [
+        "wcrp:source_type",
+        "universal"
+    ],
+    "label": "CHEM"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "n2osmoothedpercentagepeat",
+    "cmip_acronym": "N2OsmoothedpercentagePEAT",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "N2OsmoothedpercentagePEAT"
+}

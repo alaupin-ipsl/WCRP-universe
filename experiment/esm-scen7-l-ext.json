@@ -1,0 +1,27 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "esm-scen7-l-ext",
+    "type": "experiment",
+    "experiment_id": "esm-scen7-l-ext",
+    "activity_id": [
+        "scenariomip"
+    ],
+    "additional_allowed_model_components": [],
+    "description": "Scenario extension consistent with staying likely below 2 degrees C",
+    "end_year": null,
+    "experiment": "Low Scenario Extension",
+    "min_number_yrs_per_sim": null,
+    "parent_activity_id": [
+        "scenariomip"
+    ],
+    "parent_experiment_id": [
+        "esm-scen7-l"
+    ],
+    "required_model_components": [],
+    "start_year": null,
+    "sub_experiment_id": [
+        "none"
+    ],
+    "tier": 0,
+    "drs_name": "esm-scen7-l-ext"
+}

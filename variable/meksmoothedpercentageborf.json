@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "meksmoothedpercentageborf",
+    "cmip_acronym": "MEKsmoothedpercentageBORF",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "MEKsmoothedpercentageBORF"
+}

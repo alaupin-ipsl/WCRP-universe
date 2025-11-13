@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "so2f2",
+    "cmip_acronym": "so2f2",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "so2f2"
+}

@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "institution/clmcom-cmcc",
+    "type": "institution",
+    "drs_name": "CLMcom-CMCC"
+}

@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "imperialcollege",
+    "type": "institution",
+    "drs_name": "ImperialCollege",
+    "name": "ImperialCollege",
+    "acronym": [
+        "ImperialCollege"
+    ],
+    "aliases": [],
+    "established": null,
+    "labels": [
+        "Imperial College, London, UK"
+    ],
+    "location": {},
+    "ror": null,
+    "url": []
+}

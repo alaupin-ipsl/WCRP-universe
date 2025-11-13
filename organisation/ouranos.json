@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "consortium/ouranos",
+    "type": "consortium",
+    "drs_name": "OURANOS"
+}

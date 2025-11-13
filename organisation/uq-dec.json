@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "institution/uq-dec",
+    "type": "institution",
+    "drs_name": "UQ-DEC"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hur",
+    "cmip_acronym": "hur",
+    "long_name": "Relative Humidity",
+    "standard_name": "relative_humidity",
+    "type": "variable",
+    "units": "%",
+    "drs_name": "hur"
+}

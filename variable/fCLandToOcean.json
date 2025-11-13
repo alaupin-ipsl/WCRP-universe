@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "fCLandToOcean",
+    "cmip_acronym": "fCLandToOcean",
+    "long_name": "Lateral Transfer of Carbon out of Grid Cell That Eventually Goes into Ocean",
+    "standard_name": "mass_flux_of_carbon_into_sea_water_from_rivers",
+    "type": "variable",
+    "units": "kg m-2 s-1",
+    "drs_name": "fCLandToOcean"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rlutcs",
+    "cmip_acronym": "rlutcs",
+    "long_name": "TOA Outgoing Clear-Sky Longwave Radiation",
+    "standard_name": "toa_outgoing_longwave_flux_assuming_clear_sky",
+    "type": "variable",
+    "units": "W m-2",
+    "drs_name": "rlutcs"
+}

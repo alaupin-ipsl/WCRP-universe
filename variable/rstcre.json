@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rstcre",
+    "cmip_acronym": "rstcre",
+    "long_name": "Top of Atmosphere Shortwave CRE",
+    "standard_name": "TOA_SW_cloud_forcing",
+    "type": "variable",
+    "units": "W m-2",
+    "drs_name": "rstcre"
+}

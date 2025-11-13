@@ -1,0 +1,29 @@
+{
+  "id": "h2loss_tavg-al-hxy-u",
+  "type": "known_branded_variable",
+  "drs_name": "h2loss_tavg-al-hxy-u",
+  "cf_standard_name": "tendency_of_atmosphere_mole_concentration_of_molecular_hydrogen_due_to_chemical_destruction",
+  "cf_units": "mol m-3 s-1",
+  "cf_sn_status": "approved",
+  "variable_root_name": "h2loss",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-al-hxy-u",
+  "description": "This is the loss rate of molecular hydrogen (H2) from the atmosphere due to chemical destruction\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "alevel",
+    "time"
+  ],
+  "cell_methods": "area: time: mean",
+  "cell_measures": "area: areacella",
+  "history": "",
+  "realm": "atmosChem",
+  "temporal_label": "tavg",
+  "vertical_label": "al",
+  "horizontal_label": "hxy",
+  "area_label": "u",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

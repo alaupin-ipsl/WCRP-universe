@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ztp",
+    "cmip_acronym": "ztp",
+    "long_name": "Tropopause Altitude Above Geoid",
+    "standard_name": "tropopause_altitude",
+    "type": "variable",
+    "units": "m",
+    "drs_name": "ztp"
+}

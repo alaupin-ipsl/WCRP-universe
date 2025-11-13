@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hussLut",
+    "cmip_acronym": "hussLut",
+    "long_name": "Near-Surface Specific Humidity on Land-Use Tile",
+    "standard_name": "specific_humidity",
+    "type": "variable",
+    "units": "1",
+    "drs_name": "hussLut"
+}

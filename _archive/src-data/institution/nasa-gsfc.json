@@ -1,0 +1,34 @@
+{
+    "@context": "_context_",
+    "id": "nasa-gsfc",
+    "acronyms": [
+        "GSFC"
+    ],
+    "aliases": [],
+    "established": 1959,
+    "labels": [],
+    "location": {
+        "id": "universal:location/0171mag52",
+        "@nest": {
+            "city": "Greenbelt",
+            "country": [
+                "United States",
+                "US"
+            ],
+            "lat": 39.00455,
+            "lon": -76.87553
+        },
+        "type": "location"
+    },
+    "ror": "0171mag52",
+    "kind": "Facility",
+    "url": [
+        "https://www.nasa.gov/centers/goddard/home/index.html"
+    ],
+    "type": [
+        "wcrp:institution",
+        "universal"
+    ],
+    "long_label": "Goddard Space Flight Center",
+    "label": "NASA-GSFC"
+}

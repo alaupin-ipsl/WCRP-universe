@@ -1,0 +1,32 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mpi-esm1-2-xr",
+    "type": "source",
+    "drs_name": "MPI-ESM1-2-XR",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "highresmip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "MPI-ESM1.2-XR",
+    "label_extended": "MPI-ESM1.2-XR",
+    "model_component": {
+        "aerosol": "none,",
+        "atmos": "echam6.3",
+        "land": "jsbach3.20",
+        "landIce": "none/prescribed",
+        "ocean": "mpiom1.63",
+        "ocnBgchem": "hamocc6",
+        "seaIce": "unnamed"
+    },
+    "release_year": "2017",
+    "organisation_id": [
+        "mpi-m"
+    ]
+}

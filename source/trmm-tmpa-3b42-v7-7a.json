@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "trmm-tmpa-3b42-v7-7a",
+    "type": "source",
+    "drs_name": "TRMM-TMPA-3B42-v7-7A",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "TRMM TMPA 3B42",
+    "label_extended": "Tropical Rainfall Measuring Mission Multi-satellite Precipitation Analysis 3B42",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

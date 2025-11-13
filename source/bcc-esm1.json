@@ -1,0 +1,31 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "bcc-esm1",
+    "type": "source",
+    "drs_name": "BCC-ESM1",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "aerchemmip",
+        "cmip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "BCC-ESM 1",
+    "label_extended": "BCC-ESM 1",
+    "model_component": {
+        "atmos": "bcc_agcm3_lr",
+        "atmosChem": "bcc-agcm3-chem",
+        "land": "bcc_avim2",
+        "ocean": "mom4",
+        "seaIce": "sis2"
+    },
+    "release_year": "2017",
+    "organisation_id": [
+        "bcc"
+    ]
+}

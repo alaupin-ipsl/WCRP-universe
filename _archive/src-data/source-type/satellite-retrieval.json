@@ -1,0 +1,10 @@
+{
+    "@context": "_context_",
+    "description": "gridded product based on satellite measurements",
+    "id": "satellite-retrieval",
+    "type": [
+        "wcrp:source_type",
+        "universal"
+    ],
+    "label": "satellite_retrieval"
+}

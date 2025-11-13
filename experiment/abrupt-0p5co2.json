@@ -1,0 +1,27 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "abrupt-0p5co2",
+    "type": "experiment",
+    "experiment_id": "abrupt-0p5CO2",
+    "activity_id": [
+        "cfmip"
+    ],
+    "additional_allowed_model_components": [],
+    "description": "Abrupt halving of CO2 \n Abrupt halving of atmospheric CO2",
+    "end_year": null,
+    "experiment": "Describe abrupt-0p5CO2 in one sentence.",
+    "min_number_yrs_per_sim": null,
+    "parent_activity_id": [
+        "no parent"
+    ],
+    "parent_experiment_id": [
+        "no parent"
+    ],
+    "required_model_components": [],
+    "start_year": null,
+    "sub_experiment_id": [
+        "none"
+    ],
+    "tier": 0,
+    "drs_name": "abrupt-0p5CO2"
+}

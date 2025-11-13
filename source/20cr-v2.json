@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "20cr-v2",
+    "type": "source",
+    "drs_name": "20CR-V2",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "20CR",
+    "label_extended": "Monthly NOAA-CIRES 20th Century Reanalysis V2",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

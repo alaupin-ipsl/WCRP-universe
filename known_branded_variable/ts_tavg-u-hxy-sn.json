@@ -1,0 +1,28 @@
+{
+  "id": "ts_tavg-u-hxy-sn",
+  "type": "known_branded_variable",
+  "drs_name": "ts_tavg-u-hxy-sn",
+  "cf_standard_name": "surface_temperature",
+  "cf_units": "K",
+  "cf_sn_status": "approved",
+  "variable_root_name": "ts",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-u-hxy-sn",
+  "description": "Snow Surface Temperature\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "cell_methods": "area: mean where land time: mean (weighted by snow area)",
+  "cell_measures": "area: areacella",
+  "history": "",
+  "realm": "atmos",
+  "temporal_label": "tavg",
+  "vertical_label": "u",
+  "horizontal_label": "hxy",
+  "area_label": "sn",
+  "bn_status": "Provisional - likely accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

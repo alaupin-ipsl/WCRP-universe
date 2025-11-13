@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ta-plev37",
+    "cmip_acronym": "ta-plev37",
+    "long_name": "Air Temperature",
+    "standard_name": "air_temperature",
+    "type": "variable",
+    "units": "K",
+    "drs_name": "ta-plev37"
+}

@@ -1,0 +1,37 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ec-earth3-cc",
+    "type": "source",
+    "drs_name": "EC-Earth3-CC",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "c4mip",
+        "cdrmip",
+        "cmip",
+        "dcpp",
+        "lumip",
+        "omip",
+        "scenariomip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "EC-Earth3-CC",
+    "label_extended": "EC-Earth3-CC",
+    "model_component": {
+        "atmos": "ifs",
+        "atmosChem": "tm5",
+        "land": "htessel",
+        "ocean": "nemo3.6",
+        "ocnBgchem": "pisces",
+        "seaIce": "lim3"
+    },
+    "release_year": "2019",
+    "organisation_id": [
+        "ec-earth-consortium"
+    ]
+}

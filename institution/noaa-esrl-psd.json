@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "noaa-esrl-psd",
+    "type": "institution",
+    "drs_name": "NOAA-ESRL-PSD",
+    "name": "NOAA-ESRL-PSD",
+    "acronym": [
+        "NOAA-ESRL-PSD"
+    ],
+    "aliases": [],
+    "established": null,
+    "labels": [
+        "NOAA Earth System Research Laboratory, Physical Sciences Division, Boulder, CO 80305, USA"
+    ],
+    "location": {},
+    "ror": null,
+    "url": []
+}

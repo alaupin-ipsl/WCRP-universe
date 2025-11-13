@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ccl4",
+    "cmip_acronym": "ccl4",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "ccl4"
+}

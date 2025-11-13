@@ -1,0 +1,8 @@
+{
+    "id": "simp",
+    "label": "simp",
+    "description": "in cell_methods : sea_ice_melt_pond",
+    "type": "area_label",
+    "drs_name": "simp",
+    "@context": "000_context.jsonld"
+}

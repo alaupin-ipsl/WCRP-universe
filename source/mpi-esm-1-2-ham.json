@@ -1,0 +1,35 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mpi-esm-1-2-ham",
+    "type": "source",
+    "drs_name": "MPI-ESM-1-2-HAM",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "aerchemmip",
+        "cmip",
+        "rfmip",
+        "scenariomip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "MPI-ESM1.2-HAM",
+    "label_extended": "MPI-ESM1.2-HAM",
+    "model_component": {
+        "aerosol": "ham2.3",
+        "atmos": "echam6.3",
+        "atmosChem": "sulfur",
+        "land": "jsbach",
+        "ocean": "mpiom1.63",
+        "ocnBgchem": "hamocc6",
+        "seaIce": "unnamed"
+    },
+    "release_year": "2017",
+    "organisation_id": [
+        "hammoz-consortium"
+    ]
+}

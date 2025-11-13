@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "higheralkenessmoothedpercentageborf",
+    "cmip_acronym": "HigherAlkenessmoothedpercentageBORF",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "HigherAlkenessmoothedpercentageBORF"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "arag_tavg-d0m-hxy-sea",
+  "type": "known_branded_variable",
+  "drs_name": "arag_tavg-d0m-hxy-sea",
+  "cf_standard_name": "mole_concentration_of_aragonite_expressed_as_carbon_in_sea_water",
+  "cf_units": "mol m-3",
+  "cf_sn_status": "approved",
+  "variable_root_name": "arag",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-d0m-hxy-sea",
+  "description": "sum of particulate aragonite components (e.g. Phytoplankton, Detrital, etc.)\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "time"
+  ],
+  "cell_methods": "area: mean where sea time: mean",
+  "cell_measures": "area: areacello",
+  "history": "",
+  "realm": "ocnBgchem",
+  "temporal_label": "tavg",
+  "vertical_label": "d0m",
+  "horizontal_label": "hxy",
+  "area_label": "sea",
+  "bn_status": "Provisional - likely accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

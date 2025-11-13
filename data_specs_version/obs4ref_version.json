@@ -1,0 +1,6 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "obs4ref_version",
+    "type": "data_specs_version",
+    "regex": "^\\d{1}\\.\\d{1}$"
+}

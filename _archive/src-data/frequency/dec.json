@@ -1,0 +1,12 @@
+{
+    "@context": "_context_",
+    "description": "decadal mean samples",
+    "id": "dec",
+    "long_name": "Decadal Frequency",
+    "type": [
+        "wcrp:frequency",
+        "universal"
+    ],
+    "unit": "decade",
+    "label": "dec"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ta_tpt-p5u-hxy-u",
+  "type": "known_branded_variable",
+  "drs_name": "ta_tpt-p5u-hxy-u",
+  "cf_standard_name": "air_temperature",
+  "cf_units": "K",
+  "cf_sn_status": "approved",
+  "variable_root_name": "ta",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tpt-p5u-hxy-u",
+  "description": "6 hourly instantaneous temperature at 5 pressure levels in the UTLS region (150, 175, 200, 225, and 250 hPa)\n",
+  "dimensions": [
+    "longitude",
+    "latitude",
+    "plev5u",
+    "time1"
+  ],
+  "cell_methods": "area: mean time: point",
+  "cell_measures": "area: areacella",
+  "history": "",
+  "realm": "atmos",
+  "temporal_label": "tpt",
+  "vertical_label": "p5u",
+  "horizontal_label": "hxy",
+  "area_label": "u",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

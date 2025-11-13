@@ -1,0 +1,12 @@
+{
+    "@context": "_context_",
+    "end": 2024,
+    "id": "cmip6",
+    "start": 2013,
+    "type": [
+        "wcrp:mip",
+        "universal"
+    ],
+    "url": "https://wcrp-cmip.org/CMIP6",
+    "label": "CMIP6"
+}

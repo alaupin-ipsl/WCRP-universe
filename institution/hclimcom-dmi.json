@@ -1,0 +1,33 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hclimcom-dmi",
+    "acronyms": [
+        "HCLIMcom-DMI"
+    ],
+    "aliases": [
+        "Danish Meteorological Institute",
+        "Danmarks Meteorologiske Institut",
+        "National Danish Meteorological Institute",
+        "The National Danish Meteorological Institute",
+        "DMI"
+    ],
+    "cmip-acronym": "HCLIMcom-DMI",
+    "established": 1873,
+    "labels": [],
+    "location": {
+        "city": "Copenhagen",
+        "country": [
+            "Denmark",
+            "DK"
+        ],
+        "lat": 55.710839,
+        "lon": 12.564479
+    },
+    "name": "HARMONIE Climate Modelling Community (HCLIMcom) partner: Danish Meteorological Institute (DMI)",
+    "ror": "020m6x732",
+    "url": [
+        "https://www.dmi.dk"
+    ],
+    "type": "institution",
+    "drs_name": "HCLIMcom-DMI"
+}

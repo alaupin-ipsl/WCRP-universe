@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "jra25",
+    "type": "source",
+    "drs_name": "JRA25",
+    "activity_participation": [
+        "obs4mips"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "MRI-JRA25",
+    "label_extended": "JRA25 1.0 (2002): JRA25 (Japanese ReAnalysis 1957-2002)",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

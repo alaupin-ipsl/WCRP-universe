@@ -1,0 +1,13 @@
+
+
+{
+     
+      "@context": {
+      "@base":"https://espri-mod.github.io/mip-cmor-tables/source_type/",
+      "@vocab": "http://schema.org/",
+      "id": "@id",
+      "type":"@type",
+      "description":{"@id":"https://schema.org/description"}
+      
+    }
+}

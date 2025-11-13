@@ -1,0 +1,20 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "canrcm5-sn",
+    "type": "source",
+    "drs_name": "CanRCM5-SN",
+    "activity_participation": [
+        "DD"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "organisation_id": [
+        "CCCma"
+    ],
+    "label": "CanRCM5-SN",
+    "label_extended": "Canadian Regional Climate Model version 5, with spectral nudging",
+    "license": {},
+    "model_component": null,
+    "release_year": "2024"
+}

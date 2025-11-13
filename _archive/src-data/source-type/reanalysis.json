@@ -1,0 +1,10 @@
+{
+    "@context": "_context_",
+    "description": "gridded product generated from a model reanalysis based on in-situ instruments and possibly satellite measurements",
+    "id": "reanalysis",
+    "type": [
+        "wcrp:source_type",
+        "universal"
+    ],
+    "label": "reanalysis"
+}

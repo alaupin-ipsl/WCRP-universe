@@ -1,0 +1,31 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clmcom-fzj",
+    "acronyms": [
+        "CLMcom-FZJ"
+    ],
+    "aliases": [
+        "Forschungszentrum Juelich",
+        "Jülich Research Centre",
+        "FZJ"
+    ],
+    "cmip-acronym": "CLMcom-FZJ",
+    "established": null,
+    "labels": [],
+    "location": {
+        "city": "Jülich",
+        "country": [
+            "Germany",
+            "DE"
+        ],
+        "lat": 50.903148,
+        "lon": 6.420473
+    },
+    "name": "Climate Limited-area Modelling Community (CLMcom) partner: Forschungszentrum Juelich",
+    "ror": "02nv7yv05",
+    "url": [
+        "https://www.fz-juelich.de/"
+    ],
+    "type": "institution",
+    "drs_name": "CLMcom-FZJ"
+}

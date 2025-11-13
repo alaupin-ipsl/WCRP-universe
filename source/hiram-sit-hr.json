@@ -1,0 +1,28 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hiram-sit-hr",
+    "type": "source",
+    "drs_name": "HiRAM-SIT-HR",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "highresmip"
+    ],
+    "cohort": [
+        "Published"
+    ],
+    "label": "HiRAM-SIT-HR",
+    "label_extended": "HiRAM Coupling 1-D SIT (25 km atmosphere and 25 km ocean)",
+    "model_component": {
+        "atmos": "gfdl-hiram",
+        "land": "gfdl-lm3",
+        "ocean": "sit"
+    },
+    "release_year": "2018",
+    "organisation_id": [
+        "as-rcec"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+  "@context": {
+      "@base":"https://espri-mod.github.io/mip-cmor-tables/consortium/",
+      "@vocab": "http://schema.org/",
+      "id": "@id",
+      "type":"@type",
+      "corsotium": "https://espri-mod.github.io/mip-cmor-tables/consortium/",
+
+      "cmip-acronym":{"@id":"https://espri-mod.github.io/mip-cmor-tables/cmip_acronym/"},
+      "name":{"@id":"https://schema.org/name"},
+      "status":{"@id":"https://espri-mod.github.io/mip-cmor-tables/status/"},
+      "members":{ "@id": "https://schema.org/member",
+                       "@type":"@id",
+                       "@context":{
+                         	    "institution":{
+                                    "@id":"https://espri-mod.github.io/mip-cmor-tables/institution/",
+                                    "@type":"@id",
+                                      "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/institution/"}
+                                      
+                                     
+                          
+                                  
+                                                  }
+                      }
+                }
+      }
+}

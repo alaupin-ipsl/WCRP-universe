@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "toluenelumppercentagesava",
+    "cmip_acronym": "ToluenelumppercentageSAVA",
+    "long_name": "",
+    "standard_name": "",
+    "type": "variable",
+    "units": "",
+    "drs_name": "ToluenelumppercentageSAVA"
+}

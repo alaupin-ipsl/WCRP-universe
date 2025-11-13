@@ -1,0 +1,29 @@
+{
+  "id": "msftmsmpa_tavg-ol-hys-sea",
+  "type": "known_branded_variable",
+  "drs_name": "msftmsmpa_tavg-ol-hys-sea",
+  "cf_standard_name": "ocean_meridional_overturning_mass_streamfunction_due_to_parameterized_submesoscale_eddy_advection",
+  "cf_units": "kg s-1",
+  "cf_sn_status": "approved",
+  "variable_root_name": "msftmsmpa",
+  "var_def_qualifier": "",
+  "branding_suffix_name": "tavg-ol-hys-sea",
+  "description": "Report only if there is a submesoscale eddy parameterization.\n",
+  "dimensions": [
+    "latitude",
+    "olevel",
+    "basin",
+    "time"
+  ],
+  "cell_methods": "depth: longitude: sum where sea (along a zig-zag grid path spanning a basin)  time: mean",
+  "cell_measures": "",
+  "history": "",
+  "realm": "ocean",
+  "temporal_label": "tavg",
+  "vertical_label": "ol",
+  "horizontal_label": "hys",
+  "area_label": "sea",
+  "bn_status": "Accepted",
+  "positive_direction": "",
+  "@context": "000_context.jsonld"
+}

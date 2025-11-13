@@ -1,0 +1,8 @@
+{
+    "id": "multi",
+    "label": "multi",
+    "description": "in cell_methods : sector (auxiliary coordinate for land-use or vegetation1 area types)",
+    "type": "area_label",
+    "drs_name": "multi",
+    "@context": "000_context.jsonld"
+}
