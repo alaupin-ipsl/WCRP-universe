@@ -1,0 +1,16 @@
+{
+    "@context": {
+        "@base":"https://espri-mod.github.io/mip-cmor-tables/contributor/",
+        "@vocab": "http://schema.org/",
+        "id": "@id",
+        "type":"@type",
+        "description":{"@id":"https://schema.org/description"},
+        "drs_name": {"@id": "acronym"},
+        "members": {
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/contributor_member/",
+            "@type":"@id",
+            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/contributor_member/"}
+        }
+    }
+}
+

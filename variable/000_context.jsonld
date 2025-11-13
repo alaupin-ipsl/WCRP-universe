@@ -1,18 +1,14 @@
-
-
-
 {
-     
-"@context": {
-      "@base":"https://espri-mod.github.io/mip-cmor-tables/variable/",
-      "@vocab": "http://schema.org/",
-      "id": "@id",
-      "type":"@type",
-      "variable": "https://espri-mod.github.io/mip-cmor-tables/variable/",
-      "long_name": "https://schema.org/name",
-      "standard_name_name": "https://schema.org/alternativeName",
-      "units":"https://schema.org/unitText"
-                        
-                        }
+    "@context": {
+        "@base":"https://espri-mod.github.io/mip-cmor-tables/variable/",
+        "@vocab": "http://schema.org/",
+        "id": "@id",
+        "type":"@type",
+        "description":{"@id":"https://schema.org/description"},
+        "drs_name": {"@id": "acronym"},
+        "long_name": "https://schema.org/alternativeName",
+        "standard_name": "https://schema.org/name",
+        "units":"https://schema.org/unitText"
+    }
 }
 

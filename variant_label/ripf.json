@@ -2,6 +2,6 @@
     "@context": "000_context.jsonld",
     "id": "ripf",
     "type": "variant_label",
-    "regex" : "^r\\d+i\\d+p\\d+f\\d+$",
-    "description": "ripf = r (realization: simulation run), i (initialization: initial conditions), p (physics: model configuration), f (forcing: external forcing dataset), together uniquely identifying a specific model simulation."
+    "description": "This composite term with no separator thing is annoying because it's possible for variant label and e.g. forcing_index to be out of sync. Is regexp missing from context? Identifier of the realisation (variation over stochastic changes), initialisation, physics and forcing used in a simulation. The parts do not have a separator, which is why this is a pattern term and not a composite term.",
+    "regex": "^r(?P<realization_index>\\d+)i(?P<initialization_index>(\\d{4}\\d{2}[abcde]?|\\d+))p(?P<physics_index>\\d+)f(?P<forcing_index>\\d+)$"
 }

@@ -1,10 +1,9 @@
 {
     "@context": "000_context.jsonld",
     "id": "mon",
-    "description": "monthly mean samples",
-    "long_name": "Monthly Frequency",
-    "name": "mon",
-    "unit": "month",
     "type": "frequency",
-    "drs_name": "mon"
+    "description": "Monthly samples. Note that this means that the time interval between each sample is not constant for some calendars.",
+    "drs_name": "mon",
+    "interval": 1.0,
+    "units": "month"
 }

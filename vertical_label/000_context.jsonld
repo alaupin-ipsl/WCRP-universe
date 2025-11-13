@@ -1,10 +1,10 @@
 {
-	"@context": {
-      	"@base":"https://espri-mod.github.io/mip-cmor-tables/vertical_label/",
-	"@vocab":"https://espri-mod.github.io/mip-cmor-tables/",
-	"id":"@id",
-	"type":"@type",
-  "description":{"@id":"https://schema.org/description"}
- 		
+    "@context": {
+        "@base":"https://espri-mod.github.io/mip-cmor-tables/vertical_label/",
+        "@vocab": "http://schema.org/",
+        "id": "@id",
+        "type":"@type",
+        "description":{"@id":"https://schema.org/description"},
+        "drs_name": {"@id": "acronym"}
     }
 }

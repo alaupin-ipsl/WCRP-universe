@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "f-int",
+    "type": "forcing_index",
+    "description": "Is regexp missing from context? Forcing index that follows the convention of always starting with 'f' before being followed by any integer.",
+    "regex": "^f(?P<forcing_index>\\d+)$"
+}

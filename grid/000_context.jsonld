@@ -1,16 +1,15 @@
-
 {
-     
-      "@context": {
-      "@base":"https://espri-mod.github.io/mip-cmor-tables/grid/",
-      "@vocab": "http://schema.org/",
-      "id": "@id",
-      "type":"@type",
-      "grid": "https://espri-mod.github.io/mip-cmor-tables/grid/",
-      "short_name": {"@id": "https://schema.org/alternateName"},
-      "name": {"@id": "https://schema.org/name"},
-      "region": {"@id": "https://es-vocab.fr/region"},
-      "description":{"@id":"https://schema.org/description"}
-      
+    "@context": {
+        "@base":"https://espri-mod.github.io/mip-cmor-tables/grid/",
+        "@vocab": "http://schema.org/",
+        "id": "@id",
+        "type":"@type",
+        "description":{"@id":"https://schema.org/description"},
+        "drs_name": {"@id": "acronym"},
+        "region":{ 
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/region/",
+            "@type":"@id",
+            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/region/"}
+        }
     }
 }

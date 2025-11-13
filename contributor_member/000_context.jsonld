@@ -1,0 +1,16 @@
+{
+    "@context": {
+        "@base":"https://espri-mod.github.io/mip-cmor-tables/contributor_member/",
+        "@vocab": "http://schema.org/",
+        "id": "@id",
+        "type":"@type",
+        "description":{"@id":"https://schema.org/description"},
+        "drs_name": {"@id": "acronym"},
+        "acronyms": {"@id": "https://es-vocab.ipsl.fr/acronyms"},
+        "labels":{"@id":"https://schema.org/alternateName"},
+        "location":{"@id":"https://schema.org/location"},
+        "ror":{"@id":"https://ror.org/"},
+        "urls":{"@id":"https://schema.org/url"}
+    }
+}
+

@@ -1,0 +1,9 @@
+{
+    "@context": {
+        "@base":"https://espri-mod.github.io/mip-cmor-tables/realization_index/",
+        "@vocab":"https://espri-mod.github.io/mip-cmor-tables/realization_index/",
+        "id":"@id",
+        "type":"@type",
+        "description":{"@id":"https://schema.org/description"}
+    }
+}

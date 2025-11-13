@@ -1,10 +1,9 @@
 {
-	"@context": {
-      	"@base":"https://espri-mod.github.io/mip-cmor-tables/forcing_index/",
-	"@vocab":"https://espri-mod.github.io/mip-cmor-tables/",
-	"id":"@id",
-	"type":"@type",
-	"regex":"https://espri-mod.github.io/mip-cmor-tables/regex"
-  		
+    "@context": {
+        "@base":"https://espri-mod.github.io/mip-cmor-tables/forcing_index/",
+        "@vocab":"https://espri-mod.github.io/mip-cmor-tables/forcing_index/",
+        "id":"@id",
+        "type":"@type",
+        "description":{"@id":"https://schema.org/description"}
     }
 }

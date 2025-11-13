@@ -2,32 +2,21 @@
     "@context": "000_context.jsonld",
     "id": "historical",
     "type": "experiment",
-    "experiment_id": "historical",
-    "activity_id": [
-        "cmip"
-    ],
+    "description": "Simulation of the climate of the recent past (typically meaning 1850 to present-day)",
+    "drs_name": "historical",
+    "activity": "cmip",
     "additional_allowed_model_components": [
         "aer",
         "chem",
         "bgc"
     ],
-    "description": "CMIP6 historical",
-    "end_year": 2014,
-    "experiment": "all-forcing simulation of the recent past (CO2 concentration-driven)",
-    "min_number_yrs_per_sim": 165,
-    "parent_activity_id": [
-        "cmip"
-    ],
-    "parent_experiment_id": [
-        "picontrol"
-    ],
+    "branch_information": "Note entry in context is wrong. Branch from piControl at a time of your choosing",
+    "min_ensemble_size": 1,
+    "parent_activity": "cmip",
+    "parent_experiment": "picontrol",
     "required_model_components": [
         "aogcm"
     ],
-    "start_year": 1850,
-    "sub_experiment_id": [
-        "none"
-    ],
-    "tier": 1,
-    "drs_name": "historical"
+    "start_timestamp": "1850-01-01",
+    "tier": 1
 }

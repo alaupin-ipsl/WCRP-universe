@@ -1,8 +1,7 @@
 {
+    "@context": "000_context.jsonld",
     "id": "tavg",
-    "label": "tavg",
-    "description": "time-average",
     "type": "temporal_label",
-    "drs_name": "tavg",
-    "@context": "000_context.jsonld"
+    "description": "Time average i.e. the value for each time period is the average of the quantity over the time period.",
+    "drs_name": "tavg"
 }

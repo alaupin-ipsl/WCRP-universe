@@ -1,8 +1,7 @@
 {
+    "@context": "000_context.jsonld",
     "id": "hxy",
-    "label": "hxy",
-    "description": "the variable is carried on a (roughly) horizontal (spatially two-dimensional) grid covering the domain reported.",
     "type": "horizontal_label",
-    "drs_name": "hxy",
-    "@context": "000_context.jsonld"
+    "description": "Sampled in both the latitude and longitude directions. This if often referred to as 'gridded' data.",
+    "drs_name": "hxy"
 }

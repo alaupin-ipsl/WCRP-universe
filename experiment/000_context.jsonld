@@ -1,42 +1,54 @@
 {
-
-
-      "@context": {
-      "@base":"https://espri-mod.github.io/mip-cmor-tables/experiment/",
-      "@vocab": "http://schema.org/",
-      "id": "@id",
-      "type":"@type",
-      "experiment": "https://espri-mod.github.io/mip-cmor-tables/experiment/",
-      "activity_id":{"@id": "https://espri-mod.github.io/mip-cmor-tables/activity/",
-                       "@type":"@id",
-                       "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/activity/"}
-                      },
-
-      "description":{"@id":"https://schema.org/description"},
-      "tier":{"@id":"https://es-vocab.ipsl.fr/tier"},
-        "experiment_id":{"@id":"https://schema.org/alternativeName"},
-        "required_model_components":{ "@id": "https://espri-mod.github.io/mip-cmor-tables/model_component/",
-                       "@type":"@id",
-                       "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/model_component/"}
-                      },
-        
-        "additional_allowed_model_components":{ "@id": "https://espri-mod.github.io/mip-cmor-tables/additional_allowed_model_component/",
-                       "@type":"@id",
-                       "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/model_component/"}
-                      },
-        "start_year":"http://schema.org/startDate",
-        "end_year":"http://schema.org/endDate",
+    "esgvoc_resolve_modes": {
+        "activity": "reference",
+        "required_model_components": "full",
+        "additional_allowed_model_components": "full",
+        "parent_activity": "full",
+        "parent_experiment": "shallow",
+        "parent_mip_era": "full"
+    },
+    "@context": {
+        "@base":"https://espri-mod.github.io/mip-cmor-tables/experiment/",
+        "@vocab": "http://schema.org/",
+        "id": "@id",
+        "type":"@type",
+        "description":{"@id":"https://schema.org/description"},
+        "drs_name": {"@id": "acronym"},
+        "activity":{ 
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/activity/",
+            "@type":"@id",
+            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/activity/"}
+        },
+        "additional_allowed_model_components":{ 
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/additional_allowed_model_component/",
+            "@type":"@id",
+            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/model_component/"}
+        },
+        "branch_information":{"@id":"https://schema.org/description"},
+        "end_timestamp":"http://schema.org/endDate",
+        "min_ensemble_size":"https://espri-mod.github.io/mip-cmor-tables/min_ensemble_size",
         "min_number_yrs_per_sim":"https://espri-mod.github.io/mip-cmor-tables/min_number_yrs_per_sim",
-        "parent_activity_id":{ "@id": "https://espri-mod.github.io/mip-cmor-tables/parent_activity_id/",
-                       "@type":"@id",
-                       "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/activity/"}
-                      },
-        "parent_experiment_id":{ "@id": "https://espri-mod.github.io/mip-cmor-tables/parent_experiment_id/",
-                       "@type":"@id",
-                       "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/experiment/"}
-                      }
-   
+        "parent_activity":{ 
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/parent_activity/",
+            "@type":"@id",
+            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/activity/"}
+        },
+        "parent_experiment":{ 
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/parent_experiment/",
+            "@type":"@id",
+            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/experiment/"}
+        },
+        "parent_mip_era":{ 
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/parent_mip_era/",
+            "@type":"@id",
+            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/mip_era/"}
+        },
+        "required_model_components":{ 
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/required_model_component/",
+            "@type":"@id",
+            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/model_component/"}
+        },
+        "start_timestamp":"http://schema.org/startDate",
+        "tier":{"@id":"https://es-vocab.ipsl.fr/tier"}
     }
-
-
 }

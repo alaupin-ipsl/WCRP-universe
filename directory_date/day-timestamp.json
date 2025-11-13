@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "day-timestamp",
+    "type": "directory_date",
+    "description": "Is regexp missing from context? The regexp below is definitely too loose. Timestamp of the day on which this dataset was published. In practice, this often acts as a version identifier too.",
+    "regex": "^\\d{4}\\d{2}\\d{2}$"
+}
+

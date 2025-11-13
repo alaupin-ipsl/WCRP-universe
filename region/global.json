@@ -2,6 +2,8 @@
     "@context": "000_context.jsonld",
     "id": "global",
     "type": "region",
-    "drs_name": "global",
-    "description": ""
+    "description": "The entire globe i.e. earth.",
+    "drs_name": "glb",
+    "cf_standard_region": "global",
+    "iso_region": null
 }

@@ -1,24 +1,10 @@
 {
-
 	"@context": {
         "@base":"https://espri-mod.github.io/mip-cmor-tables/model_component/",
         "@vocab": "http://schema.org/",
         "id": "@id",
         "type":"@type",
-        "name": {"@id": "https://schema.org/name"},
         "description":{"@id":"https://schema.org/description"},
-        "realm":{"@id":"https://espri-mod.github.io/mip-cmor-tables/realm/",
-               "@type":"@id",
-               "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/realm/"}
-              },
-
-        "nominal_resolution":{"@id":"https://espri-mod.github.io/mip-cmor-tables/nominal_resolution/",
-               "@type":"@id",
-               "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/nominal_resolution/"}
-              }
-
-      
-        }
-
-
+        "drs_name": {"@id": "acronym"}
+    }
 }

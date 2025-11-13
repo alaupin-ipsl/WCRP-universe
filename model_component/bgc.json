@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "bgc",
+    "type": "model_component",
+    "description": "Biogeochemistry model component that at the very least accounts for carbon reservoirs and fluxes in the atmosphere, terrestrial biosphere, and ocean.",
+    "drs_name": "BGC"
+}
+

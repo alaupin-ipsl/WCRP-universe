@@ -1,64 +1,24 @@
 {
- "@context": {
-      "@base":"https://espri-mod.github.io/mip-cmor-tables/source/",
-      "@vocab": "http://schema.org/",
-      "id": "@id",
-      "type":"@type",
-      "label": {"@id": "https://schema.org/name"},
-      "label_extended": {"@id": "https://schema.org/alternateName"},
-      "cohort": {"@id":"https://espri-mod.github.io/mip-cmor-tables/cohort"},  
-      "description":{"@id":"https://schema.org/description"},
-        "activity_participation":{
-          			"@id": "https://espri-mod.github.io/mip-cmor-tables/activity_participation/",
-                       "@type":"@id",
-                       "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/activity/"}
-                      },
-
-      "organisation_id":{
-          			"@id": "https://espri-mod.github.io/mip-cmor-tables/organisation/",
-                       "@type":"@id",
-                       "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/institution_id/"}
-                      },
-        "release_year":"releaseDate",
-        
-      "model_component":{
-        "@id":"https://espri-mod.github.io/mip-cmor-tables/model_component_composition",
-        "@type":"@id",
-        "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/model_component/",
-          
-          			 "aerosol" : {"@id":"https://espri-mod.github.io/mip-cmor-tables/realm/aerosol",
-                                "@type":"@id"
-                                },
-                     "atmos" : {"@id":"https://espri-mod.github.io/mip-cmor-tables/realm/atmos",
-                                "@type":"@id"
-                                },
-                     "atmosChem" : {"@id":"https://espri-mod.github.io/mip-cmor-tables/realm/atmosChem",
-                                "@type":"@id"
-                                },
-                     "land" : {"@id":"https://espri-mod.github.io/mip-cmor-tables/realm/land",
-                                "@type":"@id"
-                                },
-                     "landIce" : {"@id":"https://espri-mod.github.io/mip-cmor-tables/realm/landIce",
-                                "@type":"@id"
-                                },
-                     
-                      "ocean" : {"@id":"https://espri-mod.github.io/mip-cmor-tables/realm/ocean",
-                                "@type":"@id"
-                                },
-                     "ocnBgchem" : {"@id":"https://espri-mod.github.io/mip-cmor-tables/realm/ocnBgchem",
-                                "@type":"@id"
-                                },
-                     "seaIce" : {"@id":"https://espri-mod.github.io/mip-cmor-tables/realm/seaIce",
-                                "@type":"@id"
-                                }
-          			
-          			
-          			
-          			
-              		}
-
-      }
-      
+    "esgvoc_resolve_modes": {
+    },
+    "@context": {
+        "@base":"https://espri-mod.github.io/mip-cmor-tables/source/",
+        "@vocab": "http://schema.org/",
+        "id": "@id",
+        "type":"@type",
+        "description":{"@id":"https://schema.org/description"},
+        "drs_name": {"@id": "acronym"},
+        "label": {"@id": "https://schema.org/name"},
+        "label_extended": {"@id": "https://schema.org/alternateName"},
+        "contributors":{ 
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/contributor/",
+            "@type":"@id",
+            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/contributor/"}
+        },
+        "model_components":{ 
+            "@id": "https://espri-mod.github.io/mip-cmor-tables/model_component/",
+            "@type":"@id",
+            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/model_component/"}
+        }
     }
-
 }

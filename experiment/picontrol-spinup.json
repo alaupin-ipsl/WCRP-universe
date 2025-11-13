@@ -2,32 +2,24 @@
     "@context": "000_context.jsonld",
     "id": "picontrol-spinup",
     "type": "experiment",
-    "experiment_id": "piControl-spinup",
-    "activity_id": [
-        "cmip"
-    ],
+    "description": "Pre-industrial control spin-up simulation. Used to get the model into a state of approximate radiative equilibrium before starting the piControl simulation.",
+    "drs_name": "piControl-spinup",
+    "activity": "cmip",
     "additional_allowed_model_components": [
         "aer",
         "chem",
         "bgc"
     ],
-    "description": "DECK: spin-up portion of the control",
-    "end_year": null,
-    "experiment": "pre-industrial control (spin-up)",
-    "min_number_yrs_per_sim": 100,
-    "parent_activity_id": [
-        "no parent"
-    ],
-    "parent_experiment_id": [
-        "no parent"
-    ],
+    "branch_information": null,
+    "end_timestamp": null,
+    "min_ensemble_size": 1,
+    "min_number_yrs_per_sim": null,
+    "parent_activity": null,
+    "parent_experiment": null,
+    "parent_mip_era": null,
     "required_model_components": [
         "aogcm"
     ],
-    "start_year": null,
-    "sub_experiment_id": [
-        "none"
-    ],
-    "tier": 2,
-    "drs_name": "piControl-spinup"
+    "start_timestamp": null,
+    "tier": 1
 }

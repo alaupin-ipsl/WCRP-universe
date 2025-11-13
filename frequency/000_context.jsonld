@@ -1,16 +1,12 @@
-
 {
-     
-      "@context": {
-      "@base":"https://espri-mod.github.io/mip-cmor-tables/frequency/",
-      "@vocab": "http://schema.org/",
-      "id": "@id",
-      "type":"@type",
-      "frequency": "https://espri-mod.github.io/mip-cmor-tables/frequency/",
-      "long_name": {"@id": "https://schema.org/alternateName"},
-      "name": {"@id": "https://schema.org/name"},
-      "unit": {"@id": "https://schema.org/unitText"},
-      "description":{"@id":"https://schema.org/description"}
-      
+    "@context": {
+        "@base":"https://espri-mod.github.io/mip-cmor-tables/frequency/",
+        "@vocab": "http://schema.org/",
+        "id": "@id",
+        "type":"@type",
+        "description":{"@id":"https://schema.org/description"},
+        "drs_name": {"@id": "acronym"},
+        "interval": {"@id": "https://schema.org/Number"},
+        "units": {"@id": "https://schema.org/unitText"}
     }
 }

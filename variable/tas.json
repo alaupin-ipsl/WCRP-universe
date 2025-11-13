@@ -1,10 +1,10 @@
 {
     "@context": "000_context.jsonld",
     "id": "tas",
-    "cmip_acronym": "tas",
-    "long_name": "Near-Surface Air Temperature",
-    "standard_name": "air_temperature",
     "type": "variable",
-    "units": "K",
-    "drs_name": "tas"
+    "description": "Air temperature measured at 2m above the Earth's surface.",
+    "drs_name": "tas",
+    "long_name": null,
+    "standard_name": "air_temperature",
+    "units": "K"
 }
