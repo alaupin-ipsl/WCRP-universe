@@ -1,8 +1,8 @@
 {
     "@context": "000_context.jsonld",
-    "id": "esm-scen7-h",
+    "id": "scen7-vl-ext",
     "type": "experiment",
-    "drs_name": "esm-scen7-h",
+    "drs_name": "scen7-vl-ext",
     "activity": "scenariomip",
     "additional_allowed_model_components": [
         "aer",
