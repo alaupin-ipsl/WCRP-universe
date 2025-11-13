@@ -6,6 +6,7 @@
     "drs_name": "CMIP",
     "experiments": [
         "esm-hist",
+        "esm-picontrol",
         "historical",
         "picontrol"
     ],
