@@ -18,6 +18,7 @@
 
 # Don't ignore the .gitignore file itself
 !.gitignore
+!.gitignore/**/**
 
 # keep hidden directories
 !.*/**
