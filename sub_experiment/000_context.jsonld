@@ -2,7 +2,7 @@
 {
      
       "@context": {
-      "@base":"https://espri-mod.github.io/mip-cmor-tables/sub_experiment/",
+      "@base":"https://esgvoc.ipsl.fr/resource/universe/sub_experiment/",
       "@vocab": "http://schema.org/",
       "id": "@id",
       "type":"@type",

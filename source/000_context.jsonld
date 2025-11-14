@@ -2,7 +2,7 @@
     "esgvoc_resolve_modes": {
     },
     "@context": {
-        "@base":"https://espri-mod.github.io/mip-cmor-tables/source/",
+        "@base":"https://esgvoc.ipsl.fr/resource/universe/source/",
         "@vocab": "http://schema.org/",
         "id": "@id",
         "type":"@type",
@@ -11,14 +11,14 @@
         "label": {"@id": "https://schema.org/name"},
         "label_extended": {"@id": "https://schema.org/alternateName"},
         "contributors":{ 
-            "@id": "https://espri-mod.github.io/mip-cmor-tables/contributor/",
+            "@id": "https://esgvoc.ipsl.fr/resource/universe/contributor/",
             "@type":"@id",
-            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/contributor/"}
+            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/contributor/"}
         },
         "model_components":{ 
-            "@id": "https://espri-mod.github.io/mip-cmor-tables/model_component/",
+            "@id": "https://esgvoc.ipsl.fr/resource/universe/model_component/",
             "@type":"@id",
-            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/model_component/"}
+            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/model_component/"}
         }
     }
 }

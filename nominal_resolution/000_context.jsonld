@@ -1,6 +1,6 @@
 {
     "@context": {
-        "@base":"https://espri-mod.github.io/mip-cmor-tables/nominal_resolution/",
+        "@base":"https://esgvoc.ipsl.fr/resource/universe/nominal_resolution/",
         "@vocab": "http://schema.org/",
         "id": "@id",
         "type":"@type",

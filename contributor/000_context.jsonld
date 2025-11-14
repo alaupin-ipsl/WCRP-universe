@@ -1,15 +1,15 @@
 {
     "@context": {
-        "@base":"https://espri-mod.github.io/mip-cmor-tables/contributor/",
+        "@base":"https://esgvoc.ipsl.fr/resource/universe/contributor/",
         "@vocab": "http://schema.org/",
         "id": "@id",
         "type":"@type",
         "description":{"@id":"https://schema.org/description"},
         "drs_name": {"@id": "acronym"},
         "members": {
-            "@id": "https://espri-mod.github.io/mip-cmor-tables/contributor_member/",
+            "@id": "https://esgvoc.ipsl.fr/resource/universe/contributor_member/",
             "@type":"@id",
-            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/contributor_member/"}
+            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/contributor_member/"}
         }
     }
 }

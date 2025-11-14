@@ -1,13 +1,13 @@
 {
     "@context": {
-        "@base":"https://espri-mod.github.io/mip-cmor-tables/branded_variable/",
-        "@vocab":"https://espri-mod.github.io/mip-cmor-tables/branded_variable/",
+        "@base":"https://esgvoc.ipsl.fr/resource/universe/branded_variable/",
+        "@vocab":"https://esgvoc.ipsl.fr/resource/universe/branded_variable/",
         "id":"@id",
         "type":"@type",
-        "branded_variable":"https://espri-mod.github.io/mip-cmor-tables/branded_variable",
-        "required":"https://espri-mod.github.io/mip-cmor-tables/required/",
+        "branded_variable":"https://esgvoc.ipsl.fr/resource/universe/branded_variable",
+        "required":"https://esgvoc.ipsl.fr/resource/universe/required/",
         "parts": {
-            "@id": "https://espri-mod.github.io/mip-cmor-tables/branded_variable_parts",
+            "@id": "https://esgvoc.ipsl.fr/resource/universe/branded_variable_parts",
             "@type":"@id",
             "@container": "@list",
             "@context":{
@@ -15,20 +15,20 @@
                 "variable": {
                     "@context": {
                         "id": {
-                            "@id":  "https://espri-mod.github.io/mip-cmor-tables/variable",
+                            "@id":  "https://esgvoc.ipsl.fr/resource/universe/variable",
                             "@type": "@id",
                             "@container": "@set",
-                            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/variable/"}
+                            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/variable/"}
                         }
                     }
                 },
                 "branded_suffix": {
                     "@context": {
                         "id": {
-                            "@id":  "https://espri-mod.github.io/mip-cmor-tables/branded_suffix",
+                            "@id":  "https://esgvoc.ipsl.fr/resource/universe/branded_suffix",
                             "@type": "@id",
                             "@container": "@set",
-                            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/branded_suffix/"}
+                            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/branded_suffix/"}
                         }
                     }
                 }

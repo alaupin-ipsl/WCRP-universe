@@ -1,7 +1,7 @@
 {
     "@context": {
-        "@base":"https://espri-mod.github.io/mip-cmor-tables/conventions/",
-        "@vocab":"https://espri-mod.github.io/mip-cmor-tables/conventions/",
+        "@base":"https://esgvoc.ipsl.fr/resource/universe/conventions/",
+        "@vocab":"https://esgvoc.ipsl.fr/resource/universe/conventions/",
         "id":"@id",
         "type":"@type",
         "description":{"@id":"https://schema.org/description"}

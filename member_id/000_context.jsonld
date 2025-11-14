@@ -1,27 +1,27 @@
 {
 "@context":
  	 {
-       "@base":"https://espri-mod.github.io/mip-cmor-tables/member_id/",
-       "@vocab":"https://espri-mod.github.io/mip-cmor-tables/member_id/",
+       "@base":"https://esgvoc.ipsl.fr/resource/universe/member_id/",
+       "@vocab":"https://esgvoc.ipsl.fr/resource/universe/member_id/",
        "id":"@id",
        "type":"@type",
-       "member_id":"https://espri-mod.github.io/mip-cmor-tables/member_id",
-       "required":"https://espri-mod.github.io/mip-cmor-tables/required/",
+       "member_id":"https://esgvoc.ipsl.fr/resource/universe/member_id",
+       "required":"https://esgvoc.ipsl.fr/resource/universe/required/",
         
        "parts": {
-      	  	"@id": "https://espri-mod.github.io/mip-cmor-tables/member_id_parts",
+      	  	"@id": "https://esgvoc.ipsl.fr/resource/universe/member_id_parts",
          	"@type":"@id",
          	"@container": "@list",
          	"@context":{
               
               "id":"@id",
               "sub_experiment": {
-                "@id":"https://espri-mod.github.io/mip-cmor-tables/sub_experiment",
-                "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/sub_experiment/"}
+                "@id":"https://esgvoc.ipsl.fr/resource/universe/sub_experiment",
+                "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/sub_experiment/"}
                },
               "initialisation_index": {
-                 "@id":"https://espri-mod.github.io/mip-cmor-tables/variant_label",
-                 "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/variant_label/"}
+                 "@id":"https://esgvoc.ipsl.fr/resource/universe/variant_label",
+                 "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/variant_label/"}
                }              
             }
     	}

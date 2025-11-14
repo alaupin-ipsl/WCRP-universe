@@ -1,7 +1,7 @@
 {
     "@context": {
-        "@base":"https://espri-mod.github.io/mip-cmor-tables/directory_date/",
-        "@vocab":"https://espri-mod.github.io/mip-cmor-tables/directory_date/",
+        "@base":"https://esgvoc.ipsl.fr/resource/universe/directory_date/",
+        "@vocab":"https://esgvoc.ipsl.fr/resource/universe/directory_date/",
         "id":"@id",
         "type":"@type",
         "description":{"@id":"https://schema.org/description"}

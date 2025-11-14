@@ -1,7 +1,7 @@
 {
     "@context": {
-        "@base":"https://espri-mod.github.io/mip-cmor-tables/initialization_index/",
-        "@vocab":"https://espri-mod.github.io/mip-cmor-tables/initialization_index/",
+        "@base":"https://esgvoc.ipsl.fr/resource/universe/initialization_index/",
+        "@vocab":"https://esgvoc.ipsl.fr/resource/universe/initialization_index/",
         "id":"@id",
         "type":"@type",
         "description":{"@id":"https://schema.org/description"}

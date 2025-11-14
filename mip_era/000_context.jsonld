@@ -2,11 +2,11 @@
 {
      
       "@context": {
-      "@base":"https://espri-mod.github.io/mip-cmor-tables/mip_era/",
+      "@base":"https://esgvoc.ipsl.fr/resource/universe/mip_era/",
       "@vocab": "http://schema.org/",
       "id": "@id",
       "type":"@type",
-      "mip-era": "https://espri-mod.github.io/mip-cmor-tables/mip_era/",
+      "mip-era": "https://esgvoc.ipsl.fr/resource/universe/mip_era/",
       "name": {"@id": "https://schema.org/name"},
       "start": {"@id": "https://schema.org/startDate"},
       "end": {"@id": "https://schema.org/endDate"},

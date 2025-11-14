@@ -1,7 +1,7 @@
 {
     "@context": {
-        "@base":"https://espri-mod.github.io/mip-cmor-tables/license/",
-        "@vocab":"https://espri-mod.github.io/mip-cmor-tables/license/",
+        "@base":"https://esgvoc.ipsl.fr/resource/universe/license/",
+        "@vocab":"https://esgvoc.ipsl.fr/resource/universe/license/",
         "id":"@id",
         "type":"@type",
         "description":{"@id":"https://schema.org/description"},

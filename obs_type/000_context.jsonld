@@ -1,11 +1,11 @@
 {
      
       "@context": {
-      "@base":"https://espri-mod.github.io/mip-cmor-tables/obs_type/",
+      "@base":"https://esgvoc.ipsl.fr/resource/universe/obs_type/",
       "@vocab": "http://schema.org/",
       "id": "@id",
       "type":"@type",
-      "obs_type": "https://espri-mod.github.io/mip-cmor-tables/obs_type/",
+      "obs_type": "https://esgvoc.ipsl.fr/resource/universe/obs_type/",
       "description":{"@id":"https://schema.org/description"}
       
     }

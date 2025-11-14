@@ -1,6 +1,6 @@
 {
     "@context": {
-        "@base":"https://espri-mod.github.io/mip-cmor-tables/temporal_label/",
+        "@base":"https://esgvoc.ipsl.fr/resource/universe/temporal_label/",
         "@vocab": "http://schema.org/",
         "id": "@id",
         "type":"@type",

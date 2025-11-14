@@ -2,7 +2,7 @@
 {
      
       "@context": {
-      "@base":"https://espri-mod.github.io/mip-cmor-tables/resolution/",
+      "@base":"https://esgvoc.ipsl.fr/resource/universe/resolution/",
       "@vocab": "http://schema.org/",
       "id": "@id",
       "type":"@type",

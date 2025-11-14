@@ -1,13 +1,13 @@
 {
     "@context": {
-        "@base":"https://espri-mod.github.io/mip-cmor-tables/branded_suffix/",
-        "@vocab":"https://espri-mod.github.io/mip-cmor-tables/branded_suffix/",
+        "@base":"https://esgvoc.ipsl.fr/resource/universe/branded_suffix/",
+        "@vocab":"https://esgvoc.ipsl.fr/resource/universe/branded_suffix/",
         "id":"@id",
         "type":"@type",
-        "branded_suffix":"https://espri-mod.github.io/mip-cmor-tables/branded_suffix",
-        "required":"https://espri-mod.github.io/mip-cmor-tables/required/",
+        "branded_suffix":"https://esgvoc.ipsl.fr/resource/universe/branded_suffix",
+        "required":"https://esgvoc.ipsl.fr/resource/universe/required/",
         "parts": {
-            "@id": "https://espri-mod.github.io/mip-cmor-tables/branded_suffix_parts",
+            "@id": "https://esgvoc.ipsl.fr/resource/universe/branded_suffix_parts",
             "@type":"@id",
             "@container": "@list",
             "@context":{
@@ -15,40 +15,40 @@
                 "temporal_label": {
                     "@context": {
                         "id": {
-                            "@id":  "https://espri-mod.github.io/mip-cmor-tables/temporal_label",
+                            "@id":  "https://esgvoc.ipsl.fr/resource/universe/temporal_label",
                             "@type": "@id",
                             "@container": "@set",
-                            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/temporal_label/"}
+                            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/temporal_label/"}
                         }
                     }
                 },
                 "vertical_label": {
                     "@context": {
                         "id": {
-                            "@id":  "https://espri-mod.github.io/mip-cmor-tables/vertical_label",
+                            "@id":  "https://esgvoc.ipsl.fr/resource/universe/vertical_label",
                             "@type": "@id",
                             "@container": "@set",
-                            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/vertical_label/"}
+                            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/vertical_label/"}
                         }
                     }
                 },
                 "horizontal_label":  {
                     "@context": {
                         "id": {
-                            "@id":  "https://espri-mod.github.io/mip-cmor-tables/horizontal_label",
+                            "@id":  "https://esgvoc.ipsl.fr/resource/universe/horizontal_label",
                             "@type": "@id",
                             "@container": "@set",
-                            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/horizontal_label/"}
+                            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/horizontal_label/"}
                         }
                     }
                 },
                 "area_label": {
                     "@context": {
                         "id": {
-                            "@id":  "https://espri-mod.github.io/mip-cmor-tables/area_label",
+                            "@id":  "https://esgvoc.ipsl.fr/resource/universe/area_label",
                             "@type": "@id",
                             "@container": "@set",
-                            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/area_label/"}
+                            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/area_label/"}
                         }
                     }
                 }

@@ -1,6 +1,6 @@
 {
     "@context": {
-        "@base":"https://espri-mod.github.io/mip-cmor-tables/contributor_member/",
+        "@base":"https://esgvoc.ipsl.fr/resource/universe/contributor_member/",
         "@vocab": "http://schema.org/",
         "id": "@id",
         "type":"@type",

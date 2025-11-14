@@ -1,10 +1,10 @@
 {
 	"@context": {
-      	"@base":"https://espri-mod.github.io/mip-cmor-tables/regex/",
-	"@vocab":"https://espri-mod.github.io/mip-cmor-tables/",
+      	"@base":"https://esgvoc.ipsl.fr/resource/universe/regex/",
+	"@vocab":"https://esgvoc.ipsl.fr/resource/universe/",
 	"id":"@id",
 	"type":"@type",
-	"regex":"https://espri-mod.github.io/mip-cmor-tables/regex"
+	"regex":"https://esgvoc.ipsl.fr/resource/universe/regex"
   		
     }
 }

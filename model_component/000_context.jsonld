@@ -1,6 +1,6 @@
 {
 	"@context": {
-        "@base":"https://espri-mod.github.io/mip-cmor-tables/model_component/",
+        "@base":"https://esgvoc.ipsl.fr/resource/universe/model_component/",
         "@vocab": "http://schema.org/",
         "id": "@id",
         "type":"@type",

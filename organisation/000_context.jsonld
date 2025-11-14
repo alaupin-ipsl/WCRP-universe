@@ -1,7 +1,7 @@
 {
      
 "@context": {
-      "@base":"https://espri-mod.github.io/mip-cmor-tables/",
+      "@base":"https://esgvoc.ipsl.fr/resource/universe/",
        
       "id": "@id",
       "type":"@type"

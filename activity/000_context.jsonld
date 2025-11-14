@@ -3,16 +3,16 @@
         "experiments": "reference"
     },
     "@context": {
-        "@base":"https://espri-mod.github.io/mip-cmor-tables/activity/",
+        "@base":"https://esgvoc.ipsl.fr/resource/universe/activity/",
         "@vocab": "http://schema.org/",
         "id": "@id",
         "type":"@type",
         "description":{"@id":"https://schema.org/description"},
         "drs_name": {"@id": "acronym"},
         "experiments":{ 
-            "@id": "https://espri-mod.github.io/mip-cmor-tables/experiment/",
+            "@id": "https://esgvoc.ipsl.fr/resource/universe/experiment/",
             "@type":"@id",
-            "@context":{"@base":"https://espri-mod.github.io/mip-cmor-tables/experiment/"}
+            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/experiment/"}
         },
         "url":{"@id":"https://schema.org/url"}
     }

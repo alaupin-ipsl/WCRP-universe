@@ -1,7 +1,7 @@
 {
     "@context": {
-        "@base":"https://espri-mod.github.io/mip-cmor-tables/tracking_id/",
-        "@vocab":"https://espri-mod.github.io/mip-cmor-tables/tracking_id/",
+        "@base":"https://esgvoc.ipsl.fr/resource/universe/tracking_id/",
+        "@vocab":"https://esgvoc.ipsl.fr/resource/universe/tracking_id/",
         "id":"@id",
         "type":"@type",
         "description":{"@id":"https://schema.org/description"}
