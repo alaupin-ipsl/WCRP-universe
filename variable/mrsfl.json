@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mrsfl",
+    "type": "variable",
+    "description": "Frozen Water Content of Soil Layer",
+    "drs_name": "mrsfl",
+    "long_name": null,
+    "standard_name": "frozen_water_content_of_soil_layer",
+    "units": "kg m-2"
+}

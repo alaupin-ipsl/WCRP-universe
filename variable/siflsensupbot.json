@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "siflsensupbot",
+    "type": "variable",
+    "description": "Net Upward Sensible Heat Flux Under Sea Ice",
+    "drs_name": "siflsensupbot",
+    "long_name": null,
+    "standard_name": "upward_sea_ice_basal_heat_flux",
+    "units": "W m-2"
+}

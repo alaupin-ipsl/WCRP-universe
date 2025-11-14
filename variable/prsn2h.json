@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "prsn2h",
+    "type": "variable",
+    "description": "Precipitation Flux of Snow and Ice Containing Deuterium (1H 2H O)",
+    "drs_name": "prsn2h",
+    "long_name": null,
+    "standard_name": "solid_precipitation_flux_containing_single_2H",
+    "units": "kg m-2 s-1"
+}

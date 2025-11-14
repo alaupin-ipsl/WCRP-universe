@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "latitude",
+    "type": "variable",
+    "description": "Latitude",
+    "drs_name": "latitude",
+    "long_name": null,
+    "standard_name": "latitude",
+    "units": "degrees_north"
+}

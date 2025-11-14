@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "epfe100",
+    "type": "variable",
+    "description": "Downward Flux of Particulate Iron",
+    "drs_name": "epfe100",
+    "long_name": null,
+    "standard_name": "sinking_mole_flux_of_particulate_iron_in_sea_water",
+    "units": "mol m-2 s-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "phypicoos",
+    "type": "variable",
+    "description": "Surface Mole Concentration of Picophytoplankton Expressed as Carbon in Sea Water",
+    "drs_name": "phypicoos",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_picophytoplankton_expressed_as_carbon_in_sea_water",
+    "units": "mol m-3"
+}

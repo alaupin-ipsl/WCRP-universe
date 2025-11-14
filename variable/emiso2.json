@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "emiso2",
+    "type": "variable",
+    "description": "Total Emission Rate of SO2",
+    "drs_name": "emiso2",
+    "long_name": null,
+    "standard_name": "tendency_of_atmosphere_mass_content_of_sulfur_dioxide_due_to_emission",
+    "units": "kg m-2 s-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tauu",
+    "type": "variable",
+    "description": "Surface Downward Eastward Wind Stress",
+    "drs_name": "tauu",
+    "long_name": null,
+    "standard_name": "surface_downward_eastward_stress",
+    "units": "Pa"
+}

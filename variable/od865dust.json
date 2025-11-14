@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "od865dust",
+    "type": "variable",
+    "description": "Dust Optical Depth at 865nm",
+    "drs_name": "od865dust",
+    "long_name": null,
+    "standard_name": "atmosphere_optical_thickness_due_to_dust_ambient_aerosol_particles",
+    "units": "1"
+}

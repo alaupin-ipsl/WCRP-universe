@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "licalvf",
+    "type": "variable",
+    "drs_name": "licalvf",
+    "long_name": null,
+    "units": ""
+}

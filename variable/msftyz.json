@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "msftyz",
+    "type": "variable",
+    "description": "Ocean Y Overturning Mass Streamfunction",
+    "drs_name": "msftyz",
+    "long_name": null,
+    "standard_name": "ocean_y_overturning_mass_streamfunction",
+    "units": "kg s-1"
+}

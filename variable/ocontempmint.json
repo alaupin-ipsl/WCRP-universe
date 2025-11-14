@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ocontempmint",
+    "type": "variable",
+    "description": "Depth Integral of Product of Sea Water Density and Conservative Temperature",
+    "drs_name": "ocontempmint",
+    "long_name": null,
+    "standard_name": "integral_wrt_depth_of_product_of_conservative_temperature_and_sea_water_density",
+    "units": "degC kg m-2"
+}

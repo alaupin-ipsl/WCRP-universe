@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wilt",
+    "type": "variable",
+    "description": "Wilting Point",
+    "drs_name": "wilt",
+    "long_name": null,
+    "standard_name": "volume_fraction_of_condensed_water_in_soil_at_wilting_point",
+    "units": "%"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "prrsn",
+    "type": "variable",
+    "description": "Fraction of Rainfall on Snow",
+    "drs_name": "prrsn",
+    "long_name": null,
+    "standard_name": "mass_fraction_of_rainfall_falling_onto_surface_snow",
+    "units": "1"
+}

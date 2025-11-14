@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sicompstren",
+    "type": "variable",
+    "description": "Compressive Sea Ice Strength",
+    "drs_name": "sicompstren",
+    "long_name": null,
+    "standard_name": "compressive_strength_of_sea_ice",
+    "units": "N m-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sidragtop",
+    "type": "variable",
+    "description": "Atmospheric Drag Coefficient",
+    "drs_name": "sidragtop",
+    "long_name": null,
+    "standard_name": "surface_drag_coefficient_for_momentum_in_air",
+    "units": "1"
+}

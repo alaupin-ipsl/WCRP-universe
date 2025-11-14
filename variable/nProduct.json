@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nProduct",
+    "type": "variable",
+    "description": "Nitrogen Mass in Products of Land-Use Change",
+    "drs_name": "nProduct",
+    "long_name": null,
+    "standard_name": "nitrogen_mass_content_of_forestry_and_agricultural_products",
+    "units": "kg m-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "limndiaz",
+    "type": "variable",
+    "description": "Nitrogen Limitation of Diazotrophs",
+    "drs_name": "limndiaz",
+    "long_name": null,
+    "standard_name": "nitrogen_growth_limitation_of_diazotrophic_phytoplankton",
+    "units": "1"
+}

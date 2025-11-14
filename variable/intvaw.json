@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "intvaw",
+    "type": "variable",
+    "description": "Vertically Integrated Northward Moisture Transport",
+    "drs_name": "intvaw",
+    "long_name": null,
+    "standard_name": "northward_atmosphere_water_transport_across_unit_distance",
+    "units": "kg m-1 s-1"
+}

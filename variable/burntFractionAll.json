@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "burntFractionAll",
+    "type": "variable",
+    "description": "Percentage of Entire Grid Cell That Is Covered by Burnt Vegetation (All Classes)",
+    "drs_name": "burntFractionAll",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

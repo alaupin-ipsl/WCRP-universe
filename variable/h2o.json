@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "h2o",
+    "type": "variable",
+    "description": "Mass Fraction of Water",
+    "drs_name": "h2o",
+    "long_name": null,
+    "standard_name": "mass_fraction_of_water_in_air",
+    "units": "1"
+}

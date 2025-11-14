@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "reffcclwtop",
+    "type": "variable",
+    "description": "Cloud-Top Effective Droplet Radius in Convective Cloud",
+    "drs_name": "reffcclwtop",
+    "long_name": null,
+    "standard_name": "effective_radius_of_convective_cloud_liquid_water_particles_at_convective_liquid_water_cloud_top",
+    "units": "m"
+}

@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "higheralkenespercentagepeat",
+    "type": "variable",
+    "drs_name": "HigherAlkenespercentagePEAT",
+    "long_name": null,
+    "units": ""
+}

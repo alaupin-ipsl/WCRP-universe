@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "maxpblz",
+    "type": "variable",
+    "description": "Maximum PBL Height",
+    "drs_name": "maxpblz",
+    "long_name": null,
+    "standard_name": "atmosphere_boundary_layer_thickness",
+    "units": "m"
+}

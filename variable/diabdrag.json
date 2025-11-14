@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "diabdrag",
+    "type": "variable",
+    "description": "Tendency of Eastward Wind from Numerical Artefacts",
+    "drs_name": "diabdrag",
+    "long_name": null,
+    "standard_name": "tendency_of_eastward_wind_due_to_numerical_artefacts",
+    "units": "m s-2"
+}

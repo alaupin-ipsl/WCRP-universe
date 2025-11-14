@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cls",
+    "type": "variable",
+    "description": "Percentage Cover of Stratiform Cloud",
+    "drs_name": "cls",
+    "long_name": null,
+    "standard_name": "stratiform_cloud_area_fraction_in_atmosphere_layer",
+    "units": "%"
+}

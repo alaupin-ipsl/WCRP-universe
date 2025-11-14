@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "fgo2",
+    "type": "variable",
+    "description": "Surface Downward Flux of O2",
+    "drs_name": "fgo2",
+    "long_name": null,
+    "standard_name": "surface_downward_mole_flux_of_molecular_oxygen",
+    "units": "mol m-2 s-1"
+}

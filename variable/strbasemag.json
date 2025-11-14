@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "strbasemag",
+    "type": "variable",
+    "description": "Land Ice Basal Drag",
+    "drs_name": "strbasemag",
+    "long_name": null,
+    "standard_name": "land_ice_basal_drag",
+    "units": "Pa"
+}

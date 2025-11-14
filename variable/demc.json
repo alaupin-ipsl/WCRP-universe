@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "demc",
+    "type": "variable",
+    "description": "Convective Cloud Emissivity",
+    "drs_name": "demc",
+    "long_name": null,
+    "standard_name": "convective_cloud_longwave_emissivity",
+    "units": "1"
+}

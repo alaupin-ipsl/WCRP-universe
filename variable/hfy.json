@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfy",
+    "type": "variable",
+    "description": "Ocean Heat Y Transport",
+    "drs_name": "hfy",
+    "long_name": null,
+    "standard_name": "ocean_heat_y_transport",
+    "units": "W"
+}

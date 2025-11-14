@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "pastureFracC4",
+    "type": "variable",
+    "description": "C4 Pasture Area Percentage",
+    "drs_name": "pastureFracC4",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

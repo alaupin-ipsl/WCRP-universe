@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dslw",
+    "type": "variable",
+    "description": "Change in Soil Moisture",
+    "drs_name": "dslw",
+    "long_name": null,
+    "standard_name": "change_over_time_in_mass_content_of_water_in_soil",
+    "units": "kg m-2"
+}

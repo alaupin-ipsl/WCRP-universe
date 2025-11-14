@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mfo",
+    "type": "variable",
+    "description": "Sea Water Transport",
+    "drs_name": "mfo",
+    "long_name": null,
+    "standard_name": "sea_water_transport_across_line",
+    "units": "kg s-1"
+}

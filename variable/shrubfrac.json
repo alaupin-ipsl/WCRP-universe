@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "shrubfrac",
+    "type": "variable",
+    "description": "Percentage Cover by Shrub",
+    "drs_name": "shrubfrac",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

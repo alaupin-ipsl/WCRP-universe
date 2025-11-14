@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "limnpico",
+    "type": "variable",
+    "description": "Nitrogen Limitation of Picophytoplankton",
+    "drs_name": "limnpico",
+    "long_name": null,
+    "standard_name": "nitrogen_growth_limitation_of_picophytoplankton",
+    "units": "1"
+}

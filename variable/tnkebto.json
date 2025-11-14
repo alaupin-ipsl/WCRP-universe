@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tnkebto",
+    "type": "variable",
+    "description": "Tendency of Ocean Eddy Kinetic Energy Content Due to Parameterized Eddy Advection",
+    "drs_name": "tnkebto",
+    "long_name": null,
+    "standard_name": "tendency_of_ocean_eddy_kinetic_energy_content_due_to_parameterized_eddy_advection",
+    "units": "W m-2"
+}

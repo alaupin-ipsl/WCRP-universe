@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "co2percentageagri",
+    "type": "variable",
+    "drs_name": "CO2percentageAGRI",
+    "long_name": null,
+    "units": ""
+}

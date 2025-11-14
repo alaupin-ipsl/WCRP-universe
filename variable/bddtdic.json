@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "bddtdic",
+    "type": "variable",
+    "description": "Rate of Change of Dissolved Inorganic Carbon Due to Biological Activity",
+    "drs_name": "bddtdic",
+    "long_name": null,
+    "standard_name": "tendency_of_mole_concentration_of_dissolved_inorganic_carbon_in_sea_water_due_to_biological_processes",
+    "units": "mol m-3 s-1"
+}

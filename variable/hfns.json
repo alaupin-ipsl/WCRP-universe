@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfns",
+    "type": "variable",
+    "description": "Net Surface Energy",
+    "drs_name": "hfns",
+    "long_name": null,
+    "standard_name": "surface_upward_heat_flux_in_air",
+    "units": "W m-2"
+}

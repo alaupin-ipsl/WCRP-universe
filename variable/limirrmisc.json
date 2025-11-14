@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "limirrmisc",
+    "type": "variable",
+    "description": "Irradiance Limitation of Other Phytoplankton",
+    "drs_name": "limirrmisc",
+    "long_name": null,
+    "standard_name": "growth_limitation_of_miscellaneous_phytoplankton_due_to_solar_irradiance",
+    "units": "1"
+}

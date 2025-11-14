@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clws",
+    "type": "variable",
+    "description": "Mass Fraction of Stratiform Cloud Liquid Water",
+    "drs_name": "clws",
+    "long_name": null,
+    "standard_name": "mass_fraction_of_stratiform_cloud_liquid_water_in_air",
+    "units": "1"
+}

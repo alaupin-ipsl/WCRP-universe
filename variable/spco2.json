@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "spco2",
+    "type": "variable",
+    "description": "Surface Aqueous Partial Pressure of CO2",
+    "drs_name": "spco2",
+    "long_name": null,
+    "standard_name": "surface_partial_pressure_of_carbon_dioxide_in_sea_water",
+    "units": "Pa"
+}

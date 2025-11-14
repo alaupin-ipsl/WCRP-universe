@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "zsatarag",
+    "type": "variable",
+    "description": "Aragonite Saturation Depth",
+    "drs_name": "zsatarag",
+    "long_name": null,
+    "standard_name": "minimum_depth_of_aragonite_undersaturation_in_sea_water",
+    "units": "m"
+}

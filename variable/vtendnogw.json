@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "vtendnogw",
+    "type": "variable",
+    "description": "Northward Acceleration Due to Non-Orographic Gravity Wave Drag",
+    "drs_name": "vtendnogw",
+    "long_name": null,
+    "standard_name": "tendency_of_northward_wind_due_to_nonorographic_gravity_wave_drag",
+    "units": "m s-2"
+}

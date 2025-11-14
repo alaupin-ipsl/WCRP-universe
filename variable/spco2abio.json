@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "spco2abio",
+    "type": "variable",
+    "description": "Abiotic Surface Aqueous Partial Pressure of CO2",
+    "drs_name": "spco2abio",
+    "long_name": null,
+    "standard_name": "surface_carbon_dioxide_abiotic_analogue_partial_pressure_difference_between_sea_water_and_air",
+    "units": "Pa"
+}

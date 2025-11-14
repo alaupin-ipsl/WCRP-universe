@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tropoz",
+    "type": "variable",
+    "description": "Tropospheric Ozone Column",
+    "drs_name": "tropoz",
+    "long_name": null,
+    "standard_name": "equivalent_thickness_at_stp_of_atmosphere_ozone_content",
+    "units": "m"
+}

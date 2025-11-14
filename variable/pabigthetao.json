@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "pabigthetao",
+    "type": "variable",
+    "description": "Sea Water Added Conservative Temperature",
+    "drs_name": "pabigthetao",
+    "long_name": null,
+    "standard_name": "sea_water_added_conservative_temperature",
+    "units": "degC"
+}

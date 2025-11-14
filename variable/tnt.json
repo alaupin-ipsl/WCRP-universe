@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tnt",
+    "type": "variable",
+    "description": "Tendency of Air Temperature",
+    "drs_name": "tnt",
+    "long_name": null,
+    "standard_name": "tendency_of_air_temperature",
+    "units": "K s-1"
+}

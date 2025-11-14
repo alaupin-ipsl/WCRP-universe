@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "umo",
+    "type": "variable",
+    "description": "Ocean Mass X Transport",
+    "drs_name": "umo",
+    "long_name": null,
+    "standard_name": "ocean_mass_x_transport",
+    "units": "kg s-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nudgincswe",
+    "type": "variable",
+    "description": "Nudging Increment of Water in Snow",
+    "drs_name": "nudgincswe",
+    "long_name": null,
+    "standard_name": "nudging_increment_in_snow_and_ice_amount_on_land",
+    "units": "kg m-2"
+}

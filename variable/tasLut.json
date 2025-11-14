@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tasLut",
+    "type": "variable",
+    "description": "Near-Surface Air Temperature on Land Use Tile",
+    "drs_name": "tasLut",
+    "long_name": null,
+    "standard_name": "air_temperature",
+    "units": "K"
+}

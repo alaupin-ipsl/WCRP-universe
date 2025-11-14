@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "pathetao",
+    "type": "variable",
+    "description": "Sea Water Additional Potential Temperature",
+    "drs_name": "pathetao",
+    "long_name": null,
+    "standard_name": "sea_water_added_potential_temperature",
+    "units": "degC"
+}

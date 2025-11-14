@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "zvelsurf",
+    "type": "variable",
+    "description": "Upward Component of Land-Ice Surface Velocity",
+    "drs_name": "zvelsurf",
+    "long_name": null,
+    "standard_name": "land_ice_surface_upward_velocity",
+    "units": "m s-1"
+}

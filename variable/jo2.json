@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "jo2",
+    "type": "variable",
+    "description": "Photolysis Rate of Diatomic Molecular Oxygen",
+    "drs_name": "jo2",
+    "long_name": null,
+    "standard_name": "photolysis_rate_of_molecular_oxygen",
+    "units": "s-1"
+}

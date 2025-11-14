@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ccl4",
+    "type": "variable",
+    "drs_name": "ccl4",
+    "long_name": null,
+    "units": ""
+}

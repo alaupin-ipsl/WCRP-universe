@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "vqint",
+    "type": "variable",
+    "description": "Northward Humidity Transport",
+    "drs_name": "vqint",
+    "long_name": null,
+    "standard_name": "integral_wrt_height_of_product_of_northward_wind_and_specific_humidity",
+    "units": "m2 s-1"
+}

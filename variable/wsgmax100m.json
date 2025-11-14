@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wsgmax100m",
+    "type": "variable",
+    "description": "Maximum Wind Speed of Gust at 100m",
+    "drs_name": "wsgmax100m",
+    "long_name": null,
+    "standard_name": "wind_speed_of_gust",
+    "units": "m s-1"
+}

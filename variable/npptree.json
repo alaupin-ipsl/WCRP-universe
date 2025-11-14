@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "npptree",
+    "type": "variable",
+    "description": "Net Primary Production on Tree Tiles as Carbon Mass Flux [kgC m-2 s-1]",
+    "drs_name": "npptree",
+    "long_name": null,
+    "standard_name": "net_primary_productivity_of_biomass_expressed_as_carbon",
+    "units": "kg m-2 s-1"
+}

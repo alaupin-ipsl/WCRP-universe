@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "vegHeightGrass",
+    "type": "variable",
+    "description": "Height of Grass",
+    "drs_name": "vegHeightGrass",
+    "long_name": null,
+    "standard_name": "canopy_height",
+    "units": "m"
+}

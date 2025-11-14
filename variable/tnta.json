@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tnta",
+    "type": "variable",
+    "description": "Tendency of Air Temperature Due to Advection",
+    "drs_name": "tnta",
+    "long_name": null,
+    "standard_name": "tendency_of_air_temperature_due_to_advection",
+    "units": "K s-1"
+}

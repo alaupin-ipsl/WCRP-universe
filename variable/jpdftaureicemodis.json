@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "jpdftaureicemodis",
+    "type": "variable",
+    "description": "MODIS Joint Distribution of Optical Thickness and Particle Size, Ice",
+    "drs_name": "jpdftaureicemodis",
+    "long_name": null,
+    "standard_name": "cloud_area_fraction_in_atmosphere_layer",
+    "units": "%"
+}

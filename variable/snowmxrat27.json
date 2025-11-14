@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "snowmxrat27",
+    "type": "variable",
+    "description": "Mass Fraction of Snow in Air",
+    "drs_name": "snowmxrat27",
+    "long_name": null,
+    "standard_name": "mass_fraction_of_snow_in_air",
+    "units": "1"
+}

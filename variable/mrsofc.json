@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mrsofc",
+    "type": "variable",
+    "description": "Capacity of Soil to Store Water (Field Capacity)",
+    "drs_name": "mrsofc",
+    "long_name": null,
+    "standard_name": "soil_moisture_content_at_field_capacity",
+    "units": "kg m-2"
+}

@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "h2smoothedpercentagepeat",
+    "type": "variable",
+    "drs_name": "H2smoothedpercentagePEAT",
+    "long_name": null,
+    "units": ""
+}

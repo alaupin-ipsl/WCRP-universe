@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "lailut",
+    "type": "variable",
+    "description": "Leaf Area Index on Land-Use Tile",
+    "drs_name": "lailut",
+    "long_name": null,
+    "standard_name": "leaf_area_index",
+    "units": "1"
+}

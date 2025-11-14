@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "prcsh",
+    "type": "variable",
+    "description": "Precipitation Flux from Shallow Convection",
+    "drs_name": "prcsh",
+    "long_name": null,
+    "standard_name": "shallow_convective_precipitation_flux",
+    "units": "kg m-2 s-1"
+}

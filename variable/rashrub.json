@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rashrub",
+    "type": "variable",
+    "description": "Autotrophic Respiration on Shrub Tiles as Carbon Mass Flux [kgC m-2 s-1]",
+    "drs_name": "rashrub",
+    "long_name": null,
+    "standard_name": "surface_upward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_plant_respiration",
+    "units": "kg m-2 s-1"
+}

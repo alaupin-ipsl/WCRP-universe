@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "emioa",
+    "type": "variable",
+    "description": "Primary Emission and Chemical Production of Dry Aerosol Organic Matter",
+    "drs_name": "emioa",
+    "long_name": null,
+    "standard_name": "tendency_of_atmosphere_mass_content_of_particulate_organic_matter_dry_aerosol_particles_due_to_net_chemical_production_and_emission",
+    "units": "kg m-2 s-1"
+}

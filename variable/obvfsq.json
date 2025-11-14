@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "obvfsq",
+    "type": "variable",
+    "description": "Square of Brunt Vaisala Frequency in Sea Water",
+    "drs_name": "obvfsq",
+    "long_name": null,
+    "standard_name": "square_of_brunt_vaisala_frequency_in_sea_water",
+    "units": "s-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "zhalfo",
+    "type": "variable",
+    "description": "Depth Below Geoid of Interfaces Between Ocean Layers",
+    "drs_name": "zhalfo",
+    "long_name": null,
+    "standard_name": "depth_below_geoid",
+    "units": "m"
+}

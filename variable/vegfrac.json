@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "vegfrac",
+    "type": "variable",
+    "description": "Total Vegetated Percentage Cover",
+    "drs_name": "vegfrac",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

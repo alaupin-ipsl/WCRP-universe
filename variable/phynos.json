@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "phynos",
+    "type": "variable",
+    "description": "Surface Mole Concentration of Phytoplankton Nitrogen in Sea Water",
+    "drs_name": "phynos",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_phytoplankton_expressed_as_nitrogen_in_sea_water",
+    "units": "mol m-3"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "lwsrfasdust",
+    "type": "variable",
+    "description": "All-Sky Surface Longwave Radiative Flux Due to Dust",
+    "drs_name": "lwsrfasdust",
+    "long_name": null,
+    "standard_name": "surface_net_downward_longwave_dust_ambient_aerosol_particles_direct_radiative_effect",
+    "units": "W m-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hno3",
+    "type": "variable",
+    "description": "HNO3 Volume Mixing Ratio",
+    "drs_name": "hno3",
+    "long_name": null,
+    "standard_name": "mole_fraction_of_nitric_acid_in_air",
+    "units": "mol mol-1"
+}

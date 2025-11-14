@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "toluenelumpsmoothedpercentagepeat",
+    "type": "variable",
+    "drs_name": "ToluenelumpsmoothedpercentagePEAT",
+    "long_name": null,
+    "units": ""
+}

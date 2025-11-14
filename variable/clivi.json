@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clivi",
+    "type": "variable",
+    "description": "Ice Water Path",
+    "drs_name": "clivi",
+    "long_name": null,
+    "standard_name": "atmosphere_mass_content_of_cloud_ice",
+    "units": "kg m-2"
+}

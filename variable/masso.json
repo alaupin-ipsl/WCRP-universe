@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "masso",
+    "type": "variable",
+    "description": "Sea Water Mass",
+    "drs_name": "masso",
+    "long_name": null,
+    "standard_name": "sea_water_mass",
+    "units": "kg"
+}

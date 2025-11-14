@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cldwatmxrat27",
+    "type": "variable",
+    "description": "Cloud Water Mixing Ratio",
+    "drs_name": "cldwatmxrat27",
+    "long_name": null,
+    "standard_name": "cloud_liquid_water_mixing_ratio",
+    "units": "1"
+}

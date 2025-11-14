@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "snwc",
+    "type": "variable",
+    "description": "Snow Water Equivalent Intercepted by the Vegetation",
+    "drs_name": "snwc",
+    "long_name": null,
+    "standard_name": "canopy_snow_amount",
+    "units": "kg m-2"
+}

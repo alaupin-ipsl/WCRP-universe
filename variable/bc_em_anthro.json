@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "bc_em_anthro",
+    "type": "variable",
+    "drs_name": "BC_em_anthro",
+    "long_name": null,
+    "units": ""
+}

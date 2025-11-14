@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rt",
+    "type": "variable",
+    "description": "Top of Atmosphere Net Radation",
+    "drs_name": "rt",
+    "long_name": null,
+    "standard_name": "Net_TOA_Radiation",
+    "units": "W m-2"
+}

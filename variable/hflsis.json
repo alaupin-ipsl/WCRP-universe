@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hflsis",
+    "type": "variable",
+    "description": "Ice Sheet Surface Upward Latent Heat Flux",
+    "drs_name": "hflsis",
+    "long_name": null,
+    "standard_name": "surface_upward_latent_heat_flux",
+    "units": "W m-2"
+}

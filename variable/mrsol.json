@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mrsol",
+    "type": "variable",
+    "description": "Total Water Content of Soil Layer",
+    "drs_name": "mrsol",
+    "long_name": null,
+    "standard_name": "mass_content_of_water_in_soil_layer",
+    "units": "kg m-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mmrpm2p5",
+    "type": "variable",
+    "description": "PM2.5 Mass Mixing Ratio",
+    "drs_name": "mmrpm2p5",
+    "long_name": null,
+    "standard_name": "mass_fraction_of_pm2p5_dry_aerosol_particles_in_air",
+    "units": "kg kg-1"
+}

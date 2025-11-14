@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "intvadse",
+    "type": "variable",
+    "description": "Vertically Integrated Northward Dry Static Energy Transport",
+    "drs_name": "intvadse",
+    "long_name": null,
+    "standard_name": "northward_atmosphere_dry_static_energy_transport_across_unit_distance",
+    "units": "MJ m-1 s-1"
+}

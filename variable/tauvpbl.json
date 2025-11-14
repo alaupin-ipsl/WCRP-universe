@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tauvpbl",
+    "type": "variable",
+    "description": "Northward Surface Stress from Planetary Boundary Layer Scheme",
+    "drs_name": "tauvpbl",
+    "long_name": null,
+    "standard_name": "surface_downward_northward_stress_due_to_boundary_layer_mixing",
+    "units": "Pa"
+}

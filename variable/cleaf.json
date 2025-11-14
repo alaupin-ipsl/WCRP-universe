@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cleaf",
+    "type": "variable",
+    "description": "Carbon Mass in Leaves",
+    "drs_name": "cleaf",
+    "long_name": null,
+    "standard_name": "leaf_mass_content_of_carbon",
+    "units": "kg m-2"
+}

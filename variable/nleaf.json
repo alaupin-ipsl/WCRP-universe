@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nleaf",
+    "type": "variable",
+    "description": "Nitrogen Mass in Leaves",
+    "drs_name": "nleaf",
+    "long_name": null,
+    "standard_name": "leaf_mass_content_of_nitrogen",
+    "units": "kg m-2"
+}

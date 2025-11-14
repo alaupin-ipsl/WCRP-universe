@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dmc",
+    "type": "variable",
+    "description": "Deep Convective Mass Flux",
+    "drs_name": "dmc",
+    "long_name": null,
+    "standard_name": "atmosphere_net_upward_deep_convective_mass_flux",
+    "units": "kg m-2 s-1"
+}

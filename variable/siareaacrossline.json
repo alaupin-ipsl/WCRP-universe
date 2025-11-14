@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "siareaacrossline",
+    "type": "variable",
+    "description": "Sea-Ice Area Flux Through Straits",
+    "drs_name": "siareaacrossline",
+    "long_name": null,
+    "standard_name": "sea_ice_area_transport_across_line",
+    "units": "m2 s-1"
+}

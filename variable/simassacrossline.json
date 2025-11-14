@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "simassacrossline",
+    "type": "variable",
+    "description": "Sea Mass Area Flux Through Straits",
+    "drs_name": "simassacrossline",
+    "long_name": null,
+    "standard_name": "sea_ice_transport_across_line",
+    "units": "kg s-1"
+}

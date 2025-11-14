@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "jpdftaureliqmodis",
+    "type": "variable",
+    "description": "MODIS Optical Thickness-Particle Size Joint Distribution, Liquid",
+    "drs_name": "jpdftaureliqmodis",
+    "long_name": null,
+    "standard_name": "cloud_area_fraction_in_atmosphere_layer",
+    "units": "%"
+}

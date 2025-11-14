@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "bddtalk",
+    "type": "variable",
+    "description": "Rate of Change of Alkalinity Due to Biological Activity",
+    "drs_name": "bddtalk",
+    "long_name": null,
+    "standard_name": "tendency_of_sea_water_alkalinity_expressed_as_mole_equivalent_due_to_biological_processes",
+    "units": "mol m-3 s-1"
+}

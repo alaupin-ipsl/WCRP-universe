@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sisaltmass",
+    "type": "variable",
+    "description": "Mass of Salt in Sea Ice per Area",
+    "drs_name": "sisaltmass",
+    "long_name": null,
+    "standard_name": "sea_ice_mass_content_of_salt",
+    "units": "kg m-2"
+}

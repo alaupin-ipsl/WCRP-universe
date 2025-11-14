@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "pflw",
+    "type": "variable",
+    "description": "Liquid Water Content of Permafrost Layer",
+    "drs_name": "pflw",
+    "long_name": null,
+    "standard_name": "liquid_water_content_of_permafrost_layer",
+    "units": "kg m-2"
+}

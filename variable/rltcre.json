@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rltcre",
+    "type": "variable",
+    "description": "Top of Atmosphere Longwave CRE",
+    "drs_name": "rltcre",
+    "long_name": null,
+    "standard_name": "TOA_LW_cloud_forcing",
+    "units": "W m-2"
+}

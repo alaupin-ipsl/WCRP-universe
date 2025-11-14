@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "bcpercentagesava",
+    "type": "variable",
+    "drs_name": "BCpercentageSAVA",
+    "long_name": null,
+    "units": ""
+}

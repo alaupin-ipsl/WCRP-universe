@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "siflsenstop",
+    "type": "variable",
+    "description": "Net Upward Sensible Heat Flux over Sea Ice",
+    "drs_name": "siflsenstop",
+    "long_name": null,
+    "standard_name": "surface_upward_sensible_heat_flux",
+    "units": "W m-2"
+}

@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "voc15_xylene_em_speciated_voc_anthro",
+    "type": "variable",
+    "drs_name": "VOC15_xylene_em_speciated_VOC_anthro",
+    "long_name": null,
+    "units": ""
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tossq",
+    "type": "variable",
+    "description": "Square of Sea Surface Temperature",
+    "drs_name": "tossq",
+    "long_name": null,
+    "standard_name": "square_of_sea_surface_temperature",
+    "units": "degC2"
+}

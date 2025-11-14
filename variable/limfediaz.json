@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "limfediaz",
+    "type": "variable",
+    "description": "Iron Limitation of Diazotrophs",
+    "drs_name": "limfediaz",
+    "long_name": null,
+    "standard_name": "iron_growth_limitation_of_diazotrophic_phytoplankton",
+    "units": "1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "si",
+    "type": "variable",
+    "description": "Total Dissolved Inorganic Silicon Concentration",
+    "drs_name": "si",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_dissolved_inorganic_silicon_in_sea_water",
+    "units": "mol m-3"
+}

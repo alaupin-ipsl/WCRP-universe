@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "prcrop",
+    "type": "variable",
+    "description": "Precipitation over Crop Tile",
+    "drs_name": "prcrop",
+    "long_name": null,
+    "standard_name": "precipitation_flux",
+    "units": "kg m-2 s-1"
+}

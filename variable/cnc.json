@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cnc",
+    "type": "variable",
+    "description": "Canopy Covered Area Percentage",
+    "drs_name": "cnc",
+    "long_name": null,
+    "standard_name": "vegetation_area_fraction",
+    "units": "%"
+}

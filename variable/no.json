@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "no",
+    "type": "variable",
+    "description": "NO Volume Mixing Ratio",
+    "drs_name": "no",
+    "long_name": null,
+    "standard_name": "mole_fraction_of_nitrogen_monoxide_in_air",
+    "units": "mol mol-1"
+}

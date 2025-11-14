@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "slthick",
+    "type": "variable",
+    "description": "Thickness of Soil Layers",
+    "drs_name": "slthick",
+    "long_name": null,
+    "standard_name": "cell_thickness",
+    "units": "m"
+}

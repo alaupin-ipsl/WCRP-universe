@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "evu",
+    "type": "variable",
+    "description": "Eddy Viscosity Coefficient for Momentum",
+    "drs_name": "evu",
+    "long_name": null,
+    "standard_name": "atmosphere_momentum_diffusivity",
+    "units": "m2 s-1"
+}

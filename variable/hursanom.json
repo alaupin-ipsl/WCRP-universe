@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hursanom",
+    "type": "variable",
+    "description": "Near-Surface Relative Humidity Anomaly",
+    "drs_name": "hursanom",
+    "long_name": null,
+    "standard_name": "specific_humidity_anomaly",
+    "units": "1"
+}

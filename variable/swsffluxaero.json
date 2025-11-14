@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "swsffluxaero",
+    "type": "variable",
+    "description": "Shortwave Heating Rate Due to Volcanic Aerosols",
+    "drs_name": "swsffluxaero",
+    "long_name": null,
+    "standard_name": "surface_downwelling_shortwave_flux_in_air_due_to_volcanic_ambient_aerosol_particles",
+    "units": "W m-2"
+}

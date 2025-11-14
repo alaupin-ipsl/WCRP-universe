@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sistresave",
+    "type": "variable",
+    "description": "Average Normal Stress in Sea Ice",
+    "drs_name": "sistresave",
+    "long_name": null,
+    "standard_name": "sea_ice_average_normal_horizontal_stress",
+    "units": "N m-1"
+}

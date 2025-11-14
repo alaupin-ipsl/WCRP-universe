@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sweLut",
+    "type": "variable",
+    "description": "Snow Water Equivalent on Land-Use Tile",
+    "drs_name": "sweLut",
+    "long_name": null,
+    "standard_name": "lwe_thickness_of_surface_snow_amount",
+    "units": "m"
+}

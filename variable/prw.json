@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "prw",
+    "type": "variable",
+    "description": "Water Vapor Path",
+    "drs_name": "prw",
+    "long_name": null,
+    "standard_name": "atmosphere_mass_content_of_water_vapor",
+    "units": "kg m-2"
+}

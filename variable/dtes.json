@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dtes",
+    "type": "variable",
+    "description": "Change in Surface Heat Storage",
+    "drs_name": "dtes",
+    "long_name": null,
+    "standard_name": "change_over_time_in_thermal_energy_content_of_vegetation_and_litter_and_soil",
+    "units": "J m-2"
+}

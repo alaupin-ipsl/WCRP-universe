@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "od550aerh2o",
+    "type": "variable",
+    "description": "Aerosol Water Optical Thickness at 550nm",
+    "drs_name": "od550aerh2o",
+    "long_name": null,
+    "standard_name": "atmosphere_optical_thickness_due_to_water_in_ambient_aerosol_particles",
+    "units": "1"
+}

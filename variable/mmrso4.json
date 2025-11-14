@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mmrso4",
+    "type": "variable",
+    "description": "Aerosol Sulfate Mass Mixing Ratio",
+    "drs_name": "mmrso4",
+    "long_name": null,
+    "standard_name": "mass_fraction_of_sulfate_dry_aerosol_particles_in_air",
+    "units": "kg kg-1"
+}

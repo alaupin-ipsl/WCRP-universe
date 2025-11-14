@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cropfracc3",
+    "type": "variable",
+    "description": "Percentage Cover by C3 Crops",
+    "drs_name": "cropfracc3",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

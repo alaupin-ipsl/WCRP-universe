@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sifllwutop",
+    "type": "variable",
+    "description": "Upwelling Longwave Flux over Sea Ice",
+    "drs_name": "sifllwutop",
+    "long_name": null,
+    "standard_name": "surface_upwelling_longwave_flux_in_air",
+    "units": "W m-2"
+}

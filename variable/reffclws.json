@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "reffclws",
+    "type": "variable",
+    "description": "Stratiform Cloud Liquid Droplet Effective Radius",
+    "drs_name": "reffclws",
+    "long_name": null,
+    "standard_name": "effective_radius_of_stratiform_cloud_liquid_water_particles",
+    "units": "m"
+}

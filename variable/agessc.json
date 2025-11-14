@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "agessc",
+    "type": "variable",
+    "description": "Sea Water Age Since Surface Contact",
+    "drs_name": "agessc",
+    "long_name": null,
+    "standard_name": "sea_water_age_since_surface_contact",
+    "units": "yr"
+}

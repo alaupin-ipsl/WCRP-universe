@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "aoanh",
+    "type": "variable",
+    "description": "Northern Hemisphere Tracer Lifetime",
+    "drs_name": "aoanh",
+    "long_name": null,
+    "standard_name": "tracer_lifetime",
+    "units": "yr"
+}

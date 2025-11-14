@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sftgif",
+    "type": "variable",
+    "description": "Land Ice Area Percentage",
+    "drs_name": "sftgif",
+    "long_name": null,
+    "standard_name": "land_ice_area_fraction",
+    "units": "%"
+}

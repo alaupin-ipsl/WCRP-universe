@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "zostoga",
+    "type": "variable",
+    "description": "Global Average Thermosteric Sea Level Change",
+    "drs_name": "zostoga",
+    "long_name": null,
+    "standard_name": "global_average_thermosteric_sea_level_change",
+    "units": "m"
+}

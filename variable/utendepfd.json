@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "utendepfd",
+    "type": "variable",
+    "description": "Tendency of Eastward Wind Due to Eliassen-Palm Flux Divergence",
+    "drs_name": "utendepfd",
+    "long_name": null,
+    "standard_name": "tendency_of_eastward_wind_due_to_eliassen_palm_flux_divergence",
+    "units": "m s-2"
+}

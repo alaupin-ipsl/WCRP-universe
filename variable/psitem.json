@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "psitem",
+    "type": "variable",
+    "description": "Transformed Eulerian Mean Mass Streamfunction",
+    "drs_name": "psitem",
+    "long_name": null,
+    "standard_name": "atmosphere_transformed_eulerian_mean_meridional_overturning_mass_streamfunction",
+    "units": "kg s-1"
+}

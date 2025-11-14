@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dems",
+    "type": "variable",
+    "description": "Stratiform Cloud Emissivity",
+    "drs_name": "dems",
+    "long_name": null,
+    "standard_name": "stratiform_cloud_longwave_emissivity",
+    "units": "1"
+}

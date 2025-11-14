@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sosga",
+    "type": "variable",
+    "description": "Global Average Sea Surface Salinity",
+    "drs_name": "sosga",
+    "long_name": null,
+    "standard_name": "sea_surface_salinity",
+    "units": "0.001"
+}

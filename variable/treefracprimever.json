@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "treefracprimever",
+    "type": "variable",
+    "description": "Percentage Cover by Primary Evergreen Trees",
+    "drs_name": "treefracprimever",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

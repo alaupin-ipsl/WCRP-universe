@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "modelcellareai",
+    "type": "variable",
+    "description": "The Cell Area of the Ice Sheet Model",
+    "drs_name": "modelcellareai",
+    "long_name": null,
+    "standard_name": "cell_area",
+    "units": "m2"
+}

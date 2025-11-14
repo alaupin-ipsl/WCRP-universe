@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ch3coohsmoothedpercentagesava",
+    "type": "variable",
+    "drs_name": "CH3COOHsmoothedpercentageSAVA",
+    "long_name": null,
+    "units": ""
+}

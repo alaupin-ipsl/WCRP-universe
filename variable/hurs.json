@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hurs",
+    "type": "variable",
+    "description": "Near-Surface Relative Humidity",
+    "drs_name": "hurs",
+    "long_name": null,
+    "standard_name": "relative_humidity",
+    "units": "%"
+}

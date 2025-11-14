@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cRoot",
+    "type": "variable",
+    "description": "Carbon Mass in Roots",
+    "drs_name": "cRoot",
+    "long_name": null,
+    "standard_name": "root_mass_content_of_carbon",
+    "units": "kg m-2"
+}

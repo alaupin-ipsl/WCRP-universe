@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "orog",
+    "type": "variable",
+    "description": "Surface Altitude",
+    "drs_name": "orog",
+    "long_name": null,
+    "standard_name": "surface_altitude",
+    "units": "m"
+}

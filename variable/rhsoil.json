@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rhsoil",
+    "type": "variable",
+    "description": "Carbon Mass Flux into Atmosphere Due to Heterotrophic Respiration from Soil on Land",
+    "drs_name": "rhsoil",
+    "long_name": null,
+    "standard_name": "surface_upward_mass_flux_of_carbon_due_to_heterotrophic_respiration_in_soil",
+    "units": "kg m-2 s-1"
+}

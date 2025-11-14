@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sidmassevapsubl",
+    "type": "variable",
+    "description": "Sea-Ice Mass Change Through Evaporation and Sublimation",
+    "drs_name": "sidmassevapsubl",
+    "long_name": null,
+    "standard_name": "water_evapotranspiration_flux",
+    "units": "kg m-2 s-1"
+}

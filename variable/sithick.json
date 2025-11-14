@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sithick",
+    "type": "variable",
+    "description": "Sea Ice Thickness",
+    "drs_name": "sithick",
+    "long_name": null,
+    "standard_name": "sea_ice_thickness",
+    "units": "m"
+}

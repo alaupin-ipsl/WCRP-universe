@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wetso2",
+    "type": "variable",
+    "description": "Wet Deposition Rate of SO2",
+    "drs_name": "wetso2",
+    "long_name": null,
+    "standard_name": "minus_tendency_of_atmosphere_mass_content_of_sulfur_dioxide_due_to_wet_deposition",
+    "units": "kg m-2 s-1"
+}

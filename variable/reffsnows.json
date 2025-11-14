@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "reffsnows",
+    "type": "variable",
+    "description": "Hydrometeor Effective Radius of Stratiform Snowfall",
+    "drs_name": "reffsnows",
+    "long_name": null,
+    "standard_name": "effective_radius_of_stratiform_cloud_snow_particles",
+    "units": "m"
+}

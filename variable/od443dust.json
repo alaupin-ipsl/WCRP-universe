@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "od443dust",
+    "type": "variable",
+    "description": "Optical Thickness at 443nm Dust",
+    "drs_name": "od443dust",
+    "long_name": null,
+    "standard_name": "atmosphere_optical_thickness_due_to_dust_ambient_aerosol_particles",
+    "units": "1"
+}

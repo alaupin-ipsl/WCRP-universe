@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rlus",
+    "type": "variable",
+    "description": "Surface Upwelling Longwave Radiation",
+    "drs_name": "rlus",
+    "long_name": null,
+    "standard_name": "surface_upwelling_longwave_flux_in_air",
+    "units": "W m-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sw",
+    "type": "variable",
+    "description": "Surface Water Storage",
+    "drs_name": "sw",
+    "long_name": null,
+    "standard_name": "land_surface_liquid_water_amount",
+    "units": "kg m-2"
+}

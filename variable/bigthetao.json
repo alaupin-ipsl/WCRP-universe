@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "bigthetao",
+    "type": "variable",
+    "description": "Sea Water Conservative Temperature",
+    "drs_name": "bigthetao",
+    "long_name": null,
+    "standard_name": "sea_water_conservative_temperature",
+    "units": "degC"
+}

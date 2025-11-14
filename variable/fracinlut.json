@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "fracinlut",
+    "type": "variable",
+    "description": "Annual Gross Percentage That Was Transferred into This Tile from Other Land-Use Tiles",
+    "drs_name": "fracinlut",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wa",
+    "type": "variable",
+    "description": "Upward Air Velocity",
+    "drs_name": "wa",
+    "long_name": null,
+    "standard_name": "upward_air_velocity",
+    "units": "m s-1"
+}

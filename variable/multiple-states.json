@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "multiple-states",
+    "type": "variable",
+    "drs_name": "multiple-states",
+    "long_name": null,
+    "units": ""
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cldnvi",
+    "type": "variable",
+    "description": "Column Integrated Cloud Droplet Number",
+    "drs_name": "cldnvi",
+    "long_name": null,
+    "standard_name": "atmosphere_number_content_of_cloud_droplets",
+    "units": "m-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sfriver",
+    "type": "variable",
+    "description": "Salt Flux into Sea Water from Rivers",
+    "drs_name": "sfriver",
+    "long_name": null,
+    "standard_name": "salt_flux_into_sea_water_from_rivers",
+    "units": "kg m-2 s-1"
+}

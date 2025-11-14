@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "siitdthick",
+    "type": "variable",
+    "description": "Sea-Ice Thickness in Thickness Categories",
+    "drs_name": "siitdthick",
+    "long_name": null,
+    "standard_name": "sea_ice_thickness",
+    "units": "m"
+}

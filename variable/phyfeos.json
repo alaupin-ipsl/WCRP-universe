@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "phyfeos",
+    "type": "variable",
+    "description": "Surface Mole Concentration of Total Phytoplankton Expressed as Iron in Sea Water",
+    "drs_name": "phyfeos",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_phytoplankton_expressed_as_iron_in_sea_water",
+    "units": "mol m-3"
+}

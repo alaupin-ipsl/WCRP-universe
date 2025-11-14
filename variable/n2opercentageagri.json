@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "n2opercentageagri",
+    "type": "variable",
+    "drs_name": "N2OpercentageAGRI",
+    "long_name": null,
+    "units": ""
+}

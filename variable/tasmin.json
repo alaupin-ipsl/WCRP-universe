@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tasmin",
+    "type": "variable",
+    "description": "Daily Minimum Near-Surface Air Temperature",
+    "drs_name": "tasmin",
+    "long_name": null,
+    "standard_name": "air_temperature",
+    "units": "K"
+}

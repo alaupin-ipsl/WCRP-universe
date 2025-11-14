@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "voc03_propane_em_speciated_voc_anthro",
+    "type": "variable",
+    "drs_name": "VOC03_propane_em_speciated_VOC_anthro",
+    "long_name": null,
+    "units": ""
+}

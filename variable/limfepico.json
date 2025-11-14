@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "limfepico",
+    "type": "variable",
+    "description": "Iron Limitation of Picophytoplankton",
+    "drs_name": "limfepico",
+    "long_name": null,
+    "standard_name": "iron_growth_limitation_of_picophytoplankton",
+    "units": "1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "co2Clim",
+    "type": "variable",
+    "description": "Mole Fraction of CO2",
+    "drs_name": "co2Clim",
+    "long_name": null,
+    "standard_name": "mole_fraction_of_carbon_dioxide_in_air",
+    "units": "mol mol-1"
+}

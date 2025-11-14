@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clwmodis",
+    "type": "variable",
+    "description": "MODIS Liquid Cloud Percentage",
+    "drs_name": "clwmodis",
+    "long_name": null,
+    "standard_name": "liquid_water_cloud_area_fraction",
+    "units": "%"
+}

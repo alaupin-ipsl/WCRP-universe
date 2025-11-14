@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "aerasymbnd",
+    "type": "variable",
+    "description": "Aerosol Level Asymmetry Parameter for Each Band",
+    "drs_name": "aerasymbnd",
+    "long_name": null,
+    "standard_name": "asymmetry_factor_of_ambient_aerosol_particles",
+    "units": "1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dms",
+    "type": "variable",
+    "description": "Dimethyl Sulphide (DMS) Mole Fraction",
+    "drs_name": "dms",
+    "long_name": null,
+    "standard_name": "mole_fraction_of_dimethyl_sulfide_in_air",
+    "units": "mol mol-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "talknat",
+    "type": "variable",
+    "description": "Natural Total Alkalinity",
+    "drs_name": "talknat",
+    "long_name": null,
+    "standard_name": "sea_water_alkalinity_natural_analogue_expressed_as_mole_equivalent",
+    "units": "mol m-3"
+}

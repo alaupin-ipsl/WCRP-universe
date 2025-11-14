@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clic",
+    "type": "variable",
+    "description": "Mass Fraction of Convective Cloud Ice",
+    "drs_name": "clic",
+    "long_name": null,
+    "standard_name": "mass_fraction_of_convective_cloud_ice_in_air",
+    "units": "1"
+}

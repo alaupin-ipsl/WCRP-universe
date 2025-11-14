@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nmvocbulkpercentagedefo",
+    "type": "variable",
+    "drs_name": "NMVOCbulkpercentageDEFO",
+    "long_name": null,
+    "units": ""
+}

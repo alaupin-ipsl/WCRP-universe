@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "c4pftfrac",
+    "type": "variable",
+    "description": "Percentage Cover by C4 Plant Functional Type",
+    "drs_name": "c4pftfrac",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

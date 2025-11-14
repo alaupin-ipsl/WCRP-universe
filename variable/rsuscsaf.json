@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rsuscsaf",
+    "type": "variable",
+    "description": "Surface Upwelling Clean Clear-Sky Shortwave Radiation",
+    "drs_name": "rsuscsaf",
+    "long_name": null,
+    "standard_name": "surface_upwelling_shortwave_flux_in_air_assuming_clear_sky_and_no_aerosol",
+    "units": "W m-2"
+}

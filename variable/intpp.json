@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "intpp",
+    "type": "variable",
+    "description": "Primary Organic Carbon Production by All Types of Phytoplankton",
+    "drs_name": "intpp",
+    "long_name": null,
+    "standard_name": "net_primary_mole_productivity_of_biomass_expressed_as_carbon_by_phytoplankton",
+    "units": "mol m-2 s-1"
+}

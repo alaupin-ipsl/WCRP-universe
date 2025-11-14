@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tdps",
+    "type": "variable",
+    "description": "2m Dewpoint Temperature",
+    "drs_name": "tdps",
+    "long_name": null,
+    "standard_name": "dew_point_temperature",
+    "units": "K"
+}

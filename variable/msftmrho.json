@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "msftmrho",
+    "type": "variable",
+    "description": "Ocean Meridional Overturning Mass Streamfunction",
+    "drs_name": "msftmrho",
+    "long_name": null,
+    "standard_name": "ocean_meridional_overturning_mass_streamfunction",
+    "units": "kg s-1"
+}

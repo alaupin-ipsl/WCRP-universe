@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clc",
+    "type": "variable",
+    "description": "Convective Cloud Area Percentage",
+    "drs_name": "clc",
+    "long_name": null,
+    "standard_name": "convective_cloud_area_fraction_in_atmosphere_layer",
+    "units": "%"
+}

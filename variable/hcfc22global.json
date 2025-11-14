@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hcfc22global",
+    "type": "variable",
+    "description": "Global Mean Mole Fraction of HCFC22",
+    "drs_name": "hcfc22global",
+    "long_name": null,
+    "standard_name": "mole_fraction_of_hcfc22_in_air",
+    "units": "1e-12"
+}

@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hoch2chosmoothedpercentageagri",
+    "type": "variable",
+    "drs_name": "HOCH2CHOsmoothedpercentageAGRI",
+    "long_name": null,
+    "units": ""
+}

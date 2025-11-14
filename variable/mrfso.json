@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mrfso",
+    "type": "variable",
+    "description": "Soil Frozen Water Content",
+    "drs_name": "mrfso",
+    "long_name": null,
+    "standard_name": "soil_frozen_water_content",
+    "units": "kg m-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "icemis",
+    "type": "variable",
+    "description": "Ice Sheet Surface Ice Melt Flux",
+    "drs_name": "icemis",
+    "long_name": null,
+    "standard_name": "land_ice_surface_melt_flux",
+    "units": "kg m-2 s-1"
+}

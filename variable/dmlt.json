@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dmlt",
+    "type": "variable",
+    "description": "Depth to Soil Thaw",
+    "drs_name": "dmlt",
+    "long_name": null,
+    "standard_name": "depth_at_shallowest_isotherm_defined_by_soil_temperature",
+    "units": "m"
+}

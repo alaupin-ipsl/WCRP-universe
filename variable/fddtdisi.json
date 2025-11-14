@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "fddtdisi",
+    "type": "variable",
+    "description": "Rate of Change of Net Dissolved Inorganic Silicon",
+    "drs_name": "fddtdisi",
+    "long_name": null,
+    "standard_name": "tendency_of_ocean_mole_content_of_dissolved_inorganic_silicon",
+    "units": "mol m-2 s-1"
+}

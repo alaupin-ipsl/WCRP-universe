@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mmrbc",
+    "type": "variable",
+    "description": "Elemental Carbon Mass Mixing Ratio",
+    "drs_name": "mmrbc",
+    "long_name": null,
+    "standard_name": "mass_fraction_of_elemental_carbon_dry_aerosol_particles_in_air",
+    "units": "kg kg-1"
+}

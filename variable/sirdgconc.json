@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sirdgconc",
+    "type": "variable",
+    "description": "Percentage Cover of Sea Ice by Ridging",
+    "drs_name": "sirdgconc",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "1"
+}

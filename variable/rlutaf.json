@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rlutaf",
+    "type": "variable",
+    "description": "TOA Outgoing Aerosol-Free Longwave Radiation",
+    "drs_name": "rlutaf",
+    "long_name": null,
+    "standard_name": "toa_outgoing_longwave_flux",
+    "units": "W m-2"
+}

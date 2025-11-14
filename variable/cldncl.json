@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cldncl",
+    "type": "variable",
+    "description": "Cloud Droplet Number Concentration of Cloud Tops",
+    "drs_name": "cldncl",
+    "long_name": null,
+    "standard_name": "number_concentration_of_cloud_liquid_water_particles_in_air_at_liquid_water_cloud_top",
+    "units": "m-3"
+}

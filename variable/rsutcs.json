@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rsutcs",
+    "type": "variable",
+    "description": "TOA Outgoing Clear-Sky Shortwave Radiation",
+    "drs_name": "rsutcs",
+    "long_name": null,
+    "standard_name": "toa_outgoing_shortwave_flux_assuming_clear_sky",
+    "units": "W m-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "limfecalc",
+    "type": "variable",
+    "description": "Iron Limitation of Calcareous Phytoplankton",
+    "drs_name": "limfecalc",
+    "long_name": null,
+    "standard_name": "iron_growth_limitation_of_calcareous_phytoplankton",
+    "units": "1"
+}

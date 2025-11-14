@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cct",
+    "type": "variable",
+    "description": "Air Pressure at Convective Cloud Top",
+    "drs_name": "cct",
+    "long_name": null,
+    "standard_name": "air_pressure_at_convective_cloud_top",
+    "units": "Pa"
+}

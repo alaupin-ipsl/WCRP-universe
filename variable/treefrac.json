@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "treefrac",
+    "type": "variable",
+    "description": "Tree Cover Percentage",
+    "drs_name": "treefrac",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

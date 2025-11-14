@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "lwsnl",
+    "type": "variable",
+    "description": "Liquid Water Content of Snow Layer",
+    "drs_name": "lwsnl",
+    "long_name": null,
+    "standard_name": "liquid_water_content_of_surface_snow",
+    "units": "kg m-2"
+}

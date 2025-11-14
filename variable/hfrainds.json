@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfrainds",
+    "type": "variable",
+    "description": "Temperature Flux Due to Rainfall Expressed as Heat Flux into Sea Water",
+    "drs_name": "hfrainds",
+    "long_name": null,
+    "standard_name": "temperature_flux_due_to_rainfall_expressed_as_heat_flux_into_sea_water",
+    "units": "W m-2"
+}

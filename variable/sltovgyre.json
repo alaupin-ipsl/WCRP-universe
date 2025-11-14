@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sltovgyre",
+    "type": "variable",
+    "description": "Northward Ocean Salt Transport Due to Gyre",
+    "drs_name": "sltovgyre",
+    "long_name": null,
+    "standard_name": "northward_ocean_salt_transport_due_to_gyre",
+    "units": "kg s-1"
+}

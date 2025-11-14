@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "fgcfc11",
+    "type": "variable",
+    "description": "Surface Downward CFC11 Flux",
+    "drs_name": "fgcfc11",
+    "long_name": null,
+    "standard_name": "surface_downward_mole_flux_of_cfc11",
+    "units": "mol m-2 s-1"
+}

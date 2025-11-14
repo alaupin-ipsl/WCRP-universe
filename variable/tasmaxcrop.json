@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tasmaxcrop",
+    "type": "variable",
+    "description": "Daily Maximum Near-Surface Air Temperature over Crop Tile",
+    "drs_name": "tasmaxcrop",
+    "long_name": null,
+    "standard_name": "air_temperature",
+    "units": "K"
+}

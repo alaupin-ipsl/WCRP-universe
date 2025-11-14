@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "c8h10percentagedefo",
+    "type": "variable",
+    "drs_name": "C8H10percentageDEFO",
+    "long_name": null,
+    "units": ""
+}

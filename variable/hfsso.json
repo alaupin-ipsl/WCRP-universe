@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfsso",
+    "type": "variable",
+    "description": "Surface Downward Sensible Heat Flux",
+    "drs_name": "hfsso",
+    "long_name": null,
+    "standard_name": "surface_downward_sensible_heat_flux",
+    "units": "W m-2"
+}

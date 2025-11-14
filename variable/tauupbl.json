@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tauupbl",
+    "type": "variable",
+    "description": "Eastward Surface Stress from Planetary Boundary Layer Scheme",
+    "drs_name": "tauupbl",
+    "long_name": null,
+    "standard_name": "surface_downward_eastward_stress_due_to_boundary_layer_mixing",
+    "units": "Pa"
+}

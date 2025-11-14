@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dgw",
+    "type": "variable",
+    "description": "Change in Groundwater",
+    "drs_name": "dgw",
+    "long_name": null,
+    "standard_name": "change_over_time_in_groundwater_amount",
+    "units": "kg m-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cVegTree",
+    "type": "variable",
+    "description": "Carbon Mass in Vegetation on Tree Tiles",
+    "drs_name": "cVegTree",
+    "long_name": null,
+    "standard_name": "vegetation_carbon_content",
+    "units": "kg m-2"
+}

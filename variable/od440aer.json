@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "od440aer",
+    "type": "variable",
+    "description": "Ambient Aerosol Optical Thickness at 440nm",
+    "drs_name": "od440aer",
+    "long_name": null,
+    "standard_name": "atmosphere_optical_thickness_due_to_ambient_aerosol_particles",
+    "units": "1"
+}

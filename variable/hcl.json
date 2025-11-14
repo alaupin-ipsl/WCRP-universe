@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hcl",
+    "type": "variable",
+    "description": "HCl Volume Mixing Ratio",
+    "drs_name": "hcl",
+    "long_name": null,
+    "standard_name": "mole_fraction_of_hydrogen_chloride_in_air",
+    "units": "mol mol-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rsus",
+    "type": "variable",
+    "description": "Surface Upwelling Shortwave Radiation",
+    "drs_name": "rsus",
+    "long_name": null,
+    "standard_name": "surface_upwelling_shortwave_flux_in_air",
+    "units": "W m-2"
+}

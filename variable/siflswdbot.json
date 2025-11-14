@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "siflswdbot",
+    "type": "variable",
+    "description": "Downwelling Shortwave Flux Under Sea Ice",
+    "drs_name": "siflswdbot",
+    "long_name": null,
+    "standard_name": "downwelling_shortwave_flux_in_sea_water_at_sea_ice_base",
+    "units": "W m-2"
+}

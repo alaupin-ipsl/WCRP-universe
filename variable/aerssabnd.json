@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "aerssabnd",
+    "type": "variable",
+    "description": "Aerosol Level Single Scattering Albedo for Each Band",
+    "drs_name": "aerssabnd",
+    "long_name": null,
+    "standard_name": "single_scattering_albedo_in_air_due_to_ambient_aerosol_particles",
+    "units": "1"
+}

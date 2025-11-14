@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rootd",
+    "type": "variable",
+    "description": "Maximum Root Depth",
+    "drs_name": "rootd",
+    "long_name": null,
+    "standard_name": "root_depth",
+    "units": "m"
+}

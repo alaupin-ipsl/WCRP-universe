@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "fddtdin",
+    "type": "variable",
+    "description": "Rate of Change of Net Dissolved Inorganic Nitrogen",
+    "drs_name": "fddtdin",
+    "long_name": null,
+    "standard_name": "tendency_of_ocean_mole_content_of_dissolved_inorganic_nitrogen",
+    "units": "mol m-2 s-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cl",
+    "type": "variable",
+    "description": "Percentage Cloud Cover",
+    "drs_name": "cl",
+    "long_name": null,
+    "standard_name": "cloud_area_fraction_in_atmosphere_layer",
+    "units": "%"
+}

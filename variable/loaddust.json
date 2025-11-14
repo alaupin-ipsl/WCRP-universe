@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "loaddust",
+    "type": "variable",
+    "description": "Load of Dust",
+    "drs_name": "loaddust",
+    "long_name": null,
+    "standard_name": "atmosphere_mass_content_of_dust_dry_aerosol_particles",
+    "units": "kg m-2"
+}

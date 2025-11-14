@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rsusis",
+    "type": "variable",
+    "description": "Ice Sheet Surface Upwelling Shortwave Radiation",
+    "drs_name": "rsusis",
+    "long_name": null,
+    "standard_name": "surface_upwelling_shortwave_flux_in_air",
+    "units": "W m-2"
+}

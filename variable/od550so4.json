@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "od550so4",
+    "type": "variable",
+    "description": "Sulfate Aerosol Optical Depth at 550nm",
+    "drs_name": "od550so4",
+    "long_name": null,
+    "standard_name": "atmosphere_optical_thickness_due_to_sulfate_ambient_aerosol_particles",
+    "units": "1"
+}

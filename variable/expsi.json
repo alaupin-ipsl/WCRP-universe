@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "expsi",
+    "type": "variable",
+    "description": "Sinking Particulate Silicon Flux",
+    "drs_name": "expsi",
+    "long_name": null,
+    "standard_name": "sinking_mole_flux_of_particulate_silicon_in_sea_water",
+    "units": "mol m-2 s-1"
+}

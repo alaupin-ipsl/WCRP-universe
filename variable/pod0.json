@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "pod0",
+    "type": "variable",
+    "description": "Phytotoxic Ozone Dose",
+    "drs_name": "pod0",
+    "long_name": null,
+    "standard_name": "integral_wrt_time_of_mole_stomatal_uptake_of_ozone",
+    "units": "mol m-2"
+}

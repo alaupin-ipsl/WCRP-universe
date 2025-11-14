@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rls",
+    "type": "variable",
+    "description": "Net Longwave Surface Radiation",
+    "drs_name": "rls",
+    "long_name": null,
+    "standard_name": "surface_net_downward_longwave_flux",
+    "units": "W m-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nh50",
+    "type": "variable",
+    "description": "Artificial Tracer with 50 Day Lifetime",
+    "drs_name": "nh50",
+    "long_name": null,
+    "standard_name": "mole_fraction_of_artificial_tracer_with_fixed_lifetime_in_air",
+    "units": "mol mol-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wbptemp7h",
+    "type": "variable",
+    "description": "Wet Bulb Potential Temperature",
+    "drs_name": "wbptemp7h",
+    "long_name": null,
+    "standard_name": "wet_bulb_potential_temperature",
+    "units": "K"
+}

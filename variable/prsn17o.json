@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "prsn17o",
+    "type": "variable",
+    "description": "Precipitation Flux of Snow and Ice Containing Oxygen-17 (H2 17O)",
+    "drs_name": "prsn17o",
+    "long_name": null,
+    "standard_name": "solid_precipitation_flux_containing_17O",
+    "units": "kg m-2 s-1"
+}

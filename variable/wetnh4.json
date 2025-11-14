@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wetnh4",
+    "type": "variable",
+    "description": "Wet Deposition Rate of NH4",
+    "drs_name": "wetnh4",
+    "long_name": null,
+    "standard_name": "minus_tendency_of_atmosphere_mass_content_of_ammonium_dry_aerosol_particles_due_to_wet_deposition",
+    "units": "kg m-2 s-1"
+}

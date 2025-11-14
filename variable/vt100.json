@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "vt100",
+    "type": "variable",
+    "description": "Northward Eddy Temperature Flux",
+    "drs_name": "vt100",
+    "long_name": null,
+    "standard_name": "covariance_over_longitude_of_northward_wind_and_air_temperature",
+    "units": "K m s-1"
+}

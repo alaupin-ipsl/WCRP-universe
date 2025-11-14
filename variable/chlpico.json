@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "chlpico",
+    "type": "variable",
+    "description": "Mass Concentration of Picophytoplankton Expressed as Chlorophyll in Sea Water",
+    "drs_name": "chlpico",
+    "long_name": null,
+    "standard_name": "mass_concentration_of_picophytoplankton_expressed_as_chlorophyll_in_sea_water",
+    "units": "kg m-3"
+}

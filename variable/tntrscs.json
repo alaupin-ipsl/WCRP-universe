@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tntrscs",
+    "type": "variable",
+    "description": "Tendency of Air Temperature Due to Clear Sky Shortwave Radiative Heating",
+    "drs_name": "tntrscs",
+    "long_name": null,
+    "standard_name": "tendency_of_air_temperature_due_to_shortwave_heating_assuming_clear_sky",
+    "units": "K s-1"
+}

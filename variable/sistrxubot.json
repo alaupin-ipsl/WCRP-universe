@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sistrxubot",
+    "type": "variable",
+    "description": "X-Component of Ocean Stress on Sea Ice",
+    "drs_name": "sistrxubot",
+    "long_name": null,
+    "standard_name": "upward_x_stress_at_sea_ice_base",
+    "units": "N m-2"
+}

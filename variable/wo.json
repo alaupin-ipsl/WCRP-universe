@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wo",
+    "type": "variable",
+    "description": "Sea Water Vertical Velocity",
+    "drs_name": "wo",
+    "long_name": null,
+    "standard_name": "upward_sea_water_velocity",
+    "units": "m s-1"
+}

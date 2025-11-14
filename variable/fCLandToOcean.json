@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "fCLandToOcean",
+    "type": "variable",
+    "description": "Lateral Transfer of Carbon out of Grid Cell That Eventually Goes into Ocean",
+    "drs_name": "fCLandToOcean",
+    "long_name": null,
+    "standard_name": "mass_flux_of_carbon_into_sea_water_from_rivers",
+    "units": "kg m-2 s-1"
+}

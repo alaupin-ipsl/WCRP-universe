@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "utendogw",
+    "type": "variable",
+    "description": "Eastward Acceleration Due to Orographic Gravity Wave Drag",
+    "drs_name": "utendogw",
+    "long_name": null,
+    "standard_name": "tendency_of_eastward_wind_due_to_orographic_gravity_wave_drag",
+    "units": "m s-2"
+}

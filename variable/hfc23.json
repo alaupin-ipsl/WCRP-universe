@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfc23",
+    "type": "variable",
+    "drs_name": "hfc23",
+    "long_name": null,
+    "units": ""
+}

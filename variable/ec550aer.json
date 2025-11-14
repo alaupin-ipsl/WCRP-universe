@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ec550aer",
+    "type": "variable",
+    "description": "Aerosol Extinction Coefficient",
+    "drs_name": "ec550aer",
+    "long_name": null,
+    "standard_name": "volume_extinction_coefficient_in_air_due_to_ambient_aerosol_particles",
+    "units": "m-1"
+}

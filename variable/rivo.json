@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rivo",
+    "type": "variable",
+    "description": "River Discharge",
+    "drs_name": "rivo",
+    "long_name": null,
+    "standard_name": "outgoing_water_volume_transport_along_river_channel",
+    "units": "m3 s-1"
+}

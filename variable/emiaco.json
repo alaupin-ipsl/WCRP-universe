@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "emiaco",
+    "type": "variable",
+    "description": "Total Emission Rate of Anthropogenic CO",
+    "drs_name": "emiaco",
+    "long_name": null,
+    "standard_name": "tendency_of_atmosphere_mass_content_of_carbon_monoxide_due_to_emission",
+    "units": "kg m-2 s-1"
+}

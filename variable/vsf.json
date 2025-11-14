@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "vsf",
+    "type": "variable",
+    "description": "Virtual Salt Flux into Sea Water",
+    "drs_name": "vsf",
+    "long_name": null,
+    "standard_name": "virtual_salt_flux_into_sea_water",
+    "units": "kg m-2 s-1"
+}

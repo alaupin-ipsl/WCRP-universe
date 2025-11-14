@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nroot",
+    "type": "variable",
+    "description": "Nitrogen Mass in Roots",
+    "drs_name": "nroot",
+    "long_name": null,
+    "standard_name": "root_mass_content_of_nitrogen",
+    "units": "kg m-2"
+}

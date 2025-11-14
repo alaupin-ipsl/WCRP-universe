@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "solbnd",
+    "type": "variable",
+    "description": "TOA Solar Irradiance for Each Band",
+    "drs_name": "solbnd",
+    "long_name": null,
+    "standard_name": "toa_incoming_shortwave_flux",
+    "units": "W m-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hcho",
+    "type": "variable",
+    "description": "Formaldehyde Volume Mixing Ratio",
+    "drs_name": "hcho",
+    "long_name": null,
+    "standard_name": "mole_fraction_of_formaldehyde_in_air",
+    "units": "mol mol-1"
+}

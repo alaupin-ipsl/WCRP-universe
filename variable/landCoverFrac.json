@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "landCoverFrac",
+    "type": "variable",
+    "description": "Percentage of Area by Vegetation or Land-Cover Category",
+    "drs_name": "landCoverFrac",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

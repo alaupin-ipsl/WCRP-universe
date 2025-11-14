@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "difvtrbo",
+    "type": "variable",
+    "description": "Ocean Vertical Tracer Diffusivity Due to Background",
+    "drs_name": "difvtrbo",
+    "long_name": null,
+    "standard_name": "ocean_vertical_tracer_diffusivity_due_to_background",
+    "units": "m2 s-1"
+}

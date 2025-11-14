@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "difmxylo",
+    "type": "variable",
+    "description": "Ocean Momentum XY Laplacian Diffusivity",
+    "drs_name": "difmxylo",
+    "long_name": null,
+    "standard_name": "ocean_momentum_xy_laplacian_diffusivity",
+    "units": "m2 s-1"
+}

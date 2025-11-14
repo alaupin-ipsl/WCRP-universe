@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sistremax",
+    "type": "variable",
+    "description": "Maximum Shear Stress in Sea Ice",
+    "drs_name": "sistremax",
+    "long_name": null,
+    "standard_name": "maximum_over_coordinate_rotation_of_sea_ice_horizontal_shear_stress",
+    "units": "N m-1"
+}

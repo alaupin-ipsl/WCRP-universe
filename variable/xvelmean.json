@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "xvelmean",
+    "type": "variable",
+    "description": "X-Component of Land Ice Vertical Mean Velocity",
+    "drs_name": "xvelmean",
+    "long_name": null,
+    "standard_name": "land_ice_vertical_mean_x_velocity",
+    "units": "m s-1"
+}

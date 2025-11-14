@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfsifrazil2d",
+    "type": "variable",
+    "description": "Heat Flux into Sea Water Due to Frazil Ice Formation",
+    "drs_name": "hfsifrazil2d",
+    "long_name": null,
+    "standard_name": "heat_flux_into_sea_water_due_to_freezing_of_frazil_ice",
+    "units": "W m-2"
+}

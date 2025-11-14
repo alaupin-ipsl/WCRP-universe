@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cother",
+    "type": "variable",
+    "description": "Carbon Mass in Vegetation Components Other than Leaves, Stems and Roots",
+    "drs_name": "cother",
+    "long_name": null,
+    "standard_name": "miscellaneous_living_matter_mass_content_of_carbon",
+    "units": "kg m-2"
+}

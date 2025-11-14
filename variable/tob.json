@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tob",
+    "type": "variable",
+    "description": "Sea Water Potential Temperature at Sea Floor",
+    "drs_name": "tob",
+    "long_name": null,
+    "standard_name": "sea_water_potential_temperature_at_sea_floor",
+    "units": "degC"
+}

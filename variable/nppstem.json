@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nppstem",
+    "type": "variable",
+    "description": "Net Primary Production Allocated to Stem as Carbon Mass Flux [kgC m-2 s-1]",
+    "drs_name": "nppstem",
+    "long_name": null,
+    "standard_name": "net_primary_productivity_of_biomass_expressed_as_carbon_accumulated_in_stems",
+    "units": "kg m-2 s-1"
+}

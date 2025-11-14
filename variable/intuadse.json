@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "intuadse",
+    "type": "variable",
+    "description": "Vertically Integrated Eastward Dry Statice Energy Transport",
+    "drs_name": "intuadse",
+    "long_name": null,
+    "standard_name": "eastward_atmosphere_dry_static_energy_transport_across_unit_distance",
+    "units": "MJ m-1 s-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfsnthermds2d",
+    "type": "variable",
+    "description": "Heat Flux into Sea Water Due to Snow Thermodynamics",
+    "drs_name": "hfsnthermds2d",
+    "long_name": null,
+    "standard_name": "heat_flux_into_sea_water_due_to_snow_thermodynamics",
+    "units": "W m-2"
+}

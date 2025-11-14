@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "vegHeightTree",
+    "type": "variable",
+    "description": "Height of Trees",
+    "drs_name": "vegHeightTree",
+    "long_name": null,
+    "standard_name": "canopy_height",
+    "units": "m"
+}

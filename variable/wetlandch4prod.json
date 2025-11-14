@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wetlandch4prod",
+    "type": "variable",
+    "description": "Grid Averaged Methane Production (Methanogenesis) from Wetlands",
+    "drs_name": "wetlandch4prod",
+    "long_name": null,
+    "standard_name": "surface_upward_mass_flux_of_methane_due_to_emission_from_wetland_biological_production",
+    "units": "kg m-2 s-1"
+}

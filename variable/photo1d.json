@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "photo1d",
+    "type": "variable",
+    "description": "Photolysis Rate of Ozone (O3) to Excited Atomic Oxygen (the Singlet D State, O1D)",
+    "drs_name": "photo1d",
+    "long_name": null,
+    "standard_name": "photolysis_rate_of_ozone_to_1D_oxygen_atom",
+    "units": "s-1"
+}

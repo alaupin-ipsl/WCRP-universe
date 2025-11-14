@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "vegheightpasture",
+    "type": "variable",
+    "description": "Height of Pastures",
+    "drs_name": "vegheightpasture",
+    "long_name": null,
+    "standard_name": "canopy_height",
+    "units": "m"
+}

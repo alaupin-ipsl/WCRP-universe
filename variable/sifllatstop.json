@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sifllatstop",
+    "type": "variable",
+    "description": "Net Latent Heat Flux over Sea Ice",
+    "drs_name": "sifllatstop",
+    "long_name": null,
+    "standard_name": "surface_upward_latent_heat_flux",
+    "units": "W m-2"
+}

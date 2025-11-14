@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dcw",
+    "type": "variable",
+    "description": "Change in Interception Storage",
+    "drs_name": "dcw",
+    "long_name": null,
+    "standard_name": "change_over_time_in_canopy_water_amount",
+    "units": "kg m-2"
+}

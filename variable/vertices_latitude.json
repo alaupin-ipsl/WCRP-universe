@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "vertices_latitude",
+    "type": "variable",
+    "drs_name": "vertices_latitude",
+    "long_name": null,
+    "units": "degrees_north"
+}

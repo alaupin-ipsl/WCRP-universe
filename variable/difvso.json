@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "difvso",
+    "type": "variable",
+    "description": "Ocean Vertical Salt Diffusivity",
+    "drs_name": "difvso",
+    "long_name": null,
+    "standard_name": "ocean_vertical_salt_diffusivity",
+    "units": "m2 s-1"
+}

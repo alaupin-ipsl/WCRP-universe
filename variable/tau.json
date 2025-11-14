@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tau",
+    "type": "variable",
+    "description": "Momentum Flux",
+    "drs_name": "tau",
+    "long_name": null,
+    "standard_name": "magnitude_of_surface_downward_stress",
+    "units": "N m-2"
+}

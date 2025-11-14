@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "chlmisc",
+    "type": "variable",
+    "description": "Mass Concentration of Other Phytoplankton Expressed as Chlorophyll in Sea Water",
+    "drs_name": "chlmisc",
+    "long_name": null,
+    "standard_name": "mass_concentration_of_miscellaneous_phytoplankton_expressed_as_chlorophyll_in_sea_water",
+    "units": "kg m-3"
+}

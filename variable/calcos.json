@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "calcos",
+    "type": "variable",
+    "description": "Surface Calcite Concentration",
+    "drs_name": "calcos",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_calcite_expressed_as_carbon_in_sea_water",
+    "units": "mol m-3"
+}

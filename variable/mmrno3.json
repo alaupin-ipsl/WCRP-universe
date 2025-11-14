@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mmrno3",
+    "type": "variable",
+    "description": "NO3 Aerosol Mass Mixing Ratio",
+    "drs_name": "mmrno3",
+    "long_name": null,
+    "standard_name": "mass_fraction_of_nitrate_dry_aerosol_particles_in_air",
+    "units": "kg kg-1"
+}

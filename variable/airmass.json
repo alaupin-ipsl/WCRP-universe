@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "airmass",
+    "type": "variable",
+    "description": "Vertically Integrated Mass Content of Air in Layer",
+    "drs_name": "airmass",
+    "long_name": null,
+    "standard_name": "atmosphere_mass_of_air_per_unit_area",
+    "units": "kg m-2"
+}

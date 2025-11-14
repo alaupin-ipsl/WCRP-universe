@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "bigthetaoga",
+    "type": "variable",
+    "description": "Global Average Sea Water Conservative Temperature",
+    "drs_name": "bigthetaoga",
+    "long_name": null,
+    "standard_name": "sea_water_conservative_temperature",
+    "units": "degC"
+}

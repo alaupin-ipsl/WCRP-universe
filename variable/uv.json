@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "uv",
+    "type": "variable",
+    "description": "Product of Eastward Wind and Northward Wind",
+    "drs_name": "uv",
+    "long_name": null,
+    "standard_name": "product_of_eastward_wind_and_northward_wind",
+    "units": "m2 s-2"
+}

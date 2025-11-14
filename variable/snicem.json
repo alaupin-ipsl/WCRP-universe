@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "snicem",
+    "type": "variable",
+    "description": "Surface Snow and Ice Melt Flux",
+    "drs_name": "snicem",
+    "long_name": null,
+    "standard_name": "surface_snow_and_ice_melt_flux",
+    "units": "kg m-2 s-1"
+}

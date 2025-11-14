@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "phnatos",
+    "type": "variable",
+    "description": "Surface Natural pH",
+    "drs_name": "phnatos",
+    "long_name": null,
+    "standard_name": "sea_water_ph_natural_analogue_reported_on_total_scale",
+    "units": "1"
+}

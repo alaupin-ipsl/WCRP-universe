@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "od550bc",
+    "type": "variable",
+    "description": "Black Carbon Optical Thickness at 550nm",
+    "drs_name": "od550bc",
+    "long_name": null,
+    "standard_name": "atmosphere_optical_thickness_due_to_black_carbon_ambient_aerosol",
+    "units": "1"
+}

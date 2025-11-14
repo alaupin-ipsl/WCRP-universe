@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dtesn",
+    "type": "variable",
+    "description": "Change in Snow and Ice Cold Content",
+    "drs_name": "dtesn",
+    "long_name": null,
+    "standard_name": "change_over_time_in_thermal_energy_content_of_ice_and_snow_on_land",
+    "units": "J m-2"
+}

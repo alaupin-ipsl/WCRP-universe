@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "meanage",
+    "type": "variable",
+    "description": "Mean Age of Stratospheric Air",
+    "drs_name": "meanage",
+    "long_name": null,
+    "standard_name": "age_of_stratospheric_air",
+    "units": "yr"
+}

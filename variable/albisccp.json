@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "albisccp",
+    "type": "variable",
+    "description": "ISCCP Mean Cloud Albedo",
+    "drs_name": "albisccp",
+    "long_name": null,
+    "standard_name": "cloud_albedo",
+    "units": "1"
+}

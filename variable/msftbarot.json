@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "msftbarot",
+    "type": "variable",
+    "description": "Ocean Barotropic Mass Streamfunction",
+    "drs_name": "msftbarot",
+    "long_name": null,
+    "standard_name": "ocean_barotropic_mass_streamfunction",
+    "units": "kg s-1"
+}

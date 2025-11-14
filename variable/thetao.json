@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "thetao",
+    "type": "variable",
+    "description": "Sea Water Potential Temperature",
+    "drs_name": "thetao",
+    "long_name": null,
+    "standard_name": "sea_water_potential_temperature",
+    "units": "degC"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ut",
+    "type": "variable",
+    "description": "Product of Air Temperature and Eastward Wind",
+    "drs_name": "ut",
+    "long_name": null,
+    "standard_name": "product_of_eastward_wind_and_air_temperature",
+    "units": "K m s-1"
+}

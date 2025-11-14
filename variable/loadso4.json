@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "loadso4",
+    "type": "variable",
+    "description": "Load of SO4",
+    "drs_name": "loadso4",
+    "long_name": null,
+    "standard_name": "atmosphere_mass_content_of_sulfate_dry_aerosol_particles",
+    "units": "kg m-2"
+}

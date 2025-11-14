@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "limfemisc",
+    "type": "variable",
+    "description": "Iron Limitation of Other Phytoplankton",
+    "drs_name": "limfemisc",
+    "long_name": null,
+    "standard_name": "iron_growth_limitation_of_miscellaneous_phytoplankton",
+    "units": "1"
+}

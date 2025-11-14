@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "lwp",
+    "type": "variable",
+    "description": "Liquid Water Path",
+    "drs_name": "lwp",
+    "long_name": null,
+    "standard_name": "atmosphere_mass_content_of_cloud_liquid_water",
+    "units": "kg m-2"
+}

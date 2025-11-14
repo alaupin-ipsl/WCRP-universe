@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rlusIs",
+    "type": "variable",
+    "description": "Ice Sheet Surface Upwelling Longwave Radiation",
+    "drs_name": "rlusIs",
+    "long_name": null,
+    "standard_name": "surface_upwelling_longwave_flux_in_air",
+    "units": "W m-2"
+}

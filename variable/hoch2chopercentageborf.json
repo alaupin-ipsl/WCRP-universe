@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hoch2chopercentageborf",
+    "type": "variable",
+    "drs_name": "HOCH2CHOpercentageBORF",
+    "long_name": null,
+    "units": ""
+}

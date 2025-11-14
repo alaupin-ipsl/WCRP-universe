@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clayfrac",
+    "type": "variable",
+    "description": "Clay Fraction",
+    "drs_name": "clayfrac",
+    "long_name": null,
+    "standard_name": "volume_fraction_of_clay_in_soil",
+    "units": "1"
+}

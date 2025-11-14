@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "limirrpico",
+    "type": "variable",
+    "description": "Irradiance Limitation of Picophytoplankton",
+    "drs_name": "limirrpico",
+    "long_name": null,
+    "standard_name": "growth_limitation_of_picophytoplankton_due_to_solar_irradiance",
+    "units": "1"
+}

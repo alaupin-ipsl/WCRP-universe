@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "multiple-static",
+    "type": "variable",
+    "drs_name": "multiple-static",
+    "long_name": null,
+    "units": ""
+}

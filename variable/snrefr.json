@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "snrefr",
+    "type": "variable",
+    "description": "Refreezing of Water in the Snow",
+    "drs_name": "snrefr",
+    "long_name": null,
+    "standard_name": "surface_snow_and_ice_refreezing_flux",
+    "units": "kg m-2 s-1"
+}

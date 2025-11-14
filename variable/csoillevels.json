@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "csoillevels",
+    "type": "variable",
+    "description": "Carbon Mass in Each Model Soil Level (Summed over All Soil Carbon Pools in That Level)",
+    "drs_name": "csoillevels",
+    "long_name": null,
+    "standard_name": "soil_mass_content_of_carbon",
+    "units": "kg m-2"
+}

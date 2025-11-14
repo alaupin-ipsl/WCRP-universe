@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "t2",
+    "type": "variable",
+    "description": "Mean-Squared Air Temperature",
+    "drs_name": "t2",
+    "long_name": null,
+    "standard_name": "square_of_air_temperature",
+    "units": "K2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "oh",
+    "type": "variable",
+    "description": "OH Volume Mixing Ratio",
+    "drs_name": "oh",
+    "long_name": null,
+    "standard_name": "mole_fraction_of_hydroxyl_radical_in_air",
+    "units": "mol mol-1"
+}

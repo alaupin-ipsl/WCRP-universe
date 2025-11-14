@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "minpblz",
+    "type": "variable",
+    "description": "Minimum PBL Height",
+    "drs_name": "minpblz",
+    "long_name": null,
+    "standard_name": "atmosphere_boundary_layer_thickness",
+    "units": "m"
+}

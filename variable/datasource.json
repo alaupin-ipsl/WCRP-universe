@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "datasource",
+    "type": "variable",
+    "drs_name": "datasource",
+    "long_name": null,
+    "units": ""
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ugrido",
+    "type": "variable",
+    "description": "UGRID Grid Specification",
+    "drs_name": "ugrido",
+    "long_name": null,
+    "standard_name": "longitude",
+    "units": ""
+}

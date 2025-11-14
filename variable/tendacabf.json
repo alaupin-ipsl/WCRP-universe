@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tendacabf",
+    "type": "variable",
+    "description": "Total Surface Mass Balance Flux",
+    "drs_name": "tendacabf",
+    "long_name": null,
+    "standard_name": "tendency_of_land_ice_mass_due_to_surface_mass_balance",
+    "units": "kg s-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "evspsblpot",
+    "type": "variable",
+    "description": "Potential Evapotranspiration",
+    "drs_name": "evspsblpot",
+    "long_name": null,
+    "standard_name": "water_potential_evaporation_flux",
+    "units": "kg m-2 s-1"
+}

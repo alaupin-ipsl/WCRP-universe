@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tosga",
+    "type": "variable",
+    "description": "Global Average Sea Surface Temperature",
+    "drs_name": "tosga",
+    "long_name": null,
+    "standard_name": "sea_surface_temperature",
+    "units": "degC"
+}

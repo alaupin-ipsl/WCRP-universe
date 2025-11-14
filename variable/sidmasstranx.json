@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sidmasstranx",
+    "type": "variable",
+    "description": "X-Component of Sea-Ice Mass Transport",
+    "drs_name": "sidmasstranx",
+    "long_name": null,
+    "standard_name": "sea_ice_x_transport",
+    "units": "kg s-1"
+}

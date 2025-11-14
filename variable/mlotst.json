@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mlotst",
+    "type": "variable",
+    "description": "Ocean Mixed Layer Thickness Defined by Sigma T",
+    "drs_name": "mlotst",
+    "long_name": null,
+    "standard_name": "ocean_mixed_layer_thickness_defined_by_sigma_t",
+    "units": "m"
+}

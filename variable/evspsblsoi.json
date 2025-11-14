@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "evspsblsoi",
+    "type": "variable",
+    "description": "Water Evaporation from Soil",
+    "drs_name": "evspsblsoi",
+    "long_name": null,
+    "standard_name": "water_evaporation_flux_from_soil",
+    "units": "kg m-2 s-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "prsnsn",
+    "type": "variable",
+    "description": "Fraction of Snowfall (Including Hail and Graupel) on Snow",
+    "drs_name": "prsnsn",
+    "long_name": null,
+    "standard_name": "mass_fraction_of_solid_precipitation_falling_onto_surface_snow",
+    "units": "1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sob",
+    "type": "variable",
+    "description": "Sea Water Salinity at Sea Floor",
+    "drs_name": "sob",
+    "long_name": null,
+    "standard_name": "sea_water_salinity_at_sea_floor",
+    "units": "0.001"
+}

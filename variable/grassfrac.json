@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "grassfrac",
+    "type": "variable",
+    "description": "Natural Grass Area Percentage",
+    "drs_name": "grassfrac",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

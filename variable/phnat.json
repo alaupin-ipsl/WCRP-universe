@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "phnat",
+    "type": "variable",
+    "description": "Natural pH",
+    "drs_name": "phnat",
+    "long_name": null,
+    "standard_name": "sea_water_ph_natural_analogue_reported_on_total_scale",
+    "units": "1"
+}

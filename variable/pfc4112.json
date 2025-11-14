@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "pfc4112",
+    "type": "variable",
+    "drs_name": "pfc4112",
+    "long_name": null,
+    "units": ""
+}

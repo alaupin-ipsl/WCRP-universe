@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ssa",
+    "type": "variable",
+    "drs_name": "ssa",
+    "long_name": null,
+    "units": ""
+}

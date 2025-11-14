@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "isop",
+    "type": "variable",
+    "description": "Isoprene Volume Mixing Ratio",
+    "drs_name": "isop",
+    "long_name": null,
+    "standard_name": "mole_fraction_of_isoprene_in_air",
+    "units": "mol mol-1"
+}

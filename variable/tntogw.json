@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tntogw",
+    "type": "variable",
+    "description": "Temperature Tendency Due to Orographic Gravity Wave Dissipation",
+    "drs_name": "tntogw",
+    "long_name": null,
+    "standard_name": "tendency_of_air_temperature_due_to_dissipation_of_orographic_gravity_waves",
+    "units": "K s-1"
+}

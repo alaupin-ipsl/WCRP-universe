@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sltbasin",
+    "type": "variable",
+    "description": "Northward Ocean Salt Transport",
+    "drs_name": "sltbasin",
+    "long_name": null,
+    "standard_name": "northward_ocean_salt_transport",
+    "units": "kg s-1"
+}

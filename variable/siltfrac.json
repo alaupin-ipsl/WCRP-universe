@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "siltfrac",
+    "type": "variable",
+    "description": "Silt Fraction",
+    "drs_name": "siltfrac",
+    "long_name": null,
+    "standard_name": "volume_fraction_of_silt_in_soil",
+    "units": "1"
+}

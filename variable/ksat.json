@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ksat",
+    "type": "variable",
+    "description": "Saturated Hydraulic Conductivity",
+    "drs_name": "ksat",
+    "long_name": null,
+    "standard_name": "soil_hydraulic_conductivity_at_saturation",
+    "units": "micron s-1"
+}

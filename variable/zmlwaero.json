@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "zmlwaero",
+    "type": "variable",
+    "description": "Zonal Mean Longwave Heating Rate Due to Volcanic Aerosols",
+    "drs_name": "zmlwaero",
+    "long_name": null,
+    "standard_name": "tendency_of_air_temperature_due_to_longwave_heating_from_volcanic_ambient_aerosol_particles",
+    "units": "K s-1"
+}

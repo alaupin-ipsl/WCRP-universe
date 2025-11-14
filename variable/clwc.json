@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clwc",
+    "type": "variable",
+    "description": "Mass Fraction of Convective Cloud Liquid Water",
+    "drs_name": "clwc",
+    "long_name": null,
+    "standard_name": "mass_fraction_of_convective_cloud_liquid_water_in_air",
+    "units": "1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "zos",
+    "type": "variable",
+    "description": "Sea Surface Height Above Geoid",
+    "drs_name": "zos",
+    "long_name": null,
+    "standard_name": "sea_surface_height_above_geoid",
+    "units": "m"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dtaus",
+    "type": "variable",
+    "description": "Stratiform Cloud Optical Depth",
+    "drs_name": "dtaus",
+    "long_name": null,
+    "standard_name": "atmosphere_optical_thickness_due_to_stratiform_cloud",
+    "units": "1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "treefracbdlevg",
+    "type": "variable",
+    "description": "Broadleaf Evergreen Tree Area Percentage",
+    "drs_name": "treefracbdlevg",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

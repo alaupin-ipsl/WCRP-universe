@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sza",
+    "type": "variable",
+    "description": "Solar Zenith Angle",
+    "drs_name": "sza",
+    "long_name": null,
+    "standard_name": "solar_zenith_angle",
+    "units": "degree"
+}

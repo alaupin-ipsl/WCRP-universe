@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "intuaw",
+    "type": "variable",
+    "description": "Vertically Integrated Eastward Moisture Transport",
+    "drs_name": "intuaw",
+    "long_name": null,
+    "standard_name": "eastward_atmosphere_water_transport_across_unit_distance",
+    "units": "kg m-1 s-1"
+}

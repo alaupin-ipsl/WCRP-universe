@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rld",
+    "type": "variable",
+    "description": "Downwelling Longwave Radiation",
+    "drs_name": "rld",
+    "long_name": null,
+    "standard_name": "downwelling_longwave_flux_in_air",
+    "units": "W m-2"
+}

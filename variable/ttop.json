@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ttop",
+    "type": "variable",
+    "description": "Air Temperature at Cloud Top",
+    "drs_name": "ttop",
+    "long_name": null,
+    "standard_name": "air_temperature_at_cloud_top",
+    "units": "K"
+}

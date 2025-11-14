@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rootdsl",
+    "type": "variable",
+    "description": "Root Distribution",
+    "drs_name": "rootdsl",
+    "long_name": null,
+    "standard_name": "root_mass_content_of_carbon",
+    "units": "kg m-2"
+}

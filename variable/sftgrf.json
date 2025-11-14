@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sftgrf",
+    "type": "variable",
+    "description": "Grounded Ice Sheet Area Percentage",
+    "drs_name": "sftgrf",
+    "long_name": null,
+    "standard_name": "grounded_ice_sheet_area_fraction",
+    "units": "%"
+}

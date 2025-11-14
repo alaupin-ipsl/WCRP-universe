@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "od550aerso",
+    "type": "variable",
+    "description": "Stratospheric Optical Depth at 550nm (All Aerosols) 2D-Field (Stratosphere Only)",
+    "drs_name": "od550aerso",
+    "long_name": null,
+    "standard_name": "stratosphere_optical_thickness_due_to_ambient_aerosol_particles",
+    "units": "1"
+}

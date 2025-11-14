@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mrtws",
+    "type": "variable",
+    "description": "Terrestrial Water Storage",
+    "drs_name": "mrtws",
+    "long_name": null,
+    "standard_name": "land_water_amount",
+    "units": "kg m-2"
+}

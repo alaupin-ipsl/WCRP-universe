@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "expp",
+    "type": "variable",
+    "description": "Sinking Particulate Organic Phosphorus Flux",
+    "drs_name": "expp",
+    "long_name": null,
+    "standard_name": "sinking_mole_flux_of_particulate_organic_phosphorus_in_sea_water",
+    "units": "mol m-2 s-1"
+}

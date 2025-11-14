@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfsslut",
+    "type": "variable",
+    "description": "Sensible Heat Flux on Land-Use Tile",
+    "drs_name": "hfsslut",
+    "long_name": null,
+    "standard_name": "surface_upward_sensible_heat_flux",
+    "units": "W m-2"
+}

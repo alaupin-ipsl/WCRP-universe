@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "pbsi",
+    "type": "variable",
+    "description": "Biogenic Silicon Production",
+    "drs_name": "pbsi",
+    "long_name": null,
+    "standard_name": "tendency_of_mole_concentration_of_silicon_in_sea_water_due_to_biological_production",
+    "units": "mol m-3 s-1"
+}

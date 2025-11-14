@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "no3",
+    "type": "variable",
+    "description": "Dissolved Nitrate Concentration",
+    "drs_name": "no3",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_nitrate_in_sea_water",
+    "units": "mol m-3"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tpf",
+    "type": "variable",
+    "description": "Permafrost Layer Thickness",
+    "drs_name": "tpf",
+    "long_name": null,
+    "standard_name": "permafrost_layer_thickness",
+    "units": "m"
+}

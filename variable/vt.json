@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "vt",
+    "type": "variable",
+    "description": "Product of Air Temperature and Northward Wind",
+    "drs_name": "vt",
+    "long_name": null,
+    "standard_name": "product_of_northward_wind_and_air_temperature",
+    "units": "K m s-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tntrl27",
+    "type": "variable",
+    "description": "Tendency of Air Temperature Due to Longwave Radiative Heating",
+    "drs_name": "tntrl27",
+    "long_name": null,
+    "standard_name": "tendency_of_air_temperature_due_to_longwave_heating",
+    "units": "K s-1"
+}

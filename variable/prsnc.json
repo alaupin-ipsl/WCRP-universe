@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "prsnc",
+    "type": "variable",
+    "description": "Convective Snowfall Flux",
+    "drs_name": "prsnc",
+    "long_name": null,
+    "standard_name": "convective_snowfall_flux",
+    "units": "kg m-2 s-1"
+}

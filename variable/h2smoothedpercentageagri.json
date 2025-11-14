@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "h2smoothedpercentageagri",
+    "type": "variable",
+    "drs_name": "H2smoothedpercentageAGRI",
+    "long_name": null,
+    "units": ""
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "htovgyre",
+    "type": "variable",
+    "description": "Northward Ocean Heat Transport Due to Gyre",
+    "drs_name": "htovgyre",
+    "long_name": null,
+    "standard_name": "northward_ocean_heat_transport_due_to_gyre",
+    "units": "W"
+}

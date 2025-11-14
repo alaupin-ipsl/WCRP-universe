@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cfc12global",
+    "type": "variable",
+    "description": "Global Mean Mole Fraction of CFC12",
+    "drs_name": "cfc12global",
+    "long_name": null,
+    "standard_name": "mole_fraction_of_cfc12_in_air",
+    "units": "1e-12"
+}

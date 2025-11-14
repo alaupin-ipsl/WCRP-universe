@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "so",
+    "type": "variable",
+    "description": "Sea Water Salinity",
+    "drs_name": "so",
+    "long_name": null,
+    "standard_name": "sea_water_salinity",
+    "units": "0.001"
+}

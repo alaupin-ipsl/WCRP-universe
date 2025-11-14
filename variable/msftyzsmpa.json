@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "msftyzsmpa",
+    "type": "variable",
+    "description": "Ocean Y Overturning Mass Streamfunction Due to Parameterized Submesoscale Advection",
+    "drs_name": "msftyzsmpa",
+    "long_name": null,
+    "standard_name": "ocean_meridional_overturning_mass_streamfunction_due_to_parameterized_submesoscale_eddy_advection",
+    "units": "kg s-1"
+}

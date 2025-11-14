@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rsd4co2",
+    "type": "variable",
+    "description": "Downwelling Shortwave Radiation 4XCO2 Atmosphere",
+    "drs_name": "rsd4co2",
+    "long_name": null,
+    "standard_name": "downwelling_shortwave_flux_in_air",
+    "units": "W m-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cdnc",
+    "type": "variable",
+    "description": "Cloud Liquid Droplet Number Concentration",
+    "drs_name": "cdnc",
+    "long_name": null,
+    "standard_name": "number_concentration_of_cloud_liquid_water_particles_in_air",
+    "units": "m-3"
+}

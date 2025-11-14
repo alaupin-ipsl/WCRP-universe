@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rsutaf",
+    "type": "variable",
+    "description": "TOA Outgoing Aerosol-Free Shortwave Radiation",
+    "drs_name": "rsutaf",
+    "long_name": null,
+    "standard_name": "toa_outgoing_shortwave_flux",
+    "units": "W m-2"
+}

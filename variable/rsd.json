@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rsd",
+    "type": "variable",
+    "description": "Downwelling Shortwave Radiation",
+    "drs_name": "rsd",
+    "long_name": null,
+    "standard_name": "downwelling_shortwave_flux_in_air",
+    "units": "W m-2"
+}

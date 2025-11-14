@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "snm",
+    "type": "variable",
+    "description": "Surface Snow Melt",
+    "drs_name": "snm",
+    "long_name": null,
+    "standard_name": "surface_snow_melt_flux",
+    "units": "kg m-2 s-1"
+}

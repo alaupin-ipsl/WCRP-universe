@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sivol",
+    "type": "variable",
+    "description": "Sea-Ice Volume per Area",
+    "drs_name": "sivol",
+    "long_name": null,
+    "standard_name": "sea_ice_thickness",
+    "units": "m"
+}

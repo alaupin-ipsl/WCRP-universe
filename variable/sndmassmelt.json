@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sndmassmelt",
+    "type": "variable",
+    "description": "Snow Mass Rate of Change Through Melt",
+    "drs_name": "sndmassmelt",
+    "long_name": null,
+    "standard_name": "surface_snow_melt_flux",
+    "units": "kg m-2 s-1"
+}

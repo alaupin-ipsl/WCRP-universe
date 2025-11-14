@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "vegHeight",
+    "type": "variable",
+    "description": "Height of the Vegetation Canopy",
+    "drs_name": "vegHeight",
+    "long_name": null,
+    "standard_name": "canopy_height",
+    "units": "m"
+}

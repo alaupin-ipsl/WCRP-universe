@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "co3nat",
+    "type": "variable",
+    "description": "Natural Carbonate Ion Concentration",
+    "drs_name": "co3nat",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_carbonate_natural_analogue_expressed_as_carbon_in_sea_water",
+    "units": "mol m-3"
+}

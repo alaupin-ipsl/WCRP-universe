@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tslsilut",
+    "type": "variable",
+    "description": "Surface Temperature on Landuse Tile",
+    "drs_name": "tslsilut",
+    "long_name": null,
+    "standard_name": "surface_temperature",
+    "units": "K"
+}

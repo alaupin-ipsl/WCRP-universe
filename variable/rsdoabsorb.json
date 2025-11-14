@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rsdoabsorb",
+    "type": "variable",
+    "description": "Net Rate of Absorption of Shortwave Energy in Ocean Layer",
+    "drs_name": "rsdoabsorb",
+    "long_name": null,
+    "standard_name": "net_rate_of_absorption_of_shortwave_energy_in_ocean_layer",
+    "units": "W m-2"
+}

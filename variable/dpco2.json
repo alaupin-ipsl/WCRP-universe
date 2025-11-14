@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dpco2",
+    "type": "variable",
+    "description": "Delta CO2 Partial Pressure",
+    "drs_name": "dpco2",
+    "long_name": null,
+    "standard_name": "surface_carbon_dioxide_partial_pressure_difference_between_sea_water_and_air",
+    "units": "Pa"
+}

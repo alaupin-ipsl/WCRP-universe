@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "multiple-transitions",
+    "type": "variable",
+    "drs_name": "multiple-transitions",
+    "long_name": null,
+    "units": ""
+}

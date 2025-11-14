@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sndmasssnf",
+    "type": "variable",
+    "description": "Snow Mass Change Through Snow Fall",
+    "drs_name": "sndmasssnf",
+    "long_name": null,
+    "standard_name": "snowfall_flux",
+    "units": "kg m-2 s-1"
+}

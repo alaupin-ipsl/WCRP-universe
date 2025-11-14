@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wap27",
+    "type": "variable",
+    "description": "Omega (=dp/dt)",
+    "drs_name": "wap27",
+    "long_name": null,
+    "standard_name": "lagrangian_tendency_of_air_pressure",
+    "units": "Pa s-1"
+}

@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ch2osmoothedpercentageborf",
+    "type": "variable",
+    "drs_name": "CH2OsmoothedpercentageBORF",
+    "long_name": null,
+    "units": ""
+}

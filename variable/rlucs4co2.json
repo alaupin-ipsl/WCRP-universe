@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rlucs4co2",
+    "type": "variable",
+    "description": "Upwelling Clear-Sky Longwave Radiation 4XCO2 Atmosphere",
+    "drs_name": "rlucs4co2",
+    "long_name": null,
+    "standard_name": "upwelling_longwave_flux_in_air_assuming_clear_sky",
+    "units": "W m-2"
+}

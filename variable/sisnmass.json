@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sisnmass",
+    "type": "variable",
+    "description": "Snow Mass per Area",
+    "drs_name": "sisnmass",
+    "long_name": null,
+    "standard_name": "liquid_water_content_of_surface_snow",
+    "units": "kg m-2"
+}

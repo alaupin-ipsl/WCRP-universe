@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "siflswutop",
+    "type": "variable",
+    "description": "Upwelling Shortwave Flux over Sea Ice",
+    "drs_name": "siflswutop",
+    "long_name": null,
+    "standard_name": "surface_upwelling_shortwave_flux_in_air",
+    "units": "W m-2"
+}

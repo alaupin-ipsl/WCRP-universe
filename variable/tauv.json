@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tauv",
+    "type": "variable",
+    "description": "Surface Downward Northward Wind Stress",
+    "drs_name": "tauv",
+    "long_name": null,
+    "standard_name": "surface_downward_northward_stress",
+    "units": "Pa"
+}

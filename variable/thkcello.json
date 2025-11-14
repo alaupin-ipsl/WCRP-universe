@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "thkcello",
+    "type": "variable",
+    "description": "Ocean Model Cell Thickness",
+    "drs_name": "thkcello",
+    "long_name": null,
+    "standard_name": "cell_thickness",
+    "units": "m"
+}

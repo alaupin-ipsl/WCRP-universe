@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "snmsl",
+    "type": "variable",
+    "description": "Water Flowing out of Snowpack",
+    "drs_name": "snmsl",
+    "long_name": null,
+    "standard_name": "liquid_water_mass_flux_into_soil_due_to_surface_snow_melt",
+    "units": "kg m-2 s-1"
+}

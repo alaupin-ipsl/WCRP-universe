@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nudgincsm",
+    "type": "variable",
+    "description": "Nudging Increment of Water in Soil Moisture",
+    "drs_name": "nudgincsm",
+    "long_name": null,
+    "standard_name": "nudging_increment_in_mass_content_of_water_in_soil",
+    "units": "kg m-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cw",
+    "type": "variable",
+    "description": "Total Canopy Water Storage",
+    "drs_name": "cw",
+    "long_name": null,
+    "standard_name": "canopy_water_amount",
+    "units": "kg m-2"
+}

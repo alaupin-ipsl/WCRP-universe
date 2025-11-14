@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "fediss",
+    "type": "variable",
+    "description": "Particulate Source of Dissolved Iron",
+    "drs_name": "fediss",
+    "long_name": null,
+    "standard_name": "tendency_of_mole_concentration_of_dissolved_iron_in_sea_water_due_to_dissolution_from_inorganic_particles",
+    "units": "mol m-3 s-1"
+}

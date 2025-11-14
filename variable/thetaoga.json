@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "thetaoga",
+    "type": "variable",
+    "description": "Global Average Sea Water Potential Temperature",
+    "drs_name": "thetaoga",
+    "long_name": null,
+    "standard_name": "sea_water_potential_temperature",
+    "units": "degC"
+}

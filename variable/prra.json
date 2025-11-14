@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "prra",
+    "type": "variable",
+    "drs_name": "prra",
+    "long_name": null,
+    "units": ""
+}

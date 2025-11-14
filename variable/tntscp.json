@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tntscp",
+    "type": "variable",
+    "description": "Tendency of Air Temperature Due to Stratiform Clouds and Precipitation",
+    "drs_name": "tntscp",
+    "long_name": null,
+    "standard_name": "tendency_of_air_temperature_due_to_stratiform_cloud_and_precipitation",
+    "units": "K s-1"
+}

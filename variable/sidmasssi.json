@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sidmasssi",
+    "type": "variable",
+    "description": "Sea-Ice Mass Change Through Snow-to-Ice Conversion",
+    "drs_name": "sidmasssi",
+    "long_name": null,
+    "standard_name": "tendency_of_sea_ice_amount_due_to_conversion_of_snow_to_sea_ice",
+    "units": "kg m-2 s-1"
+}

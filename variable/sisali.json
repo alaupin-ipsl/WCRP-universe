@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sisali",
+    "type": "variable",
+    "description": "Sea Ice Salinity",
+    "drs_name": "sisali",
+    "long_name": null,
+    "standard_name": "sea_ice_salinity",
+    "units": "0.001"
+}

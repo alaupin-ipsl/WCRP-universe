@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "albdiffbnd",
+    "type": "variable",
+    "description": "Diffuse Surface Albedo for Each Band",
+    "drs_name": "albdiffbnd",
+    "long_name": null,
+    "standard_name": "surface_diffuse_shortwave_hemispherical_reflectance",
+    "units": "1"
+}

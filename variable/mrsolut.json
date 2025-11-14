@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mrsolut",
+    "type": "variable",
+    "description": "Total Soil Moisture",
+    "drs_name": "mrsolut",
+    "long_name": null,
+    "standard_name": "mass_content_of_water_in_soil",
+    "units": "kg m-2"
+}

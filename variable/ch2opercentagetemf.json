@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ch2opercentagetemf",
+    "type": "variable",
+    "drs_name": "CH2OpercentageTEMF",
+    "long_name": null,
+    "units": ""
+}

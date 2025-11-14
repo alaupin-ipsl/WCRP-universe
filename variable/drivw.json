@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "drivw",
+    "type": "variable",
+    "description": "Change in River Storage",
+    "drs_name": "drivw",
+    "long_name": null,
+    "standard_name": "change_over_time_in_river_water_amount",
+    "units": "kg m-2"
+}

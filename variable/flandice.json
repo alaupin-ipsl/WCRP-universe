@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "flandice",
+    "type": "variable",
+    "description": "Water Flux into Sea Water from Land Ice",
+    "drs_name": "flandice",
+    "long_name": null,
+    "standard_name": "water_flux_into_sea_water_from_land_ice",
+    "units": "kg m-2 s-1"
+}

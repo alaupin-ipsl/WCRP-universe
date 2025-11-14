@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rainmxrat27",
+    "type": "variable",
+    "description": "Mass Fraction of Rain in Air",
+    "drs_name": "rainmxrat27",
+    "long_name": null,
+    "standard_name": "mass_fraction_of_liquid_precipitation_in_air",
+    "units": "1"
+}

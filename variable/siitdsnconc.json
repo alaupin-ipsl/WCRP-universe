@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "siitdsnconc",
+    "type": "variable",
+    "description": "Snow Area Percentages in Ice Thickness Categories",
+    "drs_name": "siitdsnconc",
+    "long_name": null,
+    "standard_name": "surface_snow_area_fraction",
+    "units": "%"
+}

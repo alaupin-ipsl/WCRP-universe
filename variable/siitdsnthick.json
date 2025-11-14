@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "siitdsnthick",
+    "type": "variable",
+    "description": "Snow Thickness in Ice Thickness Categories",
+    "drs_name": "siitdsnthick",
+    "long_name": null,
+    "standard_name": "surface_snow_thickness",
+    "units": "m"
+}

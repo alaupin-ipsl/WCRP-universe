@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "eow",
+    "type": "variable",
+    "description": "Open Water Evaporation",
+    "drs_name": "eow",
+    "long_name": null,
+    "standard_name": "surface_water_evaporation_flux",
+    "units": "kg m-2 s-1"
+}

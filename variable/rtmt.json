@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rtmt",
+    "type": "variable",
+    "description": "Net Downward Radiative Flux at Top of Model",
+    "drs_name": "rtmt",
+    "long_name": null,
+    "standard_name": "net_downward_radiative_flux_at_top_of_atmosphere_model",
+    "units": "W m-2"
+}

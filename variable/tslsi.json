@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tslsi",
+    "type": "variable",
+    "description": "Surface Temperature Where Land or Sea Ice",
+    "drs_name": "tslsi",
+    "long_name": null,
+    "standard_name": "surface_temperature",
+    "units": "K"
+}

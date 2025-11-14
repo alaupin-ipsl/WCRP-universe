@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "simass",
+    "type": "variable",
+    "description": "Sea-Ice Mass per Area",
+    "drs_name": "simass",
+    "long_name": null,
+    "standard_name": "sea_ice_amount",
+    "units": "kg m-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "grpllsprof",
+    "type": "variable",
+    "description": "Stratiform Graupel Flux",
+    "drs_name": "grpllsprof",
+    "long_name": null,
+    "standard_name": "stratiform_graupel_flux",
+    "units": "kg m-2 s-1"
+}

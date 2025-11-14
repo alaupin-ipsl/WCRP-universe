@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clcalipsoice",
+    "type": "variable",
+    "description": "CALIPSO Ice Cloud Percentage",
+    "drs_name": "clcalipsoice",
+    "long_name": null,
+    "standard_name": "ice_cloud_area_fraction_in_atmosphere_layer",
+    "units": "%"
+}

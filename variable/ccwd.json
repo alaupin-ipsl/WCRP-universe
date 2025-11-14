@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ccwd",
+    "type": "variable",
+    "description": "Carbon Mass in Coarse Woody Debris",
+    "drs_name": "ccwd",
+    "long_name": null,
+    "standard_name": "wood_debris_mass_content_of_carbon",
+    "units": "kg m-2"
+}

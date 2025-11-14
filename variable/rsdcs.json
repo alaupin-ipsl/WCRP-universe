@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rsdcs",
+    "type": "variable",
+    "description": "Downwelling Clear-Sky Shortwave Radiation",
+    "drs_name": "rsdcs",
+    "long_name": null,
+    "standard_name": "downwelling_shortwave_flux_in_air_assuming_clear_sky",
+    "units": "W m-2"
+}

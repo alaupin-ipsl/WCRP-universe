@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sitimefrac",
+    "type": "variable",
+    "description": "Fraction of Time Steps with Sea Ice",
+    "drs_name": "sitimefrac",
+    "long_name": null,
+    "standard_name": "fraction_of_time_with_sea_ice_area_fraction_above_threshold",
+    "units": "1"
+}

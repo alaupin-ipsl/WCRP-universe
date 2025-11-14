@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "fco2nat",
+    "type": "variable",
+    "description": "Surface Carbon Mass Flux into the Atmosphere Due to Natural Sources [kgC m-2 s-1]",
+    "drs_name": "fco2nat",
+    "long_name": null,
+    "standard_name": "surface_upward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_emission_from_natural_sources",
+    "units": "kg m-2 s-1"
+}

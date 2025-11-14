@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wfonocorr",
+    "type": "variable",
+    "description": "Water Flux into Sea Water Without Flux Correction",
+    "drs_name": "wfonocorr",
+    "long_name": null,
+    "standard_name": "water_flux_into_sea_water_without_flux_correction",
+    "units": "kg m-2 s-1"
+}

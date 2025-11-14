@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "emilnox",
+    "type": "variable",
+    "description": "Layer-Integrated Lightning Production of NOx",
+    "drs_name": "emilnox",
+    "long_name": null,
+    "standard_name": "tendency_of_atmosphere_moles_of_nox_expressed_as_nitrogen",
+    "units": "mol s-1"
+}

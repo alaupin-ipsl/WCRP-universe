@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "grplmxrat27",
+    "type": "variable",
+    "description": "Graupel Mixing Ratio",
+    "drs_name": "grplmxrat27",
+    "long_name": null,
+    "standard_name": "mass_fraction_of_graupel_in_air",
+    "units": "1"
+}

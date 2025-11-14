@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "phydiat",
+    "type": "variable",
+    "description": "Mole Concentration of Diatoms Expressed as Carbon in Sea Water",
+    "drs_name": "phydiat",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_diatoms_expressed_as_carbon_in_sea_water",
+    "units": "mol m-3"
+}

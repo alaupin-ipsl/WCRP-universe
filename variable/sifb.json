@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sifb",
+    "type": "variable",
+    "description": "Sea-Ice Freeboard",
+    "drs_name": "sifb",
+    "long_name": null,
+    "standard_name": "sea_ice_freeboard",
+    "units": "m"
+}

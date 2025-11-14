@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "emiso4",
+    "type": "variable",
+    "description": "Total Direct Emission Rate of SO4",
+    "drs_name": "emiso4",
+    "long_name": null,
+    "standard_name": "tendency_of_atmosphere_mass_content_of_sulfate_dry_aerosol_particles_due_to_emission",
+    "units": "kg m-2 s-1"
+}

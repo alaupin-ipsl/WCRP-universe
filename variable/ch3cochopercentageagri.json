@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ch3cochopercentageagri",
+    "type": "variable",
+    "drs_name": "CH3COCHOpercentageAGRI",
+    "long_name": null,
+    "units": ""
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sidivvel",
+    "type": "variable",
+    "description": "Divergence of the Sea-Ice Velocity Field",
+    "drs_name": "sidivvel",
+    "long_name": null,
+    "standard_name": "divergence_of_sea_ice_velocity",
+    "units": "s-1"
+}

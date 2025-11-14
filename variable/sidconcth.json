@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sidconcth",
+    "type": "variable",
+    "description": "Sea-Ice Area Percentage Tendency Due to Thermodynamics",
+    "drs_name": "sidconcth",
+    "long_name": null,
+    "standard_name": "tendency_of_sea_ice_area_fraction_due_to_thermodynamics",
+    "units": "s-1"
+}

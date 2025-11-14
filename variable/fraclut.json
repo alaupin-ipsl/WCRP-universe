@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "fraclut",
+    "type": "variable",
+    "description": "Percentage of Grid Cell for Each Land-Use Tile",
+    "drs_name": "fraclut",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

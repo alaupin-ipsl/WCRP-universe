@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clwvi",
+    "type": "variable",
+    "description": "Condensed Water Path",
+    "drs_name": "clwvi",
+    "long_name": null,
+    "standard_name": "atmosphere_mass_content_of_cloud_condensed_water",
+    "units": "kg m-2"
+}

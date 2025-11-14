@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "lwtoafluxaerocs",
+    "type": "variable",
+    "description": "TOA Outgoing Clear-Sky Longwave Flux Due to Volcanic Aerosols",
+    "drs_name": "lwtoafluxaerocs",
+    "long_name": null,
+    "standard_name": "toa_outgoing_longwave_flux_due_to_volcanic_ambient_aerosol_particles_assuming_clear_sky",
+    "units": "W m-2"
+}

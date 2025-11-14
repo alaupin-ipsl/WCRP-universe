@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfmlt",
+    "type": "variable",
+    "description": "Energy of Fusion",
+    "drs_name": "hfmlt",
+    "long_name": null,
+    "standard_name": "surface_snow_and_ice_melt_heat_flux",
+    "units": "W m-2"
+}

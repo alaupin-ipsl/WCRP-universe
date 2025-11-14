@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nh4",
+    "type": "variable",
+    "description": "Dissolved Ammonium Concentration",
+    "drs_name": "nh4",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_ammonium_in_sea_water",
+    "units": "mol m-3"
+}

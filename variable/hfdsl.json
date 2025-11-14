@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfdsl",
+    "type": "variable",
+    "description": "Downward Heat Flux at Land Surface",
+    "drs_name": "hfdsl",
+    "long_name": null,
+    "standard_name": "surface_downward_heat_flux_in_air",
+    "units": "W m-2"
+}

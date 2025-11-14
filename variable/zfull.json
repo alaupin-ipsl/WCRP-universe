@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "zfull",
+    "type": "variable",
+    "description": "Altitude of Model Full-Levels",
+    "drs_name": "zfull",
+    "long_name": null,
+    "standard_name": "height_above_reference_ellipsoid",
+    "units": "m"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "c13litter",
+    "type": "variable",
+    "description": "Mass of 13C in Litter Pool",
+    "drs_name": "c13litter",
+    "long_name": null,
+    "standard_name": "litter_mass_content_of_13C",
+    "units": "kg m-2"
+}

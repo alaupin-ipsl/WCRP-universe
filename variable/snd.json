@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "snd",
+    "type": "variable",
+    "description": "Snow Depth",
+    "drs_name": "snd",
+    "long_name": null,
+    "standard_name": "surface_snow_thickness",
+    "units": "m"
+}

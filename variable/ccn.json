@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ccn",
+    "type": "variable",
+    "description": "Cloud Condensation Nuclei Concentration at Liquid Cloud Top",
+    "drs_name": "ccn",
+    "long_name": null,
+    "standard_name": "number_concentration_of_cloud_condensation_nuclei_at_stp_in_air",
+    "units": "m-3"
+}

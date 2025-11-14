@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "higheralkenessmoothedpercentageborf",
+    "type": "variable",
+    "drs_name": "HigherAlkenessmoothedpercentageBORF",
+    "long_name": null,
+    "units": ""
+}

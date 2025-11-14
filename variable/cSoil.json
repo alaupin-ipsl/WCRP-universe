@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cSoil",
+    "type": "variable",
+    "description": "Carbon Mass in Model Soil Pool",
+    "drs_name": "cSoil",
+    "long_name": null,
+    "standard_name": "soil_mass_content_of_carbon",
+    "units": "kg m-2"
+}

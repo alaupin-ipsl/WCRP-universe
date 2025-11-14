@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "siforcecoriolx",
+    "type": "variable",
+    "description": "Coriolis Force Term in Force Balance (X-Component)",
+    "drs_name": "siforcecoriolx",
+    "long_name": null,
+    "standard_name": "sea_ice_x_force_per_unit_area_due_to_coriolis_effect",
+    "units": "N m-2"
+}

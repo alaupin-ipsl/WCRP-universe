@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hcc140a",
+    "type": "variable",
+    "drs_name": "hcc140a",
+    "long_name": null,
+    "units": ""
+}

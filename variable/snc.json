@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "snc",
+    "type": "variable",
+    "description": "Snow Area Percentage",
+    "drs_name": "snc",
+    "long_name": null,
+    "standard_name": "surface_snow_area_fraction",
+    "units": "%"
+}

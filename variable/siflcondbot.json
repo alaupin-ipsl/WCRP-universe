@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "siflcondbot",
+    "type": "variable",
+    "description": "Net Conductive Heat Fluxes in Ice at the Bottom",
+    "drs_name": "siflcondbot",
+    "long_name": null,
+    "standard_name": "basal_downward_heat_flux_in_sea_ice",
+    "units": "W m-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "baresoilfrac",
+    "type": "variable",
+    "description": "Bare Soil Percentage Area Coverage",
+    "drs_name": "baresoilfrac",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

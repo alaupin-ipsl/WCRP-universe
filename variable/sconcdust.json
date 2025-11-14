@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sconcdust",
+    "type": "variable",
+    "description": "Surface Concentration of Dust",
+    "drs_name": "sconcdust",
+    "long_name": null,
+    "standard_name": "mass_concentration_of_dust_dry_aerosol_particles_in_air",
+    "units": "kg m-3"
+}

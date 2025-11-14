@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "toz",
+    "type": "variable",
+    "description": "Total Column Ozone",
+    "drs_name": "toz",
+    "long_name": null,
+    "standard_name": "equivalent_thickness_at_stp_of_atmosphere_ozone_content",
+    "units": "m"
+}

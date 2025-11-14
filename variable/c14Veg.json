@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "c14Veg",
+    "type": "variable",
+    "description": "Mass of 14C in Vegetation",
+    "drs_name": "c14Veg",
+    "long_name": null,
+    "standard_name": "vegetation_mass_content_of_14C",
+    "units": "kg m-2"
+}

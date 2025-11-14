@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "multiple-management",
+    "type": "variable",
+    "drs_name": "multiple-management",
+    "long_name": null,
+    "units": ""
+}

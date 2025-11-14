@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clivic",
+    "type": "variable",
+    "description": "Convective Ice Water Path",
+    "drs_name": "clivic",
+    "long_name": null,
+    "standard_name": "atmosphere_mass_content_of_convective_cloud_ice",
+    "units": "kg m-2"
+}

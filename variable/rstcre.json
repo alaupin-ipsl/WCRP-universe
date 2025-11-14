@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rstcre",
+    "type": "variable",
+    "description": "Top of Atmosphere Shortwave CRE",
+    "drs_name": "rstcre",
+    "long_name": null,
+    "standard_name": "TOA_SW_cloud_forcing",
+    "units": "W m-2"
+}

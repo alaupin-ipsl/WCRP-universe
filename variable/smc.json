@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "smc",
+    "type": "variable",
+    "description": "Shallow Convective Mass Flux",
+    "drs_name": "smc",
+    "long_name": null,
+    "standard_name": "atmosphere_net_upward_shallow_convective_mass_flux",
+    "units": "kg m-2 s-1"
+}

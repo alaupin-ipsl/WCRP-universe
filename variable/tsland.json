@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tsland",
+    "type": "variable",
+    "description": "Land Surface Temperature",
+    "drs_name": "tsland",
+    "long_name": null,
+    "standard_name": "surface_temperature",
+    "units": "K"
+}

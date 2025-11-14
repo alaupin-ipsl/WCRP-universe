@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "iareagr",
+    "type": "variable",
+    "description": "Area Covered by Grounded Ice Sheet",
+    "drs_name": "iareagr",
+    "long_name": null,
+    "standard_name": "grounded_ice_sheet_area",
+    "units": "m2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dfeos",
+    "type": "variable",
+    "description": "Surface Dissolved Iron Concentration",
+    "drs_name": "dfeos",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_dissolved_iron_in_sea_water",
+    "units": "mol m-3"
+}

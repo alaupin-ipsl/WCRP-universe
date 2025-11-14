@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "zvelbase",
+    "type": "variable",
+    "description": "Upward Component of Land-Ice Basal Velocity",
+    "drs_name": "zvelbase",
+    "long_name": null,
+    "standard_name": "land_ice_basal_upward_velocity",
+    "units": "m s-1"
+}

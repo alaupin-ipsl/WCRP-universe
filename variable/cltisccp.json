@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cltisccp",
+    "type": "variable",
+    "description": "ISCCP Total Cloud Cover Percentage",
+    "drs_name": "cltisccp",
+    "long_name": null,
+    "standard_name": "cloud_area_fraction",
+    "units": "%"
+}

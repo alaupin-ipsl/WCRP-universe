@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "difvmto",
+    "type": "variable",
+    "description": "Ocean Vertical Momentum Diffusivity Due to Tides",
+    "drs_name": "difvmto",
+    "long_name": null,
+    "standard_name": "ocean_vertical_momentum_diffusivity_due_to_tides",
+    "units": "m2 s-1"
+}

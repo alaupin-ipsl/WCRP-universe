@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wetss",
+    "type": "variable",
+    "description": "Wet Deposition Rate of Sea-Salt Aerosol",
+    "drs_name": "wetss",
+    "long_name": null,
+    "standard_name": "minus_tendency_of_atmosphere_mass_content_of_sea_salt_dry_aerosol_particles_due_to_wet_deposition",
+    "units": "kg m-2 s-1"
+}

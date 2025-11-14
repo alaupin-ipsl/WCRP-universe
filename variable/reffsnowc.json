@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "reffsnowc",
+    "type": "variable",
+    "description": "Hydrometeor Effective Radius of Convective Snowfall",
+    "drs_name": "reffsnowc",
+    "long_name": null,
+    "standard_name": "effective_radius_of_convective_cloud_snow_particles",
+    "units": "m"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rsdo",
+    "type": "variable",
+    "description": "Downwelling Shortwave Radiation in Sea Water",
+    "drs_name": "rsdo",
+    "long_name": null,
+    "standard_name": "downwelling_shortwave_flux_in_sea_water",
+    "units": "W m-2"
+}

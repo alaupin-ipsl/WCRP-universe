@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "osalttend",
+    "type": "variable",
+    "description": "Tendency of Sea Water Salinity Expressed as Salt Content",
+    "drs_name": "osalttend",
+    "long_name": null,
+    "standard_name": "tendency_of_sea_water_salinity_expressed_as_salt_content",
+    "units": "kg m-2 s-1"
+}

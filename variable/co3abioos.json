@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "co3abioos",
+    "type": "variable",
+    "description": "Surface Abiotic Carbonate Ion Concentration",
+    "drs_name": "co3abioos",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_carbonate_abiotic_analogue_expressed_as_carbon_in_sea_water",
+    "units": "mol m-3"
+}

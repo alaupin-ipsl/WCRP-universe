@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "simpconc",
+    "type": "variable",
+    "description": "Percentage Cover of Sea Ice by Meltpond",
+    "drs_name": "simpconc",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

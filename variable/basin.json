@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "basin",
+    "type": "variable",
+    "description": "Region Selection Index",
+    "drs_name": "basin",
+    "long_name": null,
+    "standard_name": "region",
+    "units": "1"
+}

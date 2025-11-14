@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tasmincrop",
+    "type": "variable",
+    "description": "Daily Minimum Near-Surface Air Temperature over Crop Tile",
+    "drs_name": "tasmincrop",
+    "long_name": null,
+    "standard_name": "air_temperature",
+    "units": "K"
+}

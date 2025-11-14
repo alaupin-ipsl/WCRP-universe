@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "volo",
+    "type": "variable",
+    "description": "Sea Water Volume",
+    "drs_name": "volo",
+    "long_name": null,
+    "standard_name": "sea_water_volume",
+    "units": "m3"
+}

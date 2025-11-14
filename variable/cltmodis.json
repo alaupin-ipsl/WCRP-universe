@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cltmodis",
+    "type": "variable",
+    "description": "MODIS Total Cloud Cover Percentage",
+    "drs_name": "cltmodis",
+    "long_name": null,
+    "standard_name": "cloud_area_fraction",
+    "units": "%"
+}

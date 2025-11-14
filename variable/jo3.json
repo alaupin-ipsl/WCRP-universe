@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "jo3",
+    "type": "variable",
+    "description": "Photolysis Rate of Ozone (O3)",
+    "drs_name": "jo3",
+    "long_name": null,
+    "standard_name": "photolysis_rate_of_ozone",
+    "units": "s-1"
+}

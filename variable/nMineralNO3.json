@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nMineralNO3",
+    "type": "variable",
+    "description": "Mineral Nitrate in the Soil",
+    "drs_name": "nMineralNO3",
+    "long_name": null,
+    "standard_name": "soil_mass_content_of_inorganic_nitrate_expressed_as_nitrogen",
+    "units": "kg m-2"
+}

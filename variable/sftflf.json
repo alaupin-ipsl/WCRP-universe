@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sftflf",
+    "type": "variable",
+    "description": "Floating Ice Shelf Area Percentage",
+    "drs_name": "sftflf",
+    "long_name": null,
+    "standard_name": "floating_ice_shelf_area_fraction",
+    "units": "%"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "va",
+    "type": "variable",
+    "description": "Northward Wind",
+    "drs_name": "va",
+    "long_name": null,
+    "standard_name": "northward_wind",
+    "units": "m s-1"
+}

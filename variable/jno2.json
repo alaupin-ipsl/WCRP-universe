@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "jno2",
+    "type": "variable",
+    "description": "Photolysis Rate of NO2",
+    "drs_name": "jno2",
+    "long_name": null,
+    "standard_name": "photolysis_rate_of_nitrogen_dioxide",
+    "units": "s-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "areacellg",
+    "type": "variable",
+    "description": "Grid-Cell Area for Ice Sheet Variables",
+    "drs_name": "areacellg",
+    "long_name": null,
+    "standard_name": "cell_area",
+    "units": "m2"
+}

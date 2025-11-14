@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nStem",
+    "type": "variable",
+    "description": "Nitrogen Mass in Stem",
+    "drs_name": "nStem",
+    "long_name": null,
+    "standard_name": "stem_mass_content_of_nitrogen",
+    "units": "kg m-2"
+}

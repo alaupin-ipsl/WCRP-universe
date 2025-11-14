@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "scldncl",
+    "type": "variable",
+    "description": "Cloud Droplet Number Concentration of Stratiform Cloud Tops",
+    "drs_name": "scldncl",
+    "long_name": null,
+    "standard_name": "number_concentration_of_stratiform_cloud_liquid_water_particles_at_stratiform_liquid_water_cloud_top",
+    "units": "m-3"
+}

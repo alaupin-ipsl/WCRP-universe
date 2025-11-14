@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mmrnh4",
+    "type": "variable",
+    "description": "NH4 Mass Mixing Ratio",
+    "drs_name": "mmrnh4",
+    "long_name": null,
+    "standard_name": "mass_fraction_of_ammonium_dry_aerosol_particles_in_air",
+    "units": "kg kg-1"
+}

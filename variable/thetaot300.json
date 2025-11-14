@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "thetaot300",
+    "type": "variable",
+    "description": "Depth Average Potential Temperature of Upper 300m",
+    "drs_name": "thetaot300",
+    "long_name": null,
+    "standard_name": "sea_water_potential_temperature",
+    "units": "degC"
+}

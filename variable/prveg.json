@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "prveg",
+    "type": "variable",
+    "description": "Precipitation onto Canopy",
+    "drs_name": "prveg",
+    "long_name": null,
+    "standard_name": "precipitation_flux_onto_canopy",
+    "units": "kg m-2 s-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sisnhc",
+    "type": "variable",
+    "description": "Snow Heat Content per Unit Area",
+    "drs_name": "sisnhc",
+    "long_name": null,
+    "standard_name": "thermal_energy_content_of_surface_snow",
+    "units": "J m-2"
+}

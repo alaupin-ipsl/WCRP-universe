@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "fddtdife",
+    "type": "variable",
+    "description": "Rate of Change of Net Dissolved Inorganic Iron",
+    "drs_name": "fddtdife",
+    "long_name": null,
+    "standard_name": "tendency_of_ocean_mole_content_of_dissolved_inorganic_iron",
+    "units": "mol m-2 s-1"
+}

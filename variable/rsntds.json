@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rsntds",
+    "type": "variable",
+    "description": "Net Downward Shortwave Radiation at Sea Water Surface",
+    "drs_name": "rsntds",
+    "long_name": null,
+    "standard_name": "net_downward_shortwave_flux_at_sea_water_surface",
+    "units": "W m-2"
+}

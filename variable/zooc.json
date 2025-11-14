@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "zooc",
+    "type": "variable",
+    "description": "Zooplankton Carbon Concentration",
+    "drs_name": "zooc",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_zooplankton_expressed_as_carbon_in_sea_water",
+    "units": "mol m-3"
+}

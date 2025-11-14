@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dtauc",
+    "type": "variable",
+    "description": "Convective Cloud Optical Depth",
+    "drs_name": "dtauc",
+    "long_name": null,
+    "standard_name": "atmosphere_optical_thickness_due_to_convective_cloud",
+    "units": "1"
+}

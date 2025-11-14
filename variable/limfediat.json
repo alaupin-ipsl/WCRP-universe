@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "limfediat",
+    "type": "variable",
+    "description": "Iron Limitation of Diatoms",
+    "drs_name": "limfediat",
+    "long_name": null,
+    "standard_name": "iron_growth_limitation_of_diatoms",
+    "units": "1"
+}

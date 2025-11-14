@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfbasin",
+    "type": "variable",
+    "description": "Northward Ocean Heat Transport",
+    "drs_name": "hfbasin",
+    "long_name": null,
+    "standard_name": "northward_ocean_heat_transport",
+    "units": "W"
+}

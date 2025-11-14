@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clmcalipso",
+    "type": "variable",
+    "description": "CALIPSO Mid Level Cloud Cover Percentage",
+    "drs_name": "clmcalipso",
+    "long_name": null,
+    "standard_name": "cloud_area_fraction_in_atmosphere_layer",
+    "units": "%"
+}

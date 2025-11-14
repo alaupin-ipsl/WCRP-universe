@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "pfull",
+    "type": "variable",
+    "description": "Pressure at Model Full-Levels",
+    "drs_name": "pfull",
+    "long_name": null,
+    "standard_name": "air_pressure",
+    "units": "Pa"
+}

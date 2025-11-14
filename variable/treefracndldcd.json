@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "treefracndldcd",
+    "type": "variable",
+    "description": "Needleleaf Deciduous Tree Area Percentage",
+    "drs_name": "treefracndldcd",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "lwtoacsaer",
+    "type": "variable",
+    "description": "TOA Clear-Sky Longwave Radiative Forcing Due to Aerosols",
+    "drs_name": "lwtoacsaer",
+    "long_name": null,
+    "standard_name": "toa_instantaneous_longwave_forcing",
+    "units": "W m-2"
+}

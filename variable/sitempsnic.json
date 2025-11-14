@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sitempsnic",
+    "type": "variable",
+    "description": "Temperature at Snow-Ice Interface",
+    "drs_name": "sitempsnic",
+    "long_name": null,
+    "standard_name": "sea_ice_surface_temperature",
+    "units": "K"
+}

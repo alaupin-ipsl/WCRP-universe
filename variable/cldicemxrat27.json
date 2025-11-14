@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cldicemxrat27",
+    "type": "variable",
+    "description": "Cloud Ice Mixing Ratio",
+    "drs_name": "cldicemxrat27",
+    "long_name": null,
+    "standard_name": "cloud_ice_mixing_ratio",
+    "units": "1"
+}

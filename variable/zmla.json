@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "zmla",
+    "type": "variable",
+    "description": "Height of Boundary Layer",
+    "drs_name": "zmla",
+    "long_name": null,
+    "standard_name": "atmosphere_boundary_layer_thickness",
+    "units": "m"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ares",
+    "type": "variable",
+    "description": "Aerodynamic Resistance",
+    "drs_name": "ares",
+    "long_name": null,
+    "standard_name": "aerodynamic_resistance",
+    "units": "s m-1"
+}

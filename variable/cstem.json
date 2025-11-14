@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cstem",
+    "type": "variable",
+    "description": "Carbon Mass in Stem",
+    "drs_name": "cstem",
+    "long_name": null,
+    "standard_name": "stem_mass_content_of_carbon",
+    "units": "kg m-2"
+}

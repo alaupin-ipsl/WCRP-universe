@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "pbo",
+    "type": "variable",
+    "description": "Sea Water Pressure at Sea Floor",
+    "drs_name": "pbo",
+    "long_name": null,
+    "standard_name": "sea_water_pressure_at_sea_floor",
+    "units": "Pa"
+}

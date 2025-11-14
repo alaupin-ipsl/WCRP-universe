@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "zmtnt",
+    "type": "variable",
+    "description": "Zonal Mean Diabatic Heating Rates",
+    "drs_name": "zmtnt",
+    "long_name": null,
+    "standard_name": "tendency_of_air_temperature_due_to_diabatic_processes",
+    "units": "K s-1"
+}

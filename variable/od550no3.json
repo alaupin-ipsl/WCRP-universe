@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "od550no3",
+    "type": "variable",
+    "description": "Nitrate Aerosol Optical Depth at 550nm",
+    "drs_name": "od550no3",
+    "long_name": null,
+    "standard_name": "atmosphere_optical_thickness_due_to_nitrate_ambient_aerosol_particles",
+    "units": "1"
+}

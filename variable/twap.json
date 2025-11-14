@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "twap",
+    "type": "variable",
+    "description": "Product of Air Temperature and Omega",
+    "drs_name": "twap",
+    "long_name": null,
+    "standard_name": "product_of_lagrangian_tendency_of_air_pressure_and_air_temperature",
+    "units": "K Pa s-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wetlandfrac",
+    "type": "variable",
+    "description": "Wetland Percentage Cover",
+    "drs_name": "wetlandfrac",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

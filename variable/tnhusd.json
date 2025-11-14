@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tnhusd",
+    "type": "variable",
+    "description": "Tendency of Specific Humidity Due to Numerical Diffusion",
+    "drs_name": "tnhusd",
+    "long_name": null,
+    "standard_name": "tendency_of_specific_humidity_due_to_diffusion",
+    "units": "s-1"
+}

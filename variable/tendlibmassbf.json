@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tendlibmassbf",
+    "type": "variable",
+    "description": "Total Basal Mass Balance Flux",
+    "drs_name": "tendlibmassbf",
+    "long_name": null,
+    "standard_name": "tendency_of_land_ice_mass_due_to_basal_mass_balance",
+    "units": "kg s-1"
+}

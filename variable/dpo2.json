@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dpo2",
+    "type": "variable",
+    "description": "Delta O2 Partial Pressure",
+    "drs_name": "dpo2",
+    "long_name": null,
+    "standard_name": "surface_molecular_oxygen_partial_pressure_difference_between_sea_water_and_air",
+    "units": "Pa"
+}

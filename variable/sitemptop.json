@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sitemptop",
+    "type": "variable",
+    "description": "Surface Temperature of Sea Ice",
+    "drs_name": "sitemptop",
+    "long_name": null,
+    "standard_name": "sea_ice_surface_temperature",
+    "units": "K"
+}

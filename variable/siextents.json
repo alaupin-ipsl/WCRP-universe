@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "siextents",
+    "type": "variable",
+    "description": "Sea-Ice Extent South",
+    "drs_name": "siextents",
+    "long_name": null,
+    "standard_name": "sea_ice_extent",
+    "units": "1e6 km2"
+}

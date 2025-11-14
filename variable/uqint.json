@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "uqint",
+    "type": "variable",
+    "description": "Eastward Humidity Transport",
+    "drs_name": "uqint",
+    "long_name": null,
+    "standard_name": "integral_wrt_height_of_product_of_eastward_wind_and_specific_humidity",
+    "units": "m2 s-1"
+}

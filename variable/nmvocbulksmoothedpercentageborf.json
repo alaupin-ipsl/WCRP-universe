@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nmvocbulksmoothedpercentageborf",
+    "type": "variable",
+    "drs_name": "NMVOCbulksmoothedpercentageBORF",
+    "long_name": null,
+    "units": ""
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "swtoacsdust",
+    "type": "variable",
+    "description": "Clear Sky Shortwave Flux Due to Dust at Toa",
+    "drs_name": "swtoacsdust",
+    "long_name": null,
+    "standard_name": "toa_instantaneous_shortwave_forcing",
+    "units": "W m-2"
+}

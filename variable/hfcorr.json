@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfcorr",
+    "type": "variable",
+    "description": "Heat Flux Correction",
+    "drs_name": "hfcorr",
+    "long_name": null,
+    "standard_name": "heat_flux_correction",
+    "units": "W m-2"
+}

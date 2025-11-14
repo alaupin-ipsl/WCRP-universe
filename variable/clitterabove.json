@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clitterabove",
+    "type": "variable",
+    "description": "Carbon Mass in Above-Ground Litter",
+    "drs_name": "clitterabove",
+    "long_name": null,
+    "standard_name": "surface_litter_mass_content_of_carbon",
+    "units": "kg m-2"
+}

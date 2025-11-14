@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sfo3",
+    "type": "variable",
+    "description": "O3 Volume Mixing Ratio in Lowest Model Layer",
+    "drs_name": "sfo3",
+    "long_name": null,
+    "standard_name": "mole_fraction_of_ozone_in_air",
+    "units": "mol mol-1"
+}

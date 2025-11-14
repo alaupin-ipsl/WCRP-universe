@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "albc",
+    "type": "variable",
+    "description": "Canopy Albedo",
+    "drs_name": "albc",
+    "long_name": null,
+    "standard_name": "canopy_albedo",
+    "units": "1"
+}

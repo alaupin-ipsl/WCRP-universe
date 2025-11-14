@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "limnmisc",
+    "type": "variable",
+    "description": "Nitrogen Limitation of Other Phytoplankton",
+    "drs_name": "limnmisc",
+    "long_name": null,
+    "standard_name": "nitrogen_growth_limitation_of_miscellaneous_phytoplankton",
+    "units": "1"
+}

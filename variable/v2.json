@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "v2",
+    "type": "variable",
+    "description": "Mean-Squared Northward Wind Speed",
+    "drs_name": "v2",
+    "long_name": null,
+    "standard_name": "square_of_northward_wind",
+    "units": "m2 s-2"
+}

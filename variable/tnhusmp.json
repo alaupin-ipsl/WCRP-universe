@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tnhusmp",
+    "type": "variable",
+    "description": "Tendency of Specific Humidity Due to Model Physics",
+    "drs_name": "tnhusmp",
+    "long_name": null,
+    "standard_name": "tendency_of_specific_humidity_due_to_model_physics",
+    "units": "s-1"
+}

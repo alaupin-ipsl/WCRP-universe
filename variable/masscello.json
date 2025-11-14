@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "masscello",
+    "type": "variable",
+    "description": "Ocean Grid-Cell Mass per Area",
+    "drs_name": "masscello",
+    "long_name": null,
+    "standard_name": "sea_water_mass_per_unit_area",
+    "units": "kg m-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "intdoc",
+    "type": "variable",
+    "description": "Dissolved Organic Carbon Content",
+    "drs_name": "intdoc",
+    "long_name": null,
+    "standard_name": "ocean_mass_content_of_dissolved_organic_carbon",
+    "units": "kg m-2"
+}

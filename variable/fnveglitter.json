@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "fnveglitter",
+    "type": "variable",
+    "description": "Total Nitrogen Mass Flux from Vegetation to Litter",
+    "drs_name": "fnveglitter",
+    "long_name": null,
+    "standard_name": "nitrogen_mass_flux_into_litter_from_vegetation",
+    "units": "kg m-2 s-1"
+}

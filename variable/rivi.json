@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rivi",
+    "type": "variable",
+    "description": "River Inflow",
+    "drs_name": "rivi",
+    "long_name": null,
+    "standard_name": "incoming_water_volume_transport_along_river_channel",
+    "units": "m3 s-1"
+}

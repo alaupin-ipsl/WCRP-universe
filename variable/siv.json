@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "siv",
+    "type": "variable",
+    "description": "Y-Component of Sea-Ice Velocity",
+    "drs_name": "siv",
+    "long_name": null,
+    "standard_name": "sea_ice_y_velocity",
+    "units": "m s-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "phyc",
+    "type": "variable",
+    "description": "Phytoplankton Carbon Concentration",
+    "drs_name": "phyc",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_phytoplankton_expressed_as_carbon_in_sea_water",
+    "units": "mol m-3"
+}

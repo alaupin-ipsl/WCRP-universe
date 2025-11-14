@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "gppshrub",
+    "type": "variable",
+    "description": "Gross Primary Production on Shrub Tiles as Carbon Mass Flux [kgC m-2 s-1]",
+    "drs_name": "gppshrub",
+    "long_name": null,
+    "standard_name": "gross_primary_productivity_of_biomass_expressed_as_carbon",
+    "units": "kg m-2 s-1"
+}

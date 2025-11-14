@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sossq",
+    "type": "variable",
+    "description": "Square of Sea Surface Salinity",
+    "drs_name": "sossq",
+    "long_name": null,
+    "standard_name": "square_of_sea_surface_salinity",
+    "units": "1e-06"
+}

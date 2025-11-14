@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sispeed",
+    "type": "variable",
+    "description": "Sea-Ice Speed",
+    "drs_name": "sispeed",
+    "long_name": null,
+    "standard_name": "sea_ice_speed",
+    "units": "m s-1"
+}

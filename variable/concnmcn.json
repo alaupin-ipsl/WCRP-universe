@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "concnmcn",
+    "type": "variable",
+    "description": "Number Concentration of Nucleation Mode Aerosol",
+    "drs_name": "concnmcn",
+    "long_name": null,
+    "standard_name": "number_concentration_of_nucleation_mode_ambient_aerosol_particles_in_air",
+    "units": "m-3"
+}

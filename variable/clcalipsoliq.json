@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clcalipsoliq",
+    "type": "variable",
+    "description": "CALIPSO Liquid Cloud Percentage",
+    "drs_name": "clcalipsoliq",
+    "long_name": null,
+    "standard_name": "liquid_water_cloud_area_fraction_in_atmosphere_layer",
+    "units": "%"
+}

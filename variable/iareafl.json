@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "iareafl",
+    "type": "variable",
+    "description": "Area Covered by Floating Ice Shelves",
+    "drs_name": "iareafl",
+    "long_name": null,
+    "standard_name": "floating_ice_shelf_area",
+    "units": "m2"
+}

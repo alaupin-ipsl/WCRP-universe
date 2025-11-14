@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tntd",
+    "type": "variable",
+    "description": "Tendency of Air Temperature Due to Numerical Diffusion",
+    "drs_name": "tntd",
+    "long_name": null,
+    "standard_name": "tendency_of_air_temperature_due_to_diffusion",
+    "units": "K s-1"
+}

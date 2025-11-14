@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "prhmax",
+    "type": "variable",
+    "description": "Maximum Hourly Precipitation Rate",
+    "drs_name": "prhmax",
+    "long_name": null,
+    "standard_name": "precipitation_flux",
+    "units": "kg m-2 s-1"
+}

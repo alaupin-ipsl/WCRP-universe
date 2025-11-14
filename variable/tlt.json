@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tlt",
+    "type": "variable",
+    "description": "MSU Temperature Lower Troposphere",
+    "drs_name": "tlt",
+    "long_name": null,
+    "standard_name": "MSU_Temperature_Lower_Troposphere",
+    "units": "K"
+}

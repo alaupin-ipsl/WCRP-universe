@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfgeou",
+    "type": "variable",
+    "description": "Upward Geothermal Heat Flux at Sea Floor",
+    "drs_name": "hfgeou",
+    "long_name": null,
+    "standard_name": "upward_geothermal_heat_flux_at_sea_floor",
+    "units": "W m-2"
+}

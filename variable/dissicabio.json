@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dissicabio",
+    "type": "variable",
+    "description": "Abiotic Dissolved Inorganic Carbon Concentration",
+    "drs_name": "dissicabio",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_dissolved_inorganic_carbon_abiotic_analogue_in_sea_water",
+    "units": "mol m-3"
+}

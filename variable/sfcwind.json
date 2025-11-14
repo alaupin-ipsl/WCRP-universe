@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sfcwind",
+    "type": "variable",
+    "description": "Near-Surface Wind Speed",
+    "drs_name": "sfcWind",
+    "long_name": null,
+    "standard_name": "wind_speed",
+    "units": "m s-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "treefracsecdec",
+    "type": "variable",
+    "description": "Percentage Cover by Secondary Deciduous Trees",
+    "drs_name": "treefracsecdec",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

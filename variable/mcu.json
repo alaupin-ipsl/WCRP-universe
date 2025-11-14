@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mcu",
+    "type": "variable",
+    "description": "Convective Updraft Mass Flux",
+    "drs_name": "mcu",
+    "long_name": null,
+    "standard_name": "atmosphere_updraft_convective_mass_flux",
+    "units": "kg m-2 s-1"
+}

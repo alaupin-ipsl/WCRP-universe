@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hursmin",
+    "type": "variable",
+    "description": "Daily Minimum Near-Surface Relative Humidity",
+    "drs_name": "hursmin",
+    "long_name": null,
+    "standard_name": "relative_humidity",
+    "units": "%"
+}

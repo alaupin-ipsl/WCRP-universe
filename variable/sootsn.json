@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sootsn",
+    "type": "variable",
+    "description": "Snow Soot Content",
+    "drs_name": "sootsn",
+    "long_name": null,
+    "standard_name": "soot_content_of_surface_snow",
+    "units": "kg m-2"
+}

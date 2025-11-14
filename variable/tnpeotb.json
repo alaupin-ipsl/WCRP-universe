@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tnpeotb",
+    "type": "variable",
+    "description": "Tendency of Ocean Potential Energy Content Due to Background",
+    "drs_name": "tnpeotb",
+    "long_name": null,
+    "standard_name": "tendency_of_ocean_potential_energy_content_due_to_background",
+    "units": "W m-2"
+}

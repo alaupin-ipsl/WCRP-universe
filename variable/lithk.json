@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "lithk",
+    "type": "variable",
+    "description": "Ice Sheet Thickness",
+    "drs_name": "lithk",
+    "long_name": null,
+    "standard_name": "land_ice_thickness",
+    "units": "m"
+}

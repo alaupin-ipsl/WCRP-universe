@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "necblut",
+    "type": "variable",
+    "description": "Net Carbon Mass Flux into Land-Use Tile [kgC m-2 s-1]",
+    "drs_name": "necblut",
+    "long_name": null,
+    "standard_name": "surface_net_downward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_all_land_processes",
+    "units": "kg m-2 s-1"
+}

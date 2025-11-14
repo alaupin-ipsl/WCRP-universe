@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "chl",
+    "type": "variable",
+    "description": "Mass Concentration of Total Phytoplankton Expressed as Chlorophyll in Sea Water",
+    "drs_name": "chl",
+    "long_name": null,
+    "standard_name": "mass_concentration_of_phytoplankton_expressed_as_chlorophyll_in_sea_water",
+    "units": "kg m-3"
+}

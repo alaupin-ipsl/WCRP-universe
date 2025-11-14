@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mrrolut",
+    "type": "variable",
+    "description": "Total Runoff from Land-Use Tile",
+    "drs_name": "mrrolut",
+    "long_name": null,
+    "standard_name": "runoff_flux",
+    "units": "kg m-2 s-1"
+}

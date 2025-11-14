@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "pastureFrac",
+    "type": "variable",
+    "description": "Percentage of Land Which Is Anthropogenic Pasture",
+    "drs_name": "pastureFrac",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "po4",
+    "type": "variable",
+    "description": "Total Dissolved Inorganic Phosphorus Concentration",
+    "drs_name": "po4",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_dissolved_inorganic_phosphorus_in_sea_water",
+    "units": "mol m-3"
+}

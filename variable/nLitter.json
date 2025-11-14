@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nLitter",
+    "type": "variable",
+    "description": "Nitrogen Mass in Litter Pool",
+    "drs_name": "nLitter",
+    "long_name": null,
+    "standard_name": "litter_mass_content_of_nitrogen",
+    "units": "kg m-2"
+}

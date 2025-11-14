@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dissoc",
+    "type": "variable",
+    "description": "Dissolved Organic Carbon Concentration",
+    "drs_name": "dissoc",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_dissolved_organic_carbon_in_sea_water",
+    "units": "mol m-3"
+}

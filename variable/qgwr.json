@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "qgwr",
+    "type": "variable",
+    "description": "Groundwater Recharge from Soil Layer",
+    "drs_name": "qgwr",
+    "long_name": null,
+    "standard_name": "downward_liquid_water_mass_flux_into_groundwater",
+    "units": "kg m-2 s-1"
+}

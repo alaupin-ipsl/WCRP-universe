@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dfe",
+    "type": "variable",
+    "description": "Dissolved Iron Concentration",
+    "drs_name": "dfe",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_dissolved_iron_in_sea_water",
+    "units": "mol m-3"
+}

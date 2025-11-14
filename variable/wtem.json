@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wtem",
+    "type": "variable",
+    "description": "Transformed Eulerian Mean Upward Wind",
+    "drs_name": "wtem",
+    "long_name": null,
+    "standard_name": "upward_transformed_eulerian_mean_air_velocity",
+    "units": "m s-1"
+}

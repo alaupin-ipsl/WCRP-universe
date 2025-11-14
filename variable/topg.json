@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "topg",
+    "type": "variable",
+    "description": "Bedrock Altitude",
+    "drs_name": "topg",
+    "long_name": null,
+    "standard_name": "bedrock_altitude",
+    "units": "m"
+}

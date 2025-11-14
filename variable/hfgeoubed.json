@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfgeoubed",
+    "type": "variable",
+    "description": "Geothermal Heat Flux Beneath Land Ice",
+    "drs_name": "hfgeoubed",
+    "long_name": null,
+    "standard_name": "upward_geothermal_heat_flux_at_ground_level_in_land_ice",
+    "units": "W m-2"
+}

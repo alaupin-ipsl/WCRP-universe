@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dissi13c",
+    "type": "variable",
+    "description": "Dissolved Inorganic Carbon-13 Concentration",
+    "drs_name": "dissi13c",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_dissolved_inorganic_13C_in_sea_water",
+    "units": "mol m-3"
+}

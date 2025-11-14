@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "phos",
+    "type": "variable",
+    "description": "Surface pH",
+    "drs_name": "phos",
+    "long_name": null,
+    "standard_name": "sea_water_ph_reported_on_total_scale",
+    "units": "1"
+}

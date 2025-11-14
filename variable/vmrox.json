@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "vmrox",
+    "type": "variable",
+    "description": "Mole Fraction of Odd Oxygen (O, O3 and O1D)",
+    "drs_name": "vmrox",
+    "long_name": null,
+    "standard_name": "mole_fraction_of_ox_in_air",
+    "units": "mol mol-1"
+}

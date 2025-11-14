@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "drybc",
+    "type": "variable",
+    "description": "Dry Deposition Rate of Black Carbon Aerosol Mass",
+    "drs_name": "drybc",
+    "long_name": null,
+    "standard_name": "minus_tendency_of_atmosphere_mass_content_of_elemental_carbon_dry_aerosol_particles_due_to_dry_deposition",
+    "units": "kg m-2 s-1"
+}

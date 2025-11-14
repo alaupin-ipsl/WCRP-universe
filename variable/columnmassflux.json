@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "columnmassflux",
+    "type": "variable",
+    "description": "Column Integrated Mass Flux",
+    "drs_name": "columnmassflux",
+    "long_name": null,
+    "standard_name": "atmosphere_net_upward_convective_mass_flux",
+    "units": "kg m-2 s-1"
+}

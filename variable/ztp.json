@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ztp",
+    "type": "variable",
+    "description": "Tropopause Altitude Above Geoid",
+    "drs_name": "ztp",
+    "long_name": null,
+    "standard_name": "tropopause_altitude",
+    "units": "m"
+}

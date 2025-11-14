@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tauucorr",
+    "type": "variable",
+    "description": "Surface Downward X Stress Correction",
+    "drs_name": "tauucorr",
+    "long_name": null,
+    "standard_name": "downward_x_stress_correction_at_sea_water_surface",
+    "units": "N m-2"
+}

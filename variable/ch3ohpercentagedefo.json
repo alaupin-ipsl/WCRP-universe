@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ch3ohpercentagedefo",
+    "type": "variable",
+    "drs_name": "CH3OHpercentageDEFO",
+    "long_name": null,
+    "units": ""
+}

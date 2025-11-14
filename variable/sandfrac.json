@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sandfrac",
+    "type": "variable",
+    "description": "Sand Fraction",
+    "drs_name": "sandfrac",
+    "long_name": null,
+    "standard_name": "volume_fraction_of_sand_in_soil",
+    "units": "1"
+}

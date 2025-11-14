@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "siflswdtop",
+    "type": "variable",
+    "description": "Downwelling Shortwave Flux over Sea Ice",
+    "drs_name": "siflswdtop",
+    "long_name": null,
+    "standard_name": "surface_downwelling_shortwave_flux_in_air",
+    "units": "W m-2"
+}

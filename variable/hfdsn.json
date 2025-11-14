@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfdsn",
+    "type": "variable",
+    "description": "Downward Heat Flux into Snow Where Land over Land",
+    "drs_name": "hfdsn",
+    "long_name": null,
+    "standard_name": "surface_downward_heat_flux_in_snow",
+    "units": "W m-2"
+}

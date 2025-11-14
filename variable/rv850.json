@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rv850",
+    "type": "variable",
+    "description": "Relative Vorticity at 850hPa",
+    "drs_name": "rv850",
+    "long_name": null,
+    "standard_name": "atmosphere_relative_vorticity",
+    "units": "s-1"
+}

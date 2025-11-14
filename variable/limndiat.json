@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "limndiat",
+    "type": "variable",
+    "description": "Nitrogen Limitation of Diatoms",
+    "drs_name": "limndiat",
+    "long_name": null,
+    "standard_name": "nitrogen_growth_limitation_of_diatoms",
+    "units": "1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "phabioos",
+    "type": "variable",
+    "description": "Surface Abiotic pH",
+    "drs_name": "phabioos",
+    "long_name": null,
+    "standard_name": "sea_water_ph_abiotic_analogue_reported_on_total_scale",
+    "units": "1"
+}

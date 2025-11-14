@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mekpercentagetemf",
+    "type": "variable",
+    "drs_name": "MEKpercentageTEMF",
+    "long_name": null,
+    "units": ""
+}

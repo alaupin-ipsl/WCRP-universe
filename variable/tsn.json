@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tsn",
+    "type": "variable",
+    "description": "Snow Internal Temperature",
+    "drs_name": "tsn",
+    "long_name": null,
+    "standard_name": "temperature_in_surface_snow",
+    "units": "K"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hursmax",
+    "type": "variable",
+    "description": "Daily Maximum Near-Surface Relative Humidity",
+    "drs_name": "hursmax",
+    "long_name": null,
+    "standard_name": "relative_humidity",
+    "units": "%"
+}

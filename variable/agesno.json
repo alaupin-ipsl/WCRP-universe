@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "agesno",
+    "type": "variable",
+    "description": "Mean Age of Snow",
+    "drs_name": "agesno",
+    "long_name": null,
+    "standard_name": "age_of_surface_snow",
+    "units": "day"
+}

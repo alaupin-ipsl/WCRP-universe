@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "siforceintstrx",
+    "type": "variable",
+    "description": "Internal Stress Term in Force Balance (X-Component)",
+    "drs_name": "siforceintstrx",
+    "long_name": null,
+    "standard_name": "sea_ice_x_internal_stress",
+    "units": "N m-2"
+}

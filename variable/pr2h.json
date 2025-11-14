@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "pr2h",
+    "type": "variable",
+    "description": "Precipitation Flux of Water Containing Deuterium (1H 2H O)",
+    "drs_name": "pr2h",
+    "long_name": null,
+    "standard_name": "precipitation_flux_containing_single_2H",
+    "units": "kg m-2 s-1"
+}

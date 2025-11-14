@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "siflfwbot",
+    "type": "variable",
+    "description": "Freshwater Flux from Sea Ice",
+    "drs_name": "siflfwbot",
+    "long_name": null,
+    "standard_name": "water_flux_into_sea_water_due_to_sea_ice_thermodynamics",
+    "units": "kg m-2 s-1"
+}

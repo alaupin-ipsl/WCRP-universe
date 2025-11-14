@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "xvelsurf",
+    "type": "variable",
+    "description": "X-Component of Land Ice Surface Velocity",
+    "drs_name": "xvelsurf",
+    "long_name": null,
+    "standard_name": "land_ice_surface_x_velocity",
+    "units": "m s-1"
+}

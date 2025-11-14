@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "uo",
+    "type": "variable",
+    "description": "Sea Water X Velocity",
+    "drs_name": "uo",
+    "long_name": null,
+    "standard_name": "sea_water_x_velocity",
+    "units": "m s-1"
+}

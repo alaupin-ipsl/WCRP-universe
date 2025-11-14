@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "meksmoothedpercentageagri",
+    "type": "variable",
+    "drs_name": "MEKsmoothedpercentageAGRI",
+    "long_name": null,
+    "units": ""
+}

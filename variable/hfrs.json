@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfrs",
+    "type": "variable",
+    "description": "Heat Transferred to Snowpack by Rainfall",
+    "drs_name": "hfrs",
+    "long_name": null,
+    "standard_name": "tendency_of_thermal_energy_content_of_surface_snow_due_to_rainfall_temperature_excess_above_freezing",
+    "units": "W m-2"
+}

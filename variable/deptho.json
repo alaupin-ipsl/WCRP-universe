@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "deptho",
+    "type": "variable",
+    "description": "Sea Floor Depth Below Geoid",
+    "drs_name": "deptho",
+    "long_name": null,
+    "standard_name": "sea_floor_depth_below_geoid",
+    "units": "m"
+}

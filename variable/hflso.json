@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hflso",
+    "type": "variable",
+    "description": "Surface Downward Latent Heat Flux",
+    "drs_name": "hflso",
+    "long_name": null,
+    "standard_name": "surface_downward_latent_heat_flux",
+    "units": "W m-2"
+}

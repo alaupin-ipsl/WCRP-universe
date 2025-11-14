@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "aeroptbnd",
+    "type": "variable",
+    "description": "Aerosol Level Absorption Optical Thickness for Each Band",
+    "drs_name": "aeroptbnd",
+    "long_name": null,
+    "standard_name": "atmosphere_absorption_optical_thickness_due_to_ambient_aerosol_particles",
+    "units": "1"
+}

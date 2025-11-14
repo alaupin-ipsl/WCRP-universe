@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sftlf",
+    "type": "variable",
+    "description": "Percentage of the Grid Cell Occupied by Land (Including Lakes)",
+    "drs_name": "sftlf",
+    "long_name": null,
+    "standard_name": "land_area_fraction",
+    "units": "%"
+}

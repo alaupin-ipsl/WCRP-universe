@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "litemptopIs",
+    "type": "variable",
+    "description": "Ice Sheet Temperature at Top of Ice Sheet Model",
+    "drs_name": "litemptopIs",
+    "long_name": null,
+    "standard_name": "temperature_at_top_of_ice_sheet_model",
+    "units": "K"
+}

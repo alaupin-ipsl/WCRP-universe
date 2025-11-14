@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cosmoothedpercentagetemf",
+    "type": "variable",
+    "drs_name": "COsmoothedpercentageTEMF",
+    "long_name": null,
+    "units": ""
+}

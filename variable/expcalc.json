@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "expcalc",
+    "type": "variable",
+    "description": "Downward Flux of Calcite",
+    "drs_name": "expcalc",
+    "long_name": null,
+    "standard_name": "sinking_mole_flux_of_calcite_expressed_as_carbon_in_sea_water",
+    "units": "mol m-2 s-1"
+}

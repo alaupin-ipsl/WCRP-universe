@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "prthetao",
+    "type": "variable",
+    "description": "Sea Water Redistributed Potential Temperature",
+    "drs_name": "prthetao",
+    "long_name": null,
+    "standard_name": "sea_water_redistributed_potential_temperature",
+    "units": "degC"
+}

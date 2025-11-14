@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "soga",
+    "type": "variable",
+    "description": "Global Mean Sea Water Salinity",
+    "drs_name": "soga",
+    "long_name": null,
+    "standard_name": "sea_water_salinity",
+    "units": "0.001"
+}

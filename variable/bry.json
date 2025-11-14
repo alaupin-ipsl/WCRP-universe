@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "bry",
+    "type": "variable",
+    "description": "Total Inorganic Bromine Volume Mixing Ratio",
+    "drs_name": "bry",
+    "long_name": null,
+    "standard_name": "mole_fraction_of_inorganic_bromine_in_air",
+    "units": "mol mol-1"
+}

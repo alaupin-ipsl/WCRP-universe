@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sirdgthick",
+    "type": "variable",
+    "description": "Ridged Ice Thickness",
+    "drs_name": "sirdgthick",
+    "long_name": null,
+    "standard_name": "sea_ice_thickness",
+    "units": "m"
+}

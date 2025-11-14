@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "albsn",
+    "type": "variable",
+    "description": "Snow Albedo",
+    "drs_name": "albsn",
+    "long_name": null,
+    "standard_name": "surface_albedo",
+    "units": "1"
+}

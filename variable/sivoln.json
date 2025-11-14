@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sivoln",
+    "type": "variable",
+    "description": "Sea-Ice Volume North",
+    "drs_name": "sivoln",
+    "long_name": null,
+    "standard_name": "sea_ice_volume",
+    "units": "1e3 km3"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dsw",
+    "type": "variable",
+    "description": "Change in Surface Water Storage",
+    "drs_name": "dsw",
+    "long_name": null,
+    "standard_name": "change_over_time_in_land_water_amount",
+    "units": "kg m-2"
+}

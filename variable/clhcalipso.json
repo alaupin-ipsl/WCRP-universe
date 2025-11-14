@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clhcalipso",
+    "type": "variable",
+    "description": "CALIPSO High Level Cloud Area Percentage",
+    "drs_name": "clhcalipso",
+    "long_name": null,
+    "standard_name": "cloud_area_fraction_in_atmosphere_layer",
+    "units": "%"
+}

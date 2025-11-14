@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "epp100",
+    "type": "variable",
+    "description": "Downward Flux of Particulate Phosphorus",
+    "drs_name": "epp100",
+    "long_name": null,
+    "standard_name": "sinking_mole_flux_of_particulate_organic_phosphorus_in_sea_water",
+    "units": "mol m-2 s-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "climodis",
+    "type": "variable",
+    "description": "MODIS Ice Cloud Area Percentage",
+    "drs_name": "climodis",
+    "long_name": null,
+    "standard_name": "ice_cloud_area_fraction",
+    "units": "%"
+}

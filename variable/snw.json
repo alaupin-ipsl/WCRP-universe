@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "snw",
+    "type": "variable",
+    "description": "Surface Snow Amount",
+    "drs_name": "snw",
+    "long_name": null,
+    "standard_name": "surface_snow_amount",
+    "units": "kg m-2"
+}

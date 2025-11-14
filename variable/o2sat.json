@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "o2sat",
+    "type": "variable",
+    "description": "Dissolved Oxygen Concentration at Saturation",
+    "drs_name": "o2sat",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_dissolved_molecular_oxygen_in_sea_water_at_saturation",
+    "units": "mol m-3"
+}

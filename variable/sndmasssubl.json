@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sndmasssubl",
+    "type": "variable",
+    "description": "Snow Mass Rate of Change Through Evaporation or Sublimation",
+    "drs_name": "sndmasssubl",
+    "long_name": null,
+    "standard_name": "tendency_of_atmosphere_mass_content_of_water_vapor_due_to_sublimation_of_surface_snow_and_ice",
+    "units": "kg m-2 s-1"
+}

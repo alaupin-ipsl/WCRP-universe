@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tsIs",
+    "type": "variable",
+    "description": "Ice Sheet Surface Temperature",
+    "drs_name": "tsIs",
+    "long_name": null,
+    "standard_name": "surface_temperature",
+    "units": "K"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "difvmbo",
+    "type": "variable",
+    "description": "Ocean Vertical Momentum Diffusivity Due to Background",
+    "drs_name": "difvmbo",
+    "long_name": null,
+    "standard_name": "ocean_vertical_momentum_diffusivity_due_to_background",
+    "units": "m2 s-1"
+}

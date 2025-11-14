@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "fVegLitterMortality",
+    "type": "variable",
+    "description": "Total Carbon Mass Flux from Vegetation to Litter as a Result of Mortality",
+    "drs_name": "fVegLitterMortality",
+    "long_name": null,
+    "standard_name": "mass_flux_of_carbon_into_litter_from_vegetation_due_to_mortality",
+    "units": "kg m-2 s-1"
+}

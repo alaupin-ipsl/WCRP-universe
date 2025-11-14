@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "fHarvestToProduct",
+    "type": "variable",
+    "description": "Harvested Biomass That Goes into Product Pool",
+    "drs_name": "fHarvestToProduct",
+    "long_name": null,
+    "standard_name": "mass_flux_of_carbon_into_forestry_and_agricultural_products_due_to_crop_harvesting",
+    "units": "kg m-2 s-1"
+}

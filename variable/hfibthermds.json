@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfibthermds",
+    "type": "variable",
+    "description": "Heat Flux into Sea Water Due to Iceberg Thermodynamics",
+    "drs_name": "hfibthermds",
+    "long_name": null,
+    "standard_name": "heat_flux_into_sea_water_due_to_iceberg_thermodynamics",
+    "units": "W m-2"
+}

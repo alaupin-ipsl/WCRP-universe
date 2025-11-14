@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hfdsnb",
+    "type": "variable",
+    "description": "Downward Heat Flux at Snow Base",
+    "drs_name": "hfdsnb",
+    "long_name": null,
+    "standard_name": "downward_heat_flux_at_ground_level_in_snow",
+    "units": "W m-2"
+}

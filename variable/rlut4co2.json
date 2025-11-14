@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rlut4co2",
+    "type": "variable",
+    "description": "TOA Outgoing Longwave Radiation 4XCO2 Atmosphere",
+    "drs_name": "rlut4co2",
+    "long_name": null,
+    "standard_name": "toa_outgoing_longwave_flux",
+    "units": "W m-2"
+}

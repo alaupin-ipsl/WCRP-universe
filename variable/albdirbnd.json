@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "albdirbnd",
+    "type": "variable",
+    "description": "Direct Surface Albedo for Each Band",
+    "drs_name": "albdirbnd",
+    "long_name": null,
+    "standard_name": "surface_direct_shortwave_hemispherical_reflectance",
+    "units": "1"
+}

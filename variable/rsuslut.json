@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rsuslut",
+    "type": "variable",
+    "description": "Surface Upwelling Shortwave on Land-Use Tile",
+    "drs_name": "rsuslut",
+    "long_name": null,
+    "standard_name": "surface_upwelling_shortwave_flux_in_air",
+    "units": "W m-2"
+}

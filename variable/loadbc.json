@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "loadbc",
+    "type": "variable",
+    "description": "Load of Black Carbon Aerosol",
+    "drs_name": "loadbc",
+    "long_name": null,
+    "standard_name": "atmosphere_mass_content_of_elemental_carbon_dry_aerosol_particles",
+    "units": "kg m-2"
+}

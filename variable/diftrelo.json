@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "diftrelo",
+    "type": "variable",
+    "description": "Ocean Tracer Epineutral Laplacian Diffusivity",
+    "drs_name": "diftrelo",
+    "long_name": null,
+    "standard_name": "ocean_tracer_epineutral_laplacian_diffusivity",
+    "units": "m2 s-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "evs",
+    "type": "variable",
+    "description": "Water Evaporation Flux Where Ice Free Ocean over Sea",
+    "drs_name": "evs",
+    "long_name": null,
+    "standard_name": "water_evapotranspiration_flux",
+    "units": "kg m-2 s-1"
+}

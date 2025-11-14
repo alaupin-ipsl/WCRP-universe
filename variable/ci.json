@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ci",
+    "type": "variable",
+    "description": "Fraction of Time Convection Occurs in Cell",
+    "drs_name": "ci",
+    "long_name": null,
+    "standard_name": "convection_time_fraction",
+    "units": "1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ptp",
+    "type": "variable",
+    "description": "Tropopause Air Pressure",
+    "drs_name": "ptp",
+    "long_name": null,
+    "standard_name": "tropopause_air_pressure",
+    "units": "Pa"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ps",
+    "type": "variable",
+    "description": "Surface Air Pressure",
+    "drs_name": "ps",
+    "long_name": null,
+    "standard_name": "surface_air_pressure",
+    "units": "Pa"
+}

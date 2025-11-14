@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cLitterShrub",
+    "type": "variable",
+    "description": "Carbon Mass in Litter on Shrub Tiles",
+    "drs_name": "cLitterShrub",
+    "long_name": null,
+    "standard_name": "litter_mass_content_of_carbon",
+    "units": "kg m-2"
+}

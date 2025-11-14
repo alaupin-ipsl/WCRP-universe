@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "meksmoothedpercentagepeat",
+    "type": "variable",
+    "drs_name": "MEKsmoothedpercentagePEAT",
+    "long_name": null,
+    "units": ""
+}

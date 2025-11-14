@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "conccn",
+    "type": "variable",
+    "description": "Aerosol Number Concentration",
+    "drs_name": "conccn",
+    "long_name": null,
+    "standard_name": "number_concentration_of_ambient_aerosol_particles_in_air",
+    "units": "m-3"
+}

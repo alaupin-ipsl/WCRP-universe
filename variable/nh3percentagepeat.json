@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nh3percentagepeat",
+    "type": "variable",
+    "drs_name": "NH3percentagePEAT",
+    "long_name": null,
+    "units": ""
+}

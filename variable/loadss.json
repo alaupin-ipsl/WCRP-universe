@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "loadss",
+    "type": "variable",
+    "description": "Load of Sea-Salt Aerosol",
+    "drs_name": "loadss",
+    "long_name": null,
+    "standard_name": "atmosphere_mass_content_of_sea_salt_dry_aerosol_particles",
+    "units": "kg m-2"
+}

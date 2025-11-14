@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "diftrxybo",
+    "type": "variable",
+    "description": "Ocean Tracer XY Biharmonic Diffusivity",
+    "drs_name": "diftrxybo",
+    "long_name": null,
+    "standard_name": "ocean_tracer_xy_biharmonic_diffusivity",
+    "units": "m4 s-1"
+}

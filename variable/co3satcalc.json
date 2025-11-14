@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "co3satcalc",
+    "type": "variable",
+    "description": "Mole Concentration of Carbonate Ion in Equilibrium with Pure Calcite in Sea Water",
+    "drs_name": "co3satcalc",
+    "long_name": null,
+    "standard_name": "mole_concentration_of_carbonate_expressed_as_carbon_at_equilibrium_with_pure_calcite_in_sea_water",
+    "units": "mol m-3"
+}

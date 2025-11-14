@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rzwc",
+    "type": "variable",
+    "description": "Root Zone Soil Moisture",
+    "drs_name": "rzwc",
+    "long_name": null,
+    "standard_name": "mass_content_of_water_in_soil_layer_defined_by_root_depth",
+    "units": "kg m-2"
+}

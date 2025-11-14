@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "so2_em_air_anthro",
+    "type": "variable",
+    "drs_name": "SO2_em_AIR_anthro",
+    "long_name": null,
+    "units": ""
+}

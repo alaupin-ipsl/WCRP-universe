@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cldnci",
+    "type": "variable",
+    "description": "Ice Crystal Number Concentration of Cloud Tops",
+    "drs_name": "cldnci",
+    "long_name": null,
+    "standard_name": "number_concentration_of_ice_crystals_in_air_at_ice_cloud_top",
+    "units": "m-3"
+}

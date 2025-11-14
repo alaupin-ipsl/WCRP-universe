@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "csoilgrass",
+    "type": "variable",
+    "description": "Carbon Mass in Soil on Grass Tiles",
+    "drs_name": "csoilgrass",
+    "long_name": null,
+    "standard_name": "soil_mass_content_of_carbon",
+    "units": "kg m-2"
+}

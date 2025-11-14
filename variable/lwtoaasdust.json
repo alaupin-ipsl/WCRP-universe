@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "lwtoaasdust",
+    "type": "variable",
+    "description": "TOA All-Sky Longwave Radiative Forcing Due to Dust",
+    "drs_name": "lwtoaasdust",
+    "long_name": null,
+    "standard_name": "toa_instantaneous_longwave_forcing",
+    "units": "W m-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "somint",
+    "type": "variable",
+    "description": "Depth Integral of Product of Sea Water Density and Prognostic Salinity",
+    "drs_name": "somint",
+    "long_name": null,
+    "standard_name": "integral_wrt_depth_of_product_of_salinity_and_sea_water_density",
+    "units": "g m-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sndmassdyn",
+    "type": "variable",
+    "description": "Snow Mass Rate of Change Through Advection by Sea-Ice Dynamics",
+    "drs_name": "sndmassdyn",
+    "long_name": null,
+    "standard_name": "tendency_of_surface_snow_amount_due_to_sea_ice_dynamics",
+    "units": "kg m-2 s-1"
+}

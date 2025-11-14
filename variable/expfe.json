@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "expfe",
+    "type": "variable",
+    "description": "Sinking Particulate Iron Flux",
+    "drs_name": "expfe",
+    "long_name": null,
+    "standard_name": "sinking_mole_flux_of_particulate_iron_in_sea_water",
+    "units": "mol m-2 s-1"
+}

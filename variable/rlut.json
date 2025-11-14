@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rlut",
+    "type": "variable",
+    "description": "TOA Outgoing Longwave Radiation",
+    "drs_name": "rlut",
+    "long_name": null,
+    "standard_name": "toa_outgoing_longwave_flux",
+    "units": "W m-2"
+}

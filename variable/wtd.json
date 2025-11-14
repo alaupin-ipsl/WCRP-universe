@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wtd",
+    "type": "variable",
+    "description": "Water Table Depth",
+    "drs_name": "wtd",
+    "long_name": null,
+    "standard_name": "water_table_depth",
+    "units": "m"
+}

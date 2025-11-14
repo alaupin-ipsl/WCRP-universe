@@ -1,0 +1,8 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "noxasno2smoothedpercentagedefo",
+    "type": "variable",
+    "drs_name": "NOxasNO2smoothedpercentageDEFO",
+    "long_name": null,
+    "units": ""
+}

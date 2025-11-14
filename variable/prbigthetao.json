@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "prbigthetao",
+    "type": "variable",
+    "description": "Sea Water Redistributed Conservative Temperature",
+    "drs_name": "prbigthetao",
+    "long_name": null,
+    "standard_name": "sea_water_redistributed_conservative_temperature",
+    "units": "degC"
+}

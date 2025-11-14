@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "prcprof",
+    "type": "variable",
+    "description": "Convective Rainfall Flux",
+    "drs_name": "prcprof",
+    "long_name": null,
+    "standard_name": "convective_rainfall_flux",
+    "units": "kg m-2 s-1"
+}

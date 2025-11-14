@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "pcalc",
+    "type": "variable",
+    "description": "Calcite Production",
+    "drs_name": "pcalc",
+    "long_name": null,
+    "standard_name": "tendency_of_mole_concentration_of_calcite_expressed_as_carbon_in_sea_water_due_to_biological_production",
+    "units": "mol m-3 s-1"
+}

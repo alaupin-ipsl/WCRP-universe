@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "csoilpools",
+    "type": "variable",
+    "description": "Carbon Mass in Each Model Soil Pool (Summed over Vertical Levels)",
+    "drs_name": "csoilpools",
+    "long_name": null,
+    "standard_name": "soil_mass_content_of_carbon",
+    "units": "kg m-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sistrydtop",
+    "type": "variable",
+    "description": "Y-Component of Atmospheric Stress on Sea Ice",
+    "drs_name": "sistrydtop",
+    "long_name": null,
+    "standard_name": "surface_downward_y_stress",
+    "units": "N m-2"
+}

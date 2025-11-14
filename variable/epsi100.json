@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "epsi100",
+    "type": "variable",
+    "description": "Downward Flux of Particulate Silicon",
+    "drs_name": "epsi100",
+    "long_name": null,
+    "standard_name": "sinking_mole_flux_of_particulate_silicon_in_sea_water",
+    "units": "mol m-2 s-1"
+}
