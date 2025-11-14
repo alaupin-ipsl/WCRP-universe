@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cmip6_01_00_25",
+    "type": "data_specs_version",
+    "drs_name": "01.00.25",
+    "description": "records the version (or \"release\") number of the data request, which is relied on for certain global and variable attributes."
+}

@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "obs4ref_2_0_0",
+    "type": "data_specs_version",
+    "drs_name": "2.0.0",
+    "description": "This version number is associated with the version or GitHub \"tag\" for the obs4MIPs CMOR tables and the CVs. See PCMDI/obs4MIPs-cmor-tables which originate from the CMIP6 tables"
+}
