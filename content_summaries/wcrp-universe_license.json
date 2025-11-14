@@ -1,12 +1,12 @@
 {
     "Header": {
         "file": "wcrp-universe_license.json",
-        "file_creation_date": "2025-11-14T23:53:15.710137",
+        "file_creation_date": "2025-11-14T23:56:06.973320",
         "version": "fatal: No names found, cannot describe anything.",
         "checksum": "md5: 5eeeea5b7de18cfd33581d1d661c14f7",
         "repo_url": "https://github.com/WCRP-CMIP/WCRP-universe",
         "repo_prefix": "universal",
-        "last_commit": "abab4e060e337767e1da94bbaf04727d217fa0e8",
+        "last_commit": "ca95ca5a253f10ff314e876b5097f389c2ccdfcd",
         "comment": "This is an automatically generated file. Do not edit."
     },
     "license": {
