@@ -72,7 +72,7 @@ jobs:
         if: steps.check_changes.outputs.no_changes == 'false'
         uses: EndBug/add-and-commit@v9
         with:
-          add: '.'
+          add: './**/**'
           author_name: 'cmip-ipo'
           author_email: 'actions@wcrp-cmip.org'
           message: 'Clean file upload from src-data'
