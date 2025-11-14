@@ -1,12 +1,12 @@
 {
     "Header": {
         "file": "wcrp-universe_product.json",
-        "file_creation_date": "2025-11-14T17:26:27.059731",
+        "file_creation_date": "2025-11-14T18:15:24.134827",
         "version": "fatal: No names found, cannot describe anything.",
         "checksum": "md5: 962b35253777bf1b51a373dd0987bf04",
         "repo_url": "https://github.com/WCRP-CMIP/WCRP-universe",
         "repo_prefix": "universal",
-        "last_commit": "8fa21b30cd31e5980bae5be69ad652693aeab909",
+        "last_commit": "1379e1833606aaca12a70fd377e7fd8cda84f876",
         "comment": "This is an automatically generated file. Do not edit."
     },
     "product": {
