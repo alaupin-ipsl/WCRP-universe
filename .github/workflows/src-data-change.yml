@@ -43,7 +43,10 @@ jobs:
 
       - name: Verify restore and prepare changes
         run: |
-          git fetch origin src-data
+
+          # git fetch origin src-data
+          find .* -maxdepth 0 -type f -exec rm -f {} +
+
           git add -A
 
       - name: Check for changes
