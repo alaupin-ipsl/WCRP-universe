@@ -21,3 +21,27 @@ jobs:
 
   validate-fix-json:
     uses: WCRP-CMIP/CMIPLD/.github/workflows/validate_json.yml@main
+
+  check-graph:
+    - name: Checkout production branch
+      uses: actions/checkout@v4
+      with:
+        ref: production
+        fetch-depth: 
+
+    - name: has a graph been built?
+      id: check_graph
+      run: |
+      {
+        for dir in */; do
+          if [ -f "${dir}_context" ]; then
+            echo "#### $dir"
+            if [ -f "${dir}graph.jsonld" ]; then
+              echo "- graph.jsonld: ✅ present"
+            else
+              echo "- graph.jsonld: ❌ missing"
+            fi
+            echo
+          fi
+        done
+      } >> "$GITHUB_STEP_SUMMARY"
