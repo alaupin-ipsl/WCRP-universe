@@ -32,6 +32,7 @@ jobs:
         run: |
           shopt -s extglob dotglob
           rm -rf -- !(docs|summaries|.git|.github) || true
+          find .* -maxdepth 0 -type f -exec rm -f {} +
 
       - name: Restore path from src-data branch
         uses: WCRP-CMIP/CMIPLD/actions/fetch_branch_path@main
