@@ -57,7 +57,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "no_changes=true" >> $GITHUB_OUTPUT
             if ! git diff --quiet HEAD origin/src-data; then
-              git checkout origin/src-data -- . || true
+              git checkout origin/src-data -- ./ || true
               git add -A
               if ! git diff --cached --quiet; then
                 echo "no_changes=false" >> $GITHUB_OUTPUT
