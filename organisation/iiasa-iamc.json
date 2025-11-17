@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "iiasa-iamc",
+    "type": "organisation",
+    "drs_name": "IIASA-IAMC",
+    "members": [
+        "iiasa",
+        "iamc"
+    ]
+}
