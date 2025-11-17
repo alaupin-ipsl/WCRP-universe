@@ -1,6 +1,12 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/miroc",
-    "type": "consortium",
-    "drs_name": "MIROC"
+    "id": "miroc",
+    "type": "organisation",
+    "drs_name": "MIROC",
+    "members": [
+        "jamstec",
+        "aori",
+        "nies",
+        "r-ccs"
+    ]
 }

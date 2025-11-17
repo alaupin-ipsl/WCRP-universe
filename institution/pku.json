@@ -3,16 +3,12 @@
     "id": "pku",
     "type": "institution",
     "drs_name": "PKU",
-    "name": "PKU",
-    "acronym": [
-        "PKU"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "Peking University, Beijing, China"
     ],
-    "location": {},
+    "description": "PKU",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

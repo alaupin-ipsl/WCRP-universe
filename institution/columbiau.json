@@ -3,16 +3,12 @@
     "id": "columbiau",
     "type": "institution",
     "drs_name": "ColumbiaU",
-    "name": "ColumbiaU",
-    "acronym": [
-        "ColumbiaU"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "Columbia University, NY, USA"
     ],
-    "location": {},
+    "description": "ColumbiaU",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

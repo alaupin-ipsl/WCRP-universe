@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/hclimcom-dmi",
-    "type": "institution",
-    "drs_name": "HCLIMcom-DMI"
+    "id": "hclimcom-dmi",
+    "type": "organisation",
+    "drs_name": "HCLIMcom-DMI",
+    "members": [
+        "hclimcom-dmi"
+    ],
+    "description": "HARMONIE Climate Modelling Community (HCLIMcom) partner: Danish Meteorological Institute (DMI)"
 }

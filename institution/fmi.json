@@ -1,27 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "fmi",
+    "type": "institution",
+    "drs_name": "FMI",
     "acronyms": [
         "FMI"
     ],
-    "aliases": [],
-    "cmip-acronym": "FMI",
-    "established": 1838,
-    "labels": [],
-    "location": {
-        "city": "Helsinki",
-        "country": [
-            "Finland",
-            "FI"
-        ],
-        "lat": 60.16952,
-        "lon": 60.16952
-    },
-    "name": "Finnish Meteorological Institute",
-    "ror": "05hppb561",
-    "url": [
-        "http://en.ilmatieteenlaitos.fi/"
+    "labels": [
+        "Finnish Meteorological Institute"
     ],
-    "type": "institution",
-    "drs_name": "FMI"
+    "description": "Finnish Meteorological Institute",
+    "location": [
+        {
+            "city": "Helsinki",
+            "country": "Finland",
+            "lat": 60.16952,
+            "lon": 60.16952
+        }
+    ],
+    "ror": "05hppb561",
+    "urls": [
+        "http://en.ilmatieteenlaitos.fi/"
+    ]
 }

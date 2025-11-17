@@ -1,30 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "cesam-ua",
+    "type": "institution",
+    "drs_name": "CESAM-UA",
     "acronyms": [
         "CESAM-UA"
     ],
-    "aliases": [
-        "Centro de Estudos Ambientais e Marinhos",
-        "CESAM"
+    "labels": [
+        "Center for Environmental and Marine Studies (CESAM), Aveiro University (UA)"
     ],
-    "cmip-acronym": "CESAM-UA",
-    "established": 2001,
-    "labels": [],
-    "location": {
-        "city": "Aveiro",
-        "country": [
-            "Portugal",
-            "PT"
-        ],
-        "lat": 40.630579,
-        "lon": -8.657462
-    },
-    "name": "Center for Environmental and Marine Studies (CESAM), Aveiro University (UA)",
+    "description": "Center for Environmental and Marine Studies (CESAM), Aveiro University (UA)",
+    "location": [
+        {
+            "city": "Aveiro",
+            "country": "Portugal",
+            "lat": 40.630579,
+            "lon": -8.657462
+        }
+    ],
     "ror": "03q36qm19",
-    "url": [
+    "urls": [
         "https://www.cesam-la.pt/"
-    ],
-    "type": "institution",
-    "drs_name": "CESAM-UA"
+    ]
 }

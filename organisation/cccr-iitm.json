@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/cccr-iitm",
-    "type": "institution",
-    "drs_name": "CCCR-IITM"
+    "id": "cccr-iitm",
+    "type": "organisation",
+    "drs_name": "CCCR-IITM",
+    "members": [
+        "cccr-iitm"
+    ],
+    "description": "Indian Institute of Tropical Meteorology"
 }

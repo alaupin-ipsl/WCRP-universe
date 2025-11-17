@@ -1,27 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "ntu",
+    "type": "institution",
+    "drs_name": "NTU",
     "acronyms": [
         "NTU"
     ],
-    "aliases": [],
-    "cmip-acronym": "NTU",
-    "established": 1928,
-    "labels": [],
-    "location": {
-        "city": "Taipei",
-        "country": [
-            "Taiwan",
-            "TW"
-        ],
-        "lat": 25.016,
-        "lon": 121.536
-    },
-    "name": "National Taiwan University",
-    "ror": "05bqach95",
-    "url": [
-        "http://www.ntu.edu.tw/english/"
+    "labels": [
+        "National Taiwan University"
     ],
-    "type": "institution",
-    "drs_name": "NTU"
+    "description": "National Taiwan University",
+    "location": [
+        {
+            "city": "Taipei",
+            "country": "Taiwan",
+            "lat": 25.016,
+            "lon": 121.536
+        }
+    ],
+    "ror": "05bqach95",
+    "urls": [
+        "http://www.ntu.edu.tw/english/"
+    ]
 }

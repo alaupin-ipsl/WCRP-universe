@@ -1,27 +1,23 @@
 {
     "@context": "000_context.jsonld",
     "id": "uom",
-    "acronyms": [],
-    "aliases": [
-        "Melbourne University"
-    ],
-    "cmip-acronym": "UoM",
-    "established": 1853,
-    "labels": [],
-    "location": {
-        "city": "Melbourne",
-        "country": [
-            "Australia",
-            "AU"
-        ],
-        "lat": -37.814,
-        "lon": 144.96332
-    },
-    "name": "University of Melbourne",
-    "ror": "01ej9dk98",
-    "url": [
-        "http://www.unimelb.edu.au/"
-    ],
     "type": "institution",
-    "drs_name": "UoM"
+    "drs_name": "UoM",
+    "acronyms": [],
+    "labels": [
+        "University of Melbourne"
+    ],
+    "description": "University of Melbourne",
+    "location": [
+        {
+            "city": "Melbourne",
+            "country": "Australia",
+            "lat": -37.814,
+            "lon": 144.96332
+        }
+    ],
+    "ror": "01ej9dk98",
+    "urls": [
+        "http://www.unimelb.edu.au/"
+    ]
 }

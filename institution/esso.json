@@ -3,16 +3,12 @@
     "id": "esso",
     "type": "institution",
     "drs_name": "ESSO",
-    "name": "ESSO",
-    "acronym": [
-        "ESSO"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "Indian National Centre for Ocean Information Services"
     ],
-    "location": {},
+    "description": "ESSO",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

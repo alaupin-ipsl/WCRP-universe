@@ -3,16 +3,12 @@
     "id": "pcmdi",
     "type": "institution",
     "drs_name": "PCMDI",
-    "name": "PCMDI",
-    "acronym": [
-        "PCMDI"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "Program for Climate Model Diagnosis and Intercomparison, Lawrence Livermore National Laboratory, Livermore, CA 94550, USA"
     ],
-    "location": {},
+    "description": "PCMDI",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/knmi",
-    "type": "institution",
-    "drs_name": "KNMI"
+    "id": "knmi",
+    "type": "organisation",
+    "drs_name": "KNMI",
+    "members": [
+        "knmi"
+    ],
+    "description": "Royal Netherlands Meteorological Institute"
 }

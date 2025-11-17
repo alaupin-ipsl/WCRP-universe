@@ -1,6 +1,11 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/espri-ipsl",
-    "type": "consortium",
-    "drs_name": "ESPRI-IPSL"
+    "id": "espri-ipsl",
+    "type": "organisation",
+    "drs_name": "ESPRI-IPSL",
+    "members": [
+        "ensemble",
+        "institut"
+    ],
+    "description": "ESPRI-IPSL"
 }

@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/csiro",
-    "type": "institution",
-    "drs_name": "CSIRO"
+    "id": "csiro",
+    "type": "organisation",
+    "drs_name": "CSIRO",
+    "members": [
+        "csiro"
+    ],
+    "description": "Commonwealth Scientific and Industrial Research Organisation"
 }

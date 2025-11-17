@@ -1,6 +1,12 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/uba-cima-ifaeci",
-    "type": "consortium",
-    "drs_name": "UBA-CIMA-IFAECI"
+    "id": "uba-cima-ifaeci",
+    "type": "organisation",
+    "drs_name": "UBA-CIMA-IFAECI",
+    "members": [
+        "uba",
+        "cima",
+        "ifaeci"
+    ],
+    "description": "UBA [Universidad de Buenos Aires, C. A. Buenos Aires (CABA), Argentina]; CIMA [Centro de Investigaciones del Mar y la Atmosfera, C. A. Buenos Aires (CABA), Argentina]; IFAECI [Instituto Franco-Argentino sobre Estudios de Clima y sus Impactos, C. A. Buenos Aires (CABA), Argentina]"
 }

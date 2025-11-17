@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/snu",
-    "type": "institution",
-    "drs_name": "SNU"
+    "id": "snu",
+    "type": "organisation",
+    "drs_name": "SNU",
+    "members": [
+        "snu"
+    ],
+    "description": "Seoul National University"
 }

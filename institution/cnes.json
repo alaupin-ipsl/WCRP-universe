@@ -3,16 +3,12 @@
     "id": "cnes",
     "type": "institution",
     "drs_name": "CNES",
-    "name": "CNES",
-    "acronym": [
-        "CNES"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "Centre national d'etudes spatiales"
     ],
-    "location": {},
+    "description": "CNES",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

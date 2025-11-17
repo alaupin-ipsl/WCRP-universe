@@ -3,16 +3,12 @@
     "id": "dwd",
     "type": "institution",
     "drs_name": "DWD",
-    "name": "DWD",
-    "acronym": [
-        "DWD"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "Deutscher Wetterdienst, Offenbach 63067, Germany"
     ],
-    "location": {},
+    "description": "DWD",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

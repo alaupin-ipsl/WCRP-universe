@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/fuberlin",
-    "type": "institution",
-    "drs_name": "FUBERLIN"
+    "id": "fuberlin",
+    "type": "organisation",
+    "drs_name": "FUBERLIN",
+    "members": [
+        "fuberlin"
+    ],
+    "description": "Freie Universität Berlin"
 }

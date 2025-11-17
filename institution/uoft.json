@@ -1,27 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "uoft",
+    "type": "institution",
+    "drs_name": "UofT",
     "acronyms": [
         "UofT"
     ],
-    "aliases": [],
-    "cmip-acronym": "UofT",
-    "established": 1827,
-    "labels": [],
-    "location": {
-        "city": "Toronto",
-        "country": [
-            "Canada",
-            "CA"
-        ],
-        "lat": 43.6629,
-        "lon": -79.3957
-    },
-    "name": "University of Toronto",
-    "ror": "03dbr7087",
-    "url": [
-        "https://www.utoronto.ca/"
+    "labels": [
+        "University of Toronto"
     ],
-    "type": "institution",
-    "drs_name": "UofT"
+    "description": "University of Toronto",
+    "location": [
+        {
+            "city": "Toronto",
+            "country": "Canada",
+            "lat": 43.6629,
+            "lon": -79.3957
+        }
+    ],
+    "ror": "03dbr7087",
+    "urls": [
+        "https://www.utoronto.ca/"
+    ]
 }

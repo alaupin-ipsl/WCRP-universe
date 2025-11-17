@@ -1,27 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "ipsl",
+    "type": "institution",
+    "drs_name": "IPSL",
     "acronyms": [
         "IPSL"
     ],
-    "aliases": [],
-    "cmip-acronym": "IPSL",
-    "established": 1991,
-    "labels": [],
-    "location": {
-        "city": "Paris",
-        "country": [
-            "France",
-            "FR"
-        ],
-        "lat": 48.855675,
-        "lon": 2.332105
-    },
-    "name": "Institut Pierre-Simon Laplace",
-    "ror": "02haar591",
-    "url": [
-        "https://www.ipsl.fr/en/"
+    "labels": [
+        "Institut Pierre-Simon Laplace"
     ],
-    "type": "institution",
-    "drs_name": "IPSL"
+    "description": "Institut Pierre-Simon Laplace",
+    "location": [
+        {
+            "city": "Paris",
+            "country": "France",
+            "lat": 48.855675,
+            "lon": 2.332105
+        }
+    ],
+    "ror": "02haar591",
+    "urls": [
+        "https://www.ipsl.fr/en/"
+    ]
 }

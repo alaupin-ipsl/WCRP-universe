@@ -1,29 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "ucsb",
+    "type": "institution",
+    "drs_name": "UCSB",
     "acronyms": [
         "UCSB"
     ],
-    "aliases": [
-        "UC Santa Barbara"
+    "labels": [
+        "University of California, Santa Barbara"
     ],
-    "cmip-acronym": "UCSB",
-    "established": 1891,
-    "labels": [],
-    "location": {
-        "city": "Santa Barbara",
-        "country": [
-            "United States",
-            "US"
-        ],
-        "lat": 34.42083,
-        "lon": -119.69819
-    },
-    "name": "University of California, Santa Barbara",
+    "description": "University of California, Santa Barbara",
+    "location": [
+        {
+            "city": "Santa Barbara",
+            "country": "United States",
+            "lat": 34.42083,
+            "lon": -119.69819
+        }
+    ],
     "ror": "02t274463",
-    "url": [
+    "urls": [
         "http://www.ucsb.edu/"
-    ],
-    "type": "institution",
-    "drs_name": "UCSB"
+    ]
 }

@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/clmcom-cmcc",
-    "type": "institution",
-    "drs_name": "CLMcom-CMCC"
+    "id": "clmcom-cmcc",
+    "type": "organisation",
+    "drs_name": "CLMcom-CMCC",
+    "members": [
+        "clmcom-cmcc"
+    ],
+    "description": "Climate Limited-area Modelling Community (CLMcom) partner: Euro-Mediterranean Center on Climate Change (CMCC Foundation)"
 }

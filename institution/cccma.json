@@ -1,27 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "cccma",
+    "type": "institution",
+    "drs_name": "CCCma",
     "acronyms": [
         "ECCC"
     ],
-    "aliases": [],
-    "cmip-acronym": "CCCma",
-    "established": 1971,
-    "labels": [],
-    "location": {
-        "city": "Gatineau",
-        "country": [
-            "Canada",
-            "CA"
-        ],
-        "lat": 45.436974,
-        "lon": -75.709324
-    },
-    "name": "Environment and Climate Change Canada",
-    "ror": "026ny0e17",
-    "url": [
-        "https://www.canada.ca/en/environment-climate-change.html"
+    "labels": [
+        "Environment and Climate Change Canada"
     ],
-    "type": "institution",
-    "drs_name": "CCCma"
+    "description": "Environment and Climate Change Canada",
+    "location": [
+        {
+            "city": "Gatineau",
+            "country": "Canada",
+            "lat": 45.436974,
+            "lon": -75.709324
+        }
+    ],
+    "ror": "026ny0e17",
+    "urls": [
+        "https://www.canada.ca/en/environment-climate-change.html"
+    ]
 }

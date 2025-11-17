@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/cnrm-cerfacs",
-    "type": "consortium",
-    "drs_name": "CNRM-CERFACS"
+    "id": "cnrm-cerfacs",
+    "type": "organisation",
+    "drs_name": "CNRM-CERFACS",
+    "members": [
+        "cnrm"
+    ],
+    "description": "CNRM-Cerfacs"
 }

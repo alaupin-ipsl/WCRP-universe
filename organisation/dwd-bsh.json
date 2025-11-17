@@ -1,6 +1,11 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/dwd-bsh",
-    "type": "consortium",
-    "drs_name": "DWD-BSH"
+    "id": "dwd-bsh",
+    "type": "organisation",
+    "drs_name": "DWD-BSH",
+    "members": [
+        "dwd",
+        "bsh"
+    ],
+    "description": "DWD [Deutscher Wetterdienst]; BSH [Bundesamt fuer Seeschifffahrt und Hydrographie]"
 }

@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/cesam-ua",
-    "type": "institution",
-    "drs_name": "CESAM-UA"
+    "id": "cesam-ua",
+    "type": "organisation",
+    "drs_name": "CESAM-UA",
+    "members": [
+        "cesam-ua"
+    ],
+    "description": "Center for Environmental and Marine Studies (CESAM), Aveiro University (UA)"
 }

@@ -1,6 +1,11 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/bccr-ucan",
-    "type": "consortium",
-    "drs_name": "BCCR-UCAN"
+    "id": "bccr-ucan",
+    "type": "organisation",
+    "drs_name": "BCCR-UCAN",
+    "members": [
+        "bccr",
+        "ucan"
+    ],
+    "description": "BCCR [Bjerknes Center for Climate Research (BCCR), NORCE Norwegian Research Center, Bergen, Norway]; UCAN [Instituto de Fisica de Cantabria (IFCA), CSIC-Universidad de Cantabria, Santander, Spain]"
 }

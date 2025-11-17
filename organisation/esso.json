@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/esso",
-    "type": "institution",
-    "drs_name": "ESSO"
+    "id": "esso",
+    "type": "organisation",
+    "drs_name": "ESSO",
+    "members": [
+        "esso"
+    ],
+    "description": "ESSO"
 }

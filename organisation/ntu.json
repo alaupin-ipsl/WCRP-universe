@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/ntu",
-    "type": "institution",
-    "drs_name": "NTU"
+    "id": "ntu",
+    "type": "organisation",
+    "drs_name": "NTU",
+    "members": [
+        "ntu"
+    ],
+    "description": "National Taiwan University"
 }

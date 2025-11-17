@@ -1,6 +1,11 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/csiro-arccss",
-    "type": "consortium",
-    "drs_name": "CSIRO-ARCCSS"
+    "id": "csiro-arccss",
+    "type": "organisation",
+    "drs_name": "CSIRO-ARCCSS",
+    "members": [
+        "csiro",
+        "arccss"
+    ],
+    "description": "CSIRO-ARCCSS"
 }

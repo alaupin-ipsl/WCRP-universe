@@ -1,27 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "inm",
+    "type": "institution",
+    "drs_name": "INM",
     "acronyms": [
         "INM RAS"
     ],
-    "aliases": [],
-    "cmip-acronym": "INM",
-    "established": 1980,
-    "labels": [],
-    "location": {
-        "city": "Moscow",
-        "country": [
-            "Russia",
-            "RU"
-        ],
-        "lat": 55.762997,
-        "lon": 37.625605
-    },
-    "name": "Institute of Numerical Mathematics",
-    "ror": "00520ey40",
-    "url": [
-        "http://www.inm.ras.ru/inm_en_ver/index.htm"
+    "labels": [
+        "Institute of Numerical Mathematics"
     ],
-    "type": "institution",
-    "drs_name": "INM"
+    "description": "Institute of Numerical Mathematics",
+    "location": [
+        {
+            "city": "Moscow",
+            "country": "Russia",
+            "lat": 55.762997,
+            "lon": 37.625605
+        }
+    ],
+    "ror": "00520ey40",
+    "urls": [
+        "http://www.inm.ras.ru/inm_en_ver/index.htm"
+    ]
 }

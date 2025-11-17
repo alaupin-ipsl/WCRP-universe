@@ -3,16 +3,12 @@
     "id": "arccss",
     "type": "institution",
     "drs_name": "ARCCSS",
-    "name": "ARCCSS",
-    "acronym": [
-        "ARCCSS"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "ARC Centre of Excellence for Climate System Science, NSW, Australia,"
     ],
-    "location": {},
+    "description": "ARCCSS",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/vua",
-    "type": "institution",
-    "drs_name": "VUA"
+    "id": "vua",
+    "type": "organisation",
+    "drs_name": "VUA",
+    "members": [
+        "vua"
+    ],
+    "description": "Vrije Universiteit Amsterdam"
 }

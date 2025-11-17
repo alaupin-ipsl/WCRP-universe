@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/uom",
-    "type": "institution",
-    "drs_name": "UOM"
+    "id": "uom",
+    "type": "organisation",
+    "drs_name": "UOM",
+    "members": [
+        "uom"
+    ],
+    "description": "University of Melbourne"
 }

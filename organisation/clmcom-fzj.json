@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/clmcom-fzj",
-    "type": "institution",
-    "drs_name": "CLMcom-FZJ"
+    "id": "clmcom-fzj",
+    "type": "organisation",
+    "drs_name": "CLMcom-FZJ",
+    "members": [
+        "clmcom-fzj"
+    ],
+    "description": "Climate Limited-area Modelling Community (CLMcom) partner: Forschungszentrum Juelich"
 }

@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/pmod",
-    "type": "institution",
-    "drs_name": "PMOD"
+    "id": "pmod",
+    "type": "organisation",
+    "drs_name": "PMOD",
+    "members": [
+        "pmod"
+    ],
+    "description": "Physikalisch-Meteorologisches Observatorium Davos"
 }

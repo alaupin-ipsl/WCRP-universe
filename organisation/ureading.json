@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/ureading",
-    "type": "institution",
-    "drs_name": "UREADING"
+    "id": "ureading",
+    "type": "organisation",
+    "drs_name": "UREADING",
+    "members": [
+        "ureading"
+    ],
+    "description": "UReading"
 }

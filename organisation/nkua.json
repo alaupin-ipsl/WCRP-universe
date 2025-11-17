@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/nkua",
-    "type": "institution",
-    "drs_name": "NKUA"
+    "id": "nkua",
+    "type": "organisation",
+    "drs_name": "NKUA",
+    "members": [
+        "nkua"
+    ],
+    "description": "National and Kapodistrian University of Athens"
 }

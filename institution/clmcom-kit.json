@@ -1,33 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "clmcom-kit",
+    "type": "institution",
+    "drs_name": "CLMcom-KIT",
     "acronyms": [
         "CLMcom-KIT"
     ],
-    "aliases": [
-        "Karlsruhe Institute of Technology",
-        "Karlsruher Institut für Technologie",
-        "Das Karlsruher Institut für Technologie (KIT) – Die Forschungsuniversität in der Helmholtz-Gemeinschaft",
-        "Karlsruhe Institute of Technology - The Research University in the Helmholtz Association",
-        "KIT"
+    "labels": [
+        "Climate Limited-area Modelling Community (CLMcom) partner: Karlsruhe Institute of Technology"
     ],
-    "cmip-acronym": "CLMcom-KIT",
-    "established": 1825,
-    "labels": [],
-    "location": {
-        "city": "Karlsruhe",
-        "country": [
-            "Germany",
-            "DE"
-        ],
-        "lat": 49.012204,
-        "lon": 8.415549
-    },
-    "name": "Climate Limited-area Modelling Community (CLMcom) partner: Karlsruhe Institute of Technology",
+    "description": "Climate Limited-area Modelling Community (CLMcom) partner: Karlsruhe Institute of Technology",
+    "location": [
+        {
+            "city": "Karlsruhe",
+            "country": "Germany",
+            "lat": 49.012204,
+            "lon": 8.415549
+        }
+    ],
     "ror": "04t3en479",
-    "url": [
+    "urls": [
         "https://www.kit.edu"
-    ],
-    "type": "institution",
-    "drs_name": "CLMcom-KIT"
+    ]
 }

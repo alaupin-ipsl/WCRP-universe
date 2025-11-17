@@ -3,30 +3,21 @@
     "id": "ncar",
     "type": "institution",
     "drs_name": "NCAR",
-    "name": "NCAR",
-    "acronym": [
-        "NCAR"
-    ],
-    "aliases": [
-        "National Center for Atmospheric Research",
-        "National Science Foundation National Center for Atmospheric Research",
-        "NCAR"
-    ],
-    "established": 1960,
+    "acronyms": [],
     "labels": [
         "National Center for Atmospheric Research, Boulder, CO, USA"
     ],
-    "location": {
-        "city": "Boulder",
-        "country": [
-            "United States",
-            "USA"
-        ],
-        "lat": 39.978318,
-        "lon": -105.275031
-    },
+    "description": "NCAR",
+    "location": [
+        {
+            "city": "Boulder",
+            "country": "United States",
+            "lat": 39.978318,
+            "lon": -105.275031
+        }
+    ],
     "ror": "05cvfcr44",
-    "url": [
+    "urls": [
         "https://ncar.ucar.edu/"
     ]
 }

@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/ictp",
-    "type": "institution",
-    "drs_name": "ICTP"
+    "id": "ictp",
+    "type": "organisation",
+    "drs_name": "ICTP",
+    "members": [
+        "ictp"
+    ],
+    "description": "The Abdus Salam International Centre for Theoretical Physics"
 }

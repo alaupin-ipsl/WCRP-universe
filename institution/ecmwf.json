@@ -3,16 +3,12 @@
     "id": "ecmwf",
     "type": "institution",
     "drs_name": "ECMWF",
-    "name": "ECMWF",
-    "acronym": [
-        "ECMWF"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "The European Centre for Medium-Range Weather Forecasts, Shinfield Park, Reading RG2 9AX, UK"
     ],
-    "location": {},
+    "description": "ECMWF",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

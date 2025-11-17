@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/cas",
-    "type": "institution",
-    "drs_name": "CAS"
+    "id": "cas",
+    "type": "organisation",
+    "drs_name": "CAS",
+    "members": [
+        "cas"
+    ],
+    "description": "Chinese Academy of Sciences"
 }

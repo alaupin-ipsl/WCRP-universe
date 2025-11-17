@@ -1,32 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "clmcom-gerics",
+    "type": "institution",
+    "drs_name": "CLMcom-GERICS",
     "acronyms": [
         "CLMcom-GERICS"
     ],
-    "aliases": [
-        "Climate Service Center",
-        "GERICS Climate Service Center",
-        "GERICS Climate Service Center Germany",
-        "GERICS"
+    "labels": [
+        "Climate Limited-area Modelling Community (CLMcom) partner: Climate Service Center Germany"
     ],
-    "cmip-acronym": "CLMcom-GERICS",
-    "established": 2009,
-    "labels": [],
-    "location": {
-        "city": "Hamburg",
-        "country": [
-            "Germany",
-            "DE"
-        ],
-        "lat": 53.548289,
-        "lon": 10.002121
-    },
-    "name": "Climate Limited-area Modelling Community (CLMcom) partner: Climate Service Center Germany",
+    "description": "Climate Limited-area Modelling Community (CLMcom) partner: Climate Service Center Germany",
+    "location": [
+        {
+            "city": "Hamburg",
+            "country": "Germany",
+            "lat": 53.548289,
+            "lon": 10.002121
+        }
+    ],
     "ror": "022rwzq94",
-    "url": [
+    "urls": [
         "https://www.climate-service-center.de/"
-    ],
-    "type": "institution",
-    "drs_name": "CLMcom-GERICS"
+    ]
 }

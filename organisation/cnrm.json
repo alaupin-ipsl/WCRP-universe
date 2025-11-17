@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/cnrm",
-    "type": "institution",
-    "drs_name": "CNRM"
+    "id": "cnrm",
+    "type": "organisation",
+    "drs_name": "CNRM",
+    "members": [
+        "cnrm"
+    ],
+    "description": "Centre National de Recherches Meteorologiques"
 }

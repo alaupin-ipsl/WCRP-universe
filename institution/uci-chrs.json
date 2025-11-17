@@ -3,16 +3,12 @@
     "id": "uci-chrs",
     "type": "institution",
     "drs_name": "UCI-CHRS",
-    "name": "UCI-CHRS",
-    "acronym": [
-        "UCI-CHRS"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "Center for Hydrometeorology and Remote Sensing"
     ],
-    "location": {},
+    "description": "UCI-CHRS",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

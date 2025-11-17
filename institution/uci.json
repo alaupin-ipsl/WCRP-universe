@@ -1,29 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "uci",
+    "type": "institution",
+    "drs_name": "UCI",
     "acronyms": [
         "UCI"
     ],
-    "aliases": [
-        "UC Irvine"
+    "labels": [
+        "University of California, Irvine"
     ],
-    "cmip-acronym": "UCI",
-    "established": 1965,
-    "labels": [],
-    "location": {
-        "city": "Irvine",
-        "country": [
-            "United States",
-            "US"
-        ],
-        "lat": 33.64535,
-        "lon": -117.842642
-    },
-    "name": "University of California, Irvine",
+    "description": "University of California, Irvine",
+    "location": [
+        {
+            "city": "Irvine",
+            "country": "United States",
+            "lat": 33.64535,
+            "lon": -117.842642
+        }
+    ],
     "ror": "04gyf1771",
-    "url": [
+    "urls": [
         "http://uci.edu/"
-    ],
-    "type": "institution",
-    "drs_name": "UCI"
+    ]
 }

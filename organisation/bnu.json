@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/bnu",
-    "type": "institution",
-    "drs_name": "BNU"
+    "id": "bnu",
+    "type": "organisation",
+    "drs_name": "BNU",
+    "members": [
+        "bnu"
+    ],
+    "description": "Beaconhouse National University"
 }

@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/utas",
-    "type": "institution",
-    "drs_name": "UTAS"
+    "id": "utas",
+    "type": "organisation",
+    "drs_name": "UTAS",
+    "members": [
+        "utas"
+    ],
+    "description": "University of Tasmania"
 }

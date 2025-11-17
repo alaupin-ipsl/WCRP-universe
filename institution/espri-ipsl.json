@@ -3,16 +3,12 @@
     "id": "espri-ipsl",
     "type": "institution",
     "drs_name": "ESPRI-IPSL",
-    "name": "ESPRI-IPSL",
-    "acronym": [
-        "ESPRI-IPSL"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "Ensemble de Services Pour la Recherche, Institut Pierre Simon Laplace (France)"
     ],
-    "location": {},
+    "description": "ESPRI-IPSL",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

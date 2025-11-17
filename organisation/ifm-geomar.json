@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/ifm-geomar",
-    "type": "institution",
-    "drs_name": "IFM-GEOMAR"
+    "id": "ifm-geomar",
+    "type": "organisation",
+    "drs_name": "IFM-GEOMAR",
+    "members": [
+        "ifm-geomar"
+    ],
+    "description": "GEOMAR Helmholtz Centre for Ocean Research Kiel"
 }

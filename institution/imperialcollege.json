@@ -3,16 +3,12 @@
     "id": "imperialcollege",
     "type": "institution",
     "drs_name": "ImperialCollege",
-    "name": "ImperialCollege",
-    "acronym": [
-        "ImperialCollege"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "Imperial College, London, UK"
     ],
-    "location": {},
+    "description": "ImperialCollege",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

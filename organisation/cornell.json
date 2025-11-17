@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/cornell",
-    "type": "institution",
-    "drs_name": "CORNELL"
+    "id": "cornell",
+    "type": "organisation",
+    "drs_name": "CORNELL",
+    "members": [
+        "cornell"
+    ],
+    "description": "Cornell University"
 }

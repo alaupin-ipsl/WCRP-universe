@@ -1,35 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "clmcom-eth",
+    "type": "institution",
+    "drs_name": "CLMcom-ETH",
     "acronyms": [
         "CLMcom-ETH"
     ],
-    "aliases": [
-        "ETH Zurich",
-        "ETH Zürich",
-        "ETH di Zurigo",
-        "Eidgenössische Technische Hochschule Zürich",
-        "Politecnico Federale di Zurigo",
-        "Swiss Federal Institute of Technology in Zurich",
-        "École Polytechnique Fédérale de Zurich"
+    "labels": [
+        "Climate Limited-area Modelling Community (CLMcom) partner: Federal Institute of Technology Zurich"
     ],
-    "cmip-acronym": "CLMcom-ETH",
-    "established": null,
-    "labels": [],
-    "location": {
-        "city": "Zürich",
-        "country": [
-            "Switzerland",
-            "CH"
-        ],
-        "lat": 47.376389,
-        "lon": 8.547628
-    },
-    "name": "Climate Limited-area Modelling Community (CLMcom) partner: Federal Institute of Technology Zurich",
+    "description": "Climate Limited-area Modelling Community (CLMcom) partner: Federal Institute of Technology Zurich",
+    "location": [
+        {
+            "city": "Zürich",
+            "country": "Switzerland",
+            "lat": 47.376389,
+            "lon": 8.547628
+        }
+    ],
     "ror": "05a28rw58",
-    "url": [
+    "urls": [
         "https://ethz.ch"
-    ],
-    "type": "institution",
-    "drs_name": "CLMcom-ETH"
+    ]
 }

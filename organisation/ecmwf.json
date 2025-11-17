@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/ecmwf",
-    "type": "institution",
-    "drs_name": "ECMWF"
+    "id": "ecmwf",
+    "type": "organisation",
+    "drs_name": "ECMWF",
+    "members": [
+        "ecmwf"
+    ],
+    "description": "ECMWF"
 }

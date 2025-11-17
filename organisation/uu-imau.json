@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/uu-imau",
-    "type": "institution",
-    "drs_name": "UU-IMAU"
+    "id": "uu-imau",
+    "type": "organisation",
+    "drs_name": "UU-IMAU",
+    "members": [
+        "uu-imau"
+    ],
+    "description": "Institute for Marine and Atmospheric research Utrecht (IMAU), Utrecht University"
 }

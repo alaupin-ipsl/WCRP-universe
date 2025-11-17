@@ -3,16 +3,12 @@
     "id": "incois-nio-ipsl",
     "type": "institution",
     "drs_name": "INCOIS-NIO-IPSL",
-    "name": "INCOIS-NIO-IPSL",
-    "acronym": [
-        "INCOIS-NIO-IPSL"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "Joint research colloboration between INCOIS(India), NIO(India) and IPSL(France)"
     ],
-    "location": {},
+    "description": "INCOIS-NIO-IPSL",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

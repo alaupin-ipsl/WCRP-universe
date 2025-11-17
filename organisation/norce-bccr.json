@@ -1,6 +1,11 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/norce-bccr",
-    "type": "consortium",
-    "drs_name": "NORCE-BCCR"
+    "id": "norce-bccr",
+    "type": "organisation",
+    "drs_name": "NORCE-BCCR",
+    "members": [
+        "norce",
+        "bccr"
+    ],
+    "description": "NORCE [NORCE Norwegian Research Centre, Bergen, Norway]; BCCR [Bjerknes Centre for Climate Research, Bergen, Norway]"
 }

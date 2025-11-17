@@ -3,28 +3,21 @@
     "id": "mohc",
     "type": "institution",
     "drs_name": "MOHC",
-    "name": "MOHC",
-    "acronym": [
-        "MOHC"
-    ],
-    "aliases": [
-        "Meteorological Office"
-    ],
-    "established": 1990,
+    "acronyms": [],
     "labels": [
         "Met Office Hadley Centre"
     ],
-    "location": {
-        "city": "Exeter",
-        "country": [
-            "United Kingdom",
-            "UK"
-        ],
-        "lat": 50.727188,
-        "lon": -3.475415
-    },
+    "description": "MOHC",
+    "location": [
+        {
+            "city": "Exeter",
+            "country": "United Kingdom",
+            "lat": 50.727188,
+            "lon": -3.475415
+        }
+    ],
     "ror": "01ch2yn61",
-    "url": [
+    "urls": [
         "http://www.metoffice.gov.uk/"
     ]
 }

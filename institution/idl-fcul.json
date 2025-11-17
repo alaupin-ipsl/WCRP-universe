@@ -1,29 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "idl-fcul",
+    "type": "institution",
+    "drs_name": "IDL-FCUL",
     "acronyms": [
         "IDL-FCUL"
     ],
-    "aliases": [
-        "Instituto Dom Luiz"
+    "labels": [
+        "Instituto Dom Luiz, Faculdade de Ciencias, Universidade de Lisboa"
     ],
-    "cmip-acronym": "IDL-FCUL",
-    "established": 1853,
-    "labels": [],
-    "location": {
-        "city": "Lisbon",
-        "country": [
-            "Portugal",
-            "PT"
-        ],
-        "lat": 38.751157,
-        "lon": -9.153918
-    },
-    "name": "Instituto Dom Luiz, Faculdade de Ciencias, Universidade de Lisboa",
+    "description": "Instituto Dom Luiz, Faculdade de Ciencias, Universidade de Lisboa",
+    "location": [
+        {
+            "city": "Lisbon",
+            "country": "Portugal",
+            "lat": 38.751157,
+            "lon": -9.153918
+        }
+    ],
     "ror": "046ggxs83",
-    "url": [
+    "urls": [
         "https://idl.ciencias.ulisboa.pt/"
-    ],
-    "type": "institution",
-    "drs_name": "IDL-FCUL"
+    ]
 }

@@ -1,27 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "eawag",
+    "type": "institution",
+    "drs_name": "EAWAG",
     "acronyms": [
         "EAWAG"
     ],
-    "aliases": [],
-    "cmip-acronym": "EAWAG",
-    "established": 1936,
-    "labels": [],
-    "location": {
-        "city": "D\u00fcbendorf",
-        "country": [
-            "Switzerland",
-            "CH"
-        ],
-        "lat": 47.39724,
-        "lon": 47.39724
-    },
-    "name": "Swiss Federal Institute of Aquatic Science and Technology",
-    "ror": "00pc48d59",
-    "url": [
-        "http://www.eawag.ch/en/"
+    "labels": [
+        "Swiss Federal Institute of Aquatic Science and Technology"
     ],
-    "type": "institution",
-    "drs_name": "EAWAG"
+    "description": "Swiss Federal Institute of Aquatic Science and Technology",
+    "location": [
+        {
+            "city": "Dübendorf",
+            "country": "Switzerland",
+            "lat": 47.39724,
+            "lon": 47.39724
+        }
+    ],
+    "ror": "00pc48d59",
+    "urls": [
+        "http://www.eawag.ch/en/"
+    ]
 }

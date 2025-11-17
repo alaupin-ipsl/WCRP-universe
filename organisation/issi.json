@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/issi",
-    "type": "institution",
-    "drs_name": "ISSI"
+    "id": "issi",
+    "type": "organisation",
+    "drs_name": "ISSI",
+    "members": [
+        "issi"
+    ],
+    "description": "International Space Science Institute"
 }

@@ -3,16 +3,12 @@
     "id": "gloh2o",
     "type": "institution",
     "drs_name": "GloH2O",
-    "name": "GloH2O",
-    "acronym": [
-        "GloH2O"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "gloh2o.org"
     ],
-    "location": {},
+    "description": "GloH2O",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

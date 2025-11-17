@@ -3,16 +3,12 @@
     "id": "jaxa",
     "type": "institution",
     "drs_name": "JAXA",
-    "name": "JAXA",
-    "acronym": [
-        "JAXA"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "The Japan Aerospace Exploration Agency"
     ],
-    "location": {},
+    "description": "JAXA",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

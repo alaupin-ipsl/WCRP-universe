@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/kiost",
-    "type": "institution",
-    "drs_name": "KIOST"
+    "id": "kiost",
+    "type": "organisation",
+    "drs_name": "KIOST",
+    "members": [
+        "kiost"
+    ],
+    "description": "Korea Institute of Ocean Science and Technology"
 }

@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/nasa-jpl",
-    "type": "institution",
-    "drs_name": "NASA-JPL"
+    "id": "nasa-jpl",
+    "type": "organisation",
+    "drs_name": "NASA-JPL",
+    "members": [
+        "nasa-jpl"
+    ],
+    "description": "NASA-JPL"
 }

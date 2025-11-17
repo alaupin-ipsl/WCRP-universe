@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/pnnl-jgcri",
-    "type": "institution",
-    "drs_name": "PNNL-JGCRI"
+    "id": "pnnl-jgcri",
+    "type": "organisation",
+    "drs_name": "PNNL-JGCRI",
+    "members": [
+        "pnnl-jgcri"
+    ],
+    "description": "Joint Global Change Research Institute"
 }

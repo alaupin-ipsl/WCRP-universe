@@ -1,25 +1,23 @@
 {
     "@context": "000_context.jsonld",
     "id": "bcc",
-    "acronyms": [],
-    "aliases": [],
-    "cmip-acronym": "BCC",
-    "established": 2008,
-    "labels": [],
-    "location": {
-        "city": "Beijing",
-        "country": [
-            "China",
-            "CN"
-        ],
-        "lat": 39.950128,
-        "lon": 116.383679
-    },
-    "name": "Beijing Biocytogen (China)",
-    "ror": "01spyyb53",
-    "url": [
-        "http://www.bbctg.com.cn/"
-    ],
     "type": "institution",
-    "drs_name": "BCC"
+    "drs_name": "BCC",
+    "acronyms": [],
+    "labels": [
+        "Beijing Biocytogen (China)"
+    ],
+    "description": "Beijing Biocytogen (China)",
+    "location": [
+        {
+            "city": "Beijing",
+            "country": "China",
+            "lat": 39.950128,
+            "lon": 116.383679
+        }
+    ],
+    "ror": "01spyyb53",
+    "urls": [
+        "http://www.bbctg.com.cn/"
+    ]
 }

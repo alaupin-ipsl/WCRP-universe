@@ -3,16 +3,12 @@
     "id": "mri",
     "type": "institution",
     "drs_name": "MRI",
-    "name": "MRI",
-    "acronym": [
-        "MRI"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "Meteorological Research Institute, Tsukuba, Ibaraki 305-0052, Japan"
     ],
-    "location": {},
+    "description": "MRI",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

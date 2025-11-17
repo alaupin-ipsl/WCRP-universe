@@ -3,16 +3,12 @@
     "id": "uw",
     "type": "institution",
     "drs_name": "UW",
-    "name": "UW",
-    "acronym": [
-        "UW"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "University of Washington, USA"
     ],
-    "location": {},
+    "description": "UW",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

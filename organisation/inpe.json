@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/inpe",
-    "type": "institution",
-    "drs_name": "INPE"
+    "id": "inpe",
+    "type": "organisation",
+    "drs_name": "INPE",
+    "members": [
+        "inpe"
+    ],
+    "description": "Instituto Nacional de Pesquisas Espaciais"
 }

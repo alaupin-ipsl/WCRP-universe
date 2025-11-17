@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/clmcom-awi",
-    "type": "institution",
-    "drs_name": "CLMcom-AWI"
+    "id": "clmcom-awi",
+    "type": "organisation",
+    "drs_name": "CLMcom-AWI",
+    "members": [
+        "clmcom-awi"
+    ],
+    "description": "Climate Limited-area Modelling Community (CLMcom) partner: Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research"
 }

@@ -1,6 +1,11 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/csiro-cosima",
-    "type": "consortium",
-    "drs_name": "CSIRO-COSIMA"
+    "id": "csiro-cosima",
+    "type": "organisation",
+    "drs_name": "CSIRO-COSIMA",
+    "members": [
+        "csiro",
+        "cosima"
+    ],
+    "description": "CSIRO-COSIMA"
 }

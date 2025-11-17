@@ -1,6 +1,11 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/rte-rrtmgp-consortium",
-    "type": "consortium",
-    "drs_name": "RTE-RRTMGP-Consortium"
+    "id": "rte-rrtmgp-consortium",
+    "type": "organisation",
+    "drs_name": "RTE-RRTMGP-Consortium",
+    "members": [
+        "aer",
+        "ucolorado"
+    ],
+    "description": "RTE-RRTMGP-Consortium"
 }

@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/ua",
-    "type": "institution",
-    "drs_name": "UA"
+    "id": "ua",
+    "type": "organisation",
+    "drs_name": "UA",
+    "members": [
+        "ua"
+    ],
+    "description": "University of Arizona"
 }

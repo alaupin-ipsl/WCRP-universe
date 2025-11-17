@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/nasa-larc",
-    "type": "institution",
-    "drs_name": "NASA-LARC"
+    "id": "nasa-larc",
+    "type": "organisation",
+    "drs_name": "NASA-LARC",
+    "members": [
+        "nasa-larc"
+    ],
+    "description": "NASA-LaRC"
 }

@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/noaa-ncei",
-    "type": "institution",
-    "drs_name": "NOAA-NCEI"
+    "id": "noaa-ncei",
+    "type": "organisation",
+    "drs_name": "NOAA-NCEI",
+    "members": [
+        "noaa-ncei"
+    ],
+    "description": "NOAA-NCEI"
 }

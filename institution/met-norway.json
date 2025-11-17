@@ -3,16 +3,12 @@
     "id": "met-norway",
     "type": "institution",
     "drs_name": "MET-Norway",
-    "name": "MET-Norway",
-    "acronym": [
-        "MET-Norway"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "Norwegian Meteorological Institute"
     ],
-    "location": {},
+    "description": "MET-Norway",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

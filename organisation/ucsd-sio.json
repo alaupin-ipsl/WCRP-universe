@@ -1,6 +1,11 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/ucsd-sio",
-    "type": "consortium",
-    "drs_name": "UCSD-SIO"
+    "id": "ucsd-sio",
+    "type": "organisation",
+    "drs_name": "UCSD-SIO",
+    "members": [
+        "university",
+        "scripps"
+    ],
+    "description": "UCSD-SIO"
 }

@@ -1,27 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "awi",
+    "type": "institution",
+    "drs_name": "AWI",
     "acronyms": [
         "AWI"
     ],
-    "aliases": [],
-    "cmip-acronym": "AWI",
-    "established": 1980,
-    "labels": [],
-    "location": {
-        "city": "Bremerhaven",
-        "country": [
-            "Germany",
-            "DE"
-        ],
-        "lat": 53.53615,
-        "lon": 8.59298
-    },
-    "name": "Alfred Wegener Institute for Polar and Marine Research",
-    "ror": "032e6b942",
-    "url": [
-        "https://www.awi.de"
+    "labels": [
+        "Alfred Wegener Institute for Polar and Marine Research"
     ],
-    "type": "institution",
-    "drs_name": "AWI"
+    "description": "Alfred Wegener Institute for Polar and Marine Research",
+    "location": [
+        {
+            "city": "Bremerhaven",
+            "country": "Germany",
+            "lat": 53.53615,
+            "lon": 8.59298
+        }
+    ],
+    "ror": "032e6b942",
+    "urls": [
+        "https://www.awi.de"
+    ]
 }

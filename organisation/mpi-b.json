@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/mpi-b",
-    "type": "institution",
-    "drs_name": "MPI-B"
+    "id": "mpi-b",
+    "type": "organisation",
+    "drs_name": "MPI-B",
+    "members": [
+        "mpi-b"
+    ],
+    "description": "Max Planck Institute for Biogeochemistry"
 }

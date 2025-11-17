@@ -3,16 +3,12 @@
     "id": "rss",
     "type": "institution",
     "drs_name": "RSS",
-    "name": "RSS",
-    "acronym": [
-        "RSS"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "Remote Sensing Systems, Santa Rosa, CA USA"
     ],
-    "location": {},
+    "description": "RSS",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

@@ -1,6 +1,18 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/rubisco",
-    "type": "consortium",
-    "drs_name": "RUBISCO"
+    "id": "rubisco",
+    "type": "organisation",
+    "drs_name": "RUBISCO",
+    "members": [
+        "ornl",
+        "anl",
+        "bnl",
+        "lanl",
+        "lbnl",
+        "nau",
+        "ncar",
+        "uci",
+        "um"
+    ],
+    "description": "RUBISCO"
 }

@@ -1,27 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "uofmd",
+    "type": "institution",
+    "drs_name": "UofMD",
     "acronyms": [
         "UMD"
     ],
-    "aliases": [],
-    "cmip-acronym": "UofMD",
-    "established": 1856,
-    "labels": [],
-    "location": {
-        "city": "College Park",
-        "country": [
-            "United States",
-            "US"
-        ],
-        "lat": 38.98067,
-        "lon": -76.93692
-    },
-    "name": "University of Maryland, College Park",
-    "ror": "047s2c258",
-    "url": [
-        "http://www.umd.edu/"
+    "labels": [
+        "University of Maryland, College Park"
     ],
-    "type": "institution",
-    "drs_name": "UofMD"
+    "description": "University of Maryland, College Park",
+    "location": [
+        {
+            "city": "College Park",
+            "country": "United States",
+            "lat": 38.98067,
+            "lon": -76.93692
+        }
+    ],
+    "ror": "047s2c258",
+    "urls": [
+        "http://www.umd.edu/"
+    ]
 }

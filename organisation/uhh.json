@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/uhh",
-    "type": "institution",
-    "drs_name": "UHH"
+    "id": "uhh",
+    "type": "organisation",
+    "drs_name": "UHH",
+    "members": [
+        "uhh"
+    ],
+    "description": "Universität Hamburg"
 }

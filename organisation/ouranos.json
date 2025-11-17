@@ -1,6 +1,8 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/ouranos",
-    "type": "consortium",
-    "drs_name": "OURANOS"
+    "id": "ouranos",
+    "type": "organisation",
+    "drs_name": "OURANOS",
+    "members": [],
+    "description": "Consortium on Regional Climatology and Adaptation to Climate Change (Québec, Canada)"
 }

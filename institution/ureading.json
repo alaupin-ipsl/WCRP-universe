@@ -3,16 +3,12 @@
     "id": "ureading",
     "type": "institution",
     "drs_name": "UReading",
-    "name": "UReading",
-    "acronym": [
-        "UReading"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "University of Reading, Reading, UK"
     ],
-    "location": {},
+    "description": "UReading",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/enea",
-    "type": "institution",
-    "drs_name": "ENEA"
+    "id": "enea",
+    "type": "organisation",
+    "drs_name": "ENEA",
+    "members": [
+        "enea"
+    ],
+    "description": "Italian National Agency for New Technologies, Energy and the Environment"
 }

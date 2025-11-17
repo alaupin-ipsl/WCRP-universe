@@ -3,16 +3,12 @@
     "id": "nasa-jpl",
     "type": "institution",
     "drs_name": "NASA-JPL",
-    "name": "NASA-JPL",
-    "acronym": [
-        "NASA-JPL"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "NASA Jet Propulsion Laboratory, Pasadena, CA 91109, USA"
     ],
-    "location": {},
+    "description": "NASA-JPL",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

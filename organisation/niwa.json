@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/niwa",
-    "type": "institution",
-    "drs_name": "NIWA"
+    "id": "niwa",
+    "type": "organisation",
+    "drs_name": "NIWA",
+    "members": [
+        "niwa"
+    ],
+    "description": "National Institute of Water and Atmospheric Research"
 }

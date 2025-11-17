@@ -1,6 +1,16 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/hammoz-consortium",
-    "type": "consortium",
-    "drs_name": "HAMMOZ-Consortium"
+    "id": "hammoz-consortium",
+    "type": "organisation",
+    "drs_name": "HAMMOZ-Consortium",
+    "members": [
+        "eth",
+        "max",
+        "forschungszentrum",
+        "university",
+        "finnish",
+        "leibniz",
+        "center"
+    ],
+    "description": "HAMMOZ-Consortium"
 }

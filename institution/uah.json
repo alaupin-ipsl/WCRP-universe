@@ -3,16 +3,12 @@
     "id": "uah",
     "type": "institution",
     "drs_name": "UAH",
-    "name": "UAH",
-    "acronym": [
-        "UAH"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "University of Alcala, Spain"
     ],
-    "location": {},
+    "description": "UAH",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

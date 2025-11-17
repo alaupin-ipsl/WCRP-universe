@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/clmcom-guf",
-    "type": "institution",
-    "drs_name": "CLMcom-GUF"
+    "id": "clmcom-guf",
+    "type": "organisation",
+    "drs_name": "CLMcom-GUF",
+    "members": [
+        "clmcom-guf"
+    ],
+    "description": "Climate Limited-area Modelling Community (CLMcom) partner: Goethe University Frankfurt"
 }

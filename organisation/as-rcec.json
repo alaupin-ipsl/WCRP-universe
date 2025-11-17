@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/as-rcec",
-    "type": "institution",
-    "drs_name": "AS-REC"
+    "id": "as-rcec",
+    "type": "organisation",
+    "drs_name": "AS-REC",
+    "members": [
+        "as-rcec"
+    ],
+    "description": "Research Center for Environmental Changes, Academia Sinica"
 }

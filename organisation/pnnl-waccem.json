@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/pnnl-waccem",
-    "type": "institution",
-    "drs_name": "PNNL-WACCEM"
+    "id": "pnnl-waccem",
+    "type": "organisation",
+    "drs_name": "PNNL-WACCEM",
+    "members": [
+        "pnnl-waccem"
+    ],
+    "description": "Pacific Northwest National Laboratory"
 }

@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/aer",
-    "type": "institution",
-    "drs_name": "AER"
+    "id": "aer",
+    "type": "organisation",
+    "drs_name": "AER",
+    "members": [
+        "aer"
+    ],
+    "description": "Atmospheric and Environmental Research"
 }

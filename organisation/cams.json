@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/cams",
-    "type": "institution",
-    "drs_name": "CAMS"
+    "id": "cams",
+    "type": "organisation",
+    "drs_name": "CAMS",
+    "members": [
+        "cams"
+    ],
+    "description": "Chinese Academy of Meteorological Sciences"
 }

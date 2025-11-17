@@ -1,6 +1,15 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/ncc",
-    "type": "consortium",
-    "drs_name": "NCC"
+    "id": "ncc",
+    "type": "organisation",
+    "drs_name": "NCC",
+    "members": [
+        "noresm",
+        "met-norway",
+        "nersc",
+        "nilu",
+        "uib",
+        "uio",
+        "uni"
+    ]
 }

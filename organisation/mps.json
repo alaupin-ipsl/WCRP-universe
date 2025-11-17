@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/mps",
-    "type": "institution",
-    "drs_name": "MPS"
+    "id": "mps",
+    "type": "organisation",
+    "drs_name": "MPS",
+    "members": [
+        "mps"
+    ],
+    "description": "Max Planck Institute for Solar System Research"
 }

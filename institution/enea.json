@@ -1,32 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "enea",
+    "type": "institution",
+    "drs_name": "ENEA",
     "acronyms": [
         "ENEA"
     ],
-    "aliases": [
-        "National Agency for New Technologies, Energy and Sustainable Economic Development",
-        "Agenzia Nazionale per le Nuove Tecnologie, l'Energia e lo Sviluppo Economico Sostenibile",
-        "Italian National Agency for New Technologies, Energy and Sustainable Economic Development",
-        "ENEA"
+    "labels": [
+        "Italian National Agency for New Technologies, Energy and the Environment"
     ],
-    "cmip-acronym": "ENEA",
-    "established": 1952,
-    "labels": [],
-    "location": {
-        "city": "Frascati",
-        "country": [
-            "Italy",
-            "IT"
-        ],
-        "lat": 41.820316,
-        "lon": 12.67213
-    },
-    "name": "Italian National Agency for New Technologies, Energy and the Environment",
+    "description": "Italian National Agency for New Technologies, Energy and the Environment",
+    "location": [
+        {
+            "city": "Frascati",
+            "country": "Italy",
+            "lat": 41.820316,
+            "lon": 12.67213
+        }
+    ],
     "ror": "02an8es95",
-    "url": [
+    "urls": [
         "https://www.enea.it/"
-    ],
-    "type": "institution",
-    "drs_name": "ENEA"
+    ]
 }

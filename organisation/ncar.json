@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/ncar",
-    "type": "institution",
-    "drs_name": "NCAR"
+    "id": "ncar",
+    "type": "organisation",
+    "drs_name": "NCAR",
+    "members": [
+        "ncar"
+    ],
+    "description": "NCAR"
 }

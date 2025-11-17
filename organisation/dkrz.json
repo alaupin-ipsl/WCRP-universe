@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/dkrz",
-    "type": "institution",
-    "drs_name": "DKRZ"
+    "id": "dkrz",
+    "type": "organisation",
+    "drs_name": "DKRZ",
+    "members": [
+        "dkrz"
+    ],
+    "description": "German Climate Computing Centre"
 }

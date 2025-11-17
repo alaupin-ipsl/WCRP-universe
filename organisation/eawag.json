@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/eawag",
-    "type": "institution",
-    "drs_name": "EAWAG"
+    "id": "eawag",
+    "type": "organisation",
+    "drs_name": "EAWAG",
+    "members": [
+        "eawag"
+    ],
+    "description": "Swiss Federal Institute of Aquatic Science and Technology"
 }

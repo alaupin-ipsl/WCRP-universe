@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/messy-consortium",
-    "type": "consortium",
-    "drs_name": "MESSy-Consortium"
+    "id": "messy-consortium",
+    "type": "organisation",
+    "drs_name": "MESSy-Consortium",
+    "members": [
+        "institute"
+    ],
+    "description": "The Modular Earth Submodel System (MESSy) Consortium"
 }

@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/auot",
-    "type": "institution",
-    "drs_name": "AUOT"
+    "id": "auot",
+    "type": "organisation",
+    "drs_name": "AUOT",
+    "members": [
+        "auot"
+    ],
+    "description": "Aristotle University of Thessaloniki"
 }

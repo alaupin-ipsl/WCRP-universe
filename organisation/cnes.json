@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/cnes",
-    "type": "institution",
-    "drs_name": "CNES"
+    "id": "cnes",
+    "type": "organisation",
+    "drs_name": "CNES",
+    "members": [
+        "cnes"
+    ],
+    "description": "CNES"
 }

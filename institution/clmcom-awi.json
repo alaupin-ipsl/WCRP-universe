@@ -1,29 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "clmcom-awi",
+    "type": "institution",
+    "drs_name": "CLMcom-AWI",
     "acronyms": [
         "CLMcom-AWI"
     ],
-    "aliases": [
-        "Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung"
+    "labels": [
+        "Climate Limited-area Modelling Community (CLMcom) partner: Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research"
     ],
-    "cmip-acronym": "CLMcom-AWI",
-    "established": 1980,
-    "labels": [],
-    "location": {
-        "city": "Bremerhaven",
-        "country": [
-            "Germany",
-            "DE"
-        ],
-        "lat": 53.533255,
-        "lon": 8.580515
-    },
-    "name": "Climate Limited-area Modelling Community (CLMcom) partner: Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research",
+    "description": "Climate Limited-area Modelling Community (CLMcom) partner: Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research",
+    "location": [
+        {
+            "city": "Bremerhaven",
+            "country": "Germany",
+            "lat": 53.533255,
+            "lon": 8.580515
+        }
+    ],
     "ror": "032e6b942",
-    "url": [
+    "urls": [
         "https://www.awi.de/"
-    ],
-    "type": "institution",
-    "drs_name": "CLMcom-AWI"
+    ]
 }

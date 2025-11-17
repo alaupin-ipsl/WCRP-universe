@@ -1,29 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "niwa",
+    "type": "institution",
+    "drs_name": "NIWA",
     "acronyms": [
         "NIWA"
     ],
-    "aliases": [
-        "Taihoro Nukurangi"
+    "labels": [
+        "National Institute of Water and Atmospheric Research"
     ],
-    "cmip-acronym": "NIWA",
-    "established": 1992,
-    "labels": [],
-    "location": {
-        "city": "Auckland",
-        "country": [
-            "New Zealand",
-            "NZ"
-        ],
-        "lat": -36.84403,
-        "lon": 174.76172
-    },
-    "name": "National Institute of Water and Atmospheric Research",
+    "description": "National Institute of Water and Atmospheric Research",
+    "location": [
+        {
+            "city": "Auckland",
+            "country": "New Zealand",
+            "lat": -36.84403,
+            "lon": 174.76172
+        }
+    ],
     "ror": "04hxcaz34",
-    "url": [
+    "urls": [
         "https://www.niwa.co.nz/"
-    ],
-    "type": "institution",
-    "drs_name": "NIWA"
+    ]
 }

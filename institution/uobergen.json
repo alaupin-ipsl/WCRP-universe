@@ -1,27 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "uobergen",
+    "type": "institution",
+    "drs_name": "UoBergen",
     "acronyms": [
         "UiB"
     ],
-    "aliases": [],
-    "cmip-acronym": "UoBergen",
-    "established": 1946,
-    "labels": [],
-    "location": {
-        "city": "Bergen",
-        "country": [
-            "Norway",
-            "NO"
-        ],
-        "lat": 60.39299,
-        "lon": 60.39299
-    },
-    "name": "University of Bergen",
-    "ror": "03zga2b32",
-    "url": [
-        "http://www.uib.no/"
+    "labels": [
+        "University of Bergen"
     ],
-    "type": "institution",
-    "drs_name": "UoBergen"
+    "description": "University of Bergen",
+    "location": [
+        {
+            "city": "Bergen",
+            "country": "Norway",
+            "lat": 60.39299,
+            "lon": 60.39299
+        }
+    ],
+    "ror": "03zga2b32",
+    "urls": [
+        "http://www.uib.no/"
+    ]
 }

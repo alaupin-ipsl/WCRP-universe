@@ -1,33 +1,26 @@
 {
     "@context": "000_context.jsonld",
     "id": "llnl",
+    "type": "institution",
+    "drs_name": "LLNL",
     "acronyms": [
         "LLNL",
         "LLL"
     ],
-    "aliases": [
-        "United States Department of Energy National Nuclear Security Administration Lawrence Livermore National Laboratory",
-        "U.S. Department of Energy National Nuclear Security Administration Los Alamos National Laboratory",
-        "United States Department of Energy Los Alamos National Laboratory",
-        "U.S. Department of Energy Los Alamos National Laboratory"
+    "labels": [
+        "Lawrence Livermore National Laboratory"
     ],
-    "cmip-acronym": "LLNL",
-    "established": 1952,
-    "labels": [],
-    "location": {
-        "city": "Livermore",
-        "country": [
-            "United States",
-            "US"
-        ],
-        "lat": 37.68187,
-        "lon": -121.76801
-    },
-    "name": "Lawrence Livermore National Laboratory",
+    "description": "Lawrence Livermore National Laboratory",
+    "location": [
+        {
+            "city": "Livermore",
+            "country": "United States",
+            "lat": 37.68187,
+            "lon": -121.76801
+        }
+    ],
     "ror": "041nk4h53",
-    "url": [
+    "urls": [
         "https://www.llnl.gov/"
-    ],
-    "type": "institution",
-    "drs_name": "LLNL"
+    ]
 }

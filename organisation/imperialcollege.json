@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/imperialcollege",
-    "type": "institution",
-    "drs_name": "IMPERIALCOLLEGE"
+    "id": "imperialcollege",
+    "type": "organisation",
+    "drs_name": "IMPERIALCOLLEGE",
+    "members": [
+        "imperialcollege"
+    ],
+    "description": "ImperialCollege"
 }

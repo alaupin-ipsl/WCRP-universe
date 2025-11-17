@@ -1,6 +1,11 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/fio-qlnm",
-    "type": "consortium",
-    "drs_name": "FIO-QLNM"
+    "id": "fio-qlnm",
+    "type": "organisation",
+    "drs_name": "FIO-QLNM",
+    "members": [
+        "fio",
+        "qnlm"
+    ],
+    "description": "FIO-QLNM"
 }

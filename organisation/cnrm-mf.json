@@ -1,6 +1,11 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/cnrm-mf",
-    "type": "consortium",
-    "drs_name": "CNRM-MF"
+    "id": "cnrm-mf",
+    "type": "organisation",
+    "drs_name": "CNRM-MF",
+    "members": [
+        "cnrm",
+        "mf"
+    ],
+    "description": "CNRM [Centre National de Recherches Meteorologiques, Toulouse, France]; MF [Meteo France, Toulouse, France]"
 }

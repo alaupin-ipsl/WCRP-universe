@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/inm",
-    "type": "institution",
-    "drs_name": "INM"
+    "id": "inm",
+    "type": "organisation",
+    "drs_name": "INM",
+    "members": [
+        "inm"
+    ],
+    "description": "Institute of Numerical Mathematics"
 }

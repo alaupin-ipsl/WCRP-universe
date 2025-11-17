@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/iamc",
-    "type": "consortium",
-    "drs_name": "IAMC"
+    "id": "iamc",
+    "type": "organisation",
+    "drs_name": "IAMC",
+    "members": [
+        "integrated"
+    ],
+    "description": "Integrated Assessment Modeling Consortium"
 }

@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/mri",
-    "type": "institution",
-    "drs_name": "MRI"
+    "id": "mri",
+    "type": "organisation",
+    "drs_name": "MRI",
+    "members": [
+        "mri"
+    ],
+    "description": "MRI"
 }

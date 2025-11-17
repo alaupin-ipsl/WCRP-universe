@@ -1,33 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "ictp",
+    "type": "institution",
+    "drs_name": "ICTP",
     "acronyms": [
         "ICTP"
     ],
-    "aliases": [
-        "Centro Internazionale di Fisica Teorica Abdus Salam",
-        "Mednarodno središče Abdusa Salama za teoretično fiziko",
-        "Abdus Salam International Centre for Theoretical Physics",
-        "International Centre for Theoretical Physics",
-        "ICTP"
+    "labels": [
+        "The Abdus Salam International Centre for Theoretical Physics"
     ],
-    "cmip-acronym": "ICTP",
-    "established": 1964,
-    "labels": [],
-    "location": {
-        "city": "Trieste",
-        "country": [
-            "Italy",
-            "IT"
-        ],
-        "lat": 45.70375,
-        "lon": 13.718338
-    },
-    "name": "The Abdus Salam International Centre for Theoretical Physics",
+    "description": "The Abdus Salam International Centre for Theoretical Physics",
+    "location": [
+        {
+            "city": "Trieste",
+            "country": "Italy",
+            "lat": 45.70375,
+            "lon": 13.718338
+        }
+    ],
     "ror": "009gyvm78",
-    "url": [
+    "urls": [
         "https://www.ictp.it/"
-    ],
-    "type": "institution",
-    "drs_name": "ICTP"
+    ]
 }

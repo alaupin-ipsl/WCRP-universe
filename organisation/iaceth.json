@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/iaceth",
-    "type": "institution",
-    "drs_name": "IACETH"
+    "id": "iaceth",
+    "type": "organisation",
+    "drs_name": "IACETH",
+    "members": [
+        "iaceth"
+    ],
+    "description": "ETH Zurich"
 }

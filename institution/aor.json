@@ -1,25 +1,23 @@
 {
     "@context": "000_context.jsonld",
     "id": "aor",
-    "acronyms": [],
-    "aliases": [],
-    "cmip-acronym": "AoR",
-    "established": 1938,
-    "labels": [],
-    "location": {
-        "city": "Rome",
-        "country": [
-            "Italy",
-            "IT"
-        ],
-        "lat": 41.921669,
-        "lon": 41.921669
-    },
-    "name": "Astronomical Observatory of Rome",
-    "ror": "02hnp4676",
-    "url": [
-        "http://web.oa-roma.inaf.it/"
-    ],
     "type": "institution",
-    "drs_name": "AoR"
+    "drs_name": "AoR",
+    "acronyms": [],
+    "labels": [
+        "Astronomical Observatory of Rome"
+    ],
+    "description": "Astronomical Observatory of Rome",
+    "location": [
+        {
+            "city": "Rome",
+            "country": "Italy",
+            "lat": 41.921669,
+            "lon": 41.921669
+        }
+    ],
+    "ror": "02hnp4676",
+    "urls": [
+        "http://web.oa-roma.inaf.it/"
+    ]
 }

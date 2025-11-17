@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/mohc",
-    "type": "institution",
-    "drs_name": "MOHC"
+    "id": "mohc",
+    "type": "organisation",
+    "drs_name": "MOHC",
+    "members": [
+        "mohc"
+    ],
+    "description": "MOHC"
 }

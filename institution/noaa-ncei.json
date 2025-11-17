@@ -3,16 +3,12 @@
     "id": "noaa-ncei",
     "type": "institution",
     "drs_name": "NOAA-NCEI",
-    "name": "NOAA-NCEI",
-    "acronym": [
-        "NOAA-NCEI"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "NOAA National Centers for Environmental Information, Asheville, NC 28801, USA"
     ],
-    "location": {},
+    "description": "NOAA-NCEI",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

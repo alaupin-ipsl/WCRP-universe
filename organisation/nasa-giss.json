@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/nasa-giss",
-    "type": "institution",
-    "drs_name": "NASA-GISS"
+    "id": "nasa-giss",
+    "type": "organisation",
+    "drs_name": "NASA-GISS",
+    "members": [
+        "nasa-giss"
+    ],
+    "description": "Goddard Institute for Space Studies"
 }

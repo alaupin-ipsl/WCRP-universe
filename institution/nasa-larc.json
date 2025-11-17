@@ -3,16 +3,12 @@
     "id": "nasa-larc",
     "type": "institution",
     "drs_name": "NASA-LaRC",
-    "name": "NASA-LaRC",
-    "acronym": [
-        "NASA-LaRC"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "NASA-LaRC (Langley Research Center) Hampton, Va"
     ],
-    "location": {},
+    "description": "NASA-LaRC",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

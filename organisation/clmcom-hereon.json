@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/clmcom-hereon",
-    "type": "institution",
-    "drs_name": "CLMcom-Hereon"
+    "id": "clmcom-hereon",
+    "type": "organisation",
+    "drs_name": "CLMcom-Hereon",
+    "members": [
+        "clmcom-hereon"
+    ],
+    "description": "Climate Limited-area Modelling Community (CLMcom) partner: Helmholtz-Zentrum Hereon"
 }

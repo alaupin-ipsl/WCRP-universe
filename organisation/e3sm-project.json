@@ -1,6 +1,17 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/e3sm-project",
-    "type": "consortium",
-    "drs_name": "E3SM-Project"
+    "id": "e3sm-project",
+    "type": "organisation",
+    "drs_name": "E3SM-Project",
+    "members": [
+        "llnl",
+        "anl",
+        "bnl",
+        "lanl",
+        "lbnl",
+        "ornl",
+        "pnnl",
+        "snl"
+    ],
+    "description": "E3SM-Project"
 }

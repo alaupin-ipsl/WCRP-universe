@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/uootago",
-    "type": "institution",
-    "drs_name": "UOOTAGO"
+    "id": "uootago",
+    "type": "organisation",
+    "drs_name": "UOOTAGO",
+    "members": [
+        "uootago"
+    ],
+    "description": "University of Otago"
 }

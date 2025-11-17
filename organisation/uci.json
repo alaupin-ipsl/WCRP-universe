@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/uci",
-    "type": "institution",
-    "drs_name": "UCI"
+    "id": "uci",
+    "type": "organisation",
+    "drs_name": "UCI",
+    "members": [
+        "uci"
+    ],
+    "description": "University of California, Irvine"
 }

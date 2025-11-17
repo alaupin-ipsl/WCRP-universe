@@ -1,8 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "ipsl",
-    "type": "contributor",
-    "description": "Institut Pierre-Simon Laplace",
-    "drs_name": "IPSL",
-    "members": ["ipsl"]
-}

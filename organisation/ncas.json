@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/ncas",
-    "type": "institution",
-    "drs_name": "NCAS"
+    "id": "ncas",
+    "type": "organisation",
+    "drs_name": "NCAS",
+    "members": [
+        "ncas"
+    ],
+    "description": "Uks"
 }

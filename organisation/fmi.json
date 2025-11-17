@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/fmi",
-    "type": "institution",
-    "drs_name": "FMI"
+    "id": "fmi",
+    "type": "organisation",
+    "drs_name": "FMI",
+    "members": [
+        "fmi"
+    ],
+    "description": "Finnish Meteorological Institute"
 }

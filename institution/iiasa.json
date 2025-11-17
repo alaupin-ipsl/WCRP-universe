@@ -1,27 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "iiasa",
+    "type": "institution",
+    "drs_name": "IIASA",
     "acronyms": [
         "IIASA"
     ],
-    "aliases": [],
-    "cmip-acronym": "IIASA",
-    "established": 1972,
-    "labels": [],
-    "location": {
-        "city": "Laxenburg",
-        "country": [
-            "Austria",
-            "AT"
-        ],
-        "lat": 48.06833, 
-        "lon": 16.35607
-    },
-    "name": "International Institue for Applied Systems Analysis",
-    "ror": "02wfhk785",
-    "url": [
-        "http://www.https://iiasa.ac.at//"
+    "labels": [
+        "International Institue for Applied Systems Analysis"
     ],
-    "type": "institution",
-    "drs_name": "IIASA"
+    "description": "International Institue for Applied Systems Analysis",
+    "location": [
+        {
+            "city": "Laxenburg",
+            "country": "Austria",
+            "lat": 48.06833,
+            "lon": 16.35607
+        }
+    ],
+    "ror": "02wfhk785",
+    "urls": [
+        "http://www.https://iiasa.ac.at//"
+    ]
 }

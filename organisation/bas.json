@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/bas",
-    "type": "institution",
-    "drs_name": "BAS"
+    "id": "bas",
+    "type": "organisation",
+    "drs_name": "BAS",
+    "members": [
+        "bas"
+    ],
+    "description": "British Antarctic Survey"
 }

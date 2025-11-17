@@ -3,16 +3,12 @@
     "id": "osu",
     "type": "institution",
     "drs_name": "OSU",
-    "name": "OSU",
-    "acronym": [
-        "OSU"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "Oregon State University, OR, USA"
     ],
-    "location": {},
+    "description": "OSU",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

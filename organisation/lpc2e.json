@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/lpc2e",
-    "type": "institution",
-    "drs_name": "LPC2E"
+    "id": "lpc2e",
+    "type": "organisation",
+    "drs_name": "LPC2E",
+    "members": [
+        "lpc2e"
+    ],
+    "description": "Laboratoire de Physique et Chimie de l’Environnement et de l’Espace"
 }

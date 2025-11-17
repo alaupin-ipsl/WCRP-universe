@@ -1,27 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "cas",
+    "type": "institution",
+    "drs_name": "CAS",
     "acronyms": [
         "CAS"
     ],
-    "aliases": [],
-    "cmip-acronym": "CAS",
-    "established": 1949,
-    "labels": [],
-    "location": {
-        "city": "Beijing",
-        "country": [
-            "China",
-            "CN"
-        ],
-        "lat": 39.9075,
-        "lon": 116.39723
-    },
-    "name": "Chinese Academy of Sciences",
-    "ror": "034t30j35",
-    "url": [
-        "http://english.cas.cn/"
+    "labels": [
+        "Chinese Academy of Sciences"
     ],
-    "type": "institution",
-    "drs_name": "CAS"
+    "description": "Chinese Academy of Sciences",
+    "location": [
+        {
+            "city": "Beijing",
+            "country": "China",
+            "lat": 39.9075,
+            "lon": 116.39723
+        }
+    ],
+    "ror": "034t30j35",
+    "urls": [
+        "http://english.cas.cn/"
+    ]
 }

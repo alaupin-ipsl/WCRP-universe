@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/nasa-gsfc",
-    "type": "institution",
-    "drs_name": "NASA-GSFC"
+    "id": "nasa-gsfc",
+    "type": "organisation",
+    "drs_name": "NASA-GSFC",
+    "members": [
+        "nasa-gsfc"
+    ],
+    "description": "NASA-GSFC"
 }

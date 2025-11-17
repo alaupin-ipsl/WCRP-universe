@@ -1,29 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "inpe",
+    "type": "institution",
+    "drs_name": "INPE",
     "acronyms": [
         "INPE"
     ],
-    "aliases": [
-        "National Institute for Space Research"
+    "labels": [
+        "Instituto Nacional de Pesquisas Espaciais"
     ],
-    "cmip-acronym": "INPE",
-    "established": 1971,
-    "labels": [],
-    "location": {
-        "city": "São José dos Campos",
-        "country": [
-            "Brazil",
-            "BR"
-        ],
-        "lat": -23.2237,
-        "lon": -45.9009
-    },
-    "name": "Instituto Nacional de Pesquisas Espaciais",
+    "description": "Instituto Nacional de Pesquisas Espaciais",
+    "location": [
+        {
+            "city": "São José dos Campos",
+            "country": "Brazil",
+            "lat": -23.2237,
+            "lon": -45.9009
+        }
+    ],
     "ror": "04xbn6x09",
-    "url": [
+    "urls": [
         "https://www.inpe.br/"
-    ],
-    "type": "institution",
-    "drs_name": "INPE"
+    ]
 }

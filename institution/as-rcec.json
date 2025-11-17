@@ -1,27 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "as-rcec",
+    "type": "institution",
+    "drs_name": "AS-RCEC",
     "acronyms": [
         "RCEC"
     ],
-    "aliases": [],
-    "cmip-acronym": "AS-RCEC",
-    "established": 0,
-    "labels": [],
-    "location": {
-        "city": "Taipei",
-        "country": [
-            "Taiwan",
-            "TW"
-        ],
-        "lat": 25.040712,
-        "lon": 121.614171
-    },
-    "name": "Research Center for Environmental Changes, Academia Sinica",
-    "ror": "050qpg053",
-    "url": [
-        "http://www.rcec.sinica.edu.tw/"
+    "labels": [
+        "Research Center for Environmental Changes, Academia Sinica"
     ],
-    "type": "institution",
-    "drs_name": "AS-RCEC"
+    "description": "Research Center for Environmental Changes, Academia Sinica",
+    "location": [
+        {
+            "city": "Taipei",
+            "country": "Taiwan",
+            "lat": 25.040712,
+            "lon": 121.614171
+        }
+    ],
+    "ror": "050qpg053",
+    "urls": [
+        "http://www.rcec.sinica.edu.tw/"
+    ]
 }

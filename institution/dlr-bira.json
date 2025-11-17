@@ -3,16 +3,12 @@
     "id": "dlr-bira",
     "type": "institution",
     "drs_name": "DLR-BIRA",
-    "name": "DLR-BIRA",
-    "acronym": [
-        "DLR-BIRA"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "Deutsches Zentrum fur Luft- und Raumfahrt, Royal Belgian Institute for Space Aeronomy"
     ],
-    "location": {},
+    "description": "DLR-BIRA",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

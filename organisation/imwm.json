@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/imwm",
-    "type": "institution",
-    "drs_name": "IMWM"
+    "id": "imwm",
+    "type": "organisation",
+    "drs_name": "IMWM",
+    "members": [
+        "imwm"
+    ],
+    "description": "Institute of Meteorology and Water Management"
 }

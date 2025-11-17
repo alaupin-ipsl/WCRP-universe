@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/clmcom-imwm",
-    "type": "institution",
-    "drs_name": "CLMcom-IMWM"
+    "id": "clmcom-imwm",
+    "type": "organisation",
+    "drs_name": "CLMcom-IMWM",
+    "members": [
+        "clmcom-imwm"
+    ],
+    "description": "Climate Limited-area Modelling Community (CLMcom) partner: Institute of Meteorology and Water Management"
 }

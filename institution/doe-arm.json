@@ -3,16 +3,12 @@
     "id": "doe-arm",
     "type": "institution",
     "drs_name": "DOE-ARM",
-    "name": "DOE-ARM",
-    "acronym": [
-        "DOE-ARM"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "U.S. Department of Energy, Atmospheric Radiation Measurment Program"
     ],
-    "location": {},
+    "description": "DOE-ARM",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

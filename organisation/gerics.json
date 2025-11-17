@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/gerics",
-    "type": "institution",
-    "drs_name": "GERICS"
+    "id": "gerics",
+    "type": "organisation",
+    "drs_name": "GERICS",
+    "members": [
+        "gerics"
+    ],
+    "description": "Climate Service Center Germany, Helmholtz Centre hereon GmbH"
 }

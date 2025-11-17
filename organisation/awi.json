@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/awi",
-    "type": "institution",
-    "drs_name": "AWI"
+    "id": "awi",
+    "type": "organisation",
+    "drs_name": "AWI",
+    "members": [
+        "awi"
+    ],
+    "description": "Alfred Wegener Institute for Polar and Marine Research"
 }

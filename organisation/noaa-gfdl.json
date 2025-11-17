@@ -1,6 +1,11 @@
 {
     "@context": "000_context.jsonld",
-    "id": "consortium/noaa-gfdl",
-    "type": "consortium",
-    "drs_name": "NOAA-GFDL"
+    "id": "noaa-gfdl",
+    "type": "organisation",
+    "drs_name": "NOAA-GFDL",
+    "members": [
+        "national",
+        "geophysical"
+    ],
+    "description": "NOAA-GFDL"
 }

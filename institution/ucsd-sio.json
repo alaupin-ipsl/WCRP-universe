@@ -3,16 +3,12 @@
     "id": "ucsd-sio",
     "type": "institution",
     "drs_name": "UCSD-SIO",
-    "name": "UCSD-SIO",
-    "acronym": [
-        "UCSD-SIO"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "University of California, San Diego, Scripps Institution of Oceanography"
     ],
-    "location": {},
+    "description": "UCSD-SIO",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }

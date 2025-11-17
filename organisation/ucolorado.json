@@ -1,6 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/ucolorado",
-    "type": "institution",
-    "drs_name": "UCOLORADO"
+    "id": "ucolorado",
+    "type": "organisation",
+    "drs_name": "UCOLORADO",
+    "members": [
+        "ucolorado"
+    ],
+    "description": "University of Colorado System"
 }

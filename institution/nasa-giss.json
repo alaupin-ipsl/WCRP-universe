@@ -1,27 +1,25 @@
 {
     "@context": "000_context.jsonld",
     "id": "nasa-giss",
+    "type": "institution",
+    "drs_name": "NASA-GISS",
     "acronyms": [
         "GISS"
     ],
-    "aliases": [],
-    "cmip-acronym": "NASA-GISS",
-    "established": 1961,
-    "labels": [],
-    "location": {
-        "city": "New York",
-        "country": [
-            "United States",
-            "US"
-        ],
-        "lat": 40.71427,
-        "lon": -74.00597
-    },
-    "name": "Goddard Institute for Space Studies",
-    "ror": "01cyfxe35",
-    "url": [
-        "http://www.giss.nasa.gov/"
+    "labels": [
+        "Goddard Institute for Space Studies"
     ],
-    "type": "institution",
-    "drs_name": "NASA-GISS"
+    "description": "Goddard Institute for Space Studies",
+    "location": [
+        {
+            "city": "New York",
+            "country": "United States",
+            "lat": 40.71427,
+            "lon": -74.00597
+        }
+    ],
+    "ror": "01cyfxe35",
+    "urls": [
+        "http://www.giss.nasa.gov/"
+    ]
 }

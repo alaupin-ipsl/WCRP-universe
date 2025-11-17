@@ -3,16 +3,12 @@
     "id": "nasa-gsfc",
     "type": "institution",
     "drs_name": "NASA-GSFC",
-    "name": "NASA-GSFC",
-    "acronym": [
-        "NASA-GSFC"
-    ],
-    "aliases": [],
-    "established": null,
+    "acronyms": [],
     "labels": [
         "NASA Goddard Space Flight Center, Greenbelt MD, USA"
     ],
-    "location": {},
+    "description": "NASA-GSFC",
+    "location": [],
     "ror": null,
-    "url": []
+    "urls": []
 }
