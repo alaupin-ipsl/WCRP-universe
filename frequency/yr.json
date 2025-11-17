@@ -1,10 +1,9 @@
 {
     "@context": "000_context.jsonld",
     "id": "yr",
-    "description": "annual mean samples",
-    "long_name": "Yearly Frequency",
-    "name": "yr",
-    "unit": "year",
     "type": "frequency",
-    "drs_name": "yr"
+    "description": "annual mean samples",
+    "drs_name": "yr",
+    "interval": 1.0,
+    "units": "year"
 }

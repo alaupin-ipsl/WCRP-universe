@@ -1,10 +1,9 @@
 {
     "@context": "000_context.jsonld",
     "id": "1hrPt",
-    "description": "sampled hourly, at specified time point within an hour",
-    "long_name": "1 Hour Point",
-    "name": "1hrPt",
-    "unit": "hour",
     "type": "frequency",
-    "drs_name": "1hrPt"
+    "description": "sampled hourly, at specified time point within an hour",
+    "drs_name": "1hrPt",
+    "interval": 1.0,
+    "units": "hour"
 }

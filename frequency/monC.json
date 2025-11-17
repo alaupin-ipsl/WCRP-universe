@@ -1,10 +1,9 @@
 {
     "@context": "000_context.jsonld",
     "id": "monC",
-    "description": "monthly climatology computed from monthly mean samples",
-    "long_name": "Monthly Climatology",
-    "name": "monC",
-    "unit": "month",
     "type": "frequency",
-    "drs_name": "monC"
+    "description": "monthly climatology computed from monthly mean samples",
+    "drs_name": "monC",
+    "interval": 1.0,
+    "units": "month"
 }
