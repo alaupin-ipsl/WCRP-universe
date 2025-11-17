@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "cf",
-    "type": "conventions",
-    "description": "Is regexp missing from context? CF-conventions to which the file conforms/that were used when writing the file.",
-    "regex": "^CF-(?P<version>\\d+\\.\\d+)$"
-}
