@@ -1,6 +1,6 @@
 {
     "@context": "000_context.jsonld",
     "id": "one_digit",
-    "type": "physic_index",
+    "type": "physics_index",
     "regex": "^\\d$"
 }
