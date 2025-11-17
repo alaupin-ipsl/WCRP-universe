@@ -1,6 +1,6 @@
 {
     "@context": "000_context.jsonld",
     "id": "one_digit",
-    "type": "realisation_index",
+    "type": "realization_index",
     "regex": "^\\d$"
 }
