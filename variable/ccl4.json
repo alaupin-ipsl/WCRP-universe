@@ -4,5 +4,6 @@
     "type": "variable",
     "drs_name": "ccl4",
     "long_name": null,
-    "units": ""
+    "units": "",
+    "standard_name": null
 }

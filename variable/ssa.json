@@ -4,5 +4,6 @@
     "type": "variable",
     "drs_name": "ssa",
     "long_name": null,
-    "units": ""
+    "units": "",
+    "standard_name": null
 }

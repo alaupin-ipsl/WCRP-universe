@@ -4,5 +4,6 @@
     "type": "variable",
     "drs_name": "C2H2smoothedpercentageBORF",
     "long_name": null,
-    "units": ""
+    "units": "",
+    "standard_name": null
 }

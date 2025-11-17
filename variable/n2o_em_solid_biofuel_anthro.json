@@ -4,5 +4,6 @@
     "type": "variable",
     "drs_name": "N2O_em_SOLID_BIOFUEL_anthro",
     "long_name": null,
-    "units": ""
+    "units": "",
+    "standard_name": null
 }

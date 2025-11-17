@@ -2,9 +2,8 @@
     "@context": "000_context.jsonld",
     "id": "tas",
     "type": "variable",
-    "description": "Air temperature measured at 2m above the Earth's surface.",
     "drs_name": "tas",
     "long_name": null,
-    "standard_name": "air_temperature",
-    "units": "K"
+    "units": "",
+    "standard_name": null
 }

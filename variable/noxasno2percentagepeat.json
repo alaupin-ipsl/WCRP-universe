@@ -4,5 +4,6 @@
     "type": "variable",
     "drs_name": "NOxasNO2percentagePEAT",
     "long_name": null,
-    "units": ""
+    "units": "",
+    "standard_name": null
 }

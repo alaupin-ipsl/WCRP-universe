@@ -4,5 +4,6 @@
     "type": "variable",
     "drs_name": "vertices_longitude",
     "long_name": null,
-    "units": "degrees_east"
+    "units": "degrees_east",
+    "standard_name": null
 }
