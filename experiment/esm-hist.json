@@ -2,24 +2,8 @@
     "@context": "000_context.jsonld",
     "id": "esm-hist",
     "type": "experiment",
-    "description": "Simulation of the climate of the recent past (typically meaning 1850 to present-day) with prescribed CO2 emissions (for prescribed CO2 concentration runs, see `historical`)",
-    "drs_name": "esm-hist",
-    "activity": "cmip",
-    "additional_allowed_model_components": [
-        "aer",
-        "chem"
-    ],
-    "branch_information": "Note entry in context is wrong. Branch from piControl at a time of your choosing",
-    "end_timestamp": null,
-    "min_ensemble_size": 1,
-    "min_number_yrs_per_sim": null,
-    "parent_activity": "cmip",
-    "parent_experiment": "esm-picontrol",
-    "parent_mip_era": null,
-    "required_model_components": [
-        "aogcm",
-        "bgc"
-    ],
-    "start_timestamp": "1850-01-01",
+    "end_timestamp": "2021-12-31",
+    "min_number_yrs_per_sim": 172,
+    "parent_mip_era": "cmip7",
     "tier": 1
 }
