@@ -3,5 +3,7 @@
     "id": "gulf_of_alaska",
     "type": "region",
     "drs_name": "gulf_of_alaska",
-    "description": ""
+    "description": "",
+    "cf_standard_region": null,
+    "iso_region": null
 }

@@ -3,5 +3,7 @@
     "id": "barents_opening",
     "type": "region",
     "drs_name": "barents_opening",
-    "description": ""
+    "description": "",
+    "cf_standard_region": null,
+    "iso_region": null
 }

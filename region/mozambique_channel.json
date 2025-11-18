@@ -3,5 +3,7 @@
     "id": "mozambique_channel",
     "type": "region",
     "drs_name": "mozambique_channel",
-    "description": ""
+    "description": "",
+    "cf_standard_region": null,
+    "iso_region": null
 }

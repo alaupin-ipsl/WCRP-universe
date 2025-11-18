@@ -3,5 +3,7 @@
     "id": "australia",
     "type": "region",
     "drs_name": "australia",
-    "description": ""
+    "description": "",
+    "cf_standard_region": null,
+    "iso_region": null
 }

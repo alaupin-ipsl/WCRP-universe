@@ -3,5 +3,7 @@
     "id": "mediterranean_sea",
     "type": "region",
     "drs_name": "mediterranean_sea",
-    "description": ""
+    "description": "",
+    "cf_standard_region": null,
+    "iso_region": null
 }

@@ -3,5 +3,7 @@
     "id": "south_china_sea",
     "type": "region",
     "drs_name": "south_china_sea",
-    "description": ""
+    "description": "",
+    "cf_standard_region": null,
+    "iso_region": null
 }

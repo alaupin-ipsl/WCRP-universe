@@ -3,5 +3,7 @@
     "id": "ross_sea",
     "type": "region",
     "drs_name": "ross_sea",
-    "description": ""
+    "description": "",
+    "cf_standard_region": null,
+    "iso_region": null
 }

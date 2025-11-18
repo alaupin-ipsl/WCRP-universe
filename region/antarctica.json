@@ -3,5 +3,7 @@
     "id": "antarctica",
     "type": "region",
     "drs_name": "antarctica",
-    "description": ""
+    "description": "",
+    "cf_standard_region": null,
+    "iso_region": null
 }

@@ -3,5 +3,7 @@
     "id": "med-50i",
     "type": "region",
     "drs_name": "MED-50i",
-    "description": "Mediterranean"
+    "description": "Mediterranean",
+    "cf_standard_region": null,
+    "iso_region": null
 }
