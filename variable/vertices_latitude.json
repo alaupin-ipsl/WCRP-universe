@@ -5,5 +5,6 @@
     "drs_name": "vertices_latitude",
     "long_name": null,
     "units": "degrees_north",
-    "standard_name": null
+    "standard_name": null,
+    "description": null
 }

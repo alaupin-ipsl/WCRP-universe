@@ -5,5 +5,6 @@
     "drs_name": "VOC15_xylene_em_speciated_VOC_anthro",
     "long_name": null,
     "units": "",
-    "standard_name": null
+    "standard_name": null,
+    "description": null
 }
