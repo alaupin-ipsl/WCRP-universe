@@ -10,12 +10,9 @@
         "chem"
     ],
     "branch_information": "Branch from esm-piControl at a time of your choosing",
-    "end_timestamp": null,
     "min_ensemble_size": 1,
-    "min_number_yrs_per_sim": null,
     "parent_activity": "cmip",
     "parent_experiment": "esm-picontrol",
-    "parent_mip_era": null,
     "required_model_components": [
         "aogcm",
         "bgc"

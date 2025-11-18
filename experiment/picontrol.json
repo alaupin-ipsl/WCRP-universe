@@ -2,18 +2,23 @@
     "@context": "000_context.jsonld",
     "id": "picontrol",
     "type": "experiment",
+    "description": "Pre-industrial control simulation. Used to characterise natural variability and unforced behaviour.",
     "drs_name": "piControl",
     "activity": "cmip",
-    "required_model_components": ["aogcm"],
-    "additional_allowed_model_components": ["aer", "chem", "bgc"],
+    "additional_allowed_model_components": [
+        "aer",
+        "chem",
+        "bgc"
+    ],
     "branch_information": "Branch from piControl-spinup at a time of your choosing",
     "end_timestamp": null,
     "min_ensemble_size": 1,
     "min_number_yrs_per_sim": 500,
     "parent_activity": "cmip",
     "parent_experiment": "picontrol-spinup",
-    "parent_mip_era": null,
+    "required_model_components": [
+        "aogcm"
+    ],
     "start_timestamp": null,
-    "tier": 1,
-    "description": "Pre-industrial control simulation"
+    "tier": 1
 }
