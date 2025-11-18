@@ -4,7 +4,7 @@
     "type": "variable",
     "drs_name": "tas",
     "long_name": null,
-    "units": "",
-    "standard_name": null,
-    "description": ""
+    "units": "K",
+    "standard_name": "air_temperature",
+    "description": "Air temperature measured at 2m above the Earth's surface."
 }
