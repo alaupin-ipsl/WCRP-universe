@@ -2,8 +2,17 @@
     "@context": "000_context.jsonld",
     "id": "historical",
     "type": "experiment",
-    "end_timestamp": "2021-12-31",
-    "min_number_yrs_per_sim": 172,
-    "parent_mip_era": "cmip7",
-    "tier": 1
+    "drs_name": "historical",
+    "activity": "cmip",
+    "required_model_components": ["aogcm"],
+    "additional_allowed_model_components": ["aer", "chem", "bgc"],
+    "branch_information": "Branch from piControl at a time of your choosing",
+    "end_timestamp": null,
+    "min_ensemble_size": 1,
+    "min_number_yrs_per_sim": null,
+    "parent_activity": "cmip",
+    "parent_experiment": "picontrol",
+    "parent_mip_era": null,
+    "start_timestamp": "1850-01-01",
+    "description": "Simulation of the climate of the recent past"
 }
