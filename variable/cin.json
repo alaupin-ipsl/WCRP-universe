@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cin",
+    "type": "variable",
+    "description": "Convective Inhibition",
+    "drs_name": "cin",
+    "long_name": null,
+    "standard_name": "atmosphere_convective_inhibition_wrt_surface",
+    "units": "J kg-1"
+}

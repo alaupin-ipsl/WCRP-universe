@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cinmax",
+    "type": "variable",
+    "description": "Daily Maximum Convective Inhibition",
+    "drs_name": "cinmax",
+    "long_name": null,
+    "standard_name": "atmosphere_convective_inhibition_wrt_surface",
+    "units": "J kg-1"
+}

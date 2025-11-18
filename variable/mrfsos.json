@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mrfsos",
+    "type": "variable",
+    "description": "Frozen Water Content in Upper Portion of Soil Column",
+    "drs_name": "mrfsos",
+    "long_name": null,
+    "standard_name": "frozen_water_content_of_soil_layer",
+    "units": "kg m-2"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "capemax",
+    "type": "variable",
+    "description": "Daily Maximum Convective Available Potential Energy",
+    "drs_name": "capemax",
+    "long_name": null,
+    "standard_name": "atmosphere_convective_available_potential_energy_wrt_surface",
+    "units": "J kg-1"
+}

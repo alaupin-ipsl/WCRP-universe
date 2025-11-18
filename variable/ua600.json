@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ua600",
+    "type": "variable",
+    "description": "Eastward Wind at 600hPa",
+    "drs_name": "ua600",
+    "long_name": null,
+    "standard_name": "eastward_wind",
+    "units": "m s-1"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ta750",
+    "type": "variable",
+    "description": "Air Temperature at 750hPa",
+    "drs_name": "ta750",
+    "long_name": null,
+    "standard_name": "air_temperature",
+    "units": "K"
+}

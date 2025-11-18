@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rsdsdir",
+    "type": "variable",
+    "description": "Surface Direct Downwelling Shortwave Radiation",
+    "drs_name": "rsdsdir",
+    "long_name": null,
+    "standard_name": "surface_direct_downwelling_shortwave_flux_in_air",
+    "units": "W m-2"
+}

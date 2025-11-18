@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wa700",
+    "type": "variable",
+    "description": "Upward Air Velocity at 700hPa",
+    "drs_name": "wa700",
+    "long_name": null,
+    "standard_name": "upward_air_velocity",
+    "units": "m s-1"
+}

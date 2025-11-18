@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "li",
+    "type": "variable",
+    "description": "Lifted Index",
+    "drs_name": "li",
+    "long_name": null,
+    "standard_name": "temperature_difference_between_ambient_air_and_air_lifted_adiabatically_from_the_surface",
+    "units": "K"
+}

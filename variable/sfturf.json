@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sfturf",
+    "type": "variable",
+    "description": "Percentage of the Grid Cell Occupied by Urban Area",
+    "drs_name": "sfturf",
+    "long_name": null,
+    "standard_name": "area_fraction",
+    "units": "%"
+}

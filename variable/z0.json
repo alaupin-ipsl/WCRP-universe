@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "z0",
+    "type": "variable",
+    "description": "Surface Roughness Length",
+    "drs_name": "z0",
+    "long_name": null,
+    "standard_name": "surface_roughness_length",
+    "units": "m"
+}

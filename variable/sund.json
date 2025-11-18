@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sund",
+    "type": "variable",
+    "description": "Daily Duration of Sunshine",
+    "drs_name": "sund",
+    "long_name": null,
+    "standard_name": "duration_of_sunshine",
+    "units": "s"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hus30",
+    "type": "variable",
+    "description": "Specific Humidity at 30hPa",
+    "drs_name": "hus30",
+    "long_name": null,
+    "standard_name": "specific_humidity",
+    "units": "1"
+}

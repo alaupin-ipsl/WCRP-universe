@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "zg50",
+    "type": "variable",
+    "description": "Geopotential Height at 50hPa",
+    "drs_name": "zg50",
+    "long_name": null,
+    "standard_name": "geopotential_height",
+    "units": "m"
+}
