@@ -14,5 +14,6 @@
     "parent_experiment": "picontrol-spinup",
     "parent_mip_era": null,
     "start_timestamp": null,
+    "tier": 1,
     "description": "Pre-industrial control simulation"
 }

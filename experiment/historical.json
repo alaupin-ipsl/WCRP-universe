@@ -14,5 +14,6 @@
     "parent_experiment": "picontrol",
     "parent_mip_era": null,
     "start_timestamp": "1850-01-01",
+    "tier": 1,
     "description": "Simulation of the climate of the recent past"
 }
