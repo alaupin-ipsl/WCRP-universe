@@ -3,7 +3,7 @@
     "id": "n2oglobalclim",
     "type": "variable",
     "description": "Global Mean Mole Fraction of N2O",
-    "drs_name": "n2oglobalclim",
+    "drs_name": "n2oglobalClim",
     "long_name": null,
     "standard_name": "mole_fraction_of_nitrous_oxide_in_air",
     "units": "1e-09"

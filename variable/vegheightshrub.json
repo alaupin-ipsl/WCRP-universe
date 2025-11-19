@@ -3,7 +3,7 @@
     "id": "vegheightshrub",
     "type": "variable",
     "description": "Height of Shrubs",
-    "drs_name": "vegheightshrub",
+    "drs_name": "vegHeightShrub",
     "long_name": null,
     "standard_name": "canopy_height",
     "units": "m"

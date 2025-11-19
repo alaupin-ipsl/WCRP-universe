@@ -3,7 +3,7 @@
     "id": "pr17o",
     "type": "variable",
     "description": "Precipitation Flux of Water Containing Oxygen-17 (H2 17O)",
-    "drs_name": "pr17o",
+    "drs_name": "pr17O",
     "long_name": null,
     "standard_name": "precipitation_flux_containing_17O",
     "units": "kg m-2 s-1"

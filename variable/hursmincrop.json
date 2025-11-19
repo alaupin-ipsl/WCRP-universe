@@ -3,7 +3,7 @@
     "id": "hursmincrop",
     "type": "variable",
     "description": "Daily Minimum Near-Surface Relative Humidity over Crop Tile",
-    "drs_name": "hursmincrop",
+    "drs_name": "hursminCrop",
     "long_name": null,
     "standard_name": "relative_humidity",
     "units": "%"

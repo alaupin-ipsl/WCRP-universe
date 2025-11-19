@@ -3,7 +3,7 @@
     "id": "nlittersurf",
     "type": "variable",
     "description": "Nitrogen Mass in Above-Ground Litter (non CWD)",
-    "drs_name": "nlittersurf",
+    "drs_name": "nLitterSurf",
     "long_name": null,
     "standard_name": "surface_litter_mass_content_of_nitrogen",
     "units": "kg m-2"

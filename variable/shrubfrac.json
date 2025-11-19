@@ -3,7 +3,7 @@
     "id": "shrubfrac",
     "type": "variable",
     "description": "Percentage Cover by Shrub",
-    "drs_name": "shrubfrac",
+    "drs_name": "shrubFrac",
     "long_name": null,
     "standard_name": "area_fraction",
     "units": "%"

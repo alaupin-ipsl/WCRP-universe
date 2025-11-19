@@ -3,7 +3,7 @@
     "id": "treefracprimever",
     "type": "variable",
     "description": "Percentage Cover by Primary Evergreen Trees",
-    "drs_name": "treefracprimever",
+    "drs_name": "treeFracPrimEver",
     "long_name": null,
     "standard_name": "area_fraction",
     "units": "%"

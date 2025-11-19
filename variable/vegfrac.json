@@ -3,7 +3,7 @@
     "id": "vegfrac",
     "type": "variable",
     "description": "Total Vegetated Percentage Cover",
-    "drs_name": "vegfrac",
+    "drs_name": "vegFrac",
     "long_name": null,
     "standard_name": "area_fraction",
     "units": "%"

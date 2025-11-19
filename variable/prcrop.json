@@ -3,7 +3,7 @@
     "id": "prcrop",
     "type": "variable",
     "description": "Precipitation over Crop Tile",
-    "drs_name": "prcrop",
+    "drs_name": "prCrop",
     "long_name": null,
     "standard_name": "precipitation_flux",
     "units": "kg m-2 s-1"

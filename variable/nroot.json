@@ -3,7 +3,7 @@
     "id": "nroot",
     "type": "variable",
     "description": "Nitrogen Mass in Roots",
-    "drs_name": "nroot",
+    "drs_name": "nRoot",
     "long_name": null,
     "standard_name": "root_mass_content_of_nitrogen",
     "units": "kg m-2"

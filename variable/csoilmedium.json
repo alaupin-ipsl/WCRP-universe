@@ -3,7 +3,7 @@
     "id": "csoilmedium",
     "type": "variable",
     "description": "Carbon Mass in Medium Soil Pool",
-    "drs_name": "csoilmedium",
+    "drs_name": "cSoilMedium",
     "long_name": null,
     "standard_name": "medium_soil_pool_mass_content_of_carbon",
     "units": "kg m-2"

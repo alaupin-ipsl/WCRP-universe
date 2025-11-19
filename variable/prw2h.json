@@ -3,7 +3,7 @@
     "id": "prw2h",
     "type": "variable",
     "description": "Mass of Water Containing Deuterium (1H 2H O) in Layer",
-    "drs_name": "prw2h",
+    "drs_name": "prw2H",
     "long_name": null,
     "standard_name": "mass_content_of_water_vapor_containing_single_2H_in_atmosphere_layer",
     "units": "kg m-2"

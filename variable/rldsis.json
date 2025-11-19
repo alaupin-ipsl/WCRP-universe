@@ -3,7 +3,7 @@
     "id": "rldsis",
     "type": "variable",
     "description": "Ice Sheet Surface Downwelling Longwave Radiation",
-    "drs_name": "rldsis",
+    "drs_name": "rldsIs",
     "long_name": null,
     "standard_name": "surface_downwelling_longwave_flux_in_air",
     "units": "W m-2"

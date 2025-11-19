@@ -3,7 +3,7 @@
     "id": "nmineral",
     "type": "variable",
     "description": "Mineral Nitrogen in the Soil",
-    "drs_name": "nmineral",
+    "drs_name": "nMineral",
     "long_name": null,
     "standard_name": "soil_mass_content_of_inorganic_nitrogen_expressed_as_nitrogen",
     "units": "kg m-2"

@@ -3,7 +3,7 @@
     "id": "ch4clim",
     "type": "variable",
     "description": "Mole Fraction of CH4",
-    "drs_name": "ch4clim",
+    "drs_name": "ch4Clim",
     "long_name": null,
     "standard_name": "mole_fraction_of_methane_in_air",
     "units": "mol mol-1"

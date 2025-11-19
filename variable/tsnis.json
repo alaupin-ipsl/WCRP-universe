@@ -3,7 +3,7 @@
     "id": "tsnis",
     "type": "variable",
     "description": "Ice Sheet Snow Internal Temperature",
-    "drs_name": "tsnis",
+    "drs_name": "tsnIs",
     "long_name": null,
     "standard_name": "temperature_in_surface_snow",
     "units": "K"

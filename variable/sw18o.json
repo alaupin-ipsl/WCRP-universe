@@ -3,7 +3,7 @@
     "id": "sw18o",
     "type": "variable",
     "description": "Isotopic Ratio of Oxygen-18 in Sea Water",
-    "drs_name": "sw18o",
+    "drs_name": "sw18O",
     "long_name": null,
     "standard_name": "isotope_ratio_of_18O_to_16O_in_sea_water_excluding_solutes_and_solids",
     "units": "1"

@@ -3,7 +3,7 @@
     "id": "n2oclim",
     "type": "variable",
     "description": "Mole Fraction of N2O",
-    "drs_name": "n2oclim",
+    "drs_name": "n2oClim",
     "long_name": null,
     "standard_name": "mole_fraction_of_nitrous_oxide_in_air",
     "units": "mol mol-1"

@@ -3,7 +3,7 @@
     "id": "treefrac",
     "type": "variable",
     "description": "Tree Cover Percentage",
-    "drs_name": "treefrac",
+    "drs_name": "treeFrac",
     "long_name": null,
     "standard_name": "area_fraction",
     "units": "%"

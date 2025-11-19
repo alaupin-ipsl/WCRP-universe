@@ -3,7 +3,7 @@
     "id": "sncis",
     "type": "variable",
     "description": "Ice Sheet Snow Cover Percentage",
-    "drs_name": "sncis",
+    "drs_name": "sncIs",
     "long_name": null,
     "standard_name": "surface_snow_area_fraction",
     "units": "%"

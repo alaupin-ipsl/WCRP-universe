@@ -3,7 +3,7 @@
     "id": "mrsoslut",
     "type": "variable",
     "description": "Moisture in Upper Portion of Soil Column of Land-Use Tile",
-    "drs_name": "mrsoslut",
+    "drs_name": "mrsosLut",
     "long_name": null,
     "standard_name": "mass_content_of_water_in_soil_layer",
     "units": "kg m-2"

@@ -3,7 +3,7 @@
     "id": "nsoil",
     "type": "variable",
     "description": "Nitrogen Mass in Soil Pool",
-    "drs_name": "nsoil",
+    "drs_name": "nSoil",
     "long_name": null,
     "standard_name": "soil_mass_content_of_nitrogen",
     "units": "kg m-2"

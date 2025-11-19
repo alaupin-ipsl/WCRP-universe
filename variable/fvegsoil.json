@@ -3,7 +3,7 @@
     "id": "fvegsoil",
     "type": "variable",
     "description": "Total Carbon Mass Flux from Vegetation Directly to Soil",
-    "drs_name": "fvegsoil",
+    "drs_name": "fVegSoil",
     "long_name": null,
     "standard_name": "carbon_mass_flux_into_soil_from_vegetation_excluding_litter",
     "units": "kg m-2 s-1"

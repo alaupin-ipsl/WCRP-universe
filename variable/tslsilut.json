@@ -3,7 +3,7 @@
     "id": "tslsilut",
     "type": "variable",
     "description": "Surface Temperature on Landuse Tile",
-    "drs_name": "tslsilut",
+    "drs_name": "tslsiLut",
     "long_name": null,
     "standard_name": "surface_temperature",
     "units": "K"

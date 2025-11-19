@@ -3,7 +3,7 @@
     "id": "prsnis",
     "type": "variable",
     "description": "Ice Sheet Snowfall Flux",
-    "drs_name": "prsnis",
+    "drs_name": "prsnIs",
     "long_name": null,
     "standard_name": "snowfall_flux",
     "units": "kg m-2 s-1"

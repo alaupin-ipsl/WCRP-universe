@@ -3,7 +3,7 @@
     "id": "wetlandch4cons",
     "type": "variable",
     "description": "Grid Averaged Methane Consumption (Methanotrophy) from Wetlands",
-    "drs_name": "wetlandch4cons",
+    "drs_name": "wetlandCH4cons",
     "long_name": null,
     "standard_name": "surface_downward_mass_flux_of_methane_due_to_wetland_biological_consumption",
     "units": "kg m-2 s-1"

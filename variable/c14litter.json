@@ -3,7 +3,7 @@
     "id": "c14litter",
     "type": "variable",
     "description": "Mass of 14C in Litter Pool",
-    "drs_name": "c14litter",
+    "drs_name": "c14Litter",
     "long_name": null,
     "standard_name": "litter_mass_content_of_14C",
     "units": "kg m-2"

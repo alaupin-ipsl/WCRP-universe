@@ -3,7 +3,7 @@
     "id": "csoilpools",
     "type": "variable",
     "description": "Carbon Mass in Each Model Soil Pool (Summed over Vertical Levels)",
-    "drs_name": "csoilpools",
+    "drs_name": "cSoilPools",
     "long_name": null,
     "standard_name": "soil_mass_content_of_carbon",
     "units": "kg m-2"

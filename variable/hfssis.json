@@ -3,7 +3,7 @@
     "id": "hfssis",
     "type": "variable",
     "description": "Ice Sheet Surface Upward Sensible Heat Flux",
-    "drs_name": "hfssis",
+    "drs_name": "hfssIs",
     "long_name": null,
     "standard_name": "surface_upward_sensible_heat_flux",
     "units": "W m-2"

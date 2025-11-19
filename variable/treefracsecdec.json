@@ -3,7 +3,7 @@
     "id": "treefracsecdec",
     "type": "variable",
     "description": "Percentage Cover by Secondary Deciduous Trees",
-    "drs_name": "treefracsecdec",
+    "drs_name": "treeFracSecDec",
     "long_name": null,
     "standard_name": "area_fraction",
     "units": "%"

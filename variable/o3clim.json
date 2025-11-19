@@ -3,7 +3,7 @@
     "id": "o3clim",
     "type": "variable",
     "description": "Mole Fraction of O3",
-    "drs_name": "o3clim",
+    "drs_name": "o3Clim",
     "long_name": null,
     "standard_name": "mole_fraction_of_ozone_in_air",
     "units": "mol mol-1"

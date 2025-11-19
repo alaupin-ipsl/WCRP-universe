@@ -3,7 +3,7 @@
     "id": "prsn18o",
     "type": "variable",
     "description": "Precipitation Flux of Snow and Ice Containing Oxygen-18 (H2 18O)",
-    "drs_name": "prsn18o",
+    "drs_name": "prsn18O",
     "long_name": null,
     "standard_name": "solid_precipitation_flux_containing_18O",
     "units": "kg m-2 s-1"

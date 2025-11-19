@@ -3,7 +3,7 @@
     "id": "orogis",
     "type": "variable",
     "description": "Ice Sheet Surface Altitude",
-    "drs_name": "orogis",
+    "drs_name": "orogIs",
     "long_name": null,
     "standard_name": "surface_altitude",
     "units": "m"

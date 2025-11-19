@@ -3,7 +3,7 @@
     "id": "csoilfast",
     "type": "variable",
     "description": "Carbon Mass in Fast Soil Pool",
-    "drs_name": "csoilfast",
+    "drs_name": "cSoilFast",
     "long_name": null,
     "standard_name": "fast_soil_pool_mass_content_of_carbon",
     "units": "kg m-2"

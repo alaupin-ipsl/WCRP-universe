@@ -3,7 +3,7 @@
     "id": "csoillut",
     "type": "variable",
     "description": "Carbon in Soil Pool on Land-Use Tiles",
-    "drs_name": "csoillut",
+    "drs_name": "cSoilLut",
     "long_name": null,
     "standard_name": "soil_mass_content_of_carbon",
     "units": "kg m-2"

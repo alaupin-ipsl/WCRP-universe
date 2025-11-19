@@ -3,7 +3,7 @@
     "id": "cfaddbze94",
     "type": "variable",
     "description": "CloudSat Radar Reflectivity CFAD",
-    "drs_name": "cfaddbze94",
+    "drs_name": "cfadDbze94",
     "long_name": null,
     "standard_name": "histogram_of_equivalent_reflectivity_factor_over_height_above_reference_ellipsoid",
     "units": "1"

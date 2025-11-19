@@ -3,7 +3,7 @@
     "id": "tsoilpools",
     "type": "variable",
     "description": "Turnover Rate of Each Model Soil Carbon Pool",
-    "drs_name": "tsoilpools",
+    "drs_name": "tSoilPools",
     "long_name": null,
     "standard_name": "soil_pool_carbon_decay_rate",
     "units": "s-1"

@@ -3,7 +3,7 @@
     "id": "cropfrac",
     "type": "variable",
     "description": "Percentage Crop Cover",
-    "drs_name": "cropfrac",
+    "drs_name": "cropFrac",
     "long_name": null,
     "standard_name": "area_fraction",
     "units": "%"

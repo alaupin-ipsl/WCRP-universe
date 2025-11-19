@@ -3,7 +3,7 @@
     "id": "clitterabove",
     "type": "variable",
     "description": "Carbon Mass in Above-Ground Litter",
-    "drs_name": "clitterabove",
+    "drs_name": "cLitterAbove",
     "long_name": null,
     "standard_name": "surface_litter_mass_content_of_carbon",
     "units": "kg m-2"

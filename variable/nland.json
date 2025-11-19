@@ -3,7 +3,7 @@
     "id": "nland",
     "type": "variable",
     "description": "Total Nitrogen in All Terrestrial Nitrogen Pools",
-    "drs_name": "nland",
+    "drs_name": "nLand",
     "long_name": null,
     "standard_name": "mass_content_of_nitrogen_in_vegetation_and_litter_and_soil_and_forestry_and_agricultural_products",
     "units": "kg m-2"

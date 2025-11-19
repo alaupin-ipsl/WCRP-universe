@@ -3,7 +3,7 @@
     "id": "c13veg",
     "type": "variable",
     "description": "Mass of 13C in Vegetation",
-    "drs_name": "c13veg",
+    "drs_name": "c13Veg",
     "long_name": null,
     "standard_name": "vegetation_mass_content_of_13C",
     "units": "kg m-2"

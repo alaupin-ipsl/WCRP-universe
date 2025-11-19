@@ -3,7 +3,7 @@
     "id": "csoilshrub",
     "type": "variable",
     "description": "Carbon Mass in Soil on Shrub Tiles",
-    "drs_name": "csoilshrub",
+    "drs_name": "cSoilShrub",
     "long_name": null,
     "standard_name": "soil_mass_content_of_carbon",
     "units": "kg m-2"

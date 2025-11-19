@@ -3,7 +3,7 @@
     "id": "hflslut",
     "type": "variable",
     "description": "Latent Heat Flux on Land-Use Tile",
-    "drs_name": "hflslut",
+    "drs_name": "hflsLut",
     "long_name": null,
     "standard_name": "surface_upward_latent_heat_flux",
     "units": "W m-2"

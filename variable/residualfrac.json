@@ -3,7 +3,7 @@
     "id": "residualfrac",
     "type": "variable",
     "description": "Percentage of Grid Cell That Is Land but neither Vegetation Covered nor Bare Soil",
-    "drs_name": "residualfrac",
+    "drs_name": "residualFrac",
     "long_name": null,
     "standard_name": "area_fraction",
     "units": "%"

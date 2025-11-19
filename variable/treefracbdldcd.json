@@ -3,7 +3,7 @@
     "id": "treefracbdldcd",
     "type": "variable",
     "description": "Broadleaf Deciduous Tree Area Percentage",
-    "drs_name": "treefracbdldcd",
+    "drs_name": "treeFracBdlDcd",
     "long_name": null,
     "standard_name": "area_fraction",
     "units": "%"

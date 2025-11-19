@@ -3,7 +3,7 @@
     "id": "sfcwindmax",
     "type": "variable",
     "description": "Daily Maximum Near-Surface Wind Speed",
-    "drs_name": "sfcwindmax",
+    "drs_name": "sfcWindmax",
     "long_name": null,
     "standard_name": "wind_speed",
     "units": "m s-1"

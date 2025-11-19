@@ -3,7 +3,7 @@
     "id": "cropfracc4",
     "type": "variable",
     "description": "Percentage Cover by C4 Crops",
-    "drs_name": "cropfracc4",
+    "drs_name": "cropFracC4",
     "long_name": null,
     "standard_name": "area_fraction",
     "units": "%"

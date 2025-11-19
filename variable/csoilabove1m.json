@@ -3,7 +3,7 @@
     "id": "csoilabove1m",
     "type": "variable",
     "description": "Carbon Mass in Soil Pool Above 1m Depth",
-    "drs_name": "csoilabove1m",
+    "drs_name": "cSoilAbove1m",
     "long_name": null,
     "standard_name": "soil_mass_content_of_carbon",
     "units": "kg m-2"

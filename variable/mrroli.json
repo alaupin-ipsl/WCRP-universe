@@ -3,7 +3,7 @@
     "id": "mrroli",
     "type": "variable",
     "description": "Land Ice Runoff Flux",
-    "drs_name": "mrroli",
+    "drs_name": "mrroLi",
     "long_name": null,
     "standard_name": "land_ice_runoff_flux",
     "units": "kg m-2 s-1"

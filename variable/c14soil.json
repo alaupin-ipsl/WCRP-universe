@@ -3,7 +3,7 @@
     "id": "c14soil",
     "type": "variable",
     "description": "Mass of 14C in Soil Pool",
-    "drs_name": "c14soil",
+    "drs_name": "c14Soil",
     "long_name": null,
     "standard_name": "soil_mass_content_of_14C",
     "units": "kg m-2"

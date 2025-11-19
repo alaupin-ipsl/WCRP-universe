@@ -3,7 +3,7 @@
     "id": "vegheightpasture",
     "type": "variable",
     "description": "Height of Pastures",
-    "drs_name": "vegheightpasture",
+    "drs_name": "vegHeightPasture",
     "long_name": null,
     "standard_name": "canopy_height",
     "units": "m"

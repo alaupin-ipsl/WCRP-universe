@@ -3,7 +3,7 @@
     "id": "snmis",
     "type": "variable",
     "description": "Ice Sheet Surface Snow Melt",
-    "drs_name": "snmis",
+    "drs_name": "snmIs",
     "long_name": null,
     "standard_name": "surface_snow_melt_flux",
     "units": "kg m-2 s-1"

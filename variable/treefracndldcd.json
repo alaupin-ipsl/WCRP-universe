@@ -3,7 +3,7 @@
     "id": "treefracndldcd",
     "type": "variable",
     "description": "Needleleaf Deciduous Tree Area Percentage",
-    "drs_name": "treefracndldcd",
+    "drs_name": "treeFracNdlDcd",
     "long_name": null,
     "standard_name": "area_fraction",
     "units": "%"

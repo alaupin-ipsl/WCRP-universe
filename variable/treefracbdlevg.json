@@ -3,7 +3,7 @@
     "id": "treefracbdlevg",
     "type": "variable",
     "description": "Broadleaf Evergreen Tree Area Percentage",
-    "drs_name": "treefracbdlevg",
+    "drs_name": "treeFracBdlEvg",
     "long_name": null,
     "standard_name": "area_fraction",
     "units": "%"

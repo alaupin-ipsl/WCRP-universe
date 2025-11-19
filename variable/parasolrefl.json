@@ -3,7 +3,7 @@
     "id": "parasolrefl",
     "type": "variable",
     "description": "PARASOL Reflectance",
-    "drs_name": "parasolrefl",
+    "drs_name": "parasolRefl",
     "long_name": null,
     "standard_name": "toa_bidirectional_reflectance",
     "units": "1"

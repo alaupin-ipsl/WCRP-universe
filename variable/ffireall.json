@@ -3,7 +3,7 @@
     "id": "ffireall",
     "type": "variable",
     "description": "Carbon Mass Flux into Atmosphere Due to CO2 Emission from Fire Including All Sources [kgC m-2 s-1]",
-    "drs_name": "ffireall",
+    "drs_name": "fFireAll",
     "long_name": null,
     "standard_name": "surface_upward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_emission_from_fires",
     "units": "kg m-2 s-1"

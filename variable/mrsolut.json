@@ -3,7 +3,7 @@
     "id": "mrsolut",
     "type": "variable",
     "description": "Total Soil Moisture",
-    "drs_name": "mrsolut",
+    "drs_name": "mrsoLut",
     "long_name": null,
     "standard_name": "mass_content_of_water_in_soil",
     "units": "kg m-2"

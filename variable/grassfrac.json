@@ -3,7 +3,7 @@
     "id": "grassfrac",
     "type": "variable",
     "description": "Natural Grass Area Percentage",
-    "drs_name": "grassfrac",
+    "drs_name": "grassFrac",
     "long_name": null,
     "standard_name": "area_fraction",
     "units": "%"

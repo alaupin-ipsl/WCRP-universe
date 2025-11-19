@@ -3,7 +3,7 @@
     "id": "clittersubsurf",
     "type": "variable",
     "description": "Carbon Mass in Below-Ground Litter",
-    "drs_name": "clittersubsurf",
+    "drs_name": "cLitterSubSurf",
     "long_name": null,
     "standard_name": "subsurface_litter_mass_content_of_carbon",
     "units": "kg m-2"

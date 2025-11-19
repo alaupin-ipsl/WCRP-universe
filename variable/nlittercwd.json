@@ -3,7 +3,7 @@
     "id": "nlittercwd",
     "type": "variable",
     "description": "Nitrogen Mass in Coarse Woody Debris",
-    "drs_name": "nlittercwd",
+    "drs_name": "nLitterCwd",
     "long_name": null,
     "standard_name": "wood_debris_mass_content_of_nitrogen",
     "units": "kg m-2"

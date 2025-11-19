@@ -3,7 +3,7 @@
     "id": "vegheighttree",
     "type": "variable",
     "description": "Height of Trees",
-    "drs_name": "vegheighttree",
+    "drs_name": "vegHeightTree",
     "long_name": null,
     "standard_name": "canopy_height",
     "units": "m"

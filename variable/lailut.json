@@ -3,7 +3,7 @@
     "id": "lailut",
     "type": "variable",
     "description": "Leaf Area Index on Land-Use Tile",
-    "drs_name": "lailut",
+    "drs_name": "laiLut",
     "long_name": null,
     "standard_name": "leaf_area_index",
     "units": "1"

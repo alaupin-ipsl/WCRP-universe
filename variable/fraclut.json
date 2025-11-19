@@ -3,7 +3,7 @@
     "id": "fraclut",
     "type": "variable",
     "description": "Percentage of Grid Cell for Each Land-Use Tile",
-    "drs_name": "fraclut",
+    "drs_name": "fracLut",
     "long_name": null,
     "standard_name": "area_fraction",
     "units": "%"

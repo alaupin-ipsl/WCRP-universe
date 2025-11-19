@@ -3,7 +3,7 @@
     "id": "fnox",
     "type": "variable",
     "description": "Total Land NOx Flux",
-    "drs_name": "fnox",
+    "drs_name": "fNOx",
     "long_name": null,
     "standard_name": "surface_upward_mass_flux_of_nox_expressed_as_nitrogen_out_of_vegetation_and_litter_and_soil",
     "units": "kg m-2 s-1"

@@ -3,7 +3,7 @@
     "id": "cstem",
     "type": "variable",
     "description": "Carbon Mass in Stem",
-    "drs_name": "cstem",
+    "drs_name": "cStem",
     "long_name": null,
     "standard_name": "stem_mass_content_of_carbon",
     "units": "kg m-2"

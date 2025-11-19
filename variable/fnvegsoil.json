@@ -3,7 +3,7 @@
     "id": "fnvegsoil",
     "type": "variable",
     "description": "Total Nitrogen Mass Flux from Vegetation Directly to Soil",
-    "drs_name": "fnvegsoil",
+    "drs_name": "fNVegSoil",
     "long_name": null,
     "standard_name": "nitrogen_mass_flux_into_soil_from_vegetation_excluding_litter",
     "units": "kg m-2 s-1"

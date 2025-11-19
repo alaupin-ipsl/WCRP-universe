@@ -3,7 +3,7 @@
     "id": "nppgrass",
     "type": "variable",
     "description": "Net Primary Production on Grass Tiles as Carbon Mass Flux [kgC m-2 s-1]",
-    "drs_name": "nppgrass",
+    "drs_name": "nppGrass",
     "long_name": null,
     "standard_name": "net_primary_productivity_of_biomass_expressed_as_carbon",
     "units": "kg m-2 s-1"

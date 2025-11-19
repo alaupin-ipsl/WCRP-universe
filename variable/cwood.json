@@ -3,7 +3,7 @@
     "id": "cwood",
     "type": "variable",
     "description": "Carbon Mass in Wood",
-    "drs_name": "cwood",
+    "drs_name": "cWood",
     "long_name": null,
     "standard_name": "stem_mass_content_of_carbon",
     "units": "kg m-2"

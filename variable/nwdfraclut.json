@@ -3,7 +3,7 @@
     "id": "nwdfraclut",
     "type": "variable",
     "description": "Non-Woody Vegetation Percentage Cover",
-    "drs_name": "nwdfraclut",
+    "drs_name": "nwdFracLut",
     "long_name": null,
     "standard_name": "area_fraction",
     "units": "%"

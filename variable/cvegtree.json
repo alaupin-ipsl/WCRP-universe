@@ -3,7 +3,7 @@
     "id": "cvegtree",
     "type": "variable",
     "description": "Carbon Mass in Vegetation on Tree Tiles",
-    "drs_name": "cvegtree",
+    "drs_name": "cVegTree",
     "long_name": null,
     "standard_name": "vegetation_carbon_content",
     "units": "kg m-2"

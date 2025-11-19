@@ -3,7 +3,7 @@
     "id": "husslut",
     "type": "variable",
     "description": "Near-Surface Specific Humidity on Land-Use Tile",
-    "drs_name": "husslut",
+    "drs_name": "hussLut",
     "long_name": null,
     "standard_name": "specific_humidity",
     "units": "1"

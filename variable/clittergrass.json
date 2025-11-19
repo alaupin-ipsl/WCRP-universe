@@ -3,7 +3,7 @@
     "id": "clittergrass",
     "type": "variable",
     "description": "Carbon Mass in Litter on Grass Tiles",
-    "drs_name": "clittergrass",
+    "drs_name": "cLitterGrass",
     "long_name": null,
     "standard_name": "litter_mass_content_of_carbon",
     "units": "kg m-2"

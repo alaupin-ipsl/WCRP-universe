@@ -3,7 +3,7 @@
     "id": "fracoutlut",
     "type": "variable",
     "description": "Annual Gross Percentage of Land-Use Tile That Was Transferred into Other Land-Use Tiles",
-    "drs_name": "fracoutlut",
+    "drs_name": "fracOutLut",
     "long_name": null,
     "standard_name": "area_fraction",
     "units": "%"

@@ -3,7 +3,7 @@
     "id": "acabfis",
     "type": "variable",
     "description": "Ice Sheet Surface Mass Balance Flux",
-    "drs_name": "acabfis",
+    "drs_name": "acabfIs",
     "long_name": null,
     "standard_name": "land_ice_surface_specific_mass_balance_flux",
     "units": "kg m-2 s-1"

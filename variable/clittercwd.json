@@ -3,7 +3,7 @@
     "id": "clittercwd",
     "type": "variable",
     "description": "Carbon Mass in Coarse Woody Debris",
-    "drs_name": "clittercwd",
+    "drs_name": "cLitterCwd",
     "long_name": null,
     "standard_name": "wood_debris_mass_content_of_carbon",
     "units": "kg m-2"

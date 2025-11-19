@@ -3,7 +3,7 @@
     "id": "csoiltree",
     "type": "variable",
     "description": "Carbon Mass in Soil on Tree Tiles",
-    "drs_name": "csoiltree",
+    "drs_name": "cSoilTree",
     "long_name": null,
     "standard_name": "soil_mass_content_of_carbon",
     "units": "kg m-2"

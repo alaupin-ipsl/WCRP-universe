@@ -3,7 +3,7 @@
     "id": "nveg",
     "type": "variable",
     "description": "Nitrogen Mass in Vegetation",
-    "drs_name": "nveg",
+    "drs_name": "nVeg",
     "long_name": null,
     "standard_name": "vegetation_mass_content_of_nitrogen",
     "units": "kg m-2"

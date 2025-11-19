@@ -3,7 +3,7 @@
     "id": "nlittersubsurf",
     "type": "variable",
     "description": "Nitrogen Mass in Below-Ground Litter (non CWD)",
-    "drs_name": "nlittersubsurf",
+    "drs_name": "nLitterSubSurf",
     "long_name": null,
     "standard_name": "subsurface_litter_mass_content_of_nitrogen",
     "units": "kg m-2"

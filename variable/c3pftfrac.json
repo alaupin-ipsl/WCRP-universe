@@ -3,7 +3,7 @@
     "id": "c3pftfrac",
     "type": "variable",
     "description": "Percentage Cover by C3 Plant Functional Type",
-    "drs_name": "c3pftfrac",
+    "drs_name": "c3PftFrac",
     "long_name": null,
     "standard_name": "area_fraction",
     "units": "%"

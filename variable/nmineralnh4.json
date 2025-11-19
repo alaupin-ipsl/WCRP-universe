@@ -3,7 +3,7 @@
     "id": "nmineralnh4",
     "type": "variable",
     "description": "Mineral Ammonium in the Soil",
-    "drs_name": "nmineralnh4",
+    "drs_name": "nMineralNH4",
     "long_name": null,
     "standard_name": "soil_mass_content_of_inorganic_ammonium_expressed_as_nitrogen",
     "units": "kg m-2"

@@ -3,7 +3,7 @@
     "id": "taslut",
     "type": "variable",
     "description": "Near-Surface Air Temperature on Land Use Tile",
-    "drs_name": "taslut",
+    "drs_name": "tasLut",
     "long_name": null,
     "standard_name": "air_temperature",
     "units": "K"

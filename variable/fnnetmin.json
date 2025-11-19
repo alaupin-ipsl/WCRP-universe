@@ -3,7 +3,7 @@
     "id": "fnnetmin",
     "type": "variable",
     "description": "Net Nitrogen Release from Soil and Litter as the Outcome of Nitrogen Immobilisation and Gross Mineralisation",
-    "drs_name": "fnnetmin",
+    "drs_name": "fNnetmin",
     "long_name": null,
     "standard_name": "mass_flux_of_nitrogen_compounds_expressed_as_nitrogen_out_of_litter_and_soil_due_to_immobilisation_and_remineralization",
     "units": "kg m-2 s-1"

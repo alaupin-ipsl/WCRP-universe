@@ -3,7 +3,7 @@
     "id": "cveglut",
     "type": "variable",
     "description": "Carbon in Vegetation on Land-Use Tiles",
-    "drs_name": "cveglut",
+    "drs_name": "cVegLut",
     "long_name": null,
     "standard_name": "vegetation_carbon_content",
     "units": "kg m-2"

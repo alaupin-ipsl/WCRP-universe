@@ -3,7 +3,7 @@
     "id": "cfadlidarsr532",
     "type": "variable",
     "description": "CALIPSO Scattering Ratio CFAD",
-    "drs_name": "cfadlidarsr532",
+    "drs_name": "cfadLidarsr532",
     "long_name": null,
     "standard_name": "histogram_of_backscattering_ratio_in_air_over_height_above_reference_ellipsoid",
     "units": "1"

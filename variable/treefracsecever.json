@@ -3,7 +3,7 @@
     "id": "treefracsecever",
     "type": "variable",
     "description": "Percentage Cover by Secondary Evergreen Trees",
-    "drs_name": "treefracsecever",
+    "drs_name": "treeFracSecEver",
     "long_name": null,
     "standard_name": "area_fraction",
     "units": "%"

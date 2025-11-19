@@ -3,7 +3,7 @@
     "id": "pasturefracc3",
     "type": "variable",
     "description": "C3 Pasture Area Percentage",
-    "drs_name": "pasturefracc3",
+    "drs_name": "pastureFracC3",
     "long_name": null,
     "standard_name": "area_fraction",
     "units": "%"

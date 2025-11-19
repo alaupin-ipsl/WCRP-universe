@@ -3,7 +3,7 @@
     "id": "wetlandfrac",
     "type": "variable",
     "description": "Wetland Percentage Cover",
-    "drs_name": "wetlandfrac",
+    "drs_name": "wetlandFrac",
     "long_name": null,
     "standard_name": "area_fraction",
     "units": "%"

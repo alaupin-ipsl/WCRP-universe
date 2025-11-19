@@ -3,7 +3,7 @@
     "id": "vegheight",
     "type": "variable",
     "description": "Height of the Vegetation Canopy",
-    "drs_name": "vegheight",
+    "drs_name": "vegHeight",
     "long_name": null,
     "standard_name": "canopy_height",
     "units": "m"

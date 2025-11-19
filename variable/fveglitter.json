@@ -3,7 +3,7 @@
     "id": "fveglitter",
     "type": "variable",
     "description": "Total Carbon Mass Flux from Vegetation to Litter",
-    "drs_name": "fveglitter",
+    "drs_name": "fVegLitter",
     "long_name": null,
     "standard_name": "mass_flux_of_carbon_into_litter_from_vegetation",
     "units": "kg m-2 s-1"

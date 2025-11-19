@@ -3,7 +3,7 @@
     "id": "ch4globalclim",
     "type": "variable",
     "description": "Global Mean Mole Fraction of CH4",
-    "drs_name": "ch4globalclim",
+    "drs_name": "ch4globalClim",
     "long_name": null,
     "standard_name": "mole_fraction_of_methane_in_air",
     "units": "1e-09"
