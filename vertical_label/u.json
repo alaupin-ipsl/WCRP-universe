@@ -1,8 +1,7 @@
 {
+    "@context": "000_context.jsonld",
     "id": "u",
-    "label": "u",
-    "description": "TODO",
     "type": "vertical_label",
-    "drs_name": "u",
-    "@context": "000_context.jsonld"
+    "description": "Unspecified - no dimension provides information about the vertical location",
+    "drs_name": "u"
 }
