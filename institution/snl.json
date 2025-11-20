@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "snl",
+    "type": "institution",
+    "drs_name": "SNL",
+    "acronyms": [
+        "SNL"
+    ],
+    "labels": [
+        "Sandia National Laboratories"
+    ],
+    "description": "Sandia National Laboratories",
+    "location": [
+        {
+            "city": "Albuquerque",
+            "country": "United States",
+            "lat": 35.08449,
+            "lon": -106.65114
+        }
+    ],
+    "ror": "01apwpt12",
+    "urls": [
+        "https://www.sandia.gov/"
+    ]
+}

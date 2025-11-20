@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ornl",
+    "type": "institution",
+    "drs_name": "ORNL",
+    "acronyms": [
+        "ORNL"
+    ],
+    "labels": [
+        "Oak Ridge National Laboratory"
+    ],
+    "description": "Oak Ridge National Laboratory",
+    "location": [
+        {
+            "city": "Oak Ridge",
+            "country": "United States",
+            "lat": 36.01036,
+            "lon": -84.26964
+        }
+    ],
+    "ror": "01qz5mb56",
+    "urls": [
+        "https://www.ornl.gov/"
+    ]
+}
