@@ -5,15 +5,15 @@
     "product": "model-output",
     "table_date": "2023-11-16",
     "variable_entry": [
-        "cLitter",
-        "cLitterLut",
-        "cProduct",
-        "cProductLut",
-        "cSoil",
-        "cSoilLut",
-        "cVeg",
-        "cVegLut",
-        "fracLut"
+        "clitter",
+        "clitterlut",
+        "cproduct",
+        "cproductlut",
+        "csoil",
+        "csoillut",
+        "cveg",
+        "cveglut",
+        "fraclut"
     ],
     "drs_name": "LPyrPt"
 }

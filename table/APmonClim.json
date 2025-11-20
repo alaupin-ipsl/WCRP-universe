@@ -5,13 +5,13 @@
     "product": "model-output",
     "table_date": "2023-11-16",
     "variable_entry": [
-        "ch4Clim",
-        "ch4globalClim",
-        "co2Clim",
-        "co2massClim",
-        "n2oClim",
-        "n2oglobalClim",
-        "o3Clim"
+        "ch4clim",
+        "ch4globalclim",
+        "co2clim",
+        "co2massclim",
+        "n2oclim",
+        "n2oglobalclim",
+        "o3clim"
     ],
     "drs_name": "APmonClim"
 }
