@@ -1,8 +1,7 @@
 {
     "@context": "000_context.jsonld",
     "id": "ocean",
-    "description": "Ocean",
-    "name": "ocean",
     "type": "realm",
+    "description": "Dataset which applies (or mostly applies) to or is reported in the ocean part of the earth system.",
     "drs_name": "ocean"
 }

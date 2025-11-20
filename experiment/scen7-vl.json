@@ -1,0 +1,15 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "scen7-vl",
+    "type": "experiment",
+    "drs_name": "scen7-vl",
+    "activity": "scenariomip",
+    "additional_allowed_model_components": [
+        "aer",
+        "chem",
+        "bgc"
+    ],
+    "required_model_components": [
+        "aogcm"
+    ]
+}
