@@ -19,10 +19,10 @@
             "@type":"@id",
             "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/activity/"}
         },
-        "additional_allowed_model_components":{ 
+        "additional_allowed_model_components":{
             "@id": "https://esgvoc.ipsl.fr/resource/universe/additional_allowed_model_component/",
             "@type":"@id",
-            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/model_component/"}
+            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/source_type/"}
         },
         "branch_information":{"@id":"https://schema.org/description"},
         "end_timestamp":"http://schema.org/endDate",
@@ -43,10 +43,10 @@
             "@type":"@id",
             "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/mip_era/"}
         },
-        "required_model_components":{ 
+        "required_model_components":{
             "@id": "https://esgvoc.ipsl.fr/resource/universe/required_model_component/",
             "@type":"@id",
-            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/model_component/"}
+            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/source_type/"}
         },
         "start_timestamp":"http://schema.org/startDate",
         "tier":{"@id":"https://es-vocab.ipsl.fr/tier"}
