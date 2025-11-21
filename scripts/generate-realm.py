@@ -1,5 +1,7 @@
 """
 Generate realm entries
+
+Following https://github.com/ESGF/esgf-vocab/issues/165
 """
 
 import json
