@@ -1,0 +1,32 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tbi-hist-ctrl",
+    "type": "experiment",
+    "experiment_id": "tbi-hist-ctrl",
+    "activity_id": [
+        "tbimip"
+    ],
+    "additional_allowed_model_components": [
+        "aer",
+        "chem",
+        "bgc"
+    ],
+    "description": "Reference experiment: coupled ocean-atmosphere simulation with radiative forcing from historical (up to 2014) and ssp585 (2015-2021). If historical and ssp585 have already been performed the output from these experiments can be used instead.",
+    "end_year": 2021,
+    "experiment": "Coupled ocean-atmosphere simulation with historical radiative forcing",
+    "min_number_yrs_per_sim": 39,
+    "parent_activity_id": [
+        "no parent"
+    ],
+    "parent_experiment_id": [
+        "no parent"
+    ],
+    "required_model_components": [
+        "aogcm"
+    ],
+    "start_year": 1982,
+    "sub_experiment_id": [
+        "none"
+    ],
+    "tier": "1"
+}

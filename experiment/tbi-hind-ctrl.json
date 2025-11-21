@@ -1,0 +1,32 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tbi-hind-ctrl",
+    "type": "experiment",
+    "experiment_id": "tbi-hind-ctrl",
+    "activity_id": [
+        "tbimip"
+    ],
+    "additional_allowed_model_components": [
+        "aer",
+        "chem",
+        "bgc"
+    ],
+    "description": "Hindcast experiment for the period 1982-2021 with ocean initialization in February (mandatory), May, August, and November (recommended).",
+    "end_year": 2021,
+    "experiment": "Seasonal hindcast experiment",
+    "min_number_yrs_per_sim": 39,
+    "parent_activity_id": [
+        "no parent"
+    ],
+    "parent_experiment_id": [
+        "no parent"
+    ],
+    "required_model_components": [
+        "aogcm"
+    ],
+    "start_year": 1982,
+    "sub_experiment_id": [
+        "none"
+    ],
+    "tier": "1"
+}

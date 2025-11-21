@@ -1,0 +1,32 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "esm-up2p0-gwl4p0-200y-dn2p0",
+    "type": "experiment",
+    "experiment_id": "esm-up2p0-gwl4p0-200y-dn2p0",
+    "activity_id": [
+        "tipmip"
+    ],
+    "additional_allowed_model_components": [
+        "aer",
+        "chem"
+    ],
+    "description": "ramp-down after extended period of GWL4",
+    "end_year": null,
+    "experiment": "ramp down from global warming level of 4K after 200 years, with CO2 emissions that are the negative of those used in esm-up2p0",
+    "min_number_yrs_per_sim": 200,
+    "parent_activity_id": [
+        "tipmip"
+    ],
+    "parent_experiment_id": [
+        "esm-up2p0-gwl4p0"
+    ],
+    "required_model_components": [
+        "aogcm",
+        "bgc"
+    ],
+    "start_year": null,
+    "sub_experiment_id": [
+        "none"
+    ],
+    "tier": 2
+}

@@ -1,0 +1,32 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tbi-pace-a",
+    "type": "experiment",
+    "experiment_id": "tbi-pace-A",
+    "activity_id": [
+        "tbimip"
+    ],
+    "additional_allowed_model_components": [
+        "aer",
+        "chem",
+        "bgc"
+    ],
+    "description": "Pacemaker experiment with SST restoring in the tropical Atlantic Ocean (10 S-10 N). The restoring target is the observed SST.",
+    "end_year": 2021,
+    "experiment": "Pacemaker experiment with SST anomalies restored to observations in the tropical Atlantic",
+    "min_number_yrs_per_sim": 39,
+    "parent_activity_id": [
+        "tbimip"
+    ],
+    "parent_experiment_id": [
+        "tbi-hist-ctrl"
+    ],
+    "required_model_components": [
+        "aogcm"
+    ],
+    "start_year": 1982,
+    "sub_experiment_id": [
+        "none"
+    ],
+    "tier": "2"
+}
