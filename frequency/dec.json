@@ -2,9 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "dec",
     "type": "frequency",
-    "description": [
-        "Decadal samples.Note that this means that the time interval between each sample is not constant for some calendars."
-    ],
+    "description": "Decadal samples. Note that this means that the time interval between each sample is not constant for some calendars.",
     "drs_name": "dec",
     "interval": 10.0,
     "units": "year"
