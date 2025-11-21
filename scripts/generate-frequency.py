@@ -69,9 +69,12 @@ def main():
         ),
         (
             "dec",
-            "Decadal samples.",
-            1.0,
-            "decade",
+            (
+                "Decadal samples.",
+                "Note that this means that the time interval between each sample is not constant for some calendars.",
+            ),
+            10.0,
+            "year",
         ),
         (
             "fx",
@@ -118,7 +121,10 @@ def main():
         ),
         (
             "yr",
-            "Yearly (i.e. annual) samples. Note that this means that the time interval between each sample is not constant for some calendars.",
+            (
+                "Yearly (i.e. annual) samples. "
+                "Note that this means that the time interval between each sample is not constant for some calendars."
+            ),
             1.0,
             "year",
         ),
