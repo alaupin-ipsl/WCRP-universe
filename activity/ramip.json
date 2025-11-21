@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "type": "activity",
+    "id": "ramip",
+    "name": "RAMIP",
+    "cmip_acronym": "RAMIP",
+    "long_name": "Regional Aerosol Model Intercomparison Project",
+    "url": "https://ramip.ncas.ac.uk/",
+    "drs_name": "RAMIP"
+}
