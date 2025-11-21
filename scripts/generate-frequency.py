@@ -70,7 +70,7 @@ def main():
         (
             "dec",
             (
-                "Decadal samples.",
+                "Decadal samples."
                 "Note that this means that the time interval between each sample is not constant for some calendars.",
             ),
             10.0,
