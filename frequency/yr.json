@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "yr",
     "type": "frequency",
-    "description": "annual mean samples",
+    "description": "Yearly (i.e. annual) samples. Note that this means that the time interval between each sample is not constant for some calendars.",
     "drs_name": "yr",
     "interval": 1.0,
     "units": "year"

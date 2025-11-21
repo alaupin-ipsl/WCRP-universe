@@ -1,8 +1,8 @@
 {
     "@context": "000_context.jsonld",
-    "id": "1hrPt",
+    "id": "1hrpt",
     "type": "frequency",
-    "description": "sampled hourly, at specified time point within an hour",
+    "description": "Hourly samples. This is a legacy label that indicated that the sample was a point sample i.e. represented the value at a specific point in time. This information is now conveyed via the temporal label instead.",
     "drs_name": "1hrPt",
     "interval": 1.0,
     "units": "hour"
