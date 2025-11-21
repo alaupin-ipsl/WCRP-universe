@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "universiteit-wageningen",
+    "type": "institution",
+    "drs_name": "WUR",
+    "acronyms": [
+        "WUR"
+    ],
+    "labels": [
+        "Wageningen University & Research"
+    ],
+    "description": "Wageningen University & Research",
+    "location": [
+        {
+            "city": "Wageningen",
+            "country": "The Netherlands",
+            "lat": 51.97,
+            "lon": 5.66667
+        }
+    ],
+    "ror": "04qw24q55",
+    "urls": [
+        "https://www.wur.nl/"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nilu",
+    "type": "institution",
+    "drs_name": "NILU",
+    "acronyms": [
+        "NILU"
+    ],
+    "labels": [
+        "NILU"
+    ],
+    "description": "NILU",
+    "location": [
+        {
+            "city": "Lillestr\u00f8m",
+            "country": "Norway",
+            "lat": 59.95597,
+            "lon": 11.04918
+        }
+    ],
+    "ror": "00q7d9z06",
+    "urls": [
+        "https://nilu.com"
+    ]
+}

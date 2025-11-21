@@ -4,8 +4,8 @@
     "type": "organisation",
     "drs_name": "NOAA-GFDL",
     "members": [
-        "national",
-        "geophysical"
+        "noaa",
+        "gfdl"
     ],
     "description": "NOAA-GFDL"
 }

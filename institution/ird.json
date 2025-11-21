@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ird",
+    "type": "institution",
+    "drs_name": "IRD",
+    "acronyms": [
+        "IRD"
+    ],
+    "labels": [
+        "Institut de Recherche pour le D\u00e9veloppement"
+    ],
+    "description": "Institut de Recherche pour le D\u00e9veloppement",
+    "location": [
+        {
+            "city": "Noumea",
+            "country": "New Caledonia",
+            "lat": -22.27407,
+            "lon": 166.44884
+        }
+    ],
+    "ror": "01j4h9t83",
+    "urls": [
+        "http://nouvelle-caledonie.ird.fr"
+    ]
+}

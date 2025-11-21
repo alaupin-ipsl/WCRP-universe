@@ -1,0 +1,26 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "bsc",
+    "type": "institution",
+    "drs_name": "BSC",
+    "acronyms": [
+        "BSC",
+        "BSC-CNS"
+    ],
+    "labels": [
+        "Barcelona Supercomputing Center"
+    ],
+    "description": "Barcelona Supercomputing Center",
+    "location": [
+        {
+            "city": "Barcelona",
+            "country": "Spain",
+            "lat": 41.38879,
+            "lon": 2.15899
+        }
+    ],
+    "ror": "05sd8tv96",
+    "urls": [
+        "https://www.bsc.es/"
+    ]
+}

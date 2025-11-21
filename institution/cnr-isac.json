@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cnr-isac",
+    "type": "institution",
+    "drs_name": "CNR-ISAC",
+    "acronyms": [
+        "CNR-ISAC"
+    ],
+    "labels": [
+        "Institute of Atmospheric Sciences and Climate"
+    ],
+    "description": "Institute of Atmospheric Sciences and Climate",
+    "location": [
+        {
+            "city": "Bologna",
+            "country": "Italy",
+            "lat": 44.49381,
+            "lon": 11.33875
+        }
+    ],
+    "ror": "00n8ttd98",
+    "urls": [
+        "http://www.isac.cnr.it/"
+    ]
+}

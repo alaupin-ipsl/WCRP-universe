@@ -4,13 +4,13 @@
     "type": "organisation",
     "drs_name": "HAMMOZ-Consortium",
     "members": [
-        "eth",
-        "max",
-        "forschungszentrum",
-        "university",
-        "finnish",
-        "leibniz",
-        "center"
+        "eth-zurich",
+        "mpi-m",
+        "fz-juelich",
+        "oxford",
+        "fmi",
+        "tropos",
+        "c2sm"
     ],
     "description": "HAMMOZ-Consortium"
 }

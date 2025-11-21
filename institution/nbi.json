@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nbi",
+    "type": "institution",
+    "drs_name": "NBI",
+    "acronyms": [
+        "NBI"
+    ],
+    "labels": [
+        "Niels Bohr Institute"
+    ],
+    "description": "Niels Bohr Institute, University of Copenhagen",
+    "location": [
+        {
+            "city": "Copenhagen",
+            "country": "Denmark",
+            "lat": 55.6961,
+            "lon": 12.5716
+        }
+    ],
+    "ror": "035b05819",
+    "urls": [
+        "https://nbi.ku.dk/"
+    ]
+}

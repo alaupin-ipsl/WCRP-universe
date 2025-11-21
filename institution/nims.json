@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nims",
+    "type": "institution",
+    "drs_name": "NIMS",
+    "acronyms": [
+        "NIMS"
+    ],
+    "labels": [
+        "National Institute of Meteorological Sciences"
+    ],
+    "description": "National Institute of Meteorological Sciences",
+    "location": [
+        {
+            "city": "Seogwipo",
+            "country": "South Korea",
+            "lat": 33.25333,
+            "lon": 126.56181
+        }
+    ],
+    "ror": "04m2hj141",
+    "urls": [
+        "http://www.nimr.go.kr/AE/MA/main.jsp"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "universiteit-utrecht",
+    "type": "institution",
+    "drs_name": "UU",
+    "acronyms": [
+        "UU"
+    ],
+    "labels": [
+        "Utrecht University"
+    ],
+    "description": "Utrecht University",
+    "location": [
+        {
+            "city": "Utrecht",
+            "country": "The Netherlands",
+            "lat": 52.09083,
+            "lon": 5.12222
+        }
+    ],
+    "ror": "04pp8hn57",
+    "urls": [
+        "https://www.uu.nl"
+    ]
+}

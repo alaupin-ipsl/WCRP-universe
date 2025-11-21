@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "norce",
+    "type": "institution",
+    "drs_name": "NORCE",
+    "acronyms": [
+        "NORCE"
+    ],
+    "labels": [
+        "NORCE Research AS"
+    ],
+    "description": "NORCE Research AS",
+    "location": [
+        {
+            "city": "Bergen",
+            "country": "Norway",
+            "lat": 60.39299,
+            "lon": 5.32415
+        }
+    ],
+    "ror": "02gagpf75",
+    "urls": [
+        "https://www.norceresearch.no"
+    ]
+}

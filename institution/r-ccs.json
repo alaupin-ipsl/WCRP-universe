@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "r-ccs",
+    "type": "institution",
+    "drs_name": "R-CCS",
+    "acronyms": [
+        "CCS"
+    ],
+    "labels": [
+        "RIKEN Center for Computational Science"
+    ],
+    "description": "RIKEN Center for Computational Science",
+    "location": [
+        {
+            "city": "Kobe",
+            "country": "Japan",
+            "lat": 34.6913,
+            "lon": 135.183
+        }
+    ],
+    "ror": "03r519674",
+    "urls": [
+        "https://www.r-ccs.riken.jp/jp/"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "iamc",
+    "type": "institution",
+    "drs_name": "IAMC",
+    "acronyms": [
+        "IAMC"
+    ],
+    "labels": [
+        "NorESM Climate Modeling Consortium"
+    ],
+    "description": "NorESM Climate Modeling Consortium",
+    "location": [
+        {
+            "city": "Bergen",
+            "country": "Norway",
+            "lat": 60.39299,
+            "lon": 5.32415
+        }
+    ],
+    "ror": "02grwav03",
+    "urls": [
+        "https://www.noresm.org"
+    ]
+}

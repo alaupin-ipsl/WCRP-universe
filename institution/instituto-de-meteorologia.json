@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "instituto-de-meteorologia",
+    "type": "institution",
+    "drs_name": "IPMA",
+    "acronyms": [
+        "IPMA"
+    ],
+    "labels": [
+        "Portuguese Sea and Atmosphere Institute"
+    ],
+    "description": "Portuguese Sea and Atmosphere Institute",
+    "location": [
+        {
+            "city": "Lisbon",
+            "country": "Portugal",
+            "lat": 38.71667,
+            "lon": -9.13333
+        }
+    ],
+    "ror": "01sp7nd78",
+    "urls": [
+        "https://www.ipma.pt"
+    ]
+}

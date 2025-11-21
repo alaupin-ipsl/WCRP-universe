@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ugent",
+    "type": "institution",
+    "drs_name": "UGent",
+    "acronyms": [
+        "UGent"
+    ],
+    "labels": [
+        "Ghent University"
+    ],
+    "description": "Ghent University",
+    "location": [
+        {
+            "city": "Ghent",
+            "country": "Belgium",
+            "lat": 51.05,
+            "lon": 3.71667
+        }
+    ],
+    "ror": "00cv9y106",
+    "urls": [
+        "https://www.ugent.be"
+    ]
+}

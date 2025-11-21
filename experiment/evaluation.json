@@ -7,10 +7,7 @@
         "dd",
         "esd"
     ],
-    "additional_allowed_model_components": [
-        "aer",
-        "atmos"
-    ],
+    "additional_allowed_model_components": [],
     "description": "CORDEX evaluation driven by reanalysis (ERA5)",
     "end_year": 2020,
     "experiment": "reanalysis simulation of the recent past",
@@ -21,9 +18,7 @@
     "parent_experiment_id": [
         "none"
     ],
-    "required_model_components": [
-        "rcm"
-    ],
+    "required_model_components": [],
     "start_year": 1979,
     "sub_experiment_id": [
         "none"

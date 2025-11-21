@@ -4,27 +4,9 @@
     "type": "organisation",
     "drs_name": "SOLARIS-HEPPA",
     "members": [
-        "auot",
-        "aor",
-        "bas",
-        "eawag",
-        "fmi",
-        "fuberlin",
         "geomar",
         "gsfc",
         "iaa-csic",
-        "issi",
-        "kit",
-        "lasp",
-        "lpc2e",
-        "mohc",
-        "mps",
-        "ncar",
-        "pmod",
-        "uobergen",
-        "uoleeds",
-        "uomontreal",
-        "uootago",
-        "uooulu"
+        "lasp"
     ]
 }

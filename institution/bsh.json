@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "bsh",
+    "type": "institution",
+    "drs_name": "BSH",
+    "acronyms": [
+        "BSH"
+    ],
+    "labels": [
+        "Federal Maritime and Hydrographic Agency of Germany"
+    ],
+    "description": "Federal Maritime and Hydrographic Agency of Germany",
+    "location": [
+        {
+            "city": "Hamburg",
+            "country": "Germany",
+            "lat": 53.55073,
+            "lon": 9.99302
+        }
+    ],
+    "ror": "03ycvrj88",
+    "urls": [
+        "https://www.bsh.de/"
+    ]
+}

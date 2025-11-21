@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nersc",
+    "type": "institution",
+    "drs_name": "NERSC",
+    "acronyms": [
+        "NERSC"
+    ],
+    "labels": [
+        "Nansen Environmental and Remote Sensing Center"
+    ],
+    "description": "Nansen Environmental and Remote Sensing Center",
+    "location": [
+        {
+            "city": "Bergen",
+            "country": "Norway",
+            "lat": 60.39299,
+            "lon": 5.32415
+        }
+    ],
+    "ror": "05ey0h058",
+    "urls": [
+        "https://nersc.no"
+    ]
+}

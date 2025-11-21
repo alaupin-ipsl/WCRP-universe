@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "met-eireann",
+    "type": "institution",
+    "drs_name": "Met-Eireann",
+    "acronyms": [
+        "Met-Eireann"
+    ],
+    "labels": [
+        "Met \u00c9ireann"
+    ],
+    "description": "Met \u00c9ireann",
+    "location": [
+        {
+            "city": "Dublin",
+            "country": "Ireland",
+            "lat": 53.33306,
+            "lon": -6.24889
+        }
+    ],
+    "ror": "00vhgwv19",
+    "urls": [
+        "http://www.met.ie/"
+    ]
+}

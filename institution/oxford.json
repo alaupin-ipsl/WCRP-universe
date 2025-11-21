@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "oxford",
+    "type": "institution",
+    "drs_name": "Oxford",
+    "acronyms": [
+        "Oxford"
+    ],
+    "labels": [
+        "University of Oxford"
+    ],
+    "description": "University of Oxford",
+    "location": [
+        {
+            "city": "Oxford",
+            "country": "United Kingdom",
+            "lat": 51.75222,
+            "lon": -1.25596
+        }
+    ],
+    "ror": "052gg0110",
+    "urls": [
+        "https://www.ox.ac.uk"
+    ]
+}

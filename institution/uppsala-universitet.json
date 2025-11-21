@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "uppsala-universitet",
+    "type": "institution",
+    "drs_name": "UU-SE",
+    "acronyms": [
+        "UU-SE"
+    ],
+    "labels": [
+        "Uppsala University"
+    ],
+    "description": "Uppsala University",
+    "location": [
+        {
+            "city": "Uppsala",
+            "country": "Sweden",
+            "lat": 59.85882,
+            "lon": 17.63889
+        }
+    ],
+    "ror": "048a87296",
+    "urls": [
+        "https://www.uu.se/en/"
+    ]
+}

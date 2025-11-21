@@ -10,10 +10,10 @@
         "drs_name": {"@id": "acronym"},
         "label": {"@id": "https://schema.org/name"},
         "label_extended": {"@id": "https://schema.org/alternateName"},
-        "contributors":{ 
+        "contributors":{
             "@id": "https://esgvoc.ipsl.fr/resource/universe/contributor/",
             "@type":"@id",
-            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/contributor/"}
+            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/organisation/"}
         },
         "model_components":{ 
             "@id": "https://esgvoc.ipsl.fr/resource/universe/model_component/",

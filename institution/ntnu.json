@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ntnu",
+    "type": "institution",
+    "drs_name": "NTNU",
+    "acronyms": [
+        "NTNU"
+    ],
+    "labels": [
+        "Norwegian University of Science and Technology"
+    ],
+    "description": "Norwegian University of Science and Technology",
+    "location": [
+        {
+            "city": "Trondheim",
+            "country": "Norway",
+            "lat": 63.43049,
+            "lon": 10.39506
+        }
+    ],
+    "ror": "05xg72x27",
+    "urls": [
+        "https://www.ntnu.edu"
+    ]
+}

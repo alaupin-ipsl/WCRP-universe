@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "kma",
+    "type": "institution",
+    "drs_name": "KMA",
+    "acronyms": [
+        "KMA"
+    ],
+    "labels": [
+        "Korea Meteorological Administration"
+    ],
+    "description": "Korea Meteorological Administration",
+    "location": [
+        {
+            "city": "Seoul",
+            "country": "South Korea",
+            "lat": 37.566,
+            "lon": 126.9784
+        }
+    ],
+    "ror": "04nrmrg07",
+    "urls": [
+        "https://www.kma.go.kr/kma"
+    ]
+}

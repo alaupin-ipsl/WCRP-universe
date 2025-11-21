@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dmi",
+    "type": "institution",
+    "drs_name": "DMI",
+    "acronyms": [
+        "DMI"
+    ],
+    "labels": [
+        "Danish Meteorological Institute"
+    ],
+    "description": "Danish Meteorological Institute",
+    "location": [
+        {
+            "city": "Copenhagen",
+            "country": "Denmark",
+            "lat": 55.67594,
+            "lon": 12.56553
+        }
+    ],
+    "ror": "020m6x732",
+    "urls": [
+        "https://www.dmi.dk"
+    ]
+}

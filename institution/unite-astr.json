@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "unite-astr",
+    "type": "institution",
+    "drs_name": "Unite-ASTR",
+    "acronyms": [
+        "Unite-ASTR"
+    ],
+    "labels": [
+        "Royal Observatory of Belgium"
+    ],
+    "description": "Royal Observatory of Belgium",
+    "location": [
+        {
+            "city": "Brussels",
+            "country": "Belgium",
+            "lat": 50.85045,
+            "lon": 4.34878
+        }
+    ],
+    "ror": "00hjks330",
+    "urls": [
+        "http://www.astro.oma.be/en/"
+    ]
+}

@@ -4,7 +4,7 @@
     "type": "organisation",
     "drs_name": "MESSy-Consortium",
     "members": [
-        "institute"
+        "dlr"
     ],
     "description": "The Modular Earth Submodel System (MESSy) Consortium"
 }

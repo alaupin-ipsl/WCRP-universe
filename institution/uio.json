@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "uio",
+    "type": "institution",
+    "drs_name": "UiO",
+    "acronyms": [
+        "UiO"
+    ],
+    "labels": [
+        "University of Oslo"
+    ],
+    "description": "University of Oslo",
+    "location": [
+        {
+            "city": "Oslo",
+            "country": "Norway",
+            "lat": 59.91273,
+            "lon": 10.74609
+        }
+    ],
+    "ror": "01xtthb56",
+    "urls": [
+        "http://www.uio.no/english/"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "lasp",
+    "type": "institution",
+    "drs_name": "LASP",
+    "acronyms": [
+        "LASP"
+    ],
+    "labels": [
+        "Laboratory for Atmospheric and Space Physics"
+    ],
+    "description": "Laboratory for Atmospheric and Space Physics",
+    "location": [
+        {
+            "city": "Boulder",
+            "country": "United States",
+            "lat": 40.01499,
+            "lon": -105.27055
+        }
+    ],
+    "ror": "01fcjzv38",
+    "urls": [
+        "http://lasp.colorado.edu/home/"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ucan",
+    "type": "institution",
+    "drs_name": "UCAN",
+    "acronyms": [
+        "UC"
+    ],
+    "labels": [
+        "Universidad de Cantabria"
+    ],
+    "description": "Universidad de Cantabria",
+    "location": [
+        {
+            "city": "Santander",
+            "country": "Spain",
+            "lat": 43.46472,
+            "lon": -3.80444
+        }
+    ],
+    "ror": "046ffzj20",
+    "urls": [
+        "https://web.unican.es"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cima",
+    "type": "institution",
+    "drs_name": "CIMA",
+    "acronyms": [
+        "ICAyCC"
+    ],
+    "labels": [
+        "Instituto de Ciencias de la Atm\u00f3sfera y Cambio Clim\u00e1tico"
+    ],
+    "description": "Instituto de Ciencias de la Atm\u00f3sfera y Cambio Clim\u00e1tico",
+    "location": [
+        {
+            "city": "Mexico City",
+            "country": "Mexico",
+            "lat": 19.42847,
+            "lon": -99.12766
+        }
+    ],
+    "ror": "03zeev498",
+    "urls": [
+        "https://www.atmosfera.unam.mx"
+    ]
+}

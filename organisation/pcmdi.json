@@ -4,8 +4,8 @@
     "type": "organisation",
     "drs_name": "PCMDI",
     "members": [
-        "program",
-        "lawrence"
+        "pcmdi",
+        "llnl"
     ],
     "description": "PCMDI"
 }

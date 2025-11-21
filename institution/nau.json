@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nau",
+    "type": "institution",
+    "drs_name": "NAU",
+    "acronyms": [
+        "NAU"
+    ],
+    "labels": [
+        "Northern Arizona University"
+    ],
+    "description": "Northern Arizona University",
+    "location": [
+        {
+            "city": "Flagstaff",
+            "country": "United States",
+            "lat": 35.19807,
+            "lon": -111.65127
+        }
+    ],
+    "ror": "0272j5188",
+    "urls": [
+        "https://www.nau.edu/"
+    ]
+}

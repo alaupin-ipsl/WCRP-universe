@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cicero",
+    "type": "institution",
+    "drs_name": "CICERO",
+    "acronyms": [
+        "CICERO"
+    ],
+    "labels": [
+        "CICERO Center for International Climate Research"
+    ],
+    "description": "CICERO Center for International Climate Research",
+    "location": [
+        {
+            "city": "Oslo",
+            "country": "Norway",
+            "lat": 59.91273,
+            "lon": 10.74609
+        }
+    ],
+    "ror": "01gw5dy53",
+    "urls": [
+        "https://cicero.oslo.no"
+    ]
+}

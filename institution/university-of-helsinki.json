@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "university-of-helsinki",
+    "type": "institution",
+    "drs_name": "UH",
+    "acronyms": [
+        "UH"
+    ],
+    "labels": [
+        "University of Helsinki"
+    ],
+    "description": "University of Helsinki",
+    "location": [
+        {
+            "city": "Helsinki",
+            "country": "Finland",
+            "lat": 60.16952,
+            "lon": 24.93545
+        }
+    ],
+    "ror": "040af2s02",
+    "urls": [
+        "https://www.helsinki.fi/"
+    ]
+}

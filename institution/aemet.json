@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "aemet",
+    "type": "institution",
+    "drs_name": "AEMET",
+    "acronyms": [
+        "AEMET"
+    ],
+    "labels": [
+        "Agencia Estatal de Meteorolog\u00eda"
+    ],
+    "description": "Agencia Estatal de Meteorolog\u00eda",
+    "location": [
+        {
+            "city": "Madrid",
+            "country": "Spain",
+            "lat": 40.4165,
+            "lon": -3.70256
+        }
+    ],
+    "ror": "04kxf1r09",
+    "urls": [
+        "http://www.aemet.es/en/portada"
+    ]
+}

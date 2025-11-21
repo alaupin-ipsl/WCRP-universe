@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "uib",
+    "type": "institution",
+    "drs_name": "UiB",
+    "acronyms": [
+        "UiB"
+    ],
+    "labels": [
+        "University of Bergen"
+    ],
+    "description": "University of Bergen",
+    "location": [
+        {
+            "city": "Bergen",
+            "country": "Norway",
+            "lat": 60.39299,
+            "lon": 5.32415
+        }
+    ],
+    "ror": "03zga2b32",
+    "urls": [
+        "http://www.uib.no/"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mf",
+    "type": "institution",
+    "drs_name": "MF",
+    "acronyms": [
+        "MF"
+    ],
+    "labels": [
+        "M\u00e9t\u00e9o-France"
+    ],
+    "description": "M\u00e9t\u00e9o-France",
+    "location": [
+        {
+            "city": "Toulouse",
+            "country": "France",
+            "lat": 43.60426,
+            "lon": 1.44367
+        }
+    ],
+    "ror": "0233st365",
+    "urls": [
+        "http://www.meteofrance.com/accueil"
+    ]
+}

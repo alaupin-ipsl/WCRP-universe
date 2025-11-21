@@ -1,0 +1,26 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "iaa-csic",
+    "type": "institution",
+    "drs_name": "IAA-CSIC",
+    "acronyms": [
+        "IAA",
+        "IAA-CSIC"
+    ],
+    "labels": [
+        "Instituto de Astrof\u00edsica de Andaluc\u00eda"
+    ],
+    "description": "Instituto de Astrof\u00edsica de Andaluc\u00eda",
+    "location": [
+        {
+            "city": "Granada",
+            "country": "Spain",
+            "lat": 37.18817,
+            "lon": -3.60667
+        }
+    ],
+    "ror": "04ka0vh05",
+    "urls": [
+        "https://www.iaa.csic.es"
+    ]
+}

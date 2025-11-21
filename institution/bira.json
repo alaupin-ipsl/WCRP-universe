@@ -1,0 +1,26 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "bira",
+    "type": "institution",
+    "drs_name": "BIRA",
+    "acronyms": [
+        "BIRA",
+        "IASB"
+    ],
+    "labels": [
+        "Royal Belgian Institute for Space Aeronomy"
+    ],
+    "description": "Royal Belgian Institute for Space Aeronomy",
+    "location": [
+        {
+            "city": "Brussels",
+            "country": "Belgium",
+            "lat": 50.85045,
+            "lon": 4.34878
+        }
+    ],
+    "ror": "03vfw8w96",
+    "urls": [
+        "https://aeronomie.be"
+    ]
+}

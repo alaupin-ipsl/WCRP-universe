@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "incois",
+    "type": "institution",
+    "drs_name": "INCOIS",
+    "acronyms": [
+        "INCOIS"
+    ],
+    "labels": [
+        "Indian National Centre for Ocean Information Services"
+    ],
+    "description": "Indian National Centre for Ocean Information Services",
+    "location": [
+        {
+            "city": "Hyderabad",
+            "country": "India",
+            "lat": 17.38405,
+            "lon": 78.45636
+        }
+    ],
+    "ror": "04xbqmj23",
+    "urls": [
+        "http://www.incois.gov.in/portal/index.jsp"
+    ]
+}

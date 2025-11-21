@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tropos",
+    "type": "institution",
+    "drs_name": "TROPOS",
+    "acronyms": [
+        "TROPOS"
+    ],
+    "labels": [
+        "Leibniz Institute for Tropospheric Research"
+    ],
+    "description": "Leibniz Institute for Tropospheric Research",
+    "location": [
+        {
+            "city": "Leipzig",
+            "country": "Germany",
+            "lat": 51.33962,
+            "lon": 12.37129
+        }
+    ],
+    "ror": "03a5xsc56",
+    "urls": [
+        "https://www.tropos.de/en/"
+    ]
+}

@@ -4,8 +4,8 @@
     "type": "organisation",
     "drs_name": "ESPRI-IPSL",
     "members": [
-        "ensemble",
-        "institut"
+        "espri",
+        "ipsl"
     ],
     "description": "ESPRI-IPSL"
 }

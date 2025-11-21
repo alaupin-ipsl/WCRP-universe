@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "um",
+    "type": "institution",
+    "drs_name": "UM",
+    "acronyms": [
+        "UM"
+    ],
+    "labels": [
+        "University of Michigan"
+    ],
+    "description": "University of Michigan",
+    "location": [
+        {
+            "city": "Ann Arbor",
+            "country": "United States",
+            "lat": 42.27756,
+            "lon": -83.74088
+        }
+    ],
+    "ror": "00jmfr291",
+    "urls": [
+        "https://www.umich.edu"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dlr",
+    "type": "institution",
+    "drs_name": "DLR",
+    "acronyms": [
+        "DLR"
+    ],
+    "labels": [
+        "Deutsches Zentrum f\u00fcr Luft- und Raumfahrt e. V. (DLR)"
+    ],
+    "description": "Deutsches Zentrum f\u00fcr Luft- und Raumfahrt e. V. (DLR)",
+    "location": [
+        {
+            "city": "Cologne",
+            "country": "Germany",
+            "lat": 50.93333,
+            "lon": 6.95
+        }
+    ],
+    "ror": "04bwf3e34",
+    "urls": [
+        "https://www.dlr.de"
+    ]
+}

@@ -4,8 +4,8 @@
     "type": "organisation",
     "drs_name": "DLR-BIRA",
     "members": [
-        "deutsches",
-        "royal"
+        "dlr",
+        "bira"
     ],
     "description": "DLR-BIRA"
 }

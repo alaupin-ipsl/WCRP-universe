@@ -4,8 +4,8 @@
     "type": "organisation",
     "drs_name": "UCSD-SIO",
     "members": [
-        "university",
-        "scripps"
+        "ucsd",
+        "sio"
     ],
     "description": "UCSD-SIO"
 }

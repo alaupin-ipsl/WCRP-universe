@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "noaa",
+    "type": "institution",
+    "drs_name": "NOAA",
+    "acronyms": [
+        "NOAA"
+    ],
+    "labels": [
+        "National Oceanic and Atmospheric Administration"
+    ],
+    "description": "National Oceanic and Atmospheric Administration",
+    "location": [
+        {
+            "city": "Washington",
+            "country": "United States",
+            "lat": 38.89511,
+            "lon": -77.03637
+        }
+    ],
+    "ror": "02z5nhe81",
+    "urls": [
+        "http://www.noaa.gov/"
+    ]
+}

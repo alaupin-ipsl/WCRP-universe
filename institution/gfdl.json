@@ -1,0 +1,26 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "gfdl",
+    "type": "institution",
+    "drs_name": "GFDL",
+    "acronyms": [
+        "GFDL",
+        "NOAA GFDL"
+    ],
+    "labels": [
+        "NOAA Geophysical Fluid Dynamics Laboratory"
+    ],
+    "description": "NOAA Geophysical Fluid Dynamics Laboratory",
+    "location": [
+        {
+            "city": "Princeton",
+            "country": "United States",
+            "lat": 40.34872,
+            "lon": -74.65905
+        }
+    ],
+    "ror": "03vmn1898",
+    "urls": [
+        "https://www.gfdl.noaa.gov"
+    ]
+}

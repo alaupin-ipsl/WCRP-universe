@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "usc",
+    "type": "institution",
+    "drs_name": "USC",
+    "acronyms": [
+        "USC"
+    ],
+    "labels": [
+        "Universidade de Santiago de Compostela"
+    ],
+    "description": "Universidade de Santiago de Compostela",
+    "location": [
+        {
+            "city": "Santiago de Compostela",
+            "country": "Spain",
+            "lat": 42.88052,
+            "lon": -8.54569
+        }
+    ],
+    "ror": "030eybx10",
+    "urls": [
+        "https://www.usc.gal"
+    ]
+}

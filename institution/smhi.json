@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "smhi",
+    "type": "institution",
+    "drs_name": "SMHI",
+    "acronyms": [
+        "SMHI"
+    ],
+    "labels": [
+        "Swedish Meteorological and Hydrological Institute"
+    ],
+    "description": "Swedish Meteorological and Hydrological Institute",
+    "location": [
+        {
+            "city": "Norrk\u00f6ping",
+            "country": "Sweden",
+            "lat": 58.59419,
+            "lon": 16.1826
+        }
+    ],
+    "ror": "00hgzve81",
+    "urls": [
+        "https://www.smhi.se"
+    ]
+}

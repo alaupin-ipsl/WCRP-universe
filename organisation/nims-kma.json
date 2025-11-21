@@ -4,8 +4,8 @@
     "type": "organisation",
     "drs_name": "NIMS-KMA",
     "members": [
-        "national",
-        "korea"
+        "nims",
+        "kma"
     ],
     "description": "NIMS-KMA"
 }

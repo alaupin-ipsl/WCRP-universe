@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "fz-juelich",
+    "type": "institution",
+    "drs_name": "FZ-Juelich",
+    "acronyms": [
+        "FZJ"
+    ],
+    "labels": [
+        "Forschungszentrum J\u00fclich"
+    ],
+    "description": "Forschungszentrum J\u00fclich",
+    "location": [
+        {
+            "city": "J\u00fclich",
+            "country": "Germany",
+            "lat": 50.92149,
+            "lon": 6.36267
+        }
+    ],
+    "ror": "02nv7yv05",
+    "urls": [
+        "https://www.fz-juelich.de"
+    ]
+}

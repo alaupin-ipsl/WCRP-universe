@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "uba",
+    "type": "institution",
+    "drs_name": "UBA",
+    "acronyms": [
+        "UBA"
+    ],
+    "labels": [
+        "Universidad de Buenos Aires"
+    ],
+    "description": "Universidad de Buenos Aires",
+    "location": [
+        {
+            "city": "Buenos Aires",
+            "country": "Argentina",
+            "lat": -34.61315,
+            "lon": -58.37723
+        }
+    ],
+    "ror": "0081fs513",
+    "urls": [
+        "https://www.uba.ar"
+    ]
+}

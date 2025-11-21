@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "lund-university",
+    "type": "institution",
+    "drs_name": "Lund-University",
+    "acronyms": [
+        "Lund-University"
+    ],
+    "labels": [
+        "Lund University"
+    ],
+    "description": "Lund University",
+    "location": [
+        {
+            "city": "Lund",
+            "country": "Sweden",
+            "lat": 55.70584,
+            "lon": 13.19321
+        }
+    ],
+    "ror": "012a77v79",
+    "urls": [
+        "https://www.lu.se"
+    ]
+}
