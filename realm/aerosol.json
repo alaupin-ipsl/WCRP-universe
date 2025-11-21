@@ -1,8 +1,7 @@
 {
     "@context": "000_context.jsonld",
     "id": "aerosol",
-    "description": "Aerosol",
-    "name": "aerosol",
     "type": "realm",
+    "description": "Dataset which applies (or mostly applies) to components of the Earth system related to aerosol chemistry.",
     "drs_name": "aerosol"
 }

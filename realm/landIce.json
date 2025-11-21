@@ -1,8 +1,7 @@
 {
     "@context": "000_context.jsonld",
-    "id": "landIce",
-    "description": "Land Ice",
-    "name": "landIce",
+    "id": "landice",
     "type": "realm",
+    "description": "Dataset which applies (or mostly applies) to or is reported on land ice.",
     "drs_name": "landIce"
 }

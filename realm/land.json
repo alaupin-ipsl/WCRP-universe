@@ -1,8 +1,7 @@
 {
     "@context": "000_context.jsonld",
     "id": "land",
-    "description": "Land Surface and Subsurface",
-    "name": "land",
     "type": "realm",
+    "description": "Dataset which applies (or mostly applies) to or is reported in the land surface and/or sub-surface part of the earth system.",
     "drs_name": "land"
 }
