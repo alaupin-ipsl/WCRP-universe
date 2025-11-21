@@ -1,0 +1,9 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sh",
+    "type": "region",
+    "description": "The southern hemisphere.",
+    "drs_name": "sh",
+    "cf_standard_region": "southern_hemisphere",
+    "iso_region": null
+}
