@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "greenland",
     "type": "region",
-    "description": "Greenland",
+    "description": "Greenland.",
     "drs_name": "grl",
     "cf_standard_region": "greenland",
     "iso_region": "grl"
