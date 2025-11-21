@@ -147,6 +147,7 @@ def main():
         out_file = f"frequency/{id}.json"
         with open(out_file, "w") as fh:
             json.dump(content, fh, indent=4)
+            fh.write("\n")
 
         print(f"Wrote {out_file}")
 
