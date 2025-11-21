@@ -1,6 +1,6 @@
 {
     "@context": "000_context.jsonld",
-    "id": "nh",
+    "id": "northern-hemisphere",
     "type": "region",
     "description": "The northern hemisphere.",
     "drs_name": "nh",

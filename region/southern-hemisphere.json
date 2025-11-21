@@ -1,6 +1,6 @@
 {
     "@context": "000_context.jsonld",
-    "id": "sh",
+    "id": "southern-hemisphere",
     "type": "region",
     "description": "The southern hemisphere.",
     "drs_name": "sh",

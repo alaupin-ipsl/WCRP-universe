@@ -31,7 +31,6 @@ def main():
             None,
         ),
     ):
-        id = drs_name.lower()
         content = {
             "@context": "000_context.jsonld",
             "id": id,
