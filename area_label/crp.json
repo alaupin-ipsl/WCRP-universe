@@ -1,8 +1,8 @@
 {
+    "@context": "000_context.jsonld",
     "id": "crp",
-    "label": "crp",
-    "description": "in cell_methods : crops",
     "type": "area_label",
+    "description": "Data is only included where the reporting point is in an area of crops. Crops is loosely defined and model dependent.",
     "drs_name": "crp",
-    "@context": "000_context.jsonld"
+    "cf_area_type": "crops"
 }

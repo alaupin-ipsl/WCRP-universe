@@ -1,8 +1,8 @@
 {
+    "@context": "000_context.jsonld",
     "id": "ufs",
-    "label": "ufs",
-    "description": "in cell_methods : unfrozen_soil",
     "type": "area_label",
+    "description": "Data is only included where the reporting point is in an area of unfrozen soil. Unfrozen soil means that the soil at the surface is unfrozen. Frozen soil may be present at lower levels.",
     "drs_name": "ufs",
-    "@context": "000_context.jsonld"
+    "cf_area_type": "unfrozen_soil"
 }

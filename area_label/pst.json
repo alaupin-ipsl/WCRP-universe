@@ -1,8 +1,8 @@
 {
+    "@context": "000_context.jsonld",
     "id": "pst",
-    "label": "pst",
-    "description": "in cell_methods : pastures",
     "type": "area_label",
+    "description": "Data is only included where the reporting point is in an area of pasture. Pastures are assumed to be anthropogenic in origin. They include anthropogenically managed pastureland and rangeland.",
     "drs_name": "pst",
-    "@context": "000_context.jsonld"
+    "cf_area_type": "pastures"
 }

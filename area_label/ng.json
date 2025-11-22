@@ -1,8 +1,8 @@
 {
+    "@context": "000_context.jsonld",
     "id": "ng",
-    "label": "ng",
-    "description": "in cell_methods : natural_grasses",
     "type": "area_label",
+    "description": "Data is only included where the reporting point is in an area where natural grasses are present. 'Natural grasses' means grasses growing in areas of low productivity, often situated on rough or uneven ground. This can include rocky areas, briars and heathland.",
     "drs_name": "ng",
-    "@context": "000_context.jsonld"
+    "cf_area_type": "natural_grasses"
 }

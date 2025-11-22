@@ -1,8 +1,8 @@
 {
+    "@context": "000_context.jsonld",
     "id": "ccl",
-    "label": "ccl",
-    "description": "in cell_methods : convective_cloud",
     "type": "area_label",
+    "description": "Data is only included where the reporting point is in convective cloud.",
     "drs_name": "ccl",
-    "@context": "000_context.jsonld"
+    "cf_area_type": "convective_cloud"
 }

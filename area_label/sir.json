@@ -1,8 +1,8 @@
 {
+    "@context": "000_context.jsonld",
     "id": "sir",
-    "label": "sir",
-    "description": "in cell_methods : sea_ice_ridges",
     "type": "area_label",
+    "description": "Data is only included where the reporting point is in an area where 'ridged' sea ice is present.",
     "drs_name": "sir",
-    "@context": "000_context.jsonld"
+    "cf_area_type": "sea_ice_ridges"
 }

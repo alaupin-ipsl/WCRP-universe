@@ -1,8 +1,8 @@
 {
+    "@context": "000_context.jsonld",
     "id": "air",
-    "label": "air",
-    "description": "in cell_methods : cloud",
     "type": "area_label",
+    "description": "Data is only included where the reporting point is in air (this isn't always the case e.g. if a variable is reported at sea level pressure but there is a mountain then the surface would not be air).",
     "drs_name": "air",
-    "@context": "000_context.jsonld"
+    "cf_area_type": "air"
 }

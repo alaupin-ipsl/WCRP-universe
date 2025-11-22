@@ -1,8 +1,8 @@
 {
+    "@context": "000_context.jsonld",
     "id": "cl",
-    "label": "cl",
-    "description": "in cell_methods : cloud",
     "type": "area_label",
+    "description": "Data is only included where the reporting point is in cloud.",
     "drs_name": "cl",
-    "@context": "000_context.jsonld"
+    "cf_area_type": "cloud"
 }
