@@ -1,8 +1,7 @@
 {
+    "@context": "000_context.jsonld",
     "id": "d10cm",
-    "label": "d10cm",
-    "description": "TODO",
     "type": "vertical_label",
-    "drs_name": "d10cm",
-    "@context": "000_context.jsonld"
+    "description": "Data is reported at a vertical depth of 0.1m (10cm).",
+    "drs_name": "d10cm"
 }

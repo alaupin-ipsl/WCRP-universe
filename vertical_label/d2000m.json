@@ -1,8 +1,7 @@
 {
+    "@context": "000_context.jsonld",
     "id": "d2000m",
-    "label": "d2000m",
-    "description": "TODO",
     "type": "vertical_label",
-    "drs_name": "d2000m",
-    "@context": "000_context.jsonld"
+    "description": "Data is reported over the upper 2000m of the ocean.",
+    "drs_name": "d2000m"
 }

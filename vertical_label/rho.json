@@ -1,8 +1,7 @@
 {
+    "@context": "000_context.jsonld",
     "id": "rho",
-    "label": "rho",
-    "description": "TODO",
     "type": "vertical_label",
-    "drs_name": "rho",
-    "@context": "000_context.jsonld"
+    "description": "Data is reported on specific density surface(s).",
+    "drs_name": "rho"
 }

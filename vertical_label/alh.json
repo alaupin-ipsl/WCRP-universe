@@ -1,8 +1,7 @@
 {
+    "@context": "000_context.jsonld",
     "id": "alh",
-    "label": "alh",
-    "description": "TODO",
     "type": "vertical_label",
-    "drs_name": "alh",
-    "@context": "000_context.jsonld"
+    "description": "Data is reported on the model's atmospheric model half-levels (i.e. at the interfaces between model vertical layers).",
+    "drs_name": "alh"
 }

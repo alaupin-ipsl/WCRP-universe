@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "olh",
+    "type": "vertical_label",
+    "description": "Data is reported on the model's ocean model half-levels (i.e. at the interfaces between model vertical layers).",
+    "drs_name": "olh"
+}
