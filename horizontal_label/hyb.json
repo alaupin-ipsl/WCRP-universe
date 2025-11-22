@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hyb",
+    "type": "horizontal_label",
+    "description": "Data on y (often just lat) grids in specific basins. This is usually zonal-mean or zonal-sum or some other zonal-aggregate data.",
+    "drs_name": "hyb"
+}
