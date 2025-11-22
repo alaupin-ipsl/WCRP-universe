@@ -1,8 +1,7 @@
 {
+    "@context": "000_context.jsonld",
     "id": "tmin",
-    "label": "tmin",
-    "description": "minimum (or mean of daily minima)",
     "type": "temporal_label",
-    "drs_name": "tmin",
-    "@context": "000_context.jsonld"
+    "description": "Data is the minimum within each time period (i.e. interval defined by the time bounds).",
+    "drs_name": "tmin"
 }

@@ -1,8 +1,7 @@
 {
+    "@context": "000_context.jsonld",
     "id": "tclmdc",
-    "label": "tclmdc",
-    "description": "diurnal cycle climatology",
     "type": "temporal_label",
-    "drs_name": "tavg",
-    "@context": "000_context.jsonld"
+    "description": "Data is a climatology. In this case, it is a diurnal cycle climatology i.e. each set of time bounds represents an hour and the values show the hour-by-hour variation (derived by averaging over a number of days or months or years).",
+    "drs_name": "tclmdc"
 }
