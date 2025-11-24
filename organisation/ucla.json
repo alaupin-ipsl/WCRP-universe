@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "institution/ucla",
+    "type": "institution",
+    "drs_name": "UCLA",
+    "members": [
+        "ucla"
+    ],
+    "description": "University of California, Los Angeles"
+}

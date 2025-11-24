@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "as-rcec",
     "type": "organisation",
-    "drs_name": "AS-REC",
+    "drs_name": "AS-RCEC",
     "members": [
         "as-rcec"
     ],

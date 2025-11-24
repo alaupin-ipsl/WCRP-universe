@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "fuberlin",
     "type": "organisation",
-    "drs_name": "FUBERLIN",
+    "drs_name": "FUBerlin",
     "members": [
         "fuberlin"
     ],

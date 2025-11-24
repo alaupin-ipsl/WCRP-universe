@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "institution/pik",
+    "type": "institution",
+    "drs_name": "PIK",
+    "members": [
+        "pik"
+    ],
+    "description": "Potsdam Institute for Climate Impact Research"
+}

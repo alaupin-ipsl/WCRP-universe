@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "uofmd",
     "type": "organisation",
-    "drs_name": "UOFMD",
+    "drs_name": "UofMD",
     "members": [
         "uofmd"
     ],
