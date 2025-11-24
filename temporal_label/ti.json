@@ -1,8 +1,7 @@
 {
+    "@context": "000_context.jsonld",
     "id": "ti",
-    "label": "ti",
-    "description": "time-independent data (no time coordinate)",
     "type": "temporal_label",
-    "drs_name": "ti",
-    "@context": "000_context.jsonld"
+    "description": "Data is time independent i.e. has no time dimension. This does not necessarily mean the data has no time relevance e.g. the data may be a mean over all time (therefore not having a time dimension), although such cases are rare (if they exist at all) in CMIP contexts.",
+    "drs_name": "ti"
 }

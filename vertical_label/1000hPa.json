@@ -1,8 +1,7 @@
 {
-    "id": "1000hPa",
-    "label": "1000hPa",
-    "description": "TODO",
+    "@context": "000_context.jsonld",
+    "id": "1000hpa",
     "type": "vertical_label",
-    "drs_name": "1000hPa",
-    "@context": "000_context.jsonld"
+    "description": "Data is reported at an atmospheric pressure of 1000 hPa.",
+    "drs_name": "1000hPa"
 }

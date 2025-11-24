@@ -1,8 +1,8 @@
 {
     "@context": "000_context.jsonld",
-    "id": "monPt",
+    "id": "monpt",
     "type": "frequency",
-    "description": "sampled monthly, at specified time point within the time period",
+    "description": "Monthly samples. This is a legacy label that indicated that the sample was a point sample i.e. represented the value at a specific point in time. This information is now conveyed via the temporal label instead.",
     "drs_name": "monPt",
     "interval": 1.0,
     "units": "month"

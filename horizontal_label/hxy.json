@@ -2,6 +2,6 @@
     "@context": "000_context.jsonld",
     "id": "hxy",
     "type": "horizontal_label",
-    "description": "Sampled in both the latitude and longitude directions. This if often referred to as 'gridded' data.",
+    "description": "Data on x-y (often lat-lon) grid, also referred to as gridded data.",
     "drs_name": "hxy"
 }

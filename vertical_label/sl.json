@@ -1,8 +1,7 @@
 {
+    "@context": "000_context.jsonld",
     "id": "sl",
-    "label": "sl",
-    "description": "TODO",
     "type": "vertical_label",
-    "drs_name": "sl",
-    "@context": "000_context.jsonld"
+    "description": "Data is reported on the model's soil model levels.",
+    "drs_name": "sl"
 }

@@ -1,8 +1,8 @@
 {
+    "@context": "000_context.jsonld",
     "id": "ifs",
-    "label": "ifs",
-    "description": "in cell_methods : ice_free_sea",
     "type": "area_label",
+    "description": "Data is only included where the reporting point is in an area of sea without ice.",
     "drs_name": "ifs",
-    "@context": "000_context.jsonld"
+    "cf_area_type": "ice_free_sea"
 }

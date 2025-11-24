@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tminavg",
+    "type": "temporal_label",
+    "description": "Data is the mean of daily minimum over each time period (i.e. interval defined by the time bounds).For example, the data may be reported monthly, with each value being the mean of the daily minimum temperature for each day in the month.",
+    "drs_name": "tminavg"
+}

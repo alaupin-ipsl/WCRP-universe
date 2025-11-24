@@ -1,8 +1,7 @@
 {
+    "@context": "000_context.jsonld",
     "id": "tpt",
-    "label": "tpt",
-    "description": "synoptically sampled (i.e., a snapshot, referred to as 'point' data in the CF conventions cell_methods)",
     "type": "temporal_label",
-    "drs_name": "tpt",
-    "@context": "000_context.jsonld"
+    "description": "Data represents the value at the specific point in time at which the data is reported (all other time points within each time interval are not considered).",
+    "drs_name": "tpt"
 }

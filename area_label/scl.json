@@ -1,8 +1,8 @@
 {
+    "@context": "000_context.jsonld",
     "id": "scl",
-    "label": "scl",
-    "description": "in cell_methods : stratiform_soil",
     "type": "area_label",
+    "description": "Data is only included where the reporting point is in stratiform cloud.",
     "drs_name": "scl",
-    "@context": "000_context.jsonld"
+    "cf_area_type": "stratiform_cloud"
 }

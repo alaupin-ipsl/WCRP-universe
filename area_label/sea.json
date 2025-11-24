@@ -2,6 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "sea",
     "type": "area_label",
-    "description": "Data only applies where there is sea (both ice-free sea and areas with sea ice)",
-    "drs_name": "sea"
+    "description": "Data is only included where there is sea (both ice-free sea and areas with sea ice)",
+    "drs_name": "sea",
+    "cf_area_type": "sea"
 }

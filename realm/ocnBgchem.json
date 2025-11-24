@@ -1,8 +1,7 @@
 {
     "@context": "000_context.jsonld",
-    "id": "ocnBgchem",
-    "description": "Ocean Biogeochemistry",
-    "name": "ocnBgchem",
+    "id": "ocnbgchem",
     "type": "realm",
+    "description": "Dataset which applies (or mostly applies) to components of the Earth system related to ocean biogeochemistry.",
     "drs_name": "ocnBgchem"
 }

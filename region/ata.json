@@ -1,0 +1,9 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ata",
+    "type": "region",
+    "description": "Antarcica",
+    "drs_name": "ata",
+    "cf_standard_region": "antarctica",
+    "iso_region": "ata"
+}

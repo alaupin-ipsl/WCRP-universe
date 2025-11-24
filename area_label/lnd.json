@@ -1,8 +1,8 @@
 {
+    "@context": "000_context.jsonld",
     "id": "lnd",
-    "label": "lnd",
-    "description": "in cell_methods : land",
     "type": "area_label",
+    "description": "Data is only included where the reporting point is in on land.",
     "drs_name": "lnd",
-    "@context": "000_context.jsonld"
+    "cf_area_type": "land"
 }

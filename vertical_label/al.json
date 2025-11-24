@@ -1,8 +1,7 @@
 {
+    "@context": "000_context.jsonld",
     "id": "al",
-    "label": "al",
-    "description": "TODO",
     "type": "vertical_label",
-    "drs_name": "al",
-    "@context": "000_context.jsonld"
+    "description": "Data is reported on the model's atmospheric model levels.",
+    "drs_name": "al"
 }

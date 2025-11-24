@@ -1,8 +1,7 @@
 {
+    "@context": "000_context.jsonld",
     "id": "tsum",
-    "label": "tsum",
-    "description": "accumulation, sum, or integral over the reporting interval",
     "type": "temporal_label",
-    "drs_name": "tsum",
-    "@context": "000_context.jsonld"
+    "description": "Data is the sum over each time period (i.e. interval defined by the time bounds).",
+    "drs_name": "tsum"
 }

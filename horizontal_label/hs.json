@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hs",
+    "type": "horizontal_label",
+    "description": "Data reported at specific sites.",
+    "drs_name": "hs"
+}

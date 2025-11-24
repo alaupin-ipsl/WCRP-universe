@@ -1,8 +1,8 @@
 {
+    "@context": "000_context.jsonld",
     "id": "is",
-    "label": "is",
-    "description": "in cell_methods : ice_sheet",
     "type": "area_label",
+    "description": "Data is only included where the reporting point is in an area where ice sheets are present. It includes both grounded ice sheets resting over bedrock and any ice shelves flowing over the ocean that are attached to grounded ice sheets. It excludes ice-caps and glaciers and any floating ice shelves and ice tongues attached to them.",
     "drs_name": "is",
-    "@context": "000_context.jsonld"
+    "cf_area_type": "ice_sheet"
 }

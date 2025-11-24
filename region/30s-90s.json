@@ -1,0 +1,9 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "30s-90s",
+    "type": "region",
+    "description": "The area of the globe south of the latitude 30S.",
+    "drs_name": "30S-90S",
+    "cf_standard_region": null,
+    "iso_region": null
+}

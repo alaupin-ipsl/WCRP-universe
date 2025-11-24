@@ -1,8 +1,8 @@
 {
+    "@context": "000_context.jsonld",
     "id": "gis",
-    "label": "gis",
-    "description": "in cell_methods : grounding_ice_sheet",
     "type": "area_label",
+    "description": "Data is only included where the reporting point is in an area of grounded ice sheet. Grounded ice sheets rest over bedrock, excluding ice-caps, glaciers and floating ice shelves.",
     "drs_name": "gis",
-    "@context": "000_context.jsonld"
+    "cf_area_type": "grounded_ice_sheet"
 }
