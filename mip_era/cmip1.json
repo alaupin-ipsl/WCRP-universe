@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cmip1",
+    "end": 1997,
+    "name": "CMIP1",
+    "start": 1995,
+    "url": "https://pcmdi.github.io/mips/cmip/coord_expt.html",
+    "type": "mip_era",
+    "drs_name": "CMIP1"
+}
