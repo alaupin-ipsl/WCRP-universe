@@ -19,6 +19,7 @@
   "horizontal_units": "km",
   "southernmost_latitude": -89.5,
   "westernmost_longitude": 0.5,
+  "westernmost_latitude": null,
   "n_cells": 64800,
   "truncation_method": null,
   "truncation_number": null,
