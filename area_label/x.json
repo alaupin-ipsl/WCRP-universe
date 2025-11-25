@@ -1,8 +1,9 @@
 {
-    "id": "x",
-    "label": "x",
-    "description": "'where' directive not included in cell_method",
-    "type": "area_label",
-    "drs_name": "x",
-    "@context": "000_context.jsonld"
+  "id": "x",
+  "label": "x",
+  "description": "'where' directive not included in cell_method",
+  "type": "area_label",
+  "drs_name": "x",
+  "cf_area_type": "",
+  "@context": "000_context.jsonld"
 }
