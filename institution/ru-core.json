@@ -1,0 +1,23 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ru-core",
+    "type": "institution",
+    "drs_name": "RU-CORE",
+    "acronyms": [],
+    "labels": [
+        "Ramkhamhaeng University"
+    ],
+    "description": "Ramkhamhaeng University Center Of Regional Climate Change and Renewable Energy",
+    "location": [
+        {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "lat": 40.7127281,
+            "lon": -74.0060152
+        }
+    ],
+    "ror": "00mrw8k38",
+    "urls": [
+        "http://www.ru.ac.th/th/"
+    ]
+}
