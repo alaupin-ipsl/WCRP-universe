@@ -1,7 +1,7 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/uoexeter",
-    "type": "institution",
+    "id": "uoexeter",
+    "type": "organisation",
     "drs_name": "uoexeter",
     "members": [
         "uoexeter"

@@ -1,7 +1,7 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/pik",
-    "type": "institution",
+    "id": "pik",
+    "type": "organisation",
     "drs_name": "PIK",
     "members": [
         "pik"

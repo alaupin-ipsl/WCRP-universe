@@ -1,7 +1,7 @@
 {
     "@context": "000_context.jsonld",
-    "id": "institution/ucla",
-    "type": "institution",
+    "id": "ucla",
+    "type": "organisation",
     "drs_name": "UCLA",
     "members": [
         "ucla"
