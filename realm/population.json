@@ -1,8 +1,8 @@
 {
     "@context": "000_context.jsonld",
-    "id": "popultation",
+    "id": "population",
     "type": "realm",
-    "drs_name": "popultation",
-    "name": "popultation",
+    "drs_name": "population",
+    "name": "population",
     "description": ""
 }
