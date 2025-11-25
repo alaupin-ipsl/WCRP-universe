@@ -1,58 +1,86 @@
 {
-    "@context": {
-        "@base":"https://esgvoc.ipsl.fr/resource/universe/horizontal_grid/",
-        "@vocab": "http://schema.org/",
-        "id": "@id",
-        "type":"@type",
-        "description":{"@id":"https://schema.org/description"},
-        "drs_name": {"@id": "acronym"},
-        "grid":{
-            "@id": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_type/",
-            "@type":"@id",
-            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_type/"}
-        },
-        "grid_mapping":{ 
-            "@id": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_mapping/",
-            "@type":"@id",
-            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_mapping/"}
-        },
-        "region":{ 
-            "@id": "https://esgvoc.ipsl.fr/resource/universe/region/",
-            "@type":"@id",
-            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/region/"}
-        },
-        "temporal_refinement":{ 
-            "@id": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_temporal_refinement/",
-            "@type":"@id",
-            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_temporal_refinement/"}
-        },
-        "arrangement":{ 
-            "@id": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_arrangement/",
-            "@type":"@id",
-            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_arrangement/"}
-        },
-        "cell_variable_type":{ 
-            "@id": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_cell_variable_type/",
-            "@type":"@id",
-            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_cell_variable_type/"}
-        },
-        "resolution_x": "https://schema.org/distance",
-        "resolution_y": "https://schema.org/distance",
-        "horizontal_units":"https://schema.org/unitText",
-        "southernmost_latitude":"https://schema.org/latitude",
-        "westernmost_longitude":"https://schema.org/longitude",
-        "n_cells":"https://schema.org/Number",
-        "truncation_method":{ 
-            "@id": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_truncation_method/",
-            "@type":"@id",
-            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_truncation_method/"}
-        },
-        "resolution_range_km": "https://schema.org/distance",
-        "mean_resolution_km": "https://schema.org/distance",
-        "nominal_resolution":{ 
-            "@id": "https://esgvoc.ipsl.fr/resource/universe/nominal_resolution/",
-            "@type":"@id",
-            "@context":{"@base":"https://esgvoc.ipsl.fr/resource/universe/nominal_resolution/"}
-        }
+  "esgvoc_resolve_modes": {
+    "grid": "full",
+    "grid_mapping": "full",
+    "region": "full",
+    "temporal_refinement": "full",
+    "arrangement": "full",
+    "cell_variable_type": "full"
+  },
+  "@context": {
+    "@base": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid/",
+    "@vocab": "http://schema.org/",
+    "id": "@id",
+    "type": "@type",
+    "description": {
+      "@id": "https://schema.org/description"
+    },
+    "drs_name": {
+      "@id": "acronym"
+    },
+    "grid": {
+      "@id": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_type/",
+      "@type": "@id",
+      "@context": {
+        "@base": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_type/"
+      }
+    },
+    "grid_mapping": {
+      "@id": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_mapping/",
+      "@type": "@id",
+      "@context": {
+        "@base": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_mapping/"
+      }
+    },
+    "region": {
+      "@id": "https://esgvoc.ipsl.fr/resource/universe/region/",
+      "@type": "@id",
+      "@context": {
+        "@base": "https://esgvoc.ipsl.fr/resource/universe/region/"
+      }
+    },
+    "temporal_refinement": {
+      "@id": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_temporal_refinement/",
+      "@type": "@id",
+      "@context": {
+        "@base": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_temporal_refinement/"
+      }
+    },
+    "arrangement": {
+      "@id": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_arrangement/",
+      "@type": "@id",
+      "@context": {
+        "@base": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_arrangement/"
+      }
+    },
+    "cell_variable_type": {
+      "@id": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_cell_variable_type/",
+      "@type": "@id",
+      "@context": {
+        "@base": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_cell_variable_type/"
+      }
+    },
+    "resolution_x": "https://schema.org/distance",
+    "resolution_y": "https://schema.org/distance",
+    "horizontal_units": "https://schema.org/unitText",
+    "southernmost_latitude": "https://schema.org/latitude",
+    "westernmost_longitude": "https://schema.org/longitude",
+    "n_cells": "https://schema.org/Number",
+    "truncation_method": {
+      "@id": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_truncation_method/",
+      "@type": "@id",
+      "@context": {
+        "@base": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_truncation_method/"
+      }
+    },
+    "resolution_range_km": "https://schema.org/distance",
+    "mean_resolution_km": "https://schema.org/distance",
+    "nominal_resolution": {
+      "@id": "https://esgvoc.ipsl.fr/resource/universe/nominal_resolution/",
+      "@type": "@id",
+      "@context": {
+        "@base": "https://esgvoc.ipsl.fr/resource/universe/nominal_resolution/"
+      }
     }
+  }
 }
