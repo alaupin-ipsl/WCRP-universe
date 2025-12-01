@@ -1,6 +1,6 @@
 {
     "@context": "000_context.jsonld",
-    "id": "ucla",
+    "id": "uoexeter",
     "acronyms": [
         "UCLA"
     ],
@@ -10,7 +10,7 @@
     "cmip-acronym": "uoexeter",
     "established": 1955,
     "labels": [],
-    "location": {
+    "location": [{
         "city": "Los Angeles",
         "country": [
             "United Kingdom",
@@ -18,10 +18,10 @@
         ],
         "lat": 50.735413,
         "lon": -3.534519
-    },
+    }],
     "name": "University of Exeter",
     "ror": "03yghzc09",
-    "url": [
+    "urls": [
         "https://www.exeter.ac.uk"
     ],
     "type": "institution",

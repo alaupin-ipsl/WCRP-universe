@@ -2,6 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "piclim-370-126aer-nh3nox",
     "type": "experiment",
+    "drs_name": "piclim-370-126aer-nh3nox",
     "experiment_id": "piClim-370-126aer-nh3nox",
     "activity_id": [
         "ramip"

@@ -2,6 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "ssp370-sas126aer",
     "type": "experiment",
+    "drs_name": "ssp370-sas126aer",
     "experiment_id": "ssp370-sas126aer",
     "activity_id": [
         "ramip"

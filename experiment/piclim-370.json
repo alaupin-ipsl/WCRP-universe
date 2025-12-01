@@ -2,6 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "piclim-370",
     "type": "experiment",
+    "drs_name": "piclim-370",
     "experiment_id": "piClim-370",
     "activity_id": [
         "ramip"

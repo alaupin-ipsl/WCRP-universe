@@ -2,6 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "tbi-pace-p-anom",
     "type": "experiment",
+    "drs_name": "tbi-pace-p-anom",
     "experiment_id": "tbi-pace-P-anom",
     "activity_id": [
         "tbimip"

@@ -15,7 +15,7 @@
     "cmip-acronym": "UCLA",
     "established": 1881,
     "labels": [],
-    "location": {
+    "location": [{
         "city": "Los Angeles",
         "country": [
             "United States of America",
@@ -23,10 +23,10 @@
         ],
         "lat": 34.067761,
         "lon": -118.445146
-    },
+    }],
     "name": "University of California, Los Angeles",
     "ror": "046rm7j60",
-    "url": [
+    "urls": [
         "https://www.ucla.edu"
     ],
     "type": "institution",

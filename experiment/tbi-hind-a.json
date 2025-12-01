@@ -2,6 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "tbi-hind-a",
     "type": "experiment",
+    "drs_name": "tbi-hind-a",
     "experiment_id": "tbi-hind-A",
     "activity_id": [
         "tbimip"

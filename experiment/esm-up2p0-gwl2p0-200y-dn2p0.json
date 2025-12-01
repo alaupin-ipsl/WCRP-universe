@@ -2,6 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "esm-up2p0-gwl2p0-200y-dn2p0",
     "type": "experiment",
+    "drs_name": "esm-up2p0-gwl2p0-200y-dn2p0",
     "experiment_id": "esm-up2p0-gwl2p0-200y-dn2p0",
     "activity_id": [
         "tipmip"

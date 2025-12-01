@@ -2,6 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "tbi-picontrol",
     "type": "experiment",
+    "drs_name": "tbi-picontrol",
     "experiment_id": "tbi-piControl",
     "activity_id": [
         "tbimip"

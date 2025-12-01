@@ -2,6 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "ssp245-ch4-tm",
     "type": "experiment",
+    "drs_name": "ssp245-ch4-tm",
     "experiment_id": "ssp245-ch4-tm",
     "activity_id": [
         "methanemip"

@@ -2,6 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "tbi-pace-a-clim-mod",
     "type": "experiment",
+    "drs_name": "tbi-pace-a-clim-mod",
     "experiment_id": "tbi-pace-A-clim-mod",
     "activity_id": [
         "tbimip"
