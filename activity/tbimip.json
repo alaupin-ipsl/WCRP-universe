@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "type": "activity",
+    "id": "tbimip",
+    "name": "TBIMIP",
+    "cmip_acronym": "TBIMIP",
+    "long_name": "Tropical Basin Interaction Model Intercomparison Project",
+    "url": "https://www.clivar.org/research-foci/basin-interaction",
+    "drs_name": "TBIMIP"
+}

@@ -1,0 +1,32 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tbi-picontrol",
+    "type": "experiment",
+    "experiment_id": "tbi-piControl",
+    "activity_id": [
+        "tbimip"
+    ],
+    "additional_allowed_model_components": [
+        "aer",
+        "chem",
+        "bgc"
+    ],
+    "description": "Reference experiment: coupled ocean-atmosphere simulation with radiative forcing from pre-industrial control run.",
+    "end_year": 1199,
+    "experiment": "Coupled ocean-atmosphere simulation with pre-industrial radiative forcing",
+    "min_number_yrs_per_sim": 200,
+    "parent_activity_id": [
+        "no parent"
+    ],
+    "parent_experiment_id": [
+        "no parent"
+    ],
+    "required_model_components": [
+        "aogcm"
+    ],
+    "start_year": 1000,
+    "sub_experiment_id": [
+        "none"
+    ],
+    "tier": "3"
+}

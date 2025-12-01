@@ -1,0 +1,32 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tbi-hind-i",
+    "type": "experiment",
+    "experiment_id": "tbi-hind-I",
+    "activity_id": [
+        "tbimip"
+    ],
+    "additional_allowed_model_components": [
+        "aer",
+        "chem",
+        "bgc"
+    ],
+    "description": "Hindcast experiment for the period 1982-2021 with ocean initialization in February (mandatory), May, August, and November (recommended). SSTs are restored to observations in the tropical Indian Ocean (10 S-10 N) during the forecasts.",
+    "end_year": 2021,
+    "experiment": "Hindcast with SST anomalies restored to observations in the tropical Indian Ocean",
+    "min_number_yrs_per_sim": 39,
+    "parent_activity_id": [
+        "tbimip"
+    ],
+    "parent_experiment_id": [
+        "tbi-hind-ctrl"
+    ],
+    "required_model_components": [
+        "aogcm"
+    ],
+    "start_year": 1982,
+    "sub_experiment_id": [
+        "none"
+    ],
+    "tier": "2"
+}

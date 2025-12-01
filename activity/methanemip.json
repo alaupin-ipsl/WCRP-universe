@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "type": "activity",
+    "id": "methanemip",
+    "name": "MethaneMIP",
+    "cmip_acronym": "MethaneMIP",
+    "long_name": "Methane Model Intercomparison Project",
+    "url": "https://methanemip.org",
+    "drs_name": "MethaneMIP"
+}

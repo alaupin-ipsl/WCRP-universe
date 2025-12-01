@@ -1,0 +1,20 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "wrf461s-sn",
+    "type": "source",
+    "drs_name": "WRF461S-SN",
+    "activity_participation": [
+        "DD"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "organisation_id": [
+        "NCAR"
+    ],
+    "label": "WRF v4.6.1-S",
+    "label_extended": "Weather Research and Forecasting model version 4.6.1, CORDEX WRF Community configuration S",
+    "license": {},
+    "model_component": null,
+    "release_year": "2024"
+}

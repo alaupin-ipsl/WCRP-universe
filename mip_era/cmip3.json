@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cmip3",
+    "end": 2010,
+    "name": "CMIP3",
+    "start": 2007,
+    "url": "https://wcrp-cmip.org/cmip-phases/cmip3/",
+    "type": "mip_era",
+    "drs_name": "CMIP3"
+}

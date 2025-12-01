@@ -1,0 +1,32 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tbi-pace-p-clim-mod",
+    "type": "experiment",
+    "experiment_id": "tbi-pace-P-clim-mod",
+    "activity_id": [
+        "tbimip"
+    ],
+    "additional_allowed_model_components": [
+        "aer",
+        "chem",
+        "bgc"
+    ],
+    "description": "Pacemaker experiment with SST restoring in the tropical Pacific Ocean (15 S-15 N). The restoring target is the model SST climatology.",
+    "end_year": 1199,
+    "experiment": "Pacemaker experiment with SST restored to model climatology in the tropical Pacific Ocean",
+    "min_number_yrs_per_sim": 200,
+    "parent_activity_id": [
+        "tbimip"
+    ],
+    "parent_experiment_id": [
+        "tbi-picontrol"
+    ],
+    "required_model_components": [
+        "aogcm"
+    ],
+    "start_year": 1000,
+    "sub_experiment_id": [
+        "none"
+    ],
+    "tier": "3"
+}

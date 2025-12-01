@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "era5",
+    "type": "source",
+    "drs_name": "ERA5",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "ERA5",
+    "label_extended": "ECMWF Reanalysis v5",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

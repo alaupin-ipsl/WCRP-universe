@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cmip2",
+    "end": 2005,
+    "name": "CMIP2",
+    "start": 2000,
+    "url": "https://pcmdi.github.io/mips/cmip2/",
+    "type": "mip_era",
+    "drs_name": "CMIP2"
+}

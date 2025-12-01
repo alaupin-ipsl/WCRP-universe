@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "uoexeter",
+    "type": "organisation",
+    "drs_name": "uoexeter",
+    "members": [
+        "uoexeter"
+    ],
+    "description": "University of Exeter"
+}

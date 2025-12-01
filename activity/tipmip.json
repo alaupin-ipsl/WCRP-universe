@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "type": "activity",
+    "id": "tipmip",
+    "name": "TIPMIP",
+    "cmip_acronym": "TIPMIP",
+    "long_name": "Tipping Point Model Intercomparison Project",
+    "url": "https://tipmip.pik-potsdam.de/",
+    "drs_name": "TIPMIP"
+}
