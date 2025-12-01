@@ -11,7 +11,7 @@
     "cmip-acronym": "PIK",
     "established": 1992,
     "labels": [],
-    "location": {
+    "location": [{
         "city": "Postdam",
         "country": [
             "Germany",
@@ -19,10 +19,10 @@
         ],
         "lat": 52.382838,
         "lon": 13.083394
-    },
+    }],
     "name": "Potsdam Institute for Climate Impact Research",
     "ror": "03e8s1d88",
-    "url": [
+    "urls": [
         "https://www.pik-potsdam.de/"
     ],
     "type": "institution",
