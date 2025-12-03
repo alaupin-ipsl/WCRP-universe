@@ -1,10 +1,7 @@
 {
     "@context": "000_context.jsonld",
-    "type": "activity",
     "id": "c4mip",
-    "name": "C4MIP",
-    "cmip_acronym": "C4MIP",
-    "long_name": "Coupled Climate Carbon Cycle Model Intercomparison Project",
-    "url": null,
+    "type": "activity",
+    "description": "Coupled climate carbon cycle model intercomparison project: exploration of the response of the coupled carbon-climate system.",
     "drs_name": "C4MIP"
 }
