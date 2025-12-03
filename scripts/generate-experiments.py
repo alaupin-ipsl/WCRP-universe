@@ -326,6 +326,79 @@ class Holder(BaseModel):
 
         return self
 
+    def add_amip_entries(self) -> "Holder":
+        for (
+            drs_name,
+            description,
+            activity,
+            start_timestamp,
+            end_timestamp,
+            min_number_yrs_per_sim,
+        ) in (
+            (
+                "amip",
+                "Simulation of the climate of the recent past with prescribed sea surface temperatures and sea ice concentrations.",
+                "cmip",
+                "1979-01-01",
+                "2021-12-31",
+                43,
+            ),
+            (
+                "amip-p4k",
+                "Same as `amip` simulation, except sea surface temperatures are increased by 4K in ice-free regions.",
+                "cfmip",
+                "1979-01-01",
+                "2021-12-31",
+                43,
+            ),
+            (
+                "amip-piForcing",
+                (
+                    "Same as `amip` simulation, except it starts in 1870 "
+                    "and all forcings are set to pre-industrial levels "
+                    "rather than time-varying forcings."
+                ),
+                "cfmip",
+                "1870-01-01",
+                "2021-12-31",
+                152,
+            ),
+        ):
+            univ = ExperimentUniverse(
+                drs_name=drs_name,
+                description=description,
+                activity=activity,
+                additional_allowed_model_components=["aer", "chem", "bgc"],
+                branch_information=None,
+                end_timestamp=None,
+                min_ensemble_size=1,
+                # Defined in project
+                min_number_yrs_per_sim="dont_write",
+                parent_activity=None,
+                parent_experiment=None,
+                parent_mip_era=None,
+                required_model_components=["agcm"],
+                start_timestamp=None,
+                tier=1,
+            )
+
+            self.experiments_universe.append(univ)
+
+            proj = ExperimentProject(
+                id=univ.drs_name.lower(),
+                activity=univ.activity,
+                start_timestamp=start_timestamp,
+                end_timestamp=end_timestamp,
+                min_number_yrs_per_sim=min_number_yrs_per_sim,
+                parent_mip_era="cmip7",
+                tier=1,
+            )
+            self.experiments_project.append(proj)
+
+            self.add_experiment_to_activity(proj)
+
+        return self
+
     def write_files(self, project_root: Path, universe_root: Path) -> None:
         for experiment_project in self.experiments_project:
             experiment_project.write_file(project_root)
@@ -384,6 +457,7 @@ def main():
 
     holder.add_1pctco2_entries()
     holder.add_abruptco2_entries()
+    holder.add_amip_entries()
 
     holder.write_files(project_root=project_root, universe_root=universe_root)
 

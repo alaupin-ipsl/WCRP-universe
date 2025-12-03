@@ -2,31 +2,23 @@
     "@context": "000_context.jsonld",
     "id": "amip-p4k",
     "type": "experiment",
-    "experiment_id": "amip-p4K",
-    "activity_id": [
-        "cfmip"
-    ],
+    "description": "Same as `amip` simulation, except sea surface temperatures are increased by 4K in ice-free regions.",
+    "drs_name": "amip-p4k",
+    "start_timestamp": null,
+    "end_timestamp": null,
+    "activity": "cfmip",
     "additional_allowed_model_components": [
         "aer",
-        "chem"
+        "chem",
+        "bgc"
     ],
-    "description": "As CMIP5/CFMIP-2 amip4K experiment. AMIP experiment where SSTs are subject to a uniform warming of 4K",
-    "end_year": 2014,
-    "experiment": "AMIP with uniform 4K SST increase",
-    "min_number_yrs_per_sim": "36",
-    "parent_activity_id": [
-        "no parent"
-    ],
-    "parent_experiment_id": [
-        "no parent"
-    ],
+    "branch_information": null,
+    "min_ensemble_size": 1,
+    "parent_activity": null,
+    "parent_experiment": null,
+    "parent_mip_era": null,
     "required_model_components": [
         "agcm"
     ],
-    "start_year": 1979,
-    "sub_experiment_id": [
-        "none"
-    ],
-    "tier": "1",
-    "drs_name": "amip-p4K"
+    "tier": 1
 }
