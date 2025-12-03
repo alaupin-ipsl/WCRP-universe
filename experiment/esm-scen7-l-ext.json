@@ -2,14 +2,24 @@
     "@context": "000_context.jsonld",
     "id": "esm-scen7-l-ext",
     "type": "experiment",
+    "description": "Extension of `esm-scen7-l` beyond 2100.",
     "drs_name": "esm-scen7-l-ext",
+    "start_timestamp": "2101-01-01",
+    "end_timestamp": "2500-12-31",
+    "min_number_yrs_per_sim": 50.0,
     "activity": "scenariomip",
     "additional_allowed_model_components": [
         "aer",
-        "chem",
+        "chem"
+    ],
+    "branch_information": "Branch from `esm-scen7-l` at 2100-12-31",
+    "min_ensemble_size": 1,
+    "parent_activity": "scenariomip",
+    "parent_experiment": "esm-scen7-l",
+    "parent_mip_era": "cmip7",
+    "required_model_components": [
+        "aogcm",
         "bgc"
     ],
-    "required_model_components": [
-        "aogcm"
-    ]
+    "tier": 1
 }
