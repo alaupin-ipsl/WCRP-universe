@@ -162,6 +162,13 @@ class Holder(BaseModel):
     def initialise_activities(self) -> "Holder":
         self.activities = [
             ActivityProject(
+                id="aerchemmip",
+                experiments=[],
+                urls=[
+                    "https://doi.org/10.5194/gmd-10-585-2017",
+                ],
+            ),
+            ActivityProject(
                 id="c4mip",
                 experiments=[],
                 urls=[
@@ -938,6 +945,82 @@ class Holder(BaseModel):
 
         return self
 
+    def add_scenario_aerchemmip_entries(self) -> "Holder":
+        for base in ["vl", "h"]:
+            conc_driven_drs_name = self.get_scenario_drs_name(base)
+            for base_drs_name in [
+                conc_driven_drs_name,
+                self.get_scenario_esm_drs_name(conc_driven_drs_name),
+            ]:
+                base_experiment_universe_l = [
+                    v for v in self.experiments_universe if v.drs_name == base_drs_name
+                ]
+                if len(base_experiment_universe_l) != 1:
+                    raise AssertionError(base_drs_name)
+                base_experiment_universe = base_experiment_universe_l[0]
+
+                for (
+                    suffix,
+                    required_model_components,
+                    additional_allowed_model_components,
+                    desc_suffix,
+                ) in (
+                    (
+                        "-AQ",
+                        ["aogcm", "aer", "chem"],
+                        ["bgc"],
+                        (
+                            "This is for models with interactive chemistry. "
+                            "Models without interactive chemistry should run "
+                            f"`{base_experiment_universe.drs_name}-Aer` instead."
+                        ),
+                    ),
+                    (
+                        "-Aer",
+                        ["aogcm", "aer"],
+                        ["bgc", "chem"],
+                        (
+                            "This is for models without interactive chemistry. "
+                            "Models with interactive chemistry should run "
+                            f"`{base_experiment_universe.drs_name}-Aq` instead."
+                        ),
+                    ),
+                ):
+                    aerchemmip_experiment_universe = (
+                        base_experiment_universe.model_copy()
+                    )
+                    aerchemmip_experiment_universe.drs_name = (
+                        f"{aerchemmip_experiment_universe.drs_name}{suffix}"
+                    )
+                    aerchemmip_experiment_universe.activity = "aerchemmip"
+
+                    desc_base = aerchemmip_experiment_universe.description.split(
+                        " Run with prescribed"
+                    )[0]
+                    aerchemmip_experiment_universe.description = (
+                        f"{desc_base} "
+                        "Altered to use high aerosol and tropospheric non-methane ozone precursor emissions. "
+                        f"{desc_suffix}"
+                    )
+
+                    aerchemmip_experiment_universe.min_ensemble_size = 3
+                    aerchemmip_experiment_universe.required_model_components = (
+                        required_model_components
+                    )
+                    aerchemmip_experiment_universe.additional_allowed_model_components = additional_allowed_model_components
+
+                    aerchemmip_experiment_project = self.get_scenario_project(
+                        aerchemmip_experiment_universe
+                    )
+                    self.experiments_universe.append(aerchemmip_experiment_universe)
+                    self.experiments_project.append(aerchemmip_experiment_project)
+                    self.add_experiment_to_activity(aerchemmip_experiment_project)
+
+        # TODO: ask someone to translate/write hist-piAQ for me.
+        # Not sure what hist-piAQ is or how it is defined.
+
+        return self
+
     def write_files(self, project_root: Path, universe_root: Path) -> None:
         for experiment_project in self.experiments_project:
             experiment_project.write_file(project_root)
@@ -1003,6 +1086,7 @@ def main():
     holder.add_damip_entries()
     holder.add_pmip_entries()
     holder.add_scenario_entries()
+    holder.add_scenario_aerchemmip_entries()
 
     holder.write_files(project_root=project_root, universe_root=universe_root)
 
