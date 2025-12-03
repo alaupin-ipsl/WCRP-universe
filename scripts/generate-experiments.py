@@ -171,6 +171,11 @@ class Holder(BaseModel):
                 ],
             ),
             ActivityProject(
+                id="cfmip",
+                experiments=[],
+                urls=["https://doi.org/10.5194/gmd-10-359-2017"],
+            ),
+            ActivityProject(
                 id="cmip",
                 experiments=[],
                 urls=["https://doi.org/10.5194/gmd-18-6671-2025"],
@@ -267,6 +272,60 @@ class Holder(BaseModel):
 
         return self
 
+    def add_abruptco2_entries(self) -> "Holder":
+        for drs_name, description_start, activity in (
+            (
+                "abrupt-4xCO2",
+                "Abrupt quadrupling of atmospheric carbon dioxide levels.",
+                "cmip",
+            ),
+            (
+                "abrupt-2xCO2",
+                "Abrupt doubling of atmospheric carbon dioxide levels.",
+                "cfmip",
+            ),
+            (
+                "abrupt-0p5xCO2",
+                "Abrupt halving of atmospheric carbon dioxide levels.",
+                "cfmip",
+            ),
+        ):
+            univ = ExperimentUniverse(
+                drs_name=drs_name,
+                description=(
+                    f"{description_start} All other conditions are kept the same as piControl."
+                ),
+                activity=activity,
+                additional_allowed_model_components=["aer", "chem", "bgc"],
+                branch_information="Branch from `piControl` at a time of your choosing",
+                end_timestamp=None,
+                min_ensemble_size=1,
+                # Defined in project
+                min_number_yrs_per_sim="dont_write",
+                parent_activity="cmip",
+                parent_experiment="picontrol",
+                # Defined in project
+                parent_mip_era="dont_write",
+                required_model_components=["aogcm"],
+                start_timestamp=None,
+                tier=1,
+            )
+
+            self.experiments_universe.append(univ)
+
+            proj = ExperimentProject(
+                id=univ.drs_name.lower(),
+                activity=univ.activity,
+                min_number_yrs_per_sim=300,
+                parent_mip_era="cmip7",
+                tier=1,
+            )
+            self.experiments_project.append(proj)
+
+            self.add_experiment_to_activity(proj)
+
+        return self
+
     def write_files(self, project_root: Path, universe_root: Path) -> None:
         for experiment_project in self.experiments_project:
             experiment_project.write_file(project_root)
@@ -324,6 +383,7 @@ def main():
     holder.initialise_activities()
 
     holder.add_1pctco2_entries()
+    holder.add_abruptco2_entries()
 
     holder.write_files(project_root=project_root, universe_root=universe_root)
 

@@ -1,10 +1,7 @@
 {
     "@context": "000_context.jsonld",
-    "type": "activity",
     "id": "cfmip",
-    "name": "CFMIP",
-    "cmip_acronym": "CFMIP",
-    "long_name": "Cloud Feedback Model Intercomparison Project",
-    "url": null,
+    "type": "activity",
+    "description": "Cloud feedback model intercomparison project. Focussed primarily on cloud feedbacks with a secondary focus on understanding of response to forcing, model biases, circulation, regional-scale precipitation, and non-linear changes.",
     "drs_name": "CFMIP"
 }

@@ -2,32 +2,22 @@
     "@context": "000_context.jsonld",
     "id": "abrupt-2xco2",
     "type": "experiment",
-    "experiment_id": "abrupt-2xCO2",
-    "activity_id": [
-        "cfmip"
-    ],
+    "description": "Abrupt doubling of atmospheric carbon dioxide levels. All other conditions are kept the same as piControl.",
+    "drs_name": "abrupt-2xCO2",
+    "start_timestamp": null,
+    "end_timestamp": null,
+    "activity": "cfmip",
     "additional_allowed_model_components": [
         "aer",
         "chem",
         "bgc"
     ],
-    "description": "Identical to the DECK abrupt-4xCO2, but at 2xCO2",
-    "end_year": null,
-    "experiment": "abrupt doubling of CO2",
-    "min_number_yrs_per_sim": "150",
-    "parent_activity_id": [
-        "cmip"
-    ],
-    "parent_experiment_id": [
-        "picontrol"
-    ],
+    "branch_information": "Branch from `piControl` at a time of your choosing",
+    "min_ensemble_size": 1,
+    "parent_activity": "cmip",
+    "parent_experiment": "picontrol",
     "required_model_components": [
         "aogcm"
     ],
-    "start_year": null,
-    "sub_experiment_id": [
-        "none"
-    ],
-    "tier": "2",
-    "drs_name": "abrupt-2xCO2"
+    "tier": 1
 }
