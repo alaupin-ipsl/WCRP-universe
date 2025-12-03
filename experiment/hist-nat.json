@@ -2,32 +2,21 @@
     "@context": "000_context.jsonld",
     "id": "hist-nat",
     "type": "experiment",
-    "experiment_id": "hist-nat",
-    "activity_id": [
-        "lesfmip"
-    ],
+    "description": "Response to historical aerosol forcing (often with extension using forcings from a scenario simulation specific to the CMIP phase). All other conditions are kept the same as piControl.",
+    "drs_name": "hist-nat",
+    "start_timestamp": "1850-01-01",
+    "activity": "damip",
     "additional_allowed_model_components": [
         "aer",
         "chem",
         "bgc"
     ],
-    "description": "Natural forcings (solar + volcanic)",
-    "end_year": 2020,
-    "experiment": "historical natural-only run",
-    "min_number_yrs_per_sim": null,
-    "parent_activity_id": [
-        "cmip"
-    ],
-    "parent_experiment_id": [
-        "picontrol"
-    ],
+    "branch_information": "Branch from `piControl` at a time of your choosing",
+    "min_ensemble_size": 1,
+    "parent_activity": "cmip",
+    "parent_experiment": "picontrol",
     "required_model_components": [
         "aogcm"
     ],
-    "start_year": 1850,
-    "sub_experiment_id": [
-        "f2023"
-    ],
-    "tier": 3,
-    "drs_name": "hist-nat"
+    "tier": 1
 }

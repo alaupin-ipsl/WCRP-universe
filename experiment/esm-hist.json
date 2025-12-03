@@ -2,8 +2,9 @@
     "@context": "000_context.jsonld",
     "id": "esm-hist",
     "type": "experiment",
-    "description": "Simulation of the climate of the recent past (typically meaning 1850 to present-day) with prescribed CO2 emissions (for prescribed CO2 concentration runs, see `historical`)",
+    "description": "Simulation of the climate of the recent past (typically meaning 1850 to present-day) with prescribed carbon dioxide emissions (for prescribed carbon dioxide concentrations, see `historical`).",
     "drs_name": "esm-hist",
+    "start_timestamp": "1850-01-01",
     "activity": "cmip",
     "additional_allowed_model_components": [
         "aer",
@@ -17,6 +18,5 @@
         "aogcm",
         "bgc"
     ],
-    "start_timestamp": "1850-01-01",
     "tier": 1
 }

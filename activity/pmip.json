@@ -1,10 +1,7 @@
 {
     "@context": "000_context.jsonld",
-    "type": "activity",
     "id": "pmip",
-    "name": "PMIP",
-    "cmip_acronym": "PMIP",
-    "long_name": "Palaeoclimate Modelling Intercomparison Project",
-    "url": null,
+    "type": "activity",
+    "description": "Palaeoclimate modelling intercomparison project: assessment of paleoclimate i.e. climate thousands of years or more in the past.",
     "drs_name": "PMIP"
 }

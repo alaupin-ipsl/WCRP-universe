@@ -2,13 +2,6 @@
     "@context": "000_context.jsonld",
     "id": "cmip",
     "type": "activity",
-    "description": "CMIP core common experiments i.e. the DECK (Diagnostic, Evaluation and Characterization of Klima)",
-    "drs_name": "CMIP",
-    "experiments": [
-        "esm-hist",
-        "esm-picontrol",
-        "historical",
-        "picontrol"
-    ],
-    "urls": ["https://doi.org/10.5194/gmd-18-6671-2025"]
+    "description": "CMIP core common experiments i.e. the DECK (Diagnostic, Evaluation and Characterization of Klima).",
+    "drs_name": "CMIP"
 }

@@ -2,23 +2,22 @@
     "@context": "000_context.jsonld",
     "id": "picontrol",
     "type": "experiment",
-    "description": "Pre-industrial control simulation. Used to characterise natural variability and unforced behaviour.",
+    "description": "Pre-industrial control simulation with prescribed carbon dioxide concentrations (for prescribed carbon dioxide emissions, see `esm-piControl`). Used to characterise natural variability and unforced behaviour.",
     "drs_name": "piControl",
+    "start_timestamp": null,
+    "end_timestamp": null,
     "activity": "cmip",
     "additional_allowed_model_components": [
         "aer",
         "chem",
         "bgc"
     ],
-    "branch_information": "Branch from piControl-spinup at a time of your choosing",
-    "end_timestamp": null,
+    "branch_information": "Branch from `piControl-spinup` at a time of your choosing",
     "min_ensemble_size": 1,
-    "min_number_yrs_per_sim": 500,
     "parent_activity": "cmip",
     "parent_experiment": "picontrol-spinup",
     "required_model_components": [
         "aogcm"
     ],
-    "start_timestamp": null,
     "tier": 1
 }

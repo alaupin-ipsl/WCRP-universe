@@ -1,10 +1,7 @@
 {
     "@context": "000_context.jsonld",
-    "type": "activity",
     "id": "damip",
-    "name": "DAMIP",
-    "cmip_acronym": "DAMIP",
-    "long_name": "Detection and Attribution Model Intercomparison Project",
-    "url": null,
+    "type": "activity",
+    "description": "Detection and attribution model intercomparison project: exploration of the role of individual forcings (both anthropogenic and natural) in past and future climate change.",
     "drs_name": "DAMIP"
 }

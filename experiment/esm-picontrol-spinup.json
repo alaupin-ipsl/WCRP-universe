@@ -2,17 +2,17 @@
     "@context": "000_context.jsonld",
     "id": "esm-picontrol-spinup",
     "type": "experiment",
-    "description": "Pre-industrial control spin-up simulation with prescribed CO2 emissions (for spin-up with prescribed CO2 concentrations, see `piControl-spinup`). Used to get the model into a state of approximate radiative equilibrium before starting the piControl simulation.",
+    "description": "Spin-up simulation. Used to get the model into a state of approximate radiative equilibrium before starting the `esm-piControl` simulation.",
     "drs_name": "esm-piControl-spinup",
+    "start_timestamp": null,
+    "end_timestamp": null,
     "activity": "cmip",
     "additional_allowed_model_components": [
         "aer",
         "chem"
     ],
     "branch_information": null,
-    "end_timestamp": null,
     "min_ensemble_size": 1,
-    "min_number_yrs_per_sim": null,
     "parent_activity": null,
     "parent_experiment": null,
     "parent_mip_era": null,
@@ -20,6 +20,5 @@
         "aogcm",
         "bgc"
     ],
-    "start_timestamp": null,
     "tier": 1
 }
