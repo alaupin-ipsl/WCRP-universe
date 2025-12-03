@@ -186,6 +186,11 @@ class Holder(BaseModel):
                 urls=["https://doi.org/10.5194/gmd-18-4399-2025"],
             ),
             ActivityProject(
+                id="geomip",
+                experiments=[],
+                urls=["https://doi.org/10.5194/gmd-17-2583-2024"],
+            ),
+            ActivityProject(
                 id="pmip",
                 experiments=[],
                 urls=[
@@ -938,6 +943,87 @@ class Holder(BaseModel):
 
         return self
 
+    def add_geomip_entries(self) -> "Holder":
+        for (
+            drs_name,
+            description_univ,
+            description_proj_to_format,
+            base_scenario,
+            start_year,
+        ) in (
+            (
+                # TODO: check if this is the desired drs_name
+                "G7-1p5K-SAI",
+                (
+                    "Stablisation of global-mean temperature at 1.5C "
+                    "by holding stratospheric sulfur forcing constant "
+                    # TODO: check - constant forcing may not lead to stable temperatures?!
+                    "(at whatever level is required to achieve stable temperatures). "
+                    "The simulation generally branches from a scenario simulation at some point in the future."
+                ),
+                (
+                    "After following the `{scenario}` scenario until 2035, "
+                    "stablisation of global-mean temperature at 1.5C "
+                    "by holding stratospheric sulfur forcing constant "
+                    # TODO: check - constant forcing may not lead to stable temperatures?!
+                    "(at whatever level is required to achieve stable temperatures)."
+                ),
+                "scen7-m",
+                2035,
+            ),
+        ):
+            description_proj = description_proj_to_format.format(scenario=base_scenario)
+            start_timestamp = f"{start_year}-01-01"
+            for exp_proj in self.experiments_project:
+                if exp_proj.id == base_scenario:
+                    parent = exp_proj
+                    break
+            else:
+                raise AssertionError(base_scenario)
+
+            univ = ExperimentUniverse(
+                drs_name=drs_name,
+                description=description_univ,
+                activity="geomip",
+                additional_allowed_model_components=["aer", "chem", "bgc"],
+                # Defined in project
+                branch_information="dont_write",
+                end_timestamp="dont_write",
+                min_ensemble_size=1,
+                # Defined in project
+                min_number_yrs_per_sim="dont_write",
+                parent_activity="dont_write",
+                parent_experiment="dont_write",
+                parent_mip_era="dont_write",
+                required_model_components=["aogcm"],
+                # Defined in project
+                start_timestamp="dont_write",
+                tier=1,
+            )
+
+            self.experiments_universe.append(univ)
+
+            proj = ExperimentProject(
+                id=univ.drs_name.lower(),
+                description=description_proj,
+                branch_information=f"Branch from the `{base_scenario}` simulation at the start of {start_year}.",
+                activity=univ.activity,
+                start_timestamp=start_timestamp,
+                end_timestamp=None,
+                # TODO: why only 50?!
+                min_number_yrs_per_sim=50,
+                min_ensemble_size=1,
+                parent_activity=parent.activity,
+                parent_experiment=parent.id,
+                parent_mip_era="cmip7",
+                tier=1,
+            )
+            self.experiments_project.append(proj)
+
+            self.add_experiment_to_activity(proj)
+
+        return self
+
     def write_files(self, project_root: Path, universe_root: Path) -> None:
         for experiment_project in self.experiments_project:
             experiment_project.write_file(project_root)
@@ -1003,6 +1089,7 @@ def main():
     holder.add_damip_entries()
     holder.add_pmip_entries()
     holder.add_scenario_entries()
+    holder.add_geomip_entries()
 
     holder.write_files(project_root=project_root, universe_root=universe_root)
 

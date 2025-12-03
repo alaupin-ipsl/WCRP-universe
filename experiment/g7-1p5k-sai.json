@@ -2,26 +2,17 @@
     "@context": "000_context.jsonld",
     "id": "g7-1p5k-sai",
     "type": "experiment",
-    "experiment_id": "G7-1p5K-SAI",
-    "activity_id": [
-        "geomip"
+    "description": "Stablisation of global-mean temperature at 1.5C by holding stratospheric sulfur forcing constant (at whatever level is required to achieve stable temperatures). The simulation generally branches from a scenario simulation at some point in the future.",
+    "drs_name": "G7-1p5K-SAI",
+    "activity": "geomip",
+    "additional_allowed_model_components": [
+        "aer",
+        "chem",
+        "bgc"
     ],
-    "additional_allowed_model_components": [],
-    "description": "Stratospheric aerosol injection to reduce warming to 1.5K \n Stratospheric aerosol injection to reduce warming to 1.5K above pre-industrial levels",
-    "end_year": null,
-    "experiment": "G7-1.5K-SAI",
-    "min_number_yrs_per_sim": null,
-    "parent_activity_id": [
-        "no parent"
+    "min_ensemble_size": 1,
+    "required_model_components": [
+        "aogcm"
     ],
-    "parent_experiment_id": [
-        "no parent"
-    ],
-    "required_model_components": [],
-    "start_year": null,
-    "sub_experiment_id": [
-        "none"
-    ],
-    "tier": 0,
-    "drs_name": "G7-1p5K-SAI"
+    "tier": 1
 }
