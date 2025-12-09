@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "li",
     "type": "area_label",
-    "description": "Data is only included where the reporting point is in an area where land ice is present. 'Land ice' means glaciers, ice-caps, grounded ice sheets resting on bedrock and floating ice-shelves.",
+    "description": "Data come solely from areas of land ice. 'Land ice' means glaciers, ice-caps, grounded ice sheets resting on bedrock and floating ice-shelves.",
     "drs_name": "li",
     "cf_area_type": "land_ice"
 }

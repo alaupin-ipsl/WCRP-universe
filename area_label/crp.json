@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "crp",
     "type": "area_label",
-    "description": "Data is only included where the reporting point is in an area of crops. Crops is loosely defined and model dependent.",
+    "description": "Data come solely from land areas covered by crops. 'Crops' is loosely defined and model dependent.",
     "drs_name": "crp",
     "cf_area_type": "crops"
 }

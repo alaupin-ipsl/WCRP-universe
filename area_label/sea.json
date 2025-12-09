@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "sea",
     "type": "area_label",
-    "description": "Data is only included where there is sea (both ice-free sea and areas with sea ice)",
+    "description": "Data come solely from areas covered by sea.  Every location on earth is classified as either land or sea, but further area type labels also apply to these primary types (e.g., sea ice or floating ice shelf).",
     "drs_name": "sea",
     "cf_area_type": "sea"
 }

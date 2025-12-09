@@ -2,6 +2,6 @@
     "@context": "000_context.jsonld",
     "id": "tclm",
     "type": "temporal_label",
-    "description": "Data is a climatology. In this case, it is a monthly climatology i.e. each set of time bounds represents a month and the values show the monthy-by-month variation (derived by averaging over a number of years).",
+    "description": "Data is a climatology. In this case, it is a monthly climatology i.e. each set of time bounds represents a month and the twelve values show the month-by-month variation (derived by averaging over a number of years).",
     "drs_name": "tclm"
 }

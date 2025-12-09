@@ -2,6 +2,6 @@
     "@context": "000_context.jsonld",
     "id": "tavg",
     "type": "temporal_label",
-    "description": "Data is the average over each time period (i.e. interval defined by the time bounds).",
+    "description": "Data is averaged over each time period (i.e. each reported interval defined by its time bounds).",
     "drs_name": "tavg"
 }

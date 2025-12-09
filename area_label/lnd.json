@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "lnd",
     "type": "area_label",
-    "description": "Data is only included where the reporting point is in on land.",
+    "description": "Data come solely from land areas.  Every location on earth is classified as either land or sea, but further area type labels also apply to these primary types (e.g., crops or land ice apply to portions of the land area).",
     "drs_name": "lnd",
     "cf_area_type": "land"
 }

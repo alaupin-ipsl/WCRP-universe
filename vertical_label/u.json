@@ -2,6 +2,6 @@
     "@context": "000_context.jsonld",
     "id": "u",
     "type": "vertical_label",
-    "description": "Data is reported with no vertical dimension. This does not necessarily mean that there is no vertical information attached to the variable, it is just not included in the dimension information. Vertical information could alternately be found in the variable's standard name or cell methods.",
+    "description": "Data is reported with no vertical dimension. This does not necessarily mean that there is no vertical information attached to the variable, it is just not included in the dimension information. Vertical information might be found in the variable's standard name or cell methods.",
     "drs_name": "u"
 }

@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "sn",
     "type": "area_label",
-    "description": "Data is only included where the reporting point is in an area of snow.",
+    "description": "Data come solely from areas where the surface is covered by snow.",
     "drs_name": "sn",
     "cf_area_type": "snow"
 }
