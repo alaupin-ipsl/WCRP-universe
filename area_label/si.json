@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "si",
     "type": "area_label",
-    "description": "Data is only included where the reporting point is in an area where sea ice is present.",
+    "description": "Data come solely from areas of sea ice.",
     "drs_name": "si",
     "cf_area_type": "sea_ice"
 }

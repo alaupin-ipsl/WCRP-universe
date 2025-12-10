@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "scl",
     "type": "area_label",
-    "description": "Data is only included where the reporting point is in stratiform cloud.",
+    "description": "Data come solely from the portion of the atmosphere or the portion of an atmospheric column occupied by stratiform cloud.",
     "drs_name": "scl",
     "cf_area_type": "stratiform_cloud"
 }
