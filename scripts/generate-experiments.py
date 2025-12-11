@@ -956,17 +956,15 @@ class Holder(BaseModel):
                 "G7-1p5K-SAI",
                 (
                     "Stablisation of global-mean temperature at 1.5C "
-                    "by holding stratospheric sulfur forcing constant "
-                    # TODO: check - constant forcing may not lead to stable temperatures?!
-                    "(at whatever level is required to achieve stable temperatures). "
+                    "by increasing stratospheric sulfur forcing "
+                    "to whatever level is required to achieve stable temperatures. "
                     "The simulation generally branches from a scenario simulation at some point in the future."
                 ),
                 (
                     "After following the `{scenario}` scenario until 2035, "
                     "stablisation of global-mean temperature at 1.5C "
-                    "by holding stratospheric sulfur forcing constant "
-                    # TODO: check - constant forcing may not lead to stable temperatures?!
-                    "(at whatever level is required to achieve stable temperatures)."
+                    "by increasing stratospheric sulfur forcing "
+                    "to whatever level is required to achieve stable temperatures."
                 ),
                 "scen7-m",
                 2035,

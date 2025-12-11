@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "g7-1p5k-sai",
     "type": "experiment",
-    "description": "Stablisation of global-mean temperature at 1.5C by holding stratospheric sulfur forcing constant (at whatever level is required to achieve stable temperatures). The simulation generally branches from a scenario simulation at some point in the future.",
+    "description": "Stablisation of global-mean temperature at 1.5C by increasing stratospheric sulfur forcing to whatever level is required to achieve stable temperatures. The simulation generally branches from a scenario simulation at some point in the future.",
     "drs_name": "G7-1p5K-SAI",
     "activity": "geomip",
     "additional_allowed_model_components": [
