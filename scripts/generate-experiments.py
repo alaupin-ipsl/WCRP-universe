@@ -805,7 +805,6 @@ class Holder(BaseModel):
         )
 
         extension_start_timestamp = f"{scenario_end_timestamp_dt.year + 1}-01-01"
-        # TODO: check
         extension_end_timestamp = "2500-12-31"
 
         res.description = f"Extension of `{scenario.drs_name}` beyond {scenario_end_timestamp_dt.year}."
