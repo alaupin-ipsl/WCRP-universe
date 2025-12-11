@@ -900,7 +900,6 @@ class Holder(BaseModel):
                 activity="scenariomip",
                 additional_allowed_model_components=["aer", "chem", "bgc"],
                 branch_information="Branch from `historical` at 2022-01-01.",
-                # TODO: check if 2100-21-31 or 2100-01-01
                 end_timestamp="2100-12-31",
                 min_ensemble_size=1,
                 min_number_yrs_per_sim=79.0,
