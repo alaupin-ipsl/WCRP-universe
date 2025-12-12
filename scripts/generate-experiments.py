@@ -129,6 +129,7 @@ class ActivityProject(BaseModel):
     id: str
     experiments: list[str]
     urls: list[str]
+    description: str = "dont_write"
 
     def write_file(self, project_root: Path) -> None:
         content = {
@@ -138,6 +139,10 @@ class ActivityProject(BaseModel):
             "experiments": sorted(self.experiments),
             "urls": sorted(self.urls),
         }
+        for attr in ("description",):
+            val = getattr(self, attr)
+            if val != "dont_write":
+                content[attr] = val
 
         out_file = str(project_root / "activity" / f"{self.id}.json")
         write_file(out_file, content)
@@ -192,6 +197,23 @@ class Holder(BaseModel):
                     "https://doi.org/10.5194/gmd-10-3979-2017",
                     "https://doi.org/10.5194/cp-19-883-2023",
                 ],
+            ),
+            ActivityProject(
+                id="scenariomip",
+                experiments=[],
+                urls=["https://doi.org/10.5194/egusphere-2024-3765"],
+                description=(
+                    "Future scenario experiments. "
+                    "Exploration of the future climate under a (selected) range of possible boundary conditions. "
+                    "In CMIP7, the priority tier for experiments is conditional on whether you are doing emissions- or concentration-driven simulations. "
+                    "There is no way to express this in the CVs (nor time to implement something to handle this conditionality). "
+                    "This means that, for your particular situation, some experiments may be at a lower tier than is listed in the CVs. "
+                    "For example, the `vl` scenario is tier 1 for concentration-driven models "
+                    "and tier 2 for emissions-driven models. "
+                    "However, in the CVs, we have used the highest priority tier (across all the possible conditionalities). "
+                    "Hence `vl` is listed as tier 1 in the CVs (even though it is actually tier 2 for emissions-driven models)."
+                    "For details, please see the full description in the ScenarioMIP description papers."
+                ),
             ),
         ]
 
@@ -768,6 +790,187 @@ class Holder(BaseModel):
 
         return self
 
+    @staticmethod
+    def get_scenario_tier(drs_name: str) -> int:
+        # A bit stupid, because in practice everything ends up being tier 1,
+        # but ok at least we have the logic clarified now
+        # (and can explain why it says this in the CVs if anyone asks).
+        if drs_name.startswith("esm-"):
+            # All standard scenarios are tier 1 for emissions-driven models
+            return 1
+
+        if any(v in drs_name for v in ("-vl-", "-h-")):
+            # vl and h are tier 1 for experiments and extensions
+            return 1
+
+        if drs_name.endswith("-ext"):
+            # Extensions are tier 1 up to 2150.
+            # We can't express tier 1 up to 2150 and tier 2 otherwise
+            # (we do that instead with min_number_yrs_per_sim)
+            # so everything is just tier 1.
+            return 1
+
+        # If we get here, we are looking at concentration-driven experiments
+        return 1
+
+    @staticmethod
+    def get_scenario_project(
+        scenario_universe: ExperimentUniverse,
+    ) -> ExperimentProject:
+        res = ExperimentProject(
+            id=scenario_universe.drs_name.lower(),
+            activity=scenario_universe.activity,
+            start_timestamp=scenario_universe.start_timestamp,
+            end_timestamp=scenario_universe.end_timestamp,
+            min_number_yrs_per_sim=scenario_universe.min_number_yrs_per_sim,
+            parent_mip_era="cmip7",
+            tier=scenario_universe.tier,
+        )
+
+        return res
+
+    def get_scenario_extension(
+        self,
+        scenario: ExperimentUniverse,
+    ) -> ExperimentUniverse:
+        res = scenario.model_copy()
+
+        scenario_end_timestamp_dt = datetime.strptime(
+            scenario.end_timestamp, "%Y-%m-%d"
+        )
+
+        extension_start_timestamp = f"{scenario_end_timestamp_dt.year + 1}-01-01"
+        extension_end_timestamp = "2500-12-31"
+
+        res.description = f"Extension of `{scenario.drs_name}` beyond {scenario_end_timestamp_dt.year}."
+        # Unclear to me how this is meant to work.
+        # scenario ends at 2100-12-31, extensions starts at 2101-01-01.
+        # Is it an implied join rather than a true overlap
+        # (like we have for piControl to historical)?
+        res.branch_information = f"Branch from `{scenario.drs_name}` at {scenario_end_timestamp_dt.strftime('%Y-%m-%d')}"
+
+        res.start_timestamp = extension_start_timestamp
+        res.end_timestamp = extension_end_timestamp
+
+        res.min_number_yrs_per_sim = 50.0
+        res.parent_activity = scenario.activity
+        res.parent_experiment = scenario.drs_name.lower()
+        res.drs_name = f"{scenario.drs_name}-ext"
+        res.tier = self.get_scenario_tier(res.drs_name)
+
+        return res
+
+    @staticmethod
+    def get_scenario_drs_name(scenario_acronym: str) -> str:
+        return f"scen7-{scenario_acronym}"
+
+    @staticmethod
+    def get_scenario_esm_drs_name(scenario_drs_name: str) -> str:
+        return f"esm-{scenario_drs_name}"
+
+    def get_scenario_esm(
+        self,
+        scenario: ExperimentUniverse,
+    ) -> ExperimentUniverse:
+        res = scenario.model_copy()
+
+        res.drs_name = self.get_scenario_esm_drs_name(scenario.drs_name)
+        res.description = (
+            scenario.description.replace(
+                "carbon dioxide concentrations", "carbon dioxide emissions"
+            )
+            .replace("carbon dioxide emissions,", "carbon dioxide concentrations,")
+            .replace(res.drs_name, scenario.drs_name)
+        )
+        res.required_model_components = ["aogcm", "bgc"]
+        res.additional_allowed_model_components = ["aer", "chem"]
+
+        if scenario.parent_experiment != "historical":
+            raise AssertionError
+
+        res.parent_experiment = "esm-hist"
+        res.branch_information = scenario.branch_information.replace(
+            scenario.parent_experiment, res.parent_experiment
+        )
+
+        res.tier = self.get_scenario_tier(res.drs_name)
+
+        return res
+
+    def add_scenario_entries(self) -> "Holder":
+        acronym_descriptions = [
+            ("vl", "PLACEHOLDER TBC. CMIP7 ScenarioMIP very low emissions future."),
+            (
+                "ln",
+                "PLACEHOLDER TBC. CMIP7 ScenarioMIP low followed by negative (steep reductions begin in 2040, negative from TBD) emissions future.",
+            ),
+            ("l", "PLACEHOLDER TBC. CMIP7 ScenarioMIP low emissions future."),
+            (
+                "ml",
+                "PLACEHOLDER TBC. CMIP7 ScenarioMIP medium followed by low (from 2040) emissions future.",
+            ),
+            ("m", "PLACEHOLDER TBC. CMIP7 ScenarioMIP medium emissions future."),
+            (
+                "hl",
+                "PLACEHOLDER TBC. CMIP7 ScenarioMIP High followed by low (from 2060) emissions future.",
+            ),
+            ("h", "PLACEHOLDER TBC. CMIP7 ScenarioMIP high emissions future."),
+        ]
+
+        for acronym, description_base in acronym_descriptions:
+            drs_name = self.get_scenario_drs_name(acronym)
+            drs_name_esm_scenario = self.get_scenario_esm_drs_name(drs_name)
+            if "CMIP7 ScenarioMIP" not in description_base:
+                raise AssertionError(description_base)
+
+            description = (
+                f"{description_base} Run with prescribed carbon dioxide concentrations "
+                f"(for prescribed carbon dioxide emissions, see `{drs_name_esm_scenario}`)."
+            )
+
+            univ_base = ExperimentUniverse(
+                drs_name=drs_name,
+                description=description,
+                activity="scenariomip",
+                additional_allowed_model_components=["aer", "chem", "bgc"],
+                branch_information="Branch from `historical` at 2022-01-01.",
+                end_timestamp="2100-12-31",
+                min_ensemble_size=1,
+                min_number_yrs_per_sim=79.0,
+                parent_activity="cmip",
+                parent_experiment="historical",
+                parent_mip_era="cmip7",
+                required_model_components=["aogcm"],
+                start_timestamp="2022-01-01",
+                tier=self.get_scenario_tier(drs_name),
+            )
+
+            proj_base = self.get_scenario_project(univ_base)
+
+            self.experiments_universe.append(univ_base)
+            self.experiments_project.append(proj_base)
+            self.add_experiment_to_activity(proj_base)
+
+            univ_ext = self.get_scenario_extension(univ_base)
+            proj_ext = self.get_scenario_project(univ_ext)
+            self.experiments_universe.append(univ_ext)
+            self.experiments_project.append(proj_ext)
+            self.add_experiment_to_activity(proj_ext)
+
+            univ_esm = self.get_scenario_esm(univ_base)
+            proj_esm = self.get_scenario_project(univ_esm)
+            self.experiments_universe.append(univ_esm)
+            self.experiments_project.append(proj_esm)
+            self.add_experiment_to_activity(proj_esm)
+
+            univ_esm_ext = self.get_scenario_extension(univ_esm)
+            proj_esm_ext = self.get_scenario_project(univ_esm_ext)
+            self.experiments_universe.append(univ_esm_ext)
+            self.experiments_project.append(proj_esm_ext)
+            self.add_experiment_to_activity(proj_esm_ext)
+
+        return self
+
     def write_files(self, project_root: Path, universe_root: Path) -> None:
         for experiment_project in self.experiments_project:
             experiment_project.write_file(project_root)
@@ -832,6 +1035,7 @@ def main():
     holder.add_flat10_entries()
     holder.add_damip_entries()
     holder.add_pmip_entries()
+    holder.add_scenario_entries()
 
     holder.write_files(project_root=project_root, universe_root=universe_root)
 

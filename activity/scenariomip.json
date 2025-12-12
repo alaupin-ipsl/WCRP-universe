@@ -2,6 +2,6 @@
     "@context": "000_context.jsonld",
     "id": "scenariomip",
     "type": "activity",
-    "description": "Future scenario experiments. Exploration of the future climate under a (selected) range of possible boundary conditions",
+    "description": "Future scenario experiments. Exploration of the future climate under a (selected) range of possible boundary conditions.",
     "drs_name": "ScenarioMIP"
 }
