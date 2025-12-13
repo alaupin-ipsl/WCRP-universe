@@ -188,7 +188,10 @@ class Holder(BaseModel):
             ActivityProject(
                 id="geomip",
                 experiments=[],
-                urls=["https://doi.org/10.5194/gmd-17-2583-2024"],
+                urls=[
+                    "https://doi.org/10.5194/gmd-17-2583-2024",
+                    "https://doi.org/10.1175/BAMS-D-25-0191.1",
+                ],
             ),
             ActivityProject(
                 id="pmip",
@@ -960,12 +963,12 @@ class Holder(BaseModel):
                     "The simulation generally branches from a scenario simulation at some point in the future."
                 ),
                 (
-                    "After following the `{scenario}` scenario until 2035, "
-                    "stablisation of global-mean temperature at 1.5C "
+                    "Stablisation of global-mean temperature at 1.5C "
                     "by increasing stratospheric sulfur forcing "
-                    "to whatever level is required to achieve stable temperatures."
+                    "to whatever level is required to achieve stable temperatures "
+                    "after following the `{scenario}` scenario until 2035."
                 ),
-                "scen7-m",
+                "scen7-ml",
                 2035,
             ),
         ):
