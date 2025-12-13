@@ -952,7 +952,6 @@ class Holder(BaseModel):
             start_year,
         ) in (
             (
-                # TODO: check if this is the desired drs_name
                 "G7-1p5K-SAI",
                 (
                     "Stablisation of global-mean temperature at 1.5C "
