@@ -1007,7 +1007,6 @@ class Holder(BaseModel):
                 activity=univ.activity,
                 start_timestamp=start_timestamp,
                 end_timestamp=None,
-                # TODO: why only 50?!
                 min_number_yrs_per_sim=50,
                 min_ensemble_size=1,
                 parent_activity=parent.activity,
