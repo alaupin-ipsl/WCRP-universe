@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "shb",
     "type": "area_label",
-    "description": "Data is only included where the reporting point is in an area of shrubs. Shrubs is loosely defined and model dependent.",
+    "description": "Data come solely from land areas covered by shrubs. Shrubs is loosely defined and model dependent.",
     "drs_name": "shb",
     "cf_area_type": "shrubs"
 }

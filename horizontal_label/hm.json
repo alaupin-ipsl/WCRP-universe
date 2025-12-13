@@ -2,6 +2,6 @@
     "@context": "000_context.jsonld",
     "id": "hm",
     "type": "horizontal_label",
-    "description": "No other horizontal label. This usually means the data is a horizontal mean (therefore has no horizontal dimensions).",
+    "description": "Data reported as a mean over some horizontal area.",
     "drs_name": "hm"
 }

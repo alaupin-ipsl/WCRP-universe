@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "northern-hemisphere",
     "type": "region",
-    "description": "The northern hemisphere.",
+    "description": "The Northern Hemisphere.",
     "drs_name": "nh",
     "cf_standard_region": "northern_hemisphere",
     "iso_region": null

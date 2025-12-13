@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "fis",
     "type": "area_label",
-    "description": "Data is only included where the reporting point is in an area of floating ice shelf. Ice shelves are the component of ice sheets that flow over the ocean.",
+    "description": "Data come solely from areas of floating ice shelf. 'Ice shelves' are the component of ice sheets that flow over the ocean.",
     "drs_name": "fis",
     "cf_area_type": "floating_ice_shelf"
 }

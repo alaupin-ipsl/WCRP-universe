@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "tree",
     "type": "area_label",
-    "description": "Data is only included where the reporting point is in an area of trees. All trees are in the C3 plant functional type. Trees is loosely defined and model dependent.",
+    "description": "Data come solely from land areas covered by trees. All trees are in the C3 plant functional type. 'Trees' is loosely defined and model dependent.",
     "drs_name": "tree",
     "cf_area_type": "trees"
 }

@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "simp",
     "type": "area_label",
-    "description": "Data is only included where the reporting point is in an area where melt pond on top of sea ice is present.",
+    "description": "Data come solely from areas where melt pond is present atop sea ice.",
     "drs_name": "simp",
     "cf_area_type": "sea_ice_melt_pond"
 }

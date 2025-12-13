@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "southern-hemisphere",
     "type": "region",
-    "description": "The southern hemisphere.",
+    "description": "The Southern Hemisphere.",
     "drs_name": "sh",
     "cf_standard_region": "southern_hemisphere",
     "iso_region": null

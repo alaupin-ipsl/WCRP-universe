@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "veg",
     "type": "area_label",
-    "description": "Data is only included where the reporting point is in an area of vegetation.",
+    "description": "Data come solely from land areas covered by vegetation.",
     "drs_name": "veg",
     "cf_area_type": "vegetation"
 }

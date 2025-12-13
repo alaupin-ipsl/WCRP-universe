@@ -2,6 +2,6 @@
     "@context": "000_context.jsonld",
     "id": "tmin",
     "type": "temporal_label",
-    "description": "Data is the minimum within each time period (i.e. interval defined by the time bounds).",
+    "description": "Data is the mean of daily minima over each time period (i.e. each reported interval defined by its time bounds).For example, the data may be reported monthly, with each value being the mean of the daily minimum temperature for each day in the month.",
     "drs_name": "tmin"
 }

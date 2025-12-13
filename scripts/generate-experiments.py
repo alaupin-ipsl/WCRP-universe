@@ -129,6 +129,7 @@ class ActivityProject(BaseModel):
     id: str
     experiments: list[str]
     urls: list[str]
+    description: str = "dont_write"
 
     def write_file(self, project_root: Path) -> None:
         content = {
@@ -138,6 +139,10 @@ class ActivityProject(BaseModel):
             "experiments": sorted(self.experiments),
             "urls": sorted(self.urls),
         }
+        for attr in ("description",):
+            val = getattr(self, attr)
+            if val != "dont_write":
+                content[attr] = val
 
         out_file = str(project_root / "activity" / f"{self.id}.json")
         write_file(out_file, content)
@@ -205,6 +210,18 @@ class Holder(BaseModel):
                 id="scenariomip",
                 experiments=[],
                 urls=["https://doi.org/10.5194/egusphere-2024-3765"],
+                description=(
+                    "Future scenario experiments. "
+                    "Exploration of the future climate under a (selected) range of possible boundary conditions. "
+                    "In CMIP7, the priority tier for experiments is conditional on whether you are doing emissions- or concentration-driven simulations. "
+                    "There is no way to express this in the CVs (nor time to implement something to handle this conditionality). "
+                    "This means that, for your particular situation, some experiments may be at a lower tier than is listed in the CVs. "
+                    "For example, the `vl` scenario is tier 1 for concentration-driven models "
+                    "and tier 2 for emissions-driven models. "
+                    "However, in the CVs, we have used the highest priority tier (across all the possible conditionalities). "
+                    "Hence `vl` is listed as tier 1 in the CVs (even though it is actually tier 2 for emissions-driven models)."
+                    "For details, please see the full description in the ScenarioMIP description papers."
+                ),
             ),
         ]
 
@@ -783,7 +800,25 @@ class Holder(BaseModel):
 
     @staticmethod
     def get_scenario_tier(drs_name: str) -> int:
-        # TODO: update
+        # A bit stupid, because in practice everything ends up being tier 1,
+        # but ok at least we have the logic clarified now
+        # (and can explain why it says this in the CVs if anyone asks).
+        if drs_name.startswith("esm-"):
+            # All standard scenarios are tier 1 for emissions-driven models
+            return 1
+
+        if any(v in drs_name for v in ("-vl-", "-h-")):
+            # vl and h are tier 1 for experiments and extensions
+            return 1
+
+        if drs_name.endswith("-ext"):
+            # Extensions are tier 1 up to 2150.
+            # We can't express tier 1 up to 2150 and tier 2 otherwise
+            # (we do that instead with min_number_yrs_per_sim)
+            # so everything is just tier 1.
+            return 1
+
+        # If we get here, we are looking at concentration-driven experiments
         return 1
 
     @staticmethod
@@ -813,7 +848,6 @@ class Holder(BaseModel):
         )
 
         extension_start_timestamp = f"{scenario_end_timestamp_dt.year + 1}-01-01"
-        # TODO: check
         extension_end_timestamp = "2500-12-31"
 
         res.description = f"Extension of `{scenario.drs_name}` beyond {scenario_end_timestamp_dt.year}."
@@ -908,7 +942,6 @@ class Holder(BaseModel):
                 activity="scenariomip",
                 additional_allowed_model_components=["aer", "chem", "bgc"],
                 branch_information="Branch from `historical` at 2022-01-01.",
-                # TODO: check if 2100-21-31 or 2100-01-01
                 end_timestamp="2100-12-31",
                 min_ensemble_size=1,
                 min_number_yrs_per_sim=79.0,
