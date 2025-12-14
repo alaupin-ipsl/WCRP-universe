@@ -184,6 +184,13 @@ class Holder(BaseModel):
                 id="cmip",
                 experiments=[],
                 urls=["https://doi.org/10.5194/gmd-18-6671-2025"],
+                description=(
+                    # If you were doing this for CMIP6, you would write DECK and historical
+                    # as historical was separate from the DECK in CMIP6, but isn't in CMIP7,
+                    # see https://github.com/WCRP-CMIP/CMIP7-CVs/issues/327
+                    "CMIP core common experiments "
+                    "i.e. the DECK (Diagnostic, Evaluation and Characterization of Klima)."
+                ),
             ),
             ActivityProject(
                 id="damip",
