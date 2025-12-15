@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rotated_pole",
+    "type": "grid_type",
+    "description": "A regular latitude-longitude grid that is rotated to define a different north pole location.",
+    "drs_name": "rotated_pole"
+}

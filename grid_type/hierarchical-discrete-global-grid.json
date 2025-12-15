@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hierarchical_discrete_global_grid",
+    "type": "grid_type",
+    "description": "A tessellation of cells that exhaustively cover the spherical surface of the globe, with each resolution defined as a subdivision of cells at a base resolution, and cells at a given resolution having equal areas.",
+    "drs_name": "hierarchical_discrete_global_grid"
+}

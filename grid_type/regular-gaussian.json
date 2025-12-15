@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "regular_gaussian",
+    "type": "grid_type",
+    "description": "A Gaussian grid for which the number of longitudinal points is constant for each latitude.",
+    "drs_name": "regular_gaussian"
+}

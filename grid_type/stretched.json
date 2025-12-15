@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "stretched",
+    "type": "grid_type",
+    "description": "A grid with higher resolution concentrated over an area of interest, at the expense of lower resolution elsewhere.",
+    "drs_name": "stretched"
+}

@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "unstructured_triangular",
+    "type": "grid_type",
+    "description": "An unstructured mesh consisting solely of triangles.",
+    "drs_name": "unstructured_triangular"
+}

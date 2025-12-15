@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "unstructured_quadrilateral",
+    "type": "grid_type",
+    "description": "An unstructured mesh consisting solely of quadrilaterals.",
+    "drs_name": "unstructured_quadrilateral"
+}

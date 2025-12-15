@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "linear_spectral_gaussian",
+    "type": "grid_type",
+    "description": "A spectral Gaussian grid for which the smallest spectral wavelength is represented by 2 grid points.",
+    "drs_name": "linear_spectral_gaussian"
+}

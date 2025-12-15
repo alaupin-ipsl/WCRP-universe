@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "displaced_pole",
+    "type": "grid_type",
+    "description": "An ocean grid whose poles are not antipodean, typically with the northern pole displaced to lie over land.",
+    "drs_name": "displaced_pole"
+}

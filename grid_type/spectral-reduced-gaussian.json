@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "spectral_reduced_gaussian",
+    "type": "grid_type",
+    "description": "A grid based on the transformation from spectral space to a reduced Gaussian grid.",
+    "drs_name": "spectral_reduced_gaussian"
+}

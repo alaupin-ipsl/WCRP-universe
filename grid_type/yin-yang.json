@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "yin_yang",
+    "type": "grid_type",
+    "description": "Two overlapping grid patches.",
+    "drs_name": "yin_yang"
+}

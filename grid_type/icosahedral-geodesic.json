@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "icosahedral_geodesic",
+    "type": "grid_type",
+    "description": "A grid that uses triangular tiles based on the subdivision of an icosahedron.",
+    "drs_name": "icosahedral_geodesic"
+}

@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cubed_sphere",
+    "type": "grid_type",
+    "description": "The spherical surface is defined as six coupled \"logically square\" regions.",
+    "drs_name": "cubed_sphere"
+}

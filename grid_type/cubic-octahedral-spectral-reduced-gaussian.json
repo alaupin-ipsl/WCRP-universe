@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cubic_octahedral_spectral_reduced_gaussian",
+    "type": "grid_type",
+    "description": "A spectral reduced Gaussian grid for which the smallest spectral wavelength is represented by 4 grid points, and which uses an octahedron-based method to reduce the number of grid points towards the poles.",
+    "drs_name": "cubic_octahedral_spectral_reduced_gaussian"
+}

@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "reduced_gaussian",
+    "type": "grid_type",
+    "description": "A Gaussian grid for which the number of longitudinal points is reduced as the poles are approached.",
+    "drs_name": "reduced_gaussian"
+}

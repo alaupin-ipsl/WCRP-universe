@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "icosahedral_geodesic_dual",
+    "type": "grid_type",
+    "description": "A grid that uses hexagonal and pentagonal tiles and is the dual of an icosahedral_geodesic grid.",
+    "drs_name": "icosahedral_geodesic_dual"
+}
