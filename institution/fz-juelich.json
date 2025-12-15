@@ -7,12 +7,12 @@
         "FZJ"
     ],
     "labels": [
-        "Forschungszentrum J\u00fclich"
+        "Forschungszentrum Jülich"
     ],
-    "description": "Forschungszentrum J\u00fclich",
+    "description": "Forschungszentrum Jülich",
     "location": [
         {
-            "city": "J\u00fclich",
+            "city": "Jülich",
             "country": "Germany",
             "lat": 50.92149,
             "lon": 6.36267

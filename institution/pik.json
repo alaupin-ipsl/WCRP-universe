@@ -1,29 +1,29 @@
 {
-  "@context": "000_context.jsonld",
-  "id": "pik",
-  "acronyms": [
-    "PIK"
-  ],
-  "aliases": [
-    "Potsdam-Institut für Klimafolgenforschung",
-    "PIK"
-  ],
-  "cmip-acronym": "PIK",
-  "established": 1992,
-  "labels": [],
-  "location": [
-    {
-      "city": "Postdam",
-      "country": "Germany",
-      "lat": 52.382838,
-      "lon": 13.083394
-    }
-  ],
-  "name": "Potsdam Institute for Climate Impact Research",
-  "ror": "03e8s1d88",
-  "urls": [
-    "https://www.pik-potsdam.de/"
-  ],
-  "type": "institution",
-  "drs_name": "PIK"
+    "@context": "000_context.jsonld",
+    "id": "pik",
+    "acronyms": [
+        "PIK"
+    ],
+    "aliases": [
+        "Potsdam-Institut für Klimafolgenforschung",
+        "PIK"
+    ],
+    "cmip-acronym": "PIK",
+    "established": 1992,
+    "labels": [],
+    "location": [
+        {
+            "city": "Postdam",
+            "country": "Germany",
+            "lat": 52.382838,
+            "lon": 13.083394
+        }
+    ],
+    "name": "Potsdam Institute for Climate Impact Research",
+    "ror": "03e8s1d88",
+    "urls": [
+        "https://www.pik-potsdam.de/"
+    ],
+    "type": "institution",
+    "drs_name": "PIK"
 }

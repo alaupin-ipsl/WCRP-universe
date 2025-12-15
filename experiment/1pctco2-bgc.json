@@ -1,23 +1,23 @@
 {
-    "@context": "000_context.jsonld",
-    "id": "1pctco2-bgc",
-    "type": "experiment",
-    "description": "Biogeochemically coupled simulation (i.e. the carbon cycle only 'sees' the increase in atmospheric carbon dioxide, not any change in temperature) of a 1% per year increase in atmospheric carbon dioxide levels. All other conditions are kept the same as piControl.",
-    "drs_name": "1pctCO2-bgc",
-    "start_timestamp": null,
-    "end_timestamp": null,
-    "activity": "c4mip",
-    "additional_allowed_model_components": [
-        "aer",
-        "chem"
-    ],
-    "branch_information": "Branch from `piControl` at a time of your choosing",
-    "min_ensemble_size": 1,
-    "parent_activity": "cmip",
-    "parent_experiment": "picontrol",
-    "required_model_components": [
-        "aogcm",
-        "bgc"
-    ],
-    "tier": 1
+  "@context": "000_context.jsonld",
+  "id": "1pctco2-bgc",
+  "type": "experiment",
+  "description": "Biogeochemically coupled simulation (i.e. the carbon cycle only 'sees' the increase in atmospheric carbon dioxide, not any change in temperature) of a 1% per year increase in atmospheric carbon dioxide levels. All other conditions are kept the same as piControl.",
+  "drs_name": "1pctCO2-bgc",
+  "start_timestamp": null,
+  "end_timestamp": null,
+  "activity": "c4mip",
+  "additional_allowed_model_components": [
+    "aer",
+    "chem"
+  ],
+  "branch_information": "Branch from `piControl` at a time of your choosing",
+  "min_ensemble_size": 1,
+  "parent_activity": "cmip",
+  "parent_experiment": "picontrol",
+  "required_model_components": [
+    "aogcm",
+    "bgc"
+  ],
+  "tier": 1
 }

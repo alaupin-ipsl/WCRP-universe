@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "global",
     "type": "region",
-    "description": "The entire globe i.e. earth.",
+    "description": "The geographical region of the whole of the Earth’s surface, as defined by the CF conventions.",
     "drs_name": "glb",
     "cf_standard_region": "global",
     "iso_region": null

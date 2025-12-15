@@ -1,33 +1,33 @@
 {
-  "@context": "000_context.jsonld",
-  "id": "ucla",
-  "acronyms": [
-    "UCLA"
-  ],
-  "aliases": [
-    "Université de Californie à Los Angeles",
-    "State Normal School at Los Angeles",
-    "University of California Southern Branch",
-    "University of California at Los Angeles",
-    "Universidad de California en Los Ángeles",
-    "UCLA"
-  ],
-  "cmip-acronym": "UCLA",
-  "established": 1881,
-  "labels": [],
-  "location": [
-    {
-      "city": "Los Angeles",
-      "country": "United States of America",
-      "lat": 34.067761,
-      "lon": -118.445146
-    }
-  ],
-  "name": "University of California, Los Angeles",
-  "ror": "046rm7j60",
-  "urls": [
-    "https://www.ucla.edu"
-  ],
-  "type": "institution",
-  "drs_name": "UCLA"
+    "@context": "000_context.jsonld",
+    "id": "ucla",
+    "acronyms": [
+        "UCLA"
+    ],
+    "aliases": [
+        "Université de Californie à Los Angeles",
+        "State Normal School at Los Angeles",
+        "University of California Southern Branch",
+        "University of California at Los Angeles",
+        "Universidad de California en Los Ángeles",
+        "UCLA"
+    ],
+    "cmip-acronym": "UCLA",
+    "established": 1881,
+    "labels": [],
+    "location": [
+        {
+            "city": "Los Angeles",
+            "country": "United States of America",
+            "lat": 34.067761,
+            "lon": -118.445146
+        }
+    ],
+    "name": "University of California, Los Angeles",
+    "ror": "046rm7j60",
+    "urls": [
+        "https://www.ucla.edu"
+    ],
+    "type": "institution",
+    "drs_name": "UCLA"
 }

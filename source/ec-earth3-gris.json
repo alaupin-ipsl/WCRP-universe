@@ -1,33 +1,33 @@
 {
-  "@context": "000_context.jsonld",
-  "id": "ec-earth3-gris",
-  "type": "source",
-  "license": {
-    "id": "CC BY 4.0",
-    "exceptions-contact": null,
-    "source-specific-info": ""
-  },
-  "activity_participation": [
-    "cmip",
-    "ismip6",
-    "pmip"
-  ],
-  "cohort": [
-    "Registered"
-  ],
-  "label": "EC-Earth3-GrIS",
-  "label_extended": "EC-Earth3-GrIS",
-  "model_component": {
-    "atmos": "ifs",
-    "land": "htessel",
-    "landIce": "pism",
-    "ocean": "nemo3.6",
-    "seaIce": "lim3"
-  },
-  "release_year": "2023",
-  "organisation_id": [
-    "ec-earth-consortium"
-  ],
-  "drs_name": "EC-Earth3-GrIS",
-  "description": ""
+    "@context": "000_context.jsonld",
+    "id": "ec-earth3-gris",
+    "type": "source",
+    "license": {
+        "id": "CC BY 4.0",
+        "exceptions-contact": null,
+        "source-specific-info": ""
+    },
+    "activity_participation": [
+        "cmip",
+        "ismip6",
+        "pmip"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "label": "EC-Earth3-GrIS",
+    "label_extended": "EC-Earth3-GrIS",
+    "model_component": {
+        "atmos": "ifs",
+        "land": "htessel",
+        "landIce": "pism",
+        "ocean": "nemo3.6",
+        "seaIce": "lim3"
+    },
+    "release_year": "2023",
+    "organisation_id": [
+        "ec-earth-consortium"
+    ],
+    "drs_name": "EC-Earth3-GrIS",
+    "description": ""
 }
