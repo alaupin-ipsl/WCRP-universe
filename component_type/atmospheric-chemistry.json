@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "atmospheric_chemistry",
+    "type": "component_type",
+    "description": "The behaviour and evolution of the chemical composition of the atmosphere.",
+    "drs_name": "atmospheric_chemistry"
+}

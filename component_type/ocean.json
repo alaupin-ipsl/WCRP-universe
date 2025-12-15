@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ocean",
+    "type": "component_type",
+    "description": "Dynamical, thermodynamical, and physical processes in the ocean.",
+    "drs_name": "ocean"
+}

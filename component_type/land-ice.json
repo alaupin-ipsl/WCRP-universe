@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "land_ice",
+    "type": "component_type",
+    "description": "Frozen freshwater in glaciers, ice-caps, ice-sheets, and ice-shelves.",
+    "drs_name": "land_ice"
+}

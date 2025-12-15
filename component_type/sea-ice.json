@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sea_ice",
+    "type": "component_type",
+    "description": "Frozen seawater that floats on the ocean surface.",
+    "drs_name": "sea_ice"
+}

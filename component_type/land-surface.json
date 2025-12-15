@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "land_surface",
+    "type": "component_type",
+    "description": "Water, energy, and mass fluxes between the surface and the atmosphere.",
+    "drs_name": "land_surface"
+}

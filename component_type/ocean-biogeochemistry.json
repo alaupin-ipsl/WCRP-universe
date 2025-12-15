@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ocean_biogeochemistry",
+    "type": "component_type",
+    "description": "Biological, geological, and chemical processes in the ocean.",
+    "drs_name": "ocean_biogeochemistry"
+}

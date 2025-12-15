@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "atmosphere",
+    "type": "component_type",
+    "description": "Dynamical, thermodynamical, and physical processes in the atmosphere.",
+    "drs_name": "atmosphere"
+}
