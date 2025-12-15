@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "static",
-    "type": "horizontal_grid_temporal_refinement",
-    "description": "Static grid i.e. no temporal refinement/change in the grid over time",
-    "drs_name": "static"
-}

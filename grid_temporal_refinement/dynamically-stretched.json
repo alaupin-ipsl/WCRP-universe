@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dynamically_stretched",
+    "type": "grid_temporal_refinement",
+    "description": "The total number of grid points stays constant, but grid points can be dynamically relocated.",
+    "drs_name": "dynamically_stretched"
+}

@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "static",
+    "type": "grid_temporal_refinement",
+    "description": "The total number of grid points stays constant during the model run and there is no grid refinement, i.e. the grid is held fixed.",
+    "drs_name": "static"
+}

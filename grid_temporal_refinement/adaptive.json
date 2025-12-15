@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "adaptive",
+    "type": "grid_temporal_refinement",
+    "description": "The total number of grid points varies during the model run. The grid is refined locally when important physical processes occur that need additional grid resolution, and coarsened when the additional resolution is no longer needed.",
+    "drs_name": "adaptive"
+}
