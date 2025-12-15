@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "degree",
+    "type": "horizontal_units",
+    "description": "degree",
+    "drs_name": "degree"
+}

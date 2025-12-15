@@ -1,0 +1,14 @@
+{
+    "@context": {
+        "@base": "https://esgvoc.ipsl.fr/resource/universe/horizontal_units/",
+        "@vocab": "http://schema.org/",
+        "id": "@id",
+        "type": "@type",
+        "description": {
+            "@id": "https://schema.org/description"
+        },
+        "drs_name": {
+            "@id": "acronym"
+        }
+    }
+}
