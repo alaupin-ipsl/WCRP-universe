@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "ufs",
     "type": "area_label",
-    "description": "Data is only included where the reporting point is in an area of unfrozen soil. Unfrozen soil means that the soil at the surface is unfrozen. Frozen soil may be present at lower levels.",
+    "description": "Data come solely from areas of unfrozen soil. Unfrozen soil means that the soil at the surface is unfrozen. Frozen soil may be present at lower levels.",
     "drs_name": "ufs",
     "cf_area_type": "unfrozen_soil"
 }

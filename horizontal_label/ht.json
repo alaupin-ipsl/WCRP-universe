@@ -2,6 +2,6 @@
     "@context": "000_context.jsonld",
     "id": "ht",
     "type": "horizontal_label",
-    "description": "Data along a transect. This is usually some aggregate (sum, mean etc.) along the transect(s).",
+    "description": "Data along a transect. This is some aggregate (sum, mean etc.) along the transect(s).",
     "drs_name": "ht"
 }

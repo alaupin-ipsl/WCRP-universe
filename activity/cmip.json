@@ -2,6 +2,6 @@
     "@context": "000_context.jsonld",
     "id": "cmip",
     "type": "activity",
-    "description": "CMIP core common experiments i.e. the DECK (Diagnostic, Evaluation and Characterization of Klima).",
+    "description": "CMIP common experiments.",
     "drs_name": "CMIP"
 }

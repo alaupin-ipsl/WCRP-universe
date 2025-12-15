@@ -2,6 +2,6 @@
     "@context": "000_context.jsonld",
     "id": "hyb",
     "type": "horizontal_label",
-    "description": "Data on y (often just lat) grids in specific basins. This is usually zonal-mean or zonal-sum or some other zonal-aggregate data.",
+    "description": "Data that is a function of the y horizontal dimension (i.e., often just a function of latitude), representing a zonal-mean or zonal-sum or some other aggregate across the x dimension for individual ocean basins (e.g., a zonal mean across each of the ocean basins).",
     "drs_name": "hyb"
 }

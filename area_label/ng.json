@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "ng",
     "type": "area_label",
-    "description": "Data is only included where the reporting point is in an area where natural grasses are present. 'Natural grasses' means grasses growing in areas of low productivity, often situated on rough or uneven ground. This can include rocky areas, briars and heathland.",
+    "description": "Data come solely from land areas covered by natural grasses. 'Natural grasses' means grasses growing in areas of low productivity, often situated on rough or uneven ground. This can include rocky areas, briars and heathland.",
     "drs_name": "ng",
     "cf_area_type": "natural_grasses"
 }

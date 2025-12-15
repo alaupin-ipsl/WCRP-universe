@@ -129,6 +129,7 @@ class ActivityProject(BaseModel):
     id: str
     experiments: list[str]
     urls: list[str]
+    description: str = "dont_write"
 
     def write_file(self, project_root: Path) -> None:
         content = {
@@ -138,6 +139,10 @@ class ActivityProject(BaseModel):
             "experiments": sorted(self.experiments),
             "urls": sorted(self.urls),
         }
+        for attr in ("description",):
+            val = getattr(self, attr)
+            if val != "dont_write":
+                content[attr] = val
 
         out_file = str(project_root / "activity" / f"{self.id}.json")
         write_file(out_file, content)
@@ -186,11 +191,26 @@ class Holder(BaseModel):
                 id="cmip",
                 experiments=[],
                 urls=["https://doi.org/10.5194/gmd-18-6671-2025"],
+                description=(
+                    # If you were doing this for CMIP6, you would write DECK and historical
+                    # as historical was separate from the DECK in CMIP6, but isn't in CMIP7,
+                    # see https://github.com/WCRP-CMIP/CMIP7-CVs/issues/327
+                    "CMIP core common experiments "
+                    "i.e. the DECK (Diagnostic, Evaluation and Characterization of Klima)."
+                ),
             ),
             ActivityProject(
                 id="damip",
                 experiments=[],
                 urls=["https://doi.org/10.5194/gmd-18-4399-2025"],
+            ),
+            ActivityProject(
+                id="geomip",
+                experiments=[],
+                urls=[
+                    "https://doi.org/10.5194/gmd-17-2583-2024",
+                    "https://doi.org/10.1175/BAMS-D-25-0191.1",
+                ],
             ),
             ActivityProject(
                 id="pmip",
@@ -204,6 +224,18 @@ class Holder(BaseModel):
                 id="scenariomip",
                 experiments=[],
                 urls=["https://doi.org/10.5194/egusphere-2024-3765"],
+                description=(
+                    "Future scenario experiments. "
+                    "Exploration of the future climate under a (selected) range of possible boundary conditions. "
+                    "In CMIP7, the priority tier for experiments is conditional on whether you are doing emissions- or concentration-driven simulations. "
+                    "There is no way to express this in the CVs (nor time to implement something to handle this conditionality). "
+                    "This means that, for your particular situation, some experiments may be at a lower tier than is listed in the CVs. "
+                    "For example, the `vl` scenario is tier 1 for concentration-driven models "
+                    "and tier 2 for emissions-driven models. "
+                    "However, in the CVs, we have used the highest priority tier (across all the possible conditionalities). "
+                    "Hence `vl` is listed as tier 1 in the CVs (even though it is actually tier 2 for emissions-driven models)."
+                    "For details, please see the full description in the ScenarioMIP description papers."
+                ),
             ),
         ]
 
@@ -782,7 +814,25 @@ class Holder(BaseModel):
 
     @staticmethod
     def get_scenario_tier(drs_name: str) -> int:
-        # TODO: update
+        # A bit stupid, because in practice everything ends up being tier 1,
+        # but ok at least we have the logic clarified now
+        # (and can explain why it says this in the CVs if anyone asks).
+        if drs_name.startswith("esm-"):
+            # All standard scenarios are tier 1 for emissions-driven models
+            return 1
+
+        if any(v in drs_name for v in ("-vl-", "-h-")):
+            # vl and h are tier 1 for experiments and extensions
+            return 1
+
+        if drs_name.endswith("-ext"):
+            # Extensions are tier 1 up to 2150.
+            # We can't express tier 1 up to 2150 and tier 2 otherwise
+            # (we do that instead with min_number_yrs_per_sim)
+            # so everything is just tier 1.
+            return 1
+
+        # If we get here, we are looking at concentration-driven experiments
         return 1
 
     @staticmethod
@@ -812,7 +862,6 @@ class Holder(BaseModel):
         )
 
         extension_start_timestamp = f"{scenario_end_timestamp_dt.year + 1}-01-01"
-        # TODO: check
         extension_end_timestamp = "2500-12-31"
 
         res.description = f"Extension of `{scenario.drs_name}` beyond {scenario_end_timestamp_dt.year}."
@@ -907,7 +956,6 @@ class Holder(BaseModel):
                 activity="scenariomip",
                 additional_allowed_model_components=["aer", "chem", "bgc"],
                 branch_information="Branch from `historical` at 2022-01-01.",
-                # TODO: check if 2100-21-31 or 2100-01-01
                 end_timestamp="2100-12-31",
                 min_ensemble_size=1,
                 min_number_yrs_per_sim=79.0,
@@ -1019,6 +1067,82 @@ class Holder(BaseModel):
         # TODO: ask someone to translate/write hist-piAQ for me.
         # Not sure what hist-piAQ is or how it is defined.
 
+    def add_geomip_entries(self) -> "Holder":
+        for (
+            drs_name,
+            description_univ,
+            description_proj_to_format,
+            base_scenario,
+            start_year,
+        ) in (
+            (
+                "G7-1p5K-SAI",
+                (
+                    "Stablisation of global-mean temperature at 1.5C "
+                    "by increasing stratospheric sulfur forcing "
+                    "to whatever level is required to achieve stable temperatures. "
+                    "The simulation generally branches from a scenario simulation at some point in the future."
+                ),
+                (
+                    "Stablisation of global-mean temperature at 1.5C "
+                    "by increasing stratospheric sulfur forcing "
+                    "to whatever level is required to achieve stable temperatures "
+                    "after following the `{scenario}` scenario until 2035."
+                ),
+                "scen7-ml",
+                2035,
+            ),
+        ):
+            description_proj = description_proj_to_format.format(scenario=base_scenario)
+            start_timestamp = f"{start_year}-01-01"
+            for exp_proj in self.experiments_project:
+                if exp_proj.id == base_scenario:
+                    parent = exp_proj
+                    break
+            else:
+                raise AssertionError(base_scenario)
+
+            univ = ExperimentUniverse(
+                drs_name=drs_name,
+                description=description_univ,
+                activity="geomip",
+                additional_allowed_model_components=["aer", "chem", "bgc"],
+                # Defined in project
+                branch_information="dont_write",
+                end_timestamp="dont_write",
+                min_ensemble_size=1,
+                # Defined in project
+                min_number_yrs_per_sim="dont_write",
+                parent_activity="dont_write",
+                parent_experiment="dont_write",
+                parent_mip_era="dont_write",
+                required_model_components=["aogcm"],
+                # Defined in project
+                start_timestamp="dont_write",
+                tier=1,
+            )
+
+            self.experiments_universe.append(univ)
+
+            proj = ExperimentProject(
+                id=univ.drs_name.lower(),
+                description=description_proj,
+                branch_information=f"Branch from the `{base_scenario}` simulation at the start of {start_year}.",
+                activity=univ.activity,
+                start_timestamp=start_timestamp,
+                end_timestamp=None,
+                min_number_yrs_per_sim=50,
+                min_ensemble_size=1,
+                parent_activity=parent.activity,
+                parent_experiment=parent.id,
+                parent_mip_era="cmip7",
+                tier=1,
+            )
+            self.experiments_project.append(proj)
+
+            self.add_experiment_to_activity(proj)
+
+
         return self
 
     def write_files(self, project_root: Path, universe_root: Path) -> None:
@@ -1087,6 +1211,7 @@ def main():
     holder.add_pmip_entries()
     holder.add_scenario_entries()
     holder.add_scenario_aerchemmip_entries()
+    holder.add_geomip_entries()
 
     holder.write_files(project_root=project_root, universe_root=universe_root)
 

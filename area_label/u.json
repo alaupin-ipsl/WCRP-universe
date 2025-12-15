@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "u",
     "type": "area_label",
-    "description": "Unmasked i.e. all areas are included/sampled",
+    "description": "Unmasked; all areas of the Earth are included.",
     "drs_name": "u",
     "cf_area_type": null
 }

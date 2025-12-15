@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "cl",
     "type": "area_label",
-    "description": "Data is only included where the reporting point is in cloud.",
+    "description": "Data come solely from the portion of the atmosphere or the portion of an atmospheric column occupied by cloud.",
     "drs_name": "cl",
     "cf_area_type": "cloud"
 }

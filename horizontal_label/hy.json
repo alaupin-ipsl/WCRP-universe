@@ -2,6 +2,6 @@
     "@context": "000_context.jsonld",
     "id": "hy",
     "type": "horizontal_label",
-    "description": "Data on y (often just lat) grid. This is usually zonal-mean or zonal-sum or some other zonal-aggregate data.",
+    "description": "Data that is a function of the y horizontal dimension, but not x (i.e., often just a function of latitude). This is usually a zonal-mean or zonal-sum or some other zonal-aggregate data.",
     "drs_name": "hy"
 }
