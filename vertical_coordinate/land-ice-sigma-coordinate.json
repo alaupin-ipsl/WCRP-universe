@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "land_ice_sigma_coordinate",
+    "type": "vertical_coordinate",
+    "description": "Land ice (glaciers, ice-caps and ice-sheets resting on bedrock and also includes ice-shelves) sigma coordinate, as defined by the CF conventions.",
+    "drs_name": "land_ice_sigma_coordinate"
+}

@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "height",
+    "type": "vertical_coordinate",
+    "description": "Height is the vertical distance above the earth's surface, as defined by the CF conventions.",
+    "drs_name": "height"
+}

@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "z*",
+    "type": "vertical_coordinate",
+    "description": "The z* coordinate, as defined by Adcroft and Campin (2004).",
+    "drs_name": "z*"
+}

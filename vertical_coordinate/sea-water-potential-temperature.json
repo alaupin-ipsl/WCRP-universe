@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sea_water_potential_temperature",
+    "type": "vertical_coordinate",
+    "description": "Sea water potential temperature is the temperature a parcel of sea water would have if moved adiabatically to sea level pressure, as defined by the CF conventions.",
+    "drs_name": "sea_water_potential_temperature"
+}

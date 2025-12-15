@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ocean_double_sigma_coordinate",
+    "type": "vertical_coordinate",
+    "description": "Parametric ocean double sigma coordinate, as defined by the CF conventions.",
+    "drs_name": "ocean_double_sigma_coordinate"
+}

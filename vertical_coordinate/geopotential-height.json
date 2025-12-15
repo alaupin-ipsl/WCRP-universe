@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "geopotential_height",
+    "type": "vertical_coordinate",
+    "description": "Geopotential height is the geopotential divided by the standard acceleration due to gravity, as defined by the CF conventions.",
+    "drs_name": "geopotential_height"
+}

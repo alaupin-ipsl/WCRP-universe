@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sea_water_pressure",
+    "type": "vertical_coordinate",
+    "description": "Sea water pressure is the pressure that exists in the medium of sea water, as defined by the CF conventions.",
+    "drs_name": "sea_water_pressure"
+}

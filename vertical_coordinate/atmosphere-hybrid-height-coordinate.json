@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "atmosphere_hybrid_height_coordinate",
+    "type": "vertical_coordinate",
+    "description": "Parametric atmosphere hybrid height coordinate, as defined by the CF conventions.",
+    "drs_name": "atmosphere_hybrid_height_coordinate"
+}

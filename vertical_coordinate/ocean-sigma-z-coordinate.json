@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ocean_sigma_z_coordinate",
+    "type": "vertical_coordinate",
+    "description": "Parametric ocean sigma over z coordinate, as defined by the CF conventions.",
+    "drs_name": "ocean_sigma_z_coordinate"
+}

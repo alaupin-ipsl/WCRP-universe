@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "atmosphere_ln_pressure_coordinate",
+    "type": "vertical_coordinate",
+    "description": "Parametric atmosphere natural log pressure coordinate, as defined by the CF conventions.",
+    "drs_name": "atmosphere_ln_pressure_coordinate"
+}

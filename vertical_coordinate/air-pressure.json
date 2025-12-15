@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "air_pressure",
+    "type": "vertical_coordinate",
+    "description": "Air pressure is the pressure that exists in the medium of air, as defined by the CF conventions.",
+    "drs_name": "air_pressure"
+}
