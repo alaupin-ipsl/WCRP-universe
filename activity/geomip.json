@@ -1,10 +1,7 @@
 {
     "@context": "000_context.jsonld",
-    "type": "activity",
     "id": "geomip",
-    "name": "GeoMIP",
-    "cmip_acronym": "GeoMIP",
-    "long_name": "Geoengineering Model Intercomparison Project",
-    "url": null,
+    "type": "activity",
+    "description": "Geoengineering model intercomparison project: exploration of the climate response to solar radiation manipulation.",
     "drs_name": "GeoMIP"
 }
