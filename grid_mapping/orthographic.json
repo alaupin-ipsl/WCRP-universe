@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "orthographic",
+    "type": "grid_mapping",
+    "description": "A form of parallel projection in which all the projection lines are orthogonal to the projection plane, as defined by the CF conventions.",
+    "drs_name": "orthographic"
+}

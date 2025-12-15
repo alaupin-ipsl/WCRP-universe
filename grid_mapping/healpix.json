@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "healpix",
+    "type": "grid_mapping",
+    "description": "The hierarchical equal area isolatitude pixelisation of a sphere based on subdivision of a distorted rhombic dodecahedron (HEALPix), as defined by the CF conventions.",
+    "drs_name": "healpix"
+}

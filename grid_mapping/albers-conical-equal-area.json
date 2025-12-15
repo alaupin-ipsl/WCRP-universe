@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "albers_conical_equal_area",
+    "type": "grid_mapping",
+    "description": "A projection that preserves area but not shape, creating accurate representations of large, east-west-oriented land masses, as defined by the CF conventions.",
+    "drs_name": "albers_conical_equal_area"
+}

@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "geostationary",
+    "type": "grid_mapping",
+    "description": "A type of azimuthal projection designed to show the Earth as it appears to a geostationary satellite, offering a perspective that minimizes distortion for areas under view, as defined by the CF conventions.",
+    "drs_name": "geostationary"
+}

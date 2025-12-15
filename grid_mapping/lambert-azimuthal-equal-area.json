@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "lambert_azimuthal_equal_area",
+    "type": "grid_mapping",
+    "description": "A projection that accurately preserves the area of all regions on a map, as defined by the CF conventions.",
+    "drs_name": "lambert_azimuthal_equal_area"
+}

@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "lambert_conformal_conic",
+    "type": "grid_mapping",
+    "description": "A projection that preserves the shape of small areas by using a cone placed over the Earth's surface, with the projection onto the cone occurring along lines radiating from the Earth's centre, as defined by the CF conventions.",
+    "drs_name": "lambert_conformal_conic"
+}

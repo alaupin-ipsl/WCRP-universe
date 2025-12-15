@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "vertical_perspective",
+    "type": "grid_mapping",
+    "description": "A projection used to represent the Earth from a point of view directly above its centre, as defined by the CF conventions.",
+    "drs_name": "vertical_perspective"
+}

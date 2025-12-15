@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "lambert_cylindrical_equal_area",
+    "type": "grid_mapping",
+    "description": "A cylindrical map projection that preserves area accurately but distorts shape, especially away from the equator, as defined by the CF conventions.",
+    "drs_name": "lambert_cylindrical_equal_area"
+}

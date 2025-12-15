@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sinusoidal",
+    "type": "grid_mapping",
+    "description": "An equal-area projection that accurately represents area but distorts shape, especially at the edges, as defined by the CF conventions.",
+    "drs_name": "sinusoidal"
+}

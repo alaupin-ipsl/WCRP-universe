@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rotated_latitude_longitude",
+    "type": "grid_mapping",
+    "description": "A geographic coordinate system where the traditional north pole is shifted to a different location, as defined by the CF conventions.",
+    "drs_name": "rotated_latitude_longitude"
+}

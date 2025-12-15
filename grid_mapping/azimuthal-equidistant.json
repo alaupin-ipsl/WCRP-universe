@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "azimuthal_equidistant",
+    "type": "grid_mapping",
+    "description": "A projection that maintains the correct distance and direction from a central point to all other points on the map, as defined by the CF conventions.",
+    "drs_name": "azimuthal_equidistant"
+}

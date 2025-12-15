@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "transverse_mercator",
+    "type": "grid_mapping",
+    "description": "A projection that rotates the Mercator projection cylinder 90 degrees to be tangent to the Earth along a meridian instead of the equator, as defined by the CF conventions.",
+    "drs_name": "transverse_mercator"
+}

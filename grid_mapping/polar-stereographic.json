@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "polar_stereographic",
+    "type": "grid_mapping",
+    "description": "An azimuthal projection that maps the Earth's surface onto a flat plane from a view point at one pole, projecting points from the globe to a plane tangent to the opposite pole, as defined by the CF conventions.",
+    "drs_name": "polar_stereographic"
+}

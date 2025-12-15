@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "stereographic",
+    "type": "grid_mapping",
+    "description": "A projection that preserves the angles between intersecting lines and curves on the sphere, as defined by the CF conventions.",
+    "drs_name": "stereographic"
+}

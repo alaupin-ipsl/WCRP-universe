@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "latitude_longitude",
+    "type": "grid_mapping",
+    "description": "A projection that treats latitude and longitude as planar X and Y coordinates, as defined by the CF conventions.",
+    "drs_name": "latitude_longitude"
+}
