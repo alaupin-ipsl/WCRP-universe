@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "triangular",
+    "type": "truncation_method",
+    "description": "Triangular truncation.",
+    "drs_name": "triangular"
+}

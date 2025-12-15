@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rhomboidal",
+    "type": "truncation_method",
+    "description": "Rhomboidal truncation.",
+    "drs_name": "rhomboidal"
+}
