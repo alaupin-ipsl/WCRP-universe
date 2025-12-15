@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "none",
+    "type": "calendar",
+    "description": "The designation for no calendar, as defined by the CF conventions.",
+    "drs_name": "none"
+}

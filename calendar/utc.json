@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "utc",
+    "type": "calendar",
+    "description": "The Gregorian calendar with leap seconds prescribed by Coordinated Universal Time (UTC), as defined by the CF conventions.",
+    "drs_name": "utc"
+}

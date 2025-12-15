@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "360_day",
+    "type": "calendar",
+    "description": "The calendar in which all years are 360 days, and divided into 30 day months, as defined by the CF conventions.",
+    "drs_name": "360_day"
+}

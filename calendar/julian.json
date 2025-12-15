@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "julian",
+    "type": "calendar",
+    "description": "The calendar which follows the Julian rule for leap years, as defined by the CF conventions.",
+    "drs_name": "julian"
+}

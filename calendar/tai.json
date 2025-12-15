@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "tai",
+    "type": "calendar",
+    "description": "The Gregorian calendar without leap seconds that is based on International Atomic Time (TAI), as defined by the CF conventions.",
+    "drs_name": "tai"
+}
