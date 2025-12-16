@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "yearly",
+    "type": "time_range",
+    "regex" : "^\\d{4}-\\d{4}$",
+    "description": "Is regexp missing from context? Time range format used when the data has a reporting interval (aka frequency) of yearly"
+}
