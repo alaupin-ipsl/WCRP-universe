@@ -1,7 +1,7 @@
 {
   "@context": "000_context.jsonld",
   "id": "y_velocity",
-  "type": "horizontal_grid_cell_variable_type",
+  "type": "cell_variable_type",
   "description": "Variables representing the Y component of the velocity vector and certain horizontal fluxes of mass, energy, momentum, etc. For a grid defined by spherical polar coordinates, the Y direction is latitude.",
   "drs_name": "y_velocity"
 }

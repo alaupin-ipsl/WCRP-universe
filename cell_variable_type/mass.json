@@ -1,7 +1,7 @@
 {
   "@context": "000_context.jsonld",
   "id": "mass",
-  "type": "horizontal_grid_cell_variable_type",
+  "type": "cell_variable_type",
   "description": "Mass-related variables, including those representing thermodynamic and hydrodynamic quantities.",
   "drs_name": "mass"
 }
