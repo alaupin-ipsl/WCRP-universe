@@ -3,5 +3,7 @@
   "id": "limited_area",
   "type": "region",
   "description": "Any contiguous subregion of the Earth’s surface, used to indicate a limited area model that may be placed over different geographical regions independently of the model formulation.",
-  "drs_name": "limited_area"
+  "drs_name": "limited_area",
+  "cf_standard_region": null,
+  "iso_region": null
 }
