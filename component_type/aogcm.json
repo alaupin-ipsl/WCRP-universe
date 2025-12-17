@@ -1,0 +1,7 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "aogcm",
+  "type": "component_type",
+  "description": "Coupled atmosphere-ocean global climate model, including explicit representation of at least the land and sea ice.",
+  "drs_name": "AOGCM"
+}
