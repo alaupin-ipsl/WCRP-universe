@@ -2,7 +2,7 @@
   "esgvoc_resolve_modes": {
     "grid_type": "full",
     "grid_mapping": "full",
-    "region": "full",
+    "region": "reference",
     "temporal_refinement": "full",
     "arrangement": "full",
     "cell_variable_type": "full"
