@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "arpege_climat_version_6_3_ref_002",
+  "type": "reference",
+  "citation": "Charlotte Pascoe (Guest): The text refers to Roehrig et al. 2019, but this is Roehrig et al. 2020. Roehrig, R., Beau, I., Saint-Martin, D., Alias, A., Decharme, B., Guérémy, J.-F., et al. (2020). The CNRM global atmosphere model ARPEGE-Climat 6.3: Description and evaluation. Journal of Advances in Modeling Earth Systems, 12, e2020MS002075. https://doi.org/10.1029/2020MS002075",
+  "doi": "https://doi.org/10.1029/2020MS002075",
+  "drs_name": "arpege_climat_version_6_3_ref_002"
+}

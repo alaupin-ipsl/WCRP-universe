@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "surfex_v8_modeling_platform_ref_002",
+  "type": "reference",
+  "citation": "Charlotte Pascoe (Guest): The text refers to Delire et al. 2019 but this is Delire et al. 2020. Delire C., Séférian R., Decharme B., Alkama R., Calvet J.C., Carrer D., Gibelin A.L., Joetzjer E., Morel X., Rocher M., Tzanos D., 2020. The global land carbon cycle simulated with ISBA-CTRIP : improvements over the last decade, Journal of Advances in Modeling Earth Systems, https://doi.org/10.1029/2019MS001886",
+  "doi": "https://doi.org/10.1029/2019MS001886",
+  "drs_name": "surfex_v8_modeling_platform_ref_002"
+}

@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "reprobus_c_v2_0_ref_001",
+  "type": "reference",
+  "citation": "M. Michou, P. Nabat, D. Saint-Martin, J. Bock, B. Decharme, M. Mallet, R. Roehrig, R. Séférian, S. Sénési and A. Voldoire (2020) Present-day and historical aerosol and ozone characteristics in CNRM CMIP6 simulations, JAMES, 12, e2019MS001816, DOI:10.1029/2019MS001816.",
+  "doi": "https://doi.org/10.1029/2019MS001816",
+  "drs_name": "reprobus_c_v2_0_ref_001"
+}

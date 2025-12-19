@@ -1,0 +1,11 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "gelato_hsubgrid_3",
+  "type": "horizontal_subgrid",
+  "name": "GELATO_hsubgrid_3",
+  "cell_variable_type": [
+    "mass"
+  ],
+  "horizontal_grid_cells": "gelato_hgrid_3",
+  "drs_name": "GELATO_hsubgrid_3"
+}

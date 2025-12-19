@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "tactic_v2_ref_002",
+  "type": "reference",
+  "citation": "P. Nabat, S. Somot, C. Cassou, M. Mallet, M. Michou, D. Bouniol, B. Decharme, T. Drugé, R. Roehrig, and D. Saint-Martin (2020) Modulation of radiative aerosols effects by atmospheric circulation over the Euro-Mediterranean region, Atmos. Chem. Phys., 20, 8315–8349, DOI:10.5194/acp-20-8315-2020.",
+  "doi": "https://doi.org/10.5194/acp-20-8315-2020",
+  "drs_name": "tactic_v2_ref_002"
+}

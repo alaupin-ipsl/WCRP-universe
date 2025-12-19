@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "reprobus_c_v2_0_ref_006",
+  "type": "reference",
+  "citation": "Zhang, J., Tian, W., Xie, F., Chipperfield, M. P., Feng, W., Son, S.-W., et al. (2018). Stratospheric ozone loss over the Eurasian continent induced by the polar vortex shift. Nature Communications, 9(1), 206. http://doi.org/10.1038/s41467-017-02565-2",
+  "doi": "https://doi.org/10.1038/s41467-017-02565-2",
+  "drs_name": "reprobus_c_v2_0_ref_006"
+}

@@ -1,0 +1,12 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "arpege_climat_version_6_3_hcomp_grid",
+  "type": "horizontal_computational_grid",
+  "name": "Arpege-Climat Version 6.3_hcomp_grid",
+  "arrangement": "arakawa_a",
+  "horizontal_subgrids": [
+    "arpege_climat_version_6_3_hsubgrid_1",
+    "arpege_climat_version_6_3_hsubgrid_2"
+  ],
+  "drs_name": "Arpege-Climat Version 6.3_hcomp_grid"
+}

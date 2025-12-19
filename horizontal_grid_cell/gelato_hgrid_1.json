@@ -1,0 +1,20 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "gelato_hgrid_1",
+  "type": "horizontal_grid_cell",
+  "name": "GELATO_hgrid_1",
+  "region": "global",
+  "grid_type": "tripolar",
+  "grid_mapping": "",
+  "temporal_refinement": "static",
+  "description": "eORCA1L75",
+  "x_resolution": null,
+  "y_resolution": null,
+  "horizontal_units": null,
+  "southernmost_latitude": null,
+  "westernmost_longitude": null,
+  "n_cells": 105704,
+  "truncation_method": null,
+  "truncation_number": null,
+  "drs_name": "GELATO_hgrid_1"
+}

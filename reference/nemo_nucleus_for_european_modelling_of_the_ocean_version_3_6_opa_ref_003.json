@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "nemo_nucleus_for_european_modelling_of_the_ocean_version_3_6_opa_ref_003",
+  "type": "reference",
+  "citation": "Fox‐Kemper, B., Danabasoglu, G., Ferrari, R., Griffies, S. M., Hallberg, R. W., Holland, M. M., et al. (2011). Parameterization of mixed layer eddies. III: Implementation and impact in global ocean climate simulations. Ocean Model, 39(1‐2), 61–78",
+  "doi": "https://doi.org/10.1016/j. ocemod.2010.09.002",
+  "drs_name": "nemo_nucleus_for_european_modelling_of_the_ocean_version_3_6_opa_ref_003"
+}

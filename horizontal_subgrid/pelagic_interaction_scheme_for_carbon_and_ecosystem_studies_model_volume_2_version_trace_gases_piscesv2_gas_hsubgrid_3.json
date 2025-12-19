@@ -1,0 +1,11 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "pelagic_interaction_scheme_for_carbon_and_ecosystem_studies_model_volume_2_version_trace_gases_piscesv2_gas_hsubgrid_3",
+  "type": "horizontal_subgrid",
+  "name": "Pelagic Interaction Scheme for Carbon and Ecosystem Studies model volume 2 version trace gases (PISCESv2-gas)_hsubgrid_3",
+  "cell_variable_type": [
+    "mass"
+  ],
+  "horizontal_grid_cells": "pelagic_interaction_scheme_for_carbon_and_ecosystem_studies_model_volume_2_version_trace_gases_piscesv2_gas_hgrid_3",
+  "drs_name": "Pelagic Interaction Scheme for Carbon and Ecosystem Studies model volume 2 version trace gases (PISCESv2-gas)_hsubgrid_3"
+}

@@ -1,0 +1,13 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "gelato_vcomp_grid",
+  "type": "vertical_computational_grid",
+  "name": "GELATO_vcomp_grid",
+  "vertical_coordinate": "height",
+  "description": null,
+  "n_z": 10,
+  "bottom_layer_thickness": null,
+  "top_layer_thickness": null,
+  "top_of_model": null,
+  "drs_name": "GELATO_vcomp_grid"
+}

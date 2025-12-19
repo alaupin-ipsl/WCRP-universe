@@ -1,0 +1,20 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "gelato",
+  "type": "model_componentEMD",
+  "component": "sea_ice",
+  "name": "GELATO",
+  "family": "GELATO",
+  "description": "Global Experimental Leads and sea ice for ATmosphere and Ocean Sea ice dynamics, version 6 is the seaice component directly embedded in the ocean model component NEMO.  Sea ice dynamics is computed from the Elastic-Viscous-Plastic scheme implemented by Bouillon et al. (2009). The advection of sea ice is semi-lagrangian, as described by Hunke and Lipscomb (2002). The transported variables are snow density, volume and enthalpy, and ice surface, volume, enthalpy, salinity, and age. Depending on sea ice thickness, rafting, and ridging may take place in case of sea ice convergence, as described in Salas Mélia (2002).  Within the standard configuration of CNRM‐CM6‐1, Gelato has a time step of 3,600 s. It is used with five ice thickness categories, based on the World Meteorological Organization classification (less than 0.30, 0.3–0.7, 0.7–1.2, 1.2–2, and over 2‐m thick). In each ice category, the snow is treated with a single layer, while ice is simulated with a nine‐layer vertical discretization. The sea ice enthalpy formulation is based on Notz (2005). As in Hunke and Lipscomb (2010), an iterative method is used to solve the vertical heat diffusion equation in sea ice. The solar radiative transfert scheme through the snow pack covering sea ice was upgraded following Grenfell and Maykut (1977). Albedo of dry snow, melting snow, and melting ice are model parameters, set to 0.88, 0.77, and 0.58 in CNRM‐CM6‐1, respectively.",
+  "code_base": "private",
+  "embedded_in": "ocean",
+  "coupled_with": null,
+  "references": [
+    "gelato_ref_001",
+    "gelato_ref_002",
+    "gelato_ref_003"
+  ],
+  "horizontal_computational_grid": "gelato_hcomp_grid",
+  "vertical_computational_grid": "gelato_vcomp_grid",
+  "drs_name": "GELATO"
+}

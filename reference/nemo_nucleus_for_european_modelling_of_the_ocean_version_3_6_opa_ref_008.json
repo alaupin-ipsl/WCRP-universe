@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "nemo_nucleus_for_european_modelling_of_the_ocean_version_3_6_opa_ref_008",
+  "type": "reference",
+  "citation": "Shchepetkin, A. F., & McWilliams, J. C. (2005). The regional oceanic modeling system (ROMS): A split‐explicit, free‐surface, topographyfollowing‐coordinate oceanic model. Ocean Modelling, 9(4), 347–404.",
+  "doi": "https://doi.org/10.1016/j.ocemod.2004.08.002",
+  "drs_name": "nemo_nucleus_for_european_modelling_of_the_ocean_version_3_6_opa_ref_008"
+}

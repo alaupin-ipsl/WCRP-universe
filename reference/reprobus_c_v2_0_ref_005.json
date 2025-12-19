@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "reprobus_c_v2_0_ref_005",
+  "type": "reference",
+  "citation": "Wales, Pamela A., Salawitch, Ross J., Nicely, Julie M., Anderson, Daniel C., Canty, Timothy P., Baidar, S., et al. (2018). Stratospheric injection of brominated very short-lived substances: Aircraft observations in the western Pacific and representation in global models. Journal of Geophysical Research: Oceans, 123, 5690–5719. http://doi.org/10.1029/2017JD027978",
+  "doi": "https://doi.org/10.1029/2017JD027978",
+  "drs_name": "reprobus_c_v2_0_ref_005"
+}

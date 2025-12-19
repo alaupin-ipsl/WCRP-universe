@@ -1,0 +1,13 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "nemo_nucleus_for_european_modelling_of_the_ocean_version_3_6_opa_hcomp_grid",
+  "type": "horizontal_computational_grid",
+  "name": "NEMO : Nucleus for European Modelling of the Ocean version 3.6 (OPA)_hcomp_grid",
+  "arrangement": "arakawa_c",
+  "horizontal_subgrids": [
+    "nemo_nucleus_for_european_modelling_of_the_ocean_version_3_6_opa_hsubgrid_1",
+    "nemo_nucleus_for_european_modelling_of_the_ocean_version_3_6_opa_hsubgrid_2",
+    "nemo_nucleus_for_european_modelling_of_the_ocean_version_3_6_opa_hsubgrid_3"
+  ],
+  "drs_name": "NEMO : Nucleus for European Modelling of the Ocean version 3.6 (OPA)_hcomp_grid"
+}

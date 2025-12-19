@@ -1,0 +1,13 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "pelagic_interaction_scheme_for_carbon_and_ecosystem_studies_model_volume_2_version_trace_gases_piscesv2_gas_hcomp_grid",
+  "type": "horizontal_computational_grid",
+  "name": "Pelagic Interaction Scheme for Carbon and Ecosystem Studies model volume 2 version trace gases (PISCESv2-gas)_hcomp_grid",
+  "arrangement": "arakawa_c",
+  "horizontal_subgrids": [
+    "pelagic_interaction_scheme_for_carbon_and_ecosystem_studies_model_volume_2_version_trace_gases_piscesv2_gas_hsubgrid_1",
+    "pelagic_interaction_scheme_for_carbon_and_ecosystem_studies_model_volume_2_version_trace_gases_piscesv2_gas_hsubgrid_2",
+    "pelagic_interaction_scheme_for_carbon_and_ecosystem_studies_model_volume_2_version_trace_gases_piscesv2_gas_hsubgrid_3"
+  ],
+  "drs_name": "Pelagic Interaction Scheme for Carbon and Ecosystem Studies model volume 2 version trace gases (PISCESv2-gas)_hcomp_grid"
+}

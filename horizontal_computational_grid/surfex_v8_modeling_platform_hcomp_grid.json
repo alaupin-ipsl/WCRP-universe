@@ -1,0 +1,12 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "surfex_v8_modeling_platform_hcomp_grid",
+  "type": "horizontal_computational_grid",
+  "name": "SURFEX v8 modeling platform_hcomp_grid",
+  "arrangement": "arakawa_a",
+  "horizontal_subgrids": [
+    "surfex_v8_modeling_platform_hsubgrid_1",
+    "surfex_v8_modeling_platform_hsubgrid_2"
+  ],
+  "drs_name": "SURFEX v8 modeling platform_hcomp_grid"
+}

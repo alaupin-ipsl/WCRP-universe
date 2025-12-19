@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "nemo_nucleus_for_european_modelling_of_the_ocean_version_3_6_opa_ref_005",
+  "type": "reference",
+  "citation": "de Lavergne, C., Madec, G., Le Sommer, J., George Nurser, A. J., & Naveira Garabato, A. C. (2016). The impact of a variable mixing efficiency on the abyssal overturning. Journal of Physical Oceanography, 46(2), 663–681.",
+  "doi": "https://doi.org/10.1175/JPO‐D‐14‐0259.1",
+  "drs_name": "nemo_nucleus_for_european_modelling_of_the_ocean_version_3_6_opa_ref_005"
+}

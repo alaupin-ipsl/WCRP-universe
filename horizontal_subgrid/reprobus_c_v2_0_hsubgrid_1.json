@@ -1,0 +1,11 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "reprobus_c_v2_0_hsubgrid_1",
+  "type": "horizontal_subgrid",
+  "name": "REPROBUS-C (v2.0)_hsubgrid_1",
+  "cell_variable_type": [
+    "mass"
+  ],
+  "horizontal_grid_cells": "reprobus_c_v2_0_hgrid_1",
+  "drs_name": "REPROBUS-C (v2.0)_hsubgrid_1"
+}

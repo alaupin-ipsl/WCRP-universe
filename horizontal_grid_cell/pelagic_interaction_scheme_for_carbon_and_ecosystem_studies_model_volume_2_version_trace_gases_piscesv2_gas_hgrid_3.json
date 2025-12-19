@@ -1,0 +1,20 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "pelagic_interaction_scheme_for_carbon_and_ecosystem_studies_model_volume_2_version_trace_gases_piscesv2_gas_hgrid_3",
+  "type": "horizontal_grid_cell",
+  "name": "Pelagic Interaction Scheme for Carbon and Ecosystem Studies model volume 2 version trace gases (PISCESv2-gas)_hgrid_3",
+  "region": "global",
+  "grid_type": "regular_latitude_longitude",
+  "grid_mapping": "latitude_longitude",
+  "temporal_refinement": "static",
+  "description": "Regular grid based on HGRID001_SUB1",
+  "x_resolution": 0.5,
+  "y_resolution": 0.5,
+  "horizontal_units": "degree",
+  "southernmost_latitude": -89.75,
+  "westernmost_longitude": 0.25,
+  "n_cells": 259200,
+  "truncation_method": null,
+  "truncation_number": null,
+  "drs_name": "Pelagic Interaction Scheme for Carbon and Ecosystem Studies model volume 2 version trace gases (PISCESv2-gas)_hgrid_3"
+}

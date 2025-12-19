@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "gelato_ref_002",
+  "type": "reference",
+  "citation": "Salas Mélia, D. (2002). A global coupled sea ice–ocean model. Ocean Modelling, 4(2), 137–172.",
+  "doi": "https://doi.org/10.1016/S14635003(01)00015‐4",
+  "drs_name": "gelato_ref_002"
+}

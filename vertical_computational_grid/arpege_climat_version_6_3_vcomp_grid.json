@@ -1,0 +1,13 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "arpege_climat_version_6_3_vcomp_grid",
+  "type": "vertical_computational_grid",
+  "name": "Arpege-Climat Version 6.3_vcomp_grid",
+  "vertical_coordinate": "atmosphere_hybrid_height_coordinate",
+  "description": "sigma pressure coordinate",
+  "n_z": 91,
+  "bottom_layer_thickness": 20.0,
+  "top_layer_thickness": 14000.0,
+  "top_of_model": 79536.54,
+  "drs_name": "Arpege-Climat Version 6.3_vcomp_grid"
+}

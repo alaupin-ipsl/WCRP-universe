@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "reprobus_c_v2_0_ref_002",
+  "type": "reference",
+  "citation": "Meinshausen, M., Meinshausen, M., Vogel, E., Nauels, A., Lorbacher, K., Meinshausen, N., et al. (2017). Historical greenhouse gas concen- trations for climate modelling (CMIP6). Geoscientific Model Development, 10(5), 2057–2116. http://doi.org/10.5194/gmd-10-2057-2017",
+  "doi": "https://doi.org/10.5194/gmd-10-2057-2017",
+  "drs_name": "reprobus_c_v2_0_ref_002"
+}

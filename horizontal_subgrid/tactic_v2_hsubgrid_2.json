@@ -1,0 +1,11 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "tactic_v2_hsubgrid_2",
+  "type": "horizontal_subgrid",
+  "name": "TACTIC_v2_hsubgrid_2",
+  "cell_variable_type": [
+    "mass"
+  ],
+  "horizontal_grid_cells": "tactic_v2_hgrid_2",
+  "drs_name": "TACTIC_v2_hsubgrid_2"
+}

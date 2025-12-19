@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "pelagic_interaction_scheme_for_carbon_and_ecosystem_studies_model_volume_2_version_trace_gases_piscesv2_gas_ref_007",
+  "type": "reference",
+  "citation": "Mayorga, E., Seitzinger, S. P., Harrison, J. A., Dumont, E., Beusen, A. H., Bouwman, A. F., ... & Van Drecht, G. (2010). Global nutrient export from WaterSheds 2 (NEWS 2): model development and implementation. Environmental Modelling & Software, 25(7), 837-853.",
+  "doi": "https://doi-org.insu.bib.cnrs.fr/10.1016/j.envsoft.2010.01.007",
+  "drs_name": "pelagic_interaction_scheme_for_carbon_and_ecosystem_studies_model_volume_2_version_trace_gases_piscesv2_gas_ref_007"
+}

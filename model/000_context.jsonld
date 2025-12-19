@@ -1,0 +1,62 @@
+{
+    "@context": {
+        "@base": "https://esgvoc.ipsl.fr/resource/universe/model/",
+        "@vocab": "http://schema.org/",
+        "id": "@id",
+        "type": "@type",
+        "description": {
+            "@id": "https://schema.org/description"
+        },
+        "name": {
+            "@id": "https://schema.org/name"
+        },
+        "family": {
+            "@id": "https://esgvoc.ipsl.fr/resource/universe/model_family"
+        },
+        "dynamic_components": {
+            "@id": "https://esgvoc.ipsl.fr/resource/universe/dynamic_component/",
+            "@type": "@id",
+            "@context": {
+                "@base": "https://esgvoc.ipsl.fr/resource/universe/component_type/"
+            }
+        },
+        "prescribed_components": {
+            "@id": "https://esgvoc.ipsl.fr/resource/universe/prescribed_component/",
+            "@type": "@id",
+            "@context": {
+                "@base": "https://esgvoc.ipsl.fr/resource/universe/component_type/"
+            }
+        },
+        "omitted_components": {
+            "@id": "https://esgvoc.ipsl.fr/resource/universe/omitted_component/",
+            "@type": "@id",
+            "@context": {
+                "@base": "https://esgvoc.ipsl.fr/resource/universe/component_type/"
+            }
+        },
+        "calendar": {
+            "@id": "https://esgvoc.ipsl.fr/resource/universe/calendar/",
+            "@type": "@id",
+            "@context": {
+                "@base": "https://esgvoc.ipsl.fr/resource/universe/calendar/"
+            }
+        },
+        "release_year": {
+            "@id": "https://esgvoc.ipsl.fr/resource/universe/release_year"
+        },
+        "references": {
+            "@id": "https://esgvoc.ipsl.fr/resource/universe/reference/",
+            "@type": "@id",
+            "@context": {
+                "@base": "https://esgvoc.ipsl.fr/resource/universe/reference/"
+            }
+        },
+        "model_components": {
+            "@id": "https://esgvoc.ipsl.fr/resource/universe/model_componentEMD/",
+            "@type": "@id",
+            "@context": {
+                "@base": "https://esgvoc.ipsl.fr/resource/universe/model_componentEMD/"
+            }
+        }
+    }
+}

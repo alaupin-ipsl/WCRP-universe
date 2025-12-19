@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "cnrm_esm2_1e_ref_003",
+  "type": "reference",
+  "citation": "Bossert et al, in rev, CNRM-ESM2-2: development and evaluation of an updated version of the CNRM-CERFACS Earth System Model. ESS Open Archive . October 06, 2025",
+  "doi": "https://doi.org/10.22541/essoar.175977424.42948487/v1",
+  "drs_name": "cnrm_esm2_1e_ref_003"
+}

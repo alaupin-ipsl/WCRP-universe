@@ -1,0 +1,20 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "nemo_nucleus_for_european_modelling_of_the_ocean_version_3_6_opa_hgrid_2",
+  "type": "horizontal_grid_cell",
+  "name": "NEMO : Nucleus for European Modelling of the Ocean version 3.6 (OPA)_hgrid_2",
+  "region": "global",
+  "grid_type": "regular_latitude_longitude",
+  "grid_mapping": "latitude_longitude",
+  "temporal_refinement": "static",
+  "description": "Regular grid based on HGRID002_SUB1",
+  "x_resolution": 1.0,
+  "y_resolution": 1.0,
+  "horizontal_units": "degree",
+  "southernmost_latitude": -89.5,
+  "westernmost_longitude": 0.5,
+  "n_cells": 64800,
+  "truncation_method": null,
+  "truncation_number": null,
+  "drs_name": "NEMO : Nucleus for European Modelling of the Ocean version 3.6 (OPA)_hgrid_2"
+}

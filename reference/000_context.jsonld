@@ -1,0 +1,14 @@
+{
+    "@context": {
+        "@base": "https://esgvoc.ipsl.fr/resource/universe/reference/",
+        "@vocab": "http://schema.org/",
+        "id": "@id",
+        "type": "@type",
+        "citation": {
+            "@id": "https://schema.org/citation"
+        },
+        "doi": {
+            "@id": "https://schema.org/identifier"
+        }
+    }
+}

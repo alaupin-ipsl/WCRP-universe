@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "nemo_nucleus_for_european_modelling_of_the_ocean_version_3_6_opa_ref_004",
+  "type": "reference",
+  "citation": "IOC, SCOR, IAPSO (2010) The international thermodynamic equation of seawater—2010: Calculation and use of thermodynamic properties. Intergov Oceanogr Comm Manuals Guid No 56, UNESCO.",
+  "doi": "https://doi.org/10.1109/VETECF.2008.21",
+  "drs_name": "nemo_nucleus_for_european_modelling_of_the_ocean_version_3_6_opa_ref_004"
+}

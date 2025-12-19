@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "gelato_ref_001",
+  "type": "reference",
+  "citation": "Bouillon, S., Morales Maqueda, M. A., Legat, V., & Fichefet, T. (2009). An elastic‐viscous‐plastic sea ice model formulated on Arakawa B and C grids. Ocean Modelling, 27(3‐4), 174–184.",
+  "doi": "https://doi.org/10.1016/j.ocemod.2009.01.004",
+  "drs_name": "gelato_ref_001"
+}

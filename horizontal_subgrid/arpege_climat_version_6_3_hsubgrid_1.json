@@ -1,0 +1,11 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "arpege_climat_version_6_3_hsubgrid_1",
+  "type": "horizontal_subgrid",
+  "name": "Arpege-Climat Version 6.3_hsubgrid_1",
+  "cell_variable_type": [
+    "mass"
+  ],
+  "horizontal_grid_cells": "arpege_climat_version_6_3_hgrid_1",
+  "drs_name": "Arpege-Climat Version 6.3_hsubgrid_1"
+}

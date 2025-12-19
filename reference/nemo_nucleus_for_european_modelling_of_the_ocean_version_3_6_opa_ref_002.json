@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "nemo_nucleus_for_european_modelling_of_the_ocean_version_3_6_opa_ref_002",
+  "type": "reference",
+  "citation": "Danabasoglu, G., Yeager, S. G., Bailey, D., Behrens, E., Bentsen, M., Bi, D., et al. (2014). North Atlantic simulations in Coordinated Oceanice Reference Experiments phase II (CORE‐II). Part I: Mean states. Ocean Model, 73, 76–107.",
+  "doi": "https://doi.org/10.1016/j. ocemod.2013.10.005",
+  "drs_name": "nemo_nucleus_for_european_modelling_of_the_ocean_version_3_6_opa_ref_002"
+}

@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "reprobus_c_v2_0_ref_004",
+  "type": "reference",
+  "citation": "Maycock, A. C., Randel, W. J., Steiner, A. K., Karpechko, A. Y., Christy, J., Saunders, R., et al. (2018). Revisiting the mystery of recent stratospheric temperature trends. Geophysical Research Letters, 45, 9919–9933. http://doi.org/10.1029/2018GL078035",
+  "doi": "https://doi.org/10.1029/2018GL078035",
+  "drs_name": "reprobus_c_v2_0_ref_004"
+}

@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "pelagic_interaction_scheme_for_carbon_and_ecosystem_studies_model_volume_2_version_trace_gases_piscesv2_gas_ref_008",
+  "type": "reference",
+  "citation": "Ludwig, W., Probst, J. L., & Kempe, S. (1996). Predicting the oceanic input of organic carbon by continental erosion. Global Biogeochemical Cycles, 10(1), 23-41.",
+  "doi": "https://doi-org.insu.bib.cnrs.fr/10.1029/95GB02925",
+  "drs_name": "pelagic_interaction_scheme_for_carbon_and_ecosystem_studies_model_volume_2_version_trace_gases_piscesv2_gas_ref_008"
+}

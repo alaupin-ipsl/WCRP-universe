@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "pelagic_interaction_scheme_for_carbon_and_ecosystem_studies_model_volume_2_version_trace_gases_piscesv2_gas_ref_002",
+  "type": "reference",
+  "citation": "Berthet, S., Jouanno, J., Séférian, R., Gehlen, M., and Llovel, W. : How does the phytoplankton–light feedback affect the marine N2O inventory ?, Earth Syst. Dynam., 14, 399–412, https://doi.org/10.5194/esd-14-399-2023, 2023.",
+  "doi": "https://doi.org/10.5194/esd-14-399-2023",
+  "drs_name": "pelagic_interaction_scheme_for_carbon_and_ecosystem_studies_model_volume_2_version_trace_gases_piscesv2_gas_ref_002"
+}

@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "surfex_v8_modeling_platform_ref_004",
+  "type": "reference",
+  "citation": "Voldoire et al, 2017. SURFEX v8.0 interface with OASIS3-MCT to couple atmosphere with hydrology, ocean, waves and sea-ice models, from coastal to global scales, Geosci. Model Dev., 10, 4207-4227, https://doi.org/10.5194/gmd-10-4207-2017",
+  "doi": "https://doi.org/10.5194/gmd-10-4207-2017",
+  "drs_name": "surfex_v8_modeling_platform_ref_004"
+}

@@ -1,0 +1,20 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "surfex_v8_modeling_platform_hgrid_1",
+  "type": "horizontal_grid_cell",
+  "name": "SURFEX v8 modeling platform_hgrid_1",
+  "region": "global",
+  "grid_type": "reduced_gaussian",
+  "grid_mapping": "latitude_longitude",
+  "temporal_refinement": "static",
+  "description": "TL127",
+  "x_resolution": 1.4,
+  "y_resolution": 1.4,
+  "horizontal_units": "degree",
+  "southernmost_latitude": -88.9277353522076,
+  "westernmost_longitude": 0.0,
+  "n_cells": 24572,
+  "truncation_method": "triangular",
+  "truncation_number": 127,
+  "drs_name": "SURFEX v8 modeling platform_hgrid_1"
+}

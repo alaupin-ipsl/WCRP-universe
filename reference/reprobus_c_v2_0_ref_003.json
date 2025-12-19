@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "reprobus_c_v2_0_ref_003",
+  "type": "reference",
+  "citation": "Maycock, A. C., Matthes, K., Tegtmeier, S., Schmidt, H., Thiéblemont, R., Hood, L., et al. (2018). The representation of solar cycle signals in stratospheric ozone—Part 2: Analysis of global models. Atmospheric Chemistry and Physics, 18(15), 11,323–11,343. http://doi.org/10. 5194/acp-18-11323-2018",
+  "doi": "https://doi.org/10. 5194/acp-18-11323-2018",
+  "drs_name": "reprobus_c_v2_0_ref_003"
+}

@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "tactic_v2_ref_004",
+  "type": "reference",
+  "citation": "Morcrette, J.‐J., Boucher, O., Jones, L., Salmond, D., Bechtold, P., Beljaars, A., et al. (2009). Aerosol analysis and forecast in the European Centre for Medium‐Range Weather Forecasts Integrated Forecast System: Forward modeling. Journal of Geophysical Research, 114, D06206.",
+  "doi": "https://doi.org/10.1029/2008JD011235",
+  "drs_name": "tactic_v2_ref_004"
+}

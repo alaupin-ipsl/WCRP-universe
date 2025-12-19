@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "tactic_v2_ref_003",
+  "type": "reference",
+  "citation": "Menon, S., Genio, A. D. D., Koch, D., & Tselioudis, G. (2002). GCM, simulations of the aerosol indirect effect: Sensitivity to cloud parameterization and aerosol burden. Journal of the Atmospheric Sciences, 59(3), 692–713.",
+  "doi": "https://doi.org/10.1175/1520-0469(2002)059<0692:GSOTAI>2.0.CO;2",
+  "drs_name": "tactic_v2_ref_003"
+}

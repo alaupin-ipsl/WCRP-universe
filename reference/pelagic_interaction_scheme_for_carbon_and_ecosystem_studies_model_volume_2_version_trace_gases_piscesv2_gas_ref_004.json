@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "pelagic_interaction_scheme_for_carbon_and_ecosystem_studies_model_volume_2_version_trace_gases_piscesv2_gas_ref_004",
+  "type": "reference",
+  "citation": "Lengaigne, M., Menkes, C., Aumont, O., Gorgues, T., Bopp, L., André, J. M., & Madec, G. (2007). Influence of the oceanic biology on the tropical Pacific climate in a coupled general circulation model. Climate Dynamics, 28(5), 503–516.",
+  "doi": "https://doi.org/10.1007/s00382‐0060200‐2",
+  "drs_name": "pelagic_interaction_scheme_for_carbon_and_ecosystem_studies_model_volume_2_version_trace_gases_piscesv2_gas_ref_004"
+}

@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "gelato_ref_003",
+  "type": "reference",
+  "citation": "Grenfell, T. C., & Maykut, G. A. (1977). The optical properties of ice and snow in the Arctic basin. Journal of Glaciology, 18(80), 445–463.",
+  "doi": "https://doi.org/10.3189/S0022143000021122",
+  "drs_name": "gelato_ref_003"
+}

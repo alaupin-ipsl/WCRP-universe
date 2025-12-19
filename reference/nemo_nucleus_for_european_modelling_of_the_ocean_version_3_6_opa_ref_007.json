@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "nemo_nucleus_for_european_modelling_of_the_ocean_version_3_6_opa_ref_007",
+  "type": "reference",
+  "citation": "Madec, NEMO team, 2016G. Madec, NEMO teamNEMO Ocean EngineTechnical Report, Institut Pierre-Simon Laplace (IPSL) (2016)",
+  "doi": "https:// doi.org/10.5281/ZENODO.1472492",
+  "drs_name": "nemo_nucleus_for_european_modelling_of_the_ocean_version_3_6_opa_ref_007"
+}
