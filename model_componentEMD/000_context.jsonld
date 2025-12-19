@@ -1,4 +1,12 @@
 {
+    "esgvoc_resolve_modes": {
+        "component": "reference",
+        "embedded_in": "reference",
+        "coupled_with": "reference",
+        "references": "full",
+        "horizontal_computational_grid": "full",
+        "vertical_computational_grid": "full"
+    },
     "@context": {
         "@base": "https://esgvoc.ipsl.fr/resource/universe/model_componentEMD/",
         "@vocab": "http://schema.org/",
