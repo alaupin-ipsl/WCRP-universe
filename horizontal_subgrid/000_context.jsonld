@@ -1,4 +1,8 @@
 {
+    "esgvoc_resolve_modes": {
+        "cell_variable_type": "reference",
+        "horizontal_grid_cells": "full"
+    },
     "@context": {
         "@base": "https://esgvoc.ipsl.fr/resource/universe/horizontal_subgrid/",
         "@vocab": "http://schema.org/",
