@@ -5,7 +5,8 @@
     "region": "reference",
     "temporal_refinement": "full",
     "arrangement": "full",
-    "cell_variable_type": "full"
+    "cell_variable_type": "full",
+    "truncation_method": "reference"
   },
   "@context": {
     "@base": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_cell/",
