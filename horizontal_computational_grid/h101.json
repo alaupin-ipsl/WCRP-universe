@@ -1,0 +1,13 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "h101",
+  "type": "horizontal_computational_grid",
+  "name": "h101",
+  "arrangement": "arakawa_c",
+  "horizontal_subgrids": [
+    "s102",
+    "s103",
+    "s104"
+  ],
+  "drs_name": "h101"
+}

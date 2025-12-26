@@ -1,13 +1,11 @@
 {
   "@context": "000_context.jsonld",
-  "id": "surfex_v8_modeling_platform_vcomp_grid",
+  "id": "v101",
   "type": "vertical_computational_grid",
-  "name": "SURFEX v8 modeling platform_vcomp_grid",
+  "name": "v101",
   "vertical_coordinate": "depth",
+  "drs_name": "v101",
   "description": "14 soil layers (0.01, 0.04, 0.1, 0.2, 0.4, 0.6, 0.8, 1.0, 1.5, 2.0, 3.0, 5.0, 8.0, and 12.0 m) but the soil moisture profile is computed only over the rooting depth, from 0.2 (rocks) to 8 m (tropical forest) according to the land cover type, while the soil temperature is computed down to a depth of 12 m. Over the permafrost regions, all the 14 layers are solved in terms of moisture and temperature. See Decharme et al. (2019) for more details.",
   "n_z": 14,
-  "bottom_layer_thickness": 4.0,
-  "top_layer_thickness": null,
-  "top_of_model": null,
-  "drs_name": "SURFEX v8 modeling platform_vcomp_grid"
+  "bottom_layer_thickness": 4.0
 }

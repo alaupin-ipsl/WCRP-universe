@@ -1,0 +1,13 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "g102",
+  "type": "horizontal_grid_cell",
+  "name": "g102",
+  "region": "global",
+  "grid_type": "tripolar",
+  "grid_mapping": null,
+  "temporal_refinement": "static",
+  "drs_name": "g102",
+  "description": "eORCA1L75",
+  "n_cells": 105704
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "v103",
+  "type": "vertical_computational_grid",
+  "name": "v103",
+  "vertical_coordinate": "height",
+  "drs_name": "v103",
+  "n_z": 10
+}

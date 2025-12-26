@@ -1,0 +1,11 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "s100",
+  "type": "horizontal_subgrid",
+  "name": "s100",
+  "cell_variable_type": [
+    "mass"
+  ],
+  "horizontal_grid_cells": "g100",
+  "drs_name": "s100"
+}

@@ -1,13 +1,13 @@
 {
   "@context": "000_context.jsonld",
-  "id": "reprobus_c_v2_0_vcomp_grid",
+  "id": "v100",
   "type": "vertical_computational_grid",
-  "name": "REPROBUS-C (v2.0)_vcomp_grid",
+  "name": "v100",
   "vertical_coordinate": "atmosphere_hybrid_height_coordinate",
+  "drs_name": "v100",
   "description": "sigma pressure coordinate",
   "n_z": 91,
   "bottom_layer_thickness": 20.0,
   "top_layer_thickness": 14000.0,
-  "top_of_model": 79536.54,
-  "drs_name": "REPROBUS-C (v2.0)_vcomp_grid"
+  "top_of_model": 79536.54
 }
