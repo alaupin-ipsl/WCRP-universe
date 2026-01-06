@@ -23,14 +23,14 @@
       "@id": "https://esgvoc.ipsl.fr/resource/universe/grid_type/",
       "@type": "@id",
       "@context": {
-        "@base": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_type/"
+        "@base": "https://esgvoc.ipsl.fr/resource/universe/grid_type/"
       }
     },
     "grid_mapping": {
-      "@id": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_mapping/",
+      "@id": "https://esgvoc.ipsl.fr/resource/universe/grid_mapping/",
       "@type": "@id",
       "@context": {
-        "@base": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_mapping/"
+        "@base": "https://esgvoc.ipsl.fr/resource/universe/grid_mapping/"
       }
     },
     "region": {
@@ -41,10 +41,10 @@
       }
     },
     "temporal_refinement": {
-      "@id": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_temporal_refinement/",
+      "@id": "https://esgvoc.ipsl.fr/resource/universe/grid_temporal_refinement/",
       "@type": "@id",
       "@context": {
-        "@base": "https://esgvoc.ipsl.fr/resource/universe/horizontal_grid_temporal_refinement/"
+        "@base": "https://esgvoc.ipsl.fr/resource/universe/grid_temporal_refinement/"
       }
     },
     "resolution_x": "https://schema.org/distance",
