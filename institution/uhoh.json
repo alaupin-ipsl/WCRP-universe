@@ -1,10 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "uoho",
+    "id": "uhoh",
     "type": "institution",
-    "drs_name": "UOHO",
+    "drs_name": "UHOH",
     "acronyms": [
-        "UOHO"
+        "UHOH"
     ],
     "labels": [
         "University of Hohenheim"
