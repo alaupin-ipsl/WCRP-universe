@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mpi-csc",
+    "type": "organisation",
+    "drs_name": "MPI-CSC",
+    "members": [
+        "mpi-csc"
+    ],
+    "description": "Climate Service Center Germany, Helmholtz Centre hereon GmbH"
+}

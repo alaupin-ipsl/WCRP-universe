@@ -1,0 +1,11 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ipsl-ineris",
+    "type": "organisation",
+    "drs_name": "IPSL-INERIS",
+    "members": [
+        "ipsl",
+        "ineris"
+    ],
+    "description": "IPSL (Institut Pierre Simon Laplace) and INERIS (Institut National de l Environnement industriel et des RISques)"
+}

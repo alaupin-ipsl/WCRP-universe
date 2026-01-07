@@ -1,0 +1,27 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "uqam",
+    "type": "institution",
+    "drs_name": "UQAM",
+    "acronyms": [
+        "UQAM"
+    ],
+    "labels": [
+        "Université du Québec à Montréal",
+        "University of Quebec in Montreal",
+        "University of Quebec at Montreal"
+    ],
+    "description": "Université du Québec à Montréal",
+    "location": [
+        {
+            "city": "Montreal",
+            "country": "Canada",
+            "lat": 45.5132,
+            "lon": -73.5614
+        }
+    ],
+    "ror": "002rjbv21",
+    "urls": [
+        "https://uqam.ca"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "clmcom",
+    "type": "organisation",
+    "drs_name": "CLMcom",
+    "members": [
+        "clmcom-awi",
+        "clmcom-btu",
+        "clmcom-cmcc",
+        "clmcom-dwd",
+        "clmcom-eth",
+        "clmcom-fzj",
+        "clmcom-gerics",
+        "clmcom-guf",
+        "clmcom-hereon",
+        "clmcom-imwm",
+        "clmcom-kit",
+        "clmcom-kul",
+        "clmcom-list"
+    ],
+    "description": "Climate Limited-area Modelling Community (CLMcom)"
+}

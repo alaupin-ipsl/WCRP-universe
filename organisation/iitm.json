@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "iitm",
+    "type": "organisation",
+    "drs_name": "IITM",
+    "members": [
+        "iitm"
+    ],
+    "description": "Indian Institute of Tropical Meteorology"
+}

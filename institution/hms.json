@@ -1,0 +1,27 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hms",
+    "type": "institution",
+    "drs_name": "HMS",
+    "acronyms": [
+        "HMS",
+        "OMSZ"
+    ],
+    "labels": [
+        "Hungarian Meteorological Service",
+        "Országos Meteorológiai Szolgálat"
+    ],
+    "description": "Hungarian Meteorological Service",
+    "location": [
+        {
+            "city": "Budapest",
+            "country": "Hungary",
+            "lat": 47.5110,
+            "lon": 19.0280834
+        }
+    ],
+    "ror": "05jc7nb82",
+    "urls": [
+        "http://www.met.hu/en/idojaras/"
+    ]
+}
