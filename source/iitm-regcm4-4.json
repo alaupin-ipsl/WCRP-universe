@@ -1,6 +1,6 @@
 {
     "@context": "000_context.jsonld",
-    "id": "ictp-regcm4-4",
+    "id": "iitm-regcm4-4",
     "type": "source",
     "drs_name": "IITM-RegCM4-4",
     "activity_participation": [
