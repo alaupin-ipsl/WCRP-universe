@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sic",
+    "type": "variable",
+    "description": "Sea Ice Area Fraction",
+    "drs_name": "sic",
+    "long_name": null,
+    "standard_name": "sea_ice_area_fraction",
+    "units": "1"
+}
