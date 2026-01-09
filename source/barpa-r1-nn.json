@@ -10,7 +10,7 @@
         "Registered"
     ],
     "organisation_id": [
-        "BOM"
+        "bom"
     ],
     "label": "BARPA-R1-NN",
     "label_extended": "Bureau of Meteorology Atmospheric Regional Projections for Australia (BARPA) Regional Climate Model version 1 with Newtonian nudging",

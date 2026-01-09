@@ -10,7 +10,7 @@
         "Registered"
     ],
     "organisation_id": [
-        "NCAR"
+        "ncar"
     ],
     "label": "WRF v4.6.1-S",
     "label_extended": "Weather Research and Forecasting model version 4.6.1, CORDEX WRF Community configuration S",

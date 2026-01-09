@@ -10,7 +10,7 @@
         "Registered"
     ],
     "organisation_id": [
-        "CLMcom-FZJ"
+        "clmcom-fzj"
     ],
     "label": "TSMP1 v1.4.0-E",
     "label_extended": "Terrestrial Systems Modeling Platform (TSMP1) version 1.4.0: COSMO 5.01 (atm), CLM 3.5.0 (land), ParFlow 3.13.0 (hydro), OASIS3-MCT (coupler)",

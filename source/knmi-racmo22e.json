@@ -8,7 +8,7 @@
     ],
     "cohort": [],
     "organisation_id": [
-        "KNMI"
+        "knmi"
     ],
     "label": "KNMI-RACMO22E",
     "label_extended": "European configuration for the RACMO model",

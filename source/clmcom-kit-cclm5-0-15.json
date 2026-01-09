@@ -8,8 +8,7 @@
     ],
     "cohort": [],
     "organisation_id": [
-        "CLMcom",
-        "KIT"
+        "clmcom-kit"
     ],
     "label": "CLMcom-KIT-CCLM5-0-15",
     "label_extended": "COSMO model in climate mode (COSMO-CLM)",

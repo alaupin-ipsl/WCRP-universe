@@ -10,7 +10,7 @@
         "Registered"
     ],
     "organisation_id": [
-        "CLMcom-CMCC"
+        "clmcom-cmcc"
     ],
     "label": "CCLM6-0-1-URB",
     "label_extended": "COSMO model in climate mode (COSMO-CLM), Version 6.0 clm 1 with Urban Parametrization",

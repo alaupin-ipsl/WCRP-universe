@@ -8,8 +8,8 @@
     ],
     "cohort": [],
     "organisation_id": [
-        "IPSL",
-        "INERIS"
+        "ipsl",
+        "ineris"
     ],
     "label": "IPSL-INERIS-WRF331F",
     "label_extended": "Weather Research and Forecasting",

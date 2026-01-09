@@ -8,7 +8,7 @@
     ],
     "cohort": [],
     "organisation_id": [
-        "KNMI"
+        "knmi"
     ],
     "label": "KNMI-RACMO21P",
     "label_extended": "Polar configuration for the RACMO model",
