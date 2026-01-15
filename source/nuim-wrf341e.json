@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nuim-wrf341e",
+    "type": "source",
+    "drs_name": "NUIM-WRF341E",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "nuim"
+    ],
+    "label": "NUIM-WRF341E",
+    "label_extended": "Weather Research and Forecasting 341E",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

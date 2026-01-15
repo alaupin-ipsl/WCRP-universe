@@ -1,0 +1,27 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cec",
+    "type": "institution",
+    "drs_name": "CEC",
+    "acronyms": [
+        "CEC",
+        "MPI CEC"
+    ],
+    "labels": [
+        "Max Planck Institute for Chemical Energy Conversion",
+        " Max Planck Institut für Chemische Energiekonversion"
+    ],
+    "description": "Max Planck Institute for Chemical Energy Conversion",
+    "location": [
+        {
+            "city": "Mülheim",
+            "country": "Germany",
+            "lat": 51.4168,
+            "lon": 6.8885
+        }
+    ],
+    "ror": "048nfjm95",
+    "urls": [
+        "https://www.cec.mpg.de"
+    ]
+}

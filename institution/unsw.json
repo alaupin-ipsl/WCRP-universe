@@ -1,0 +1,27 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "unsw",
+    "type": "institution",
+    "drs_name": "UNSW",
+    "acronyms": [
+        "UNSW"
+    ],
+    "labels": [
+        "UNSW Sydney",
+        "University of New South Wales"
+
+    ],
+    "description": "UNSW Sydney",
+    "location": [
+        {
+            "city": "Sydney",
+            "country": "Australia",
+            "lat": -33.9167,
+            "lon": 151.2167
+        }
+    ],
+    "ror": "03r8z3t63",
+    "urls": [
+        "https://www.unsw.edu.au/"
+    ]
+}

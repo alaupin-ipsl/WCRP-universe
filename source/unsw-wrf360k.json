@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "unsw-wrf360k",
+    "type": "source",
+    "drs_name": "UNSW-WRF360K",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "unsw"
+    ],
+    "label": "UNSW-WRF360K",
+    "label_extended": "Weather Research and Forecasting 360K",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

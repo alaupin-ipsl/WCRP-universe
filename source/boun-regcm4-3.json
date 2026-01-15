@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "boun-regcm4-3",
+    "type": "source",
+    "drs_name": "BOUN-RegCM4-3",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "boun"
+    ],
+    "label": "BOUN-RegCM4-3",
+    "label_extended": "BOUN Regional Climate Model",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

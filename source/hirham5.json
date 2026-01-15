@@ -1,0 +1,16 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hirham5",
+    "type": "source",
+    "drs_name": "HIRHAM5",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [],
+    "label": "HIRHAM5",
+    "label_extended": "HIRAM5",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}
