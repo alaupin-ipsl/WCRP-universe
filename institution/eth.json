@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "eth",
+    "type": "institution",
+    "drs_name": "ETH",
+    "acronyms": [
+        "ETH"
+    ],
+    "labels": [
+        "ETH"
+    ],
+    "description": "ETH Zurich",
+    "location": [
+        {
+            "city": "Zurich",
+            "country": "Switzerland",
+            "lat": 47.36667,
+            "lon": 8.55
+        }
+    ],
+    "ror": "05a28rw58",
+    "urls": [
+        "https://ethz.ch"
+    ]
+}
