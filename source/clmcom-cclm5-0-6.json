@@ -1,8 +1,8 @@
 {
     "@context": "000_context.jsonld",
-    "id": "clmcom-cclm5-0-2",
+    "id": "clmcom-cclm5-0-6",
     "type": "source",
-    "drs_name": "CLMcom-CCLM5-0-2",
+    "drs_name": "CLMcom-CCLM5-0-6",
     "activity_participation": [
         "cordex"
     ],
@@ -10,7 +10,7 @@
     "organisation_id": [
         "clmcom"
     ],
-    "label": "CLMcom-CCLM5-0-2",
+    "label": "CLMcom-CCLM5-0-6",
     "label_extended": "COSMO model in climate mode (COSMO-CLM)",
     "license": {},
     "model_component": null,
