@@ -1,0 +1,9 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "aus-22",
+    "type": "region",
+    "drs_name": "AUS-22",
+    "description": "Australasia",
+    "cf_standard_region": null,
+    "iso_region": null
+}

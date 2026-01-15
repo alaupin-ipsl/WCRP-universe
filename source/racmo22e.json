@@ -1,0 +1,20 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "racmo22e",
+    "type": "source",
+    "drs_name": "RACMO22E",
+    "activity_participation": [
+        "DD"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "organisation_id": [
+        "knmi"
+    ],
+    "label": "RACMO22E",
+    "label_extended": "The KNMI Regional Climate Model RACMO, version 22E",
+    "license": {},
+    "model_component": null,
+    "release_year": "2022"
+}

@@ -1,0 +1,9 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cam-22",
+    "type": "region",
+    "drs_name": "CAM-22",
+    "description": "Central America",
+    "cf_standard_region": null,
+    "iso_region": null
+}

@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ru-core-regcm4-3",
+    "type": "source",
+    "drs_name": "RU-CORE-RegCM4-3",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "ru-core"
+    ],
+    "label": "RU-CORE-RegCM4-3",
+    "label_extended": "RU-CORE Regional Climate Model",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}
