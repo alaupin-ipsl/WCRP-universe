@@ -1,10 +1,10 @@
 {
     "@context": "000_context.jsonld",
-    "id": "onrl",
+    "id": "ornl",
     "type": "organisation",
-    "drs_name": "ONRL",
+    "drs_name": "ORNL",
     "members": [
-        "onrl"
+        "ornl"
     ],
     "description": "Oak Ridge National Laboratory"
 }
