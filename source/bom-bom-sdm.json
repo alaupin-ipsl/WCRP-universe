@@ -2,7 +2,7 @@
     "@context": "000_context.jsonld",
     "id": "bom-bom-sdm",
     "type": "source",
-    "drs_name": "BOM-SDM",
+    "drs_name": "BOM-BOM-SDM",
     "activity_participation": [
         "cordex"
     ],
@@ -10,8 +10,8 @@
     "organisation_id": [
         "bom"
     ],
-    "label": "BOM-SDM",
-    "label_extended": "BOM-SDM",
+    "label": "BOM-BOM-SDM",
+    "label_extended": "BOM-BOM-SDM",
     "license": {},
     "model_component": null,
     "release_year": null
