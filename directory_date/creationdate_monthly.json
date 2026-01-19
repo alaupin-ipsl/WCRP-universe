@@ -1,6 +1,0 @@
-{
-"@context": "000_context.jsonld",
-"id" : "creationdate",
-"type" :"directory_date",
-"regex": "^v(1\\d{3}|2\\d{3})(0[1-9]|1[0-2])$"
-}
