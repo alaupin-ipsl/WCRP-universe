@@ -1,24 +1,24 @@
 {
-    "@context": "000_context.jsonld",
-    "id": "amip-p4k",
-    "type": "experiment",
-    "description": "Same as `amip` simulation, except sea surface temperatures are increased by 4K in ice-free regions.",
-    "drs_name": "amip-p4k",
-    "start_timestamp": null,
-    "end_timestamp": null,
-    "activity": "cfmip",
-    "additional_allowed_model_components": [
-        "aer",
-        "chem",
-        "bgc"
-    ],
-    "branch_information": null,
-    "min_ensemble_size": 1,
-    "parent_activity": null,
-    "parent_experiment": null,
-    "parent_mip_era": null,
-    "required_model_components": [
-        "agcm"
-    ],
-    "tier": 1
+  "@context": "000_context.jsonld",
+  "id": "amip-p4k",
+  "type": "experiment",
+  "description": "Same as `amip` simulation, except sea surface temperatures are increased by 4K in ice-free regions.",
+  "drs_name": "amip-p4K",
+  "start_timestamp": null,
+  "end_timestamp": null,
+  "activity": "cfmip",
+  "additional_allowed_model_components": [
+    "aer",
+    "chem",
+    "bgc"
+  ],
+  "branch_information": null,
+  "min_ensemble_size": 1,
+  "parent_activity": null,
+  "parent_experiment": null,
+  "parent_mip_era": null,
+  "required_model_components": [
+    "agcm"
+  ],
+  "tier": 1
 }
