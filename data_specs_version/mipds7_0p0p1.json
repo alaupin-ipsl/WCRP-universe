@@ -1,7 +1,0 @@
-{
-    "@context": "000_context.jsonld",
-    "id": "mipds7_0p0p1",
-    "type": "data_specs_version",
-    "drs_name": "MIPDS7-0p0p1",
-    "description": "For CMIP7, the prefix is \"MIP-DS7\" (\"MIP Data Specifications 7\") followed by three integers, i, j, and k, separated by periods. \"i\" is incremented whenever rules governing structure. format, and required content of files are modified. \"j\" is incremented whenever the structure of one or more CVs is modified. \"k\" is incremented whenever a new entry (or collection of entries) is added to one or more CVs."
-}
