@@ -2,35 +2,12 @@
     "@context": "000_context.jsonld",
     "id": "ukesm1-0-ll",
     "type": "source",
+    "description": "Placeholder, to be updated.",
     "drs_name": "UKESM1-0-LL",
-    "license": {
-        "id": "CC BY 4.0",
-        "exceptions-contact": null,
-        "source-specific-info": "https://ukesm.ac.uk/licensing-of-met-office-nerc-and-niwa-cmip6-data/"
-    },
-    "activity_participation": [
-        "cmip",
-        "ramip"
+    "label": "Context is wrong - label isn't really a name. Label for plots etc.",
+    "label_extended": "Context is wrong - extended label isn't really an extended name. Long label with full detail about the source",
+    "contributors": [
+        "mohc"
     ],
-    "cohort": [
-        "Published"
-    ],
-    "label": "UKESM1.0-LL",
-    "label_extended": "UKESM1.0-N96ORCA1",
-    "model_component": {
-        "aerosol": "ukca-glomap-mode",
-        "atmos": "metum-hadgem3-ga7.1",
-        "atmosChem": "ukca-strattrop",
-        "land": "jules-es-1.0",
-        "ocean": "nemo-hadgem3-go6.0",
-        "ocnBgchem": "medusa2",
-        "seaIce": "cice-hadgem3-gsi8"
-    },
-    "release_year": "2018",
-    "organisation_id": [
-        "mohc",
-        "nerc",
-        "nims-kma",
-        "niwa"
-    ]
+    "model_components": []
 }
