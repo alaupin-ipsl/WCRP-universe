@@ -4,7 +4,5 @@
   "type": "grid_arrangement",
   "description": "The Arakawa E grid places mass-related quantities at the centres of velocity cell edges.",
   "drs_name": "arakawa_e",
-  "n_sub_grid": [
-    2
-  ]
+  "n_sub_grid": 2
 }

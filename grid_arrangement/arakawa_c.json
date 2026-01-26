@@ -4,7 +4,5 @@
   "type": "grid_arrangement",
   "description": "The Arakawa C grid places velocity-related quantities at the centres of mass cell edges, such that each component is perpendicular to its edge.",
   "drs_name": "arakawa_c",
-  "n_sub_grid": [
-    3
-  ]
+  "n_sub_grid": 3
 }

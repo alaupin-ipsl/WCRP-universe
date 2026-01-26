@@ -4,7 +4,5 @@
   "type": "grid_arrangement",
   "description": "The Arakawa D grid places velocity-related quantities at the centres of mass cell edges, such that each component is tangential to its edge.",
   "drs_name": "arakawa_d",
-  "n_sub_grid": [
-    3
-  ]
+  "n_sub_grid": 3
 }
