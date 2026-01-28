@@ -54,7 +54,7 @@
       "atmosphere"
     ]
   ],
-  "coupled_componentss": [
+  "coupled_components": [
     [
       "atmosphere",
       "ocean"
