@@ -14,7 +14,6 @@
     "tactic_v2_ref_004"
   ],
   "drs_name": "TACTIC_v2",
-  "embedded_in": "atmosphere",
   "horizontal_computational_grid": "h100",
   "vertical_computational_grid": "v100"
 }

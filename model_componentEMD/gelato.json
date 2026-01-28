@@ -13,7 +13,6 @@
     "gelato_ref_003"
   ],
   "drs_name": "GELATO",
-  "embedded_in": "ocean",
   "horizontal_computational_grid": "h101",
   "vertical_computational_grid": "v103"
 }

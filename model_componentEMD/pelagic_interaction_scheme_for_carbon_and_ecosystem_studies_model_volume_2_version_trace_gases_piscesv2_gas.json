@@ -18,7 +18,6 @@
     "pelagic_interaction_scheme_for_carbon_and_ecosystem_studies_model_volume_2_version_trace_gases_piscesv2_gas_ref_008"
   ],
   "drs_name": "Pelagic Interaction Scheme for Carbon and Ecosystem Studies model volume 2 version trace gases (PISCESv2-gas)",
-  "embedded_in": "ocean",
   "horizontal_computational_grid": "h101",
   "vertical_computational_grid": "v102"
 }

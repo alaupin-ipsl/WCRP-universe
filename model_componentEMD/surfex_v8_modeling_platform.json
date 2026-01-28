@@ -14,10 +14,6 @@
     "surfex_v8_modeling_platform_ref_004"
   ],
   "drs_name": "SURFEX v8 modeling platform",
-  "coupled_with": [
-    "atmosphere",
-    "ocean"
-  ],
   "horizontal_computational_grid": "h100",
   "vertical_computational_grid": "v101"
 }

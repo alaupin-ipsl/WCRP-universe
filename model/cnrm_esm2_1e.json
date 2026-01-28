@@ -36,5 +36,37 @@
     "pelagic_interaction_scheme_for_carbon_and_ecosystem_studies_model_volume_2_version_trace_gases_piscesv2_gas",
     "gelato"
   ],
+  "embedded_components": [
+    [
+      "aerosol",
+      "atmosphere"
+    ],
+    [
+      "sea_ice",
+      "ocean"
+    ],
+    [
+      "ocean_biogeochemistry",
+      "ocean"
+    ],
+    [
+      "atmospheric_chemistry",
+      "atmosphere"
+    ]
+  ],
+  "coupled_componentss": [
+    [
+      "atmosphere",
+      "ocean"
+    ],
+    [
+      "atmosphere",
+      "land_surface"
+    ],
+    [
+      "ocean",
+      "land_surface"
+    ]
+  ],
   "drs_name": "CNRM-ESM2-1e"
 }

@@ -13,10 +13,6 @@
     "arpege_climat_version_6_3_ref_003"
   ],
   "drs_name": "Arpege-Climat Version 6.3",
-  "coupled_with": [
-    "land_surface",
-    "ocean"
-  ],
   "horizontal_computational_grid": "h100",
   "vertical_computational_grid": "v100"
 }
