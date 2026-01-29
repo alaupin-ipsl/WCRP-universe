@@ -1,0 +1,25 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "cerfacs",
+  "type": "institution",
+  "drs_name": "CERFACS",
+  "acronyms": [
+    "CERFACS"
+  ],
+  "labels": [
+    "Centre Européen de Recherche et de Formation Avancée en Calcul Scientifique"
+  ],
+  "description": "Centre Européen de Recherche et de Formation Avancée en Calcul Scientifique",
+  "location": [
+    {
+      "city": "Toulouse",
+      "country": "France",
+      "lat": 43.60426,
+      "lon": 1.44367
+    }
+  ],
+  "ror": "02dzbc556",
+  "urls": [
+    "http://www.cerfacs.fr/"
+  ]
+}

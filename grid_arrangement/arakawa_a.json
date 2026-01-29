@@ -1,7 +1,8 @@
 {
-    "@context": "000_context.jsonld",
-    "id": "arakawa_a",
-    "type": "grid_arrangement",
-    "description": "The Arakawa A grid places mass- and velocity-related quantities at the same location on each grid cell.",
-    "drs_name": "arakawa_a"
+  "@context": "000_context.jsonld",
+  "id": "arakawa_a",
+  "type": "grid_arrangement",
+  "description": "The Arakawa A grid places mass- and velocity-related quantities at the same location on each grid cell.",
+  "drs_name": "arakawa_a",
+  "n_sub_grid": 1
 }

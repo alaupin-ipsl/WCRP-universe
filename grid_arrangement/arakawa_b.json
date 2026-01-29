@@ -1,7 +1,8 @@
 {
-    "@context": "000_context.jsonld",
-    "id": "arakawa_b",
-    "type": "grid_arrangement",
-    "description": "The Arakawa B grid places velocity-related quantities at the corners of mass cells.",
-    "drs_name": "arakawa_b"
+  "@context": "000_context.jsonld",
+  "id": "arakawa_b",
+  "type": "grid_arrangement",
+  "description": "The Arakawa B grid places velocity-related quantities at the corners of mass cells.",
+  "drs_name": "arakawa_b",
+  "n_sub_grid": 2
 }
