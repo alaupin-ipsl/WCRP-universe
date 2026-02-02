@@ -10,7 +10,7 @@
         "Registered"
     ],
     "organisation_id": [
-        "ICTP"
+        "ictp"
     ],
     "label": "RegCM V5 MOLOCH",
     "label_extended": "The ICTP RegCM version 5 using non hydrostatic MOLOCH dynamical core",

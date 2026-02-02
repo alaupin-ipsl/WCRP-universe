@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mgo",
+    "type": "organisation",
+    "drs_name": "MGO",
+    "members": [
+        "mgo"
+    ],
+    "description": "Voeikov Main Geophysical Observatory"
+}

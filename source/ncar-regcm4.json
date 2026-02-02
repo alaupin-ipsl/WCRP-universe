@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ncar-regcm4",
+    "type": "source",
+    "drs_name": "NCAR-RegCM4",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "ncar"
+    ],
+    "label": "NCAR-RegCM4",
+    "label_extended": "NCAR Regional Climate Model",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

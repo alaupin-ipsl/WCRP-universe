@@ -10,7 +10,7 @@
         "Registered"
     ],
     "organisation_id": [
-        "CNRM"
+        "cnrm"
     ],
     "label": "CNRM-ALADIN64C1",
     "label_extended": "CNRM-ALADIN regional climate model, version 6.4, physics tuning specific for the CAM domain (C1)",

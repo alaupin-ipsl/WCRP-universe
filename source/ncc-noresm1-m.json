@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ncc-noresm1-m",
+    "type": "source",
+    "drs_name": "NCC-NorESM1-M",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "ncc"
+    ],
+    "label": "NCC-NorESM1-M",
+    "label_extended": "NCC-NorESM1-M",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cec-wettreg2013",
+    "type": "source",
+    "drs_name": "CEC-WETTREG2013",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "cec"
+    ],
+    "label": "CEC-WETTREG2013",
+    "label_extended": "CEC-WETTREG2013",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

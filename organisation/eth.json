@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "eth",
+    "type": "organisation",
+    "drs_name": "ETH",
+    "members": [
+        "eth"
+    ],
+    "description": "ETH Zurich"
+}

@@ -1,0 +1,27 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mgo",
+    "type": "institution",
+    "drs_name": "MGO",
+    "acronyms": [
+        "MGO"
+    ],
+    "labels": [
+        "Voeikov Main Geophysical Observatory",
+        "федеральное государственное бюджетное учреждение Главная геофизическая обсерватория им. А.И.Воейкова"
+
+    ],
+    "description": "Voeikov Main Geophysical Observatory",
+    "location": [
+        {
+            "city": "St Petersburg",
+            "country": "Russia",
+            "lat": 60.0922,
+            "lon": 30.2368
+        }
+    ],
+    "ror": "035684d86",
+    "urls": [
+        "http://voeikovmgo.ru/ru/"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "uhoh-wrf361h",
+    "type": "source",
+    "drs_name": "UHOH-WRF361H",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "uhoh"
+    ],
+    "label": "UHOH-WRF361H",
+    "label_extended": "Weather Research and Forecasting 361H",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

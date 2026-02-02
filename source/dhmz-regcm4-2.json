@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dhmz-regcm4-2",
+    "type": "source",
+    "drs_name": "DHMZ-RegCM4-2",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "dhmz"
+    ],
+    "label": "DHMZ-RegCM4-2",
+    "label_extended": "NCAR Regional Climate Model",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "boun",
+    "type": "institution",
+    "drs_name": "BOUN",
+    "acronyms": [
+        "BOUN"
+    ],
+    "labels": [
+        "Bogazici University"
+    ],
+    "description": "Bogazici University",
+    "location": [
+        {
+            "city": "Istanbul",
+            "country": "Turkey",
+            "lat": 41.0790,
+            "lon": 29.0439
+        }
+    ],
+    "ror": "03z9tma90",
+    "urls": [
+        "https://bogazici.edu.tr"
+    ]
+}

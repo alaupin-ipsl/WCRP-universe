@@ -1,0 +1,27 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "nuim",
+    "type": "institution",
+    "drs_name": "NUIM",
+    "acronyms": [
+        "NUIM"
+    ],
+    "labels": [
+        "National University of Ireland, Maynooth",
+        "Ollscoil na hÉireann Má Nuad",
+        "Maynooth University"
+    ],
+    "description": "National University of Ireland, Maynooth",
+    "location": [
+        {
+            "city": "Maynooth",
+            "country": "Ireland",
+            "lat": 53.3830,
+            "lon": -6.5922
+        }
+    ],
+    "ror": "048nfjm95",
+    "urls": [
+        "https://www.maynoothuniversity.ie/"
+    ]
+}

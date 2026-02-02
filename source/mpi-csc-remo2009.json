@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mpi-csc-remo2009",
+    "type": "source",
+    "drs_name": "MPI-CSC-REMO2009",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "mpi-csc"
+    ],
+    "label": "MPI-CSC-REMO2009",
+    "label_extended": "REgional climate MOdel (REMO)",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

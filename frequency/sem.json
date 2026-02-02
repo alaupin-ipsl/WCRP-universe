@@ -1,0 +1,9 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "sem",
+    "type": "frequency",
+    "description": "Seasonal.",
+    "drs_name": "sem",
+    "interval": 1.0,
+    "units": "sem"
+}

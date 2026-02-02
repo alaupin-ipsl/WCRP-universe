@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "csiro-ccam-2008",
+    "type": "source",
+    "drs_name": "CSIRO-CCAM-2008",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "csiro"
+    ],
+    "label": "CSIRO-CCAM-2008",
+    "label_extended": "CSIRO-CCAM-2008",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

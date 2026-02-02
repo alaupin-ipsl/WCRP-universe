@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cccma-canrcm4",
+    "type": "source",
+    "drs_name": "CCCma-CanRCM4",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "cccma"
+    ],
+    "label": "CCCma-CanRCM4",
+    "label_extended": "CCCma-CanRCM4",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

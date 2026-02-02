@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "pik-stars3",
+    "type": "source",
+    "drs_name": "PIK-STARS3",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "nuim"
+    ],
+    "label": "PIK-STARS3",
+    "label_extended": "PIK-STARS3",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

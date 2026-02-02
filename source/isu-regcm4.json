@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "isu-regcm4",
+    "type": "source",
+    "drs_name": "ISU-RegCM4",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "isu"
+    ],
+    "label": "ISU-RegCM4",
+    "label_extended": "ISU Regional Climate Model",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

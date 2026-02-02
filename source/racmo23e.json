@@ -10,7 +10,7 @@
         "Registered"
     ],
     "organisation_id": [
-        "KNMI"
+        "knmi"
     ],
     "label": "RACMO23E",
     "label_extended": "The KNMI Regional Climate Model RACMO, version 23E",

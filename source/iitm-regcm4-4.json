@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "iitm-regcm4-4",
+    "type": "source",
+    "drs_name": "IITM-RegCM4-4",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "iitm"
+    ],
+    "label": "IITM-RegCM4-4",
+    "label_extended": "IITM Regional Climate Model",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

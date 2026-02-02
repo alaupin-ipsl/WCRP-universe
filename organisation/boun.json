@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "boun",
+    "type": "organisation",
+    "drs_name": "BOUN",
+    "members": [
+        "boun"
+    ],
+    "description": "Bogazici University"
+}

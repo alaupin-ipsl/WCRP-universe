@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dhmz",
+    "type": "organisation",
+    "drs_name": "DHMZ",
+    "members": [
+        "dhmz"
+    ],
+    "description": "Croatian Meteorological and Hydrological Service"
+}

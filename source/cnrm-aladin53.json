@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cnrm-aladin53",
+    "type": "source",
+    "drs_name": "CNRM-ALADIN53",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "cnrm"
+    ],
+    "label": "CNRM-ALADIN53",
+    "label_extended": "Aire Limitée Adaptation dynamique Développement InterNational (ALADIN) version 5.3",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

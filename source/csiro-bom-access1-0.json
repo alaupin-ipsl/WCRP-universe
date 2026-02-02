@@ -1,0 +1,19 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "csiro-bom-access1-0",
+    "type": "source",
+    "drs_name": "CSIRO-BOM-ACCESS1-0",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "csiro",
+        "bom"
+    ],
+    "label": "CSIRO-BOM-ACCESS1-0",
+    "label_extended": "CSIRO-BOM-ACCESS1-0",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

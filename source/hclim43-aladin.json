@@ -10,9 +10,9 @@
         "Registered"
     ],
     "organisation_id": [
-        "HCLIMcom-DMI",
-        "HCLIMcom-METNo",
-        "HCLIMcom-SMHI"
+        "hclimcom-dmi",
+        "hclimcom-metno",
+        "hclimcom-smhi"
     ],
     "label": "HCLIM43-ALADIN",
     "label_extended": "HARMONIE Climate model cycle 43 with ALADIN physics",

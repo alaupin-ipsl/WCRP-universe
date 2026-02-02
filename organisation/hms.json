@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "hms",
+    "type": "organisation",
+    "drs_name": "HMS",
+    "members": [
+        "hms"
+    ],
+    "description": "Hungarian Meteorological Service"
+}

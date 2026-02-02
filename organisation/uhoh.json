@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "uhoh",
+    "type": "organisation",
+    "drs_name": "UHOH",
+    "members": [
+        "uhoh"
+    ],
+    "description": "University of Hohenheim"
+}

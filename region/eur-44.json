@@ -1,0 +1,9 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "eur-44",
+    "type": "region",
+    "drs_name": "EUR-44",
+    "description": "Europe",
+    "cf_standard_region": null,
+    "iso_region": null
+}

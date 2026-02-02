@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cccma-canesm2",
+    "type": "source",
+    "drs_name": "CCCma-CanESM2",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "cccma"
+    ],
+    "label": "CCCma-CanESM2",
+    "label_extended": "CCCma-CanESM2",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

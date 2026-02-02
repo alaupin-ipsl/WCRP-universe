@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "noaa-gfdl-gfdl-esm2g",
+    "type": "source",
+    "drs_name": "NOAA-GFDL-GFDL-ESM2G",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "noaa-gfdl"
+    ],
+    "label": "NOAA-GFDL-GFDL-ESM2G",
+    "label_extended": "NOAA-GFDL-GFDL-ESM2G",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

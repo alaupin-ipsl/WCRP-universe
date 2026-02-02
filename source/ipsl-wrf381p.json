@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ipsl-wrf381p",
+    "type": "source",
+    "drs_name": "IPSL-WRF381P",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "ipsl"
+    ],
+    "label": "IPSL-WRF381P",
+    "label_extended": "Weather Research and Forecasting",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

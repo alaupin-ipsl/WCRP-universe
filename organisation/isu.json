@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "isu",
+    "type": "organisation",
+    "drs_name": "ISU",
+    "members": [
+        "isu"
+    ],
+    "description": "Iowa State University"
+}

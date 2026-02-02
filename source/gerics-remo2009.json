@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "gerics-remo2009",
+    "type": "source",
+    "drs_name": "GERICS-REMO2009",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "gerics"
+    ],
+    "label": "GERICS-REMO2009",
+    "label_extended": "REgional climate MOdel (REMO)",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

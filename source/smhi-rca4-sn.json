@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "smhi-rca4-sn",
+    "type": "source",
+    "drs_name": "SMHI-RCA4-SN",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "smhi"
+    ],
+    "label": "SMHI-RCA4-SN",
+    "label_extended": "Rossby Centre regional Atmospheric climate model",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

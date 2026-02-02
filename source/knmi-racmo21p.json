@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "knmi-racmo21p",
+    "type": "source",
+    "drs_name": "KNMI-RACMO21P",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "knmi"
+    ],
+    "label": "KNMI-RACMO21P",
+    "label_extended": "Polar configuration for the RACMO model",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

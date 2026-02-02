@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ua-wrf",
+    "type": "source",
+    "drs_name": "UA-WRF",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "ua"
+    ],
+    "label": "UA-WRF",
+    "label_extended": "Weather Research and Forecasting",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

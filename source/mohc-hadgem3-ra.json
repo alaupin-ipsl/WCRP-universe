@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mohc-hadgem3-ra",
+    "type": "source",
+    "drs_name": "MOHC-HadGEM3-RA",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "mohc"
+    ],
+    "label": "MOHC-HadGEM3-RA",
+    "label_extended": "Hadley Centre regional model",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

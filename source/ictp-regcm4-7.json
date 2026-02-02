@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ictp-regcm4-7",
+    "type": "source",
+    "drs_name": "ICTP-RegCM4-7",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "ictp"
+    ],
+    "label": "ICTP-RegCM4-7",
+    "label_extended": "ICTP Regional Climate Model",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

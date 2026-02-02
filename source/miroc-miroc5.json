@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "miroc-miroc5",
+    "type": "source",
+    "drs_name": "MIROC-MIROC5",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "miroc"
+    ],
+    "label": "MIROC-MIROC5",
+    "label_extended": "MIROC-MIROC5",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

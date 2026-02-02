@@ -1,0 +1,25 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "uhoh",
+    "type": "institution",
+    "drs_name": "UHOH",
+    "acronyms": [
+        "UHOH"
+    ],
+    "labels": [
+        "University of Hohenheim"
+    ],
+    "description": "University of Hohenheim",
+    "location": [
+        {
+            "city": "Stuttgart",
+            "country": "Germany",
+            "lat": 48.7133,
+            "lon": 9.2120
+        }
+    ],
+    "ror": "00b1c9541",
+    "urls": [
+        "https://www.uni-hohenheim.de"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ipsl-ineris-wrf331f",
+    "type": "source",
+    "drs_name": "IPSL-INERIS-WRF331F",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "ipsl",
+        "ineris"
+    ],
+    "label": "IPSL-INERIS-WRF331F",
+    "label_extended": "Weather Research and Forecasting",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

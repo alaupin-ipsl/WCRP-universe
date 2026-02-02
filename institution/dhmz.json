@@ -1,0 +1,29 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "dhmz",
+    "type": "institution",
+    "drs_name": "DHMZ",
+    "acronyms": [
+        "DHMZ",
+        "MHS"
+    ],
+    "labels": [
+        "Croatian Meteorological and Hydrological Service",
+        "Državni hidrometeorološki zavod",
+        "Meteorological and Hydrological Service"
+
+    ],
+    "description": "Croatian Meteorological and Hydrological Service",
+    "location": [
+        {
+            "city": "Zagreb",
+            "country": "Croatia",
+            "lat": 45.8146,
+            "lon": 15.9722
+        }
+    ],
+    "ror": "02w95hf30",
+    "urls": [
+        "https://meteo.hr"
+    ]
+}

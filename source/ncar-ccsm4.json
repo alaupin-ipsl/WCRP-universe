@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ncar-ccsm4",
+    "type": "source",
+    "drs_name": "NCAR-CCSM4",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "ncar"
+    ],
+    "label": "NCAR-CCSM4",
+    "label_extended": "Weather Research and Forecasting",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

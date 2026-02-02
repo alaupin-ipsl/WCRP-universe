@@ -1,0 +1,9 @@
+
+
+{
+    "@context": "000_context.jsonld",
+    "id": "hourly10",
+    "type": "time_range",
+    "regex" :"^\\d{4}(0[1-9]|1[0-2])(0[1-9]|[12]\\d|3[01])([01]\\d|2[0-3])-\\d{4}(0[1-9]|1[0-2])(0[1-9]|[12]\\d|3[01])([01]\\d|2[0-3])$",
+    "description": "TODO IMPROVE THIS"
+}

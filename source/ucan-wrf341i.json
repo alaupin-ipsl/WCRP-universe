@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ucan-wrf341i",
+    "type": "source",
+    "drs_name": "UCAN-WRF341I",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "ucan"
+    ],
+    "label": "UCAN-WRF341I",
+    "label_extended": "Weather Research and Forecasting 341I",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

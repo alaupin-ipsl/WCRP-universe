@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mpi-m-mpi-esm-mr",
+    "type": "source",
+    "drs_name": "MPI-M-MPI-ESM-MR",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "mpi"
+    ],
+    "label": "MPI-M-MPI-ESM-MR",
+    "label_extended": "MPI-M-MPI-ESM-MR",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

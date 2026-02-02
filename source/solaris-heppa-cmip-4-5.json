@@ -7,7 +7,7 @@
         "input4MIPs"
     ],
     "organisation_id": [
-        "SOLARIS-HEPPA"
+        "solaris-heppa"
     ],
     "label": "solaris-heppa-cmip-4-5",
     "activity_id": "input4MIPs",

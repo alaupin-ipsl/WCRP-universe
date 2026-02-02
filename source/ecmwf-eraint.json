@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ecmwf-eraint",
+    "type": "source",
+    "drs_name": "ECMWF-ERAINT",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "ecmwf"
+    ],
+    "label": "ECMWF-ERAINT",
+    "label_extended": "ECMWF-ERAINT",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

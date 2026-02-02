@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "knmi-racmo22e",
+    "type": "source",
+    "drs_name": "KNMI-RACMO22E",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "knmi"
+    ],
+    "label": "KNMI-RACMO22E",
+    "label_extended": "European configuration for the RACMO model",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

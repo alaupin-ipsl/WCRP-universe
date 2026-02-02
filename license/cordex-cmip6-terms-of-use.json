@@ -1,0 +1,9 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cordex-cmip6-terms-of-use",
+    "type": "license",
+    "drs_name": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use/",
+    "spdx_id": null,
+    "url": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use/",
+    "description": "CORDEX-CMIP6 Terms of Use (https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use/)"
+}

@@ -1,0 +1,18 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "rmib-ugent-alaro-0",
+    "type": "source",
+    "drs_name": "RMIB-UGent-ALARO-0",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "rmib-ugent"
+    ],
+    "label": "RMIB-UGent-ALARO-0",
+    "label_extended": "RMIB-UGent-ALARO-0",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

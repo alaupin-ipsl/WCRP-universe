@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "qccce",
+    "type": "organisation",
+    "drs_name": "QCCCE",
+    "members": [
+        "qccce"
+    ],
+    "description": "Queensland Climate Change Centre of Excellence"
+}

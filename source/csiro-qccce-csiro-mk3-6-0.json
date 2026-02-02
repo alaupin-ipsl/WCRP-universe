@@ -1,0 +1,19 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "csiro-qccce-csiro-mk3-6-0",
+    "type": "source",
+    "drs_name": "CSIRO-QCCCE-CSIRO-Mk3-6-0",
+    "activity_participation": [
+        "cordex"
+    ],
+    "cohort": [],
+    "organisation_id": [
+        "csiro",
+        "qccce"
+    ],
+    "label": "CSIRO-QCCCE-CSIRO-Mk3-6-0",
+    "label_extended": "CSIRO-QCCCE-CSIRO-Mk3-6-0",
+    "license": {},
+    "model_component": null,
+    "release_year": null
+}

@@ -1,0 +1,26 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "iitm",
+    "type": "institution",
+    "drs_name": "IITM",
+    "acronyms": [
+        "IITM"
+    ],
+    "labels": [
+        "Indian Institute of Tropical Meteorology",
+        "भारतीय उष्णप्रदेशीय हवामानशास्त्र संस्था"
+    ],
+    "description": "Indian Institute of Tropical Meteorology",
+    "location": [
+        {
+            "city": "Pune",
+            "country": "India",
+            "lat": 18.5367,
+            "lon": 73.8052
+        }
+    ],
+    "ror": "03jf2m686",
+    "urls": [
+        "http://www.tropmet.res.in/"
+    ]
+}
