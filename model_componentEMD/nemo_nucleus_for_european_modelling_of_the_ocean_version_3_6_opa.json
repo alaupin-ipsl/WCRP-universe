@@ -18,10 +18,6 @@
     "nemo_nucleus_for_european_modelling_of_the_ocean_version_3_6_opa_ref_008"
   ],
   "drs_name": "NEMO : Nucleus for European Modelling of the Ocean version 3.6 (OPA)",
-  "coupled_with": [
-    "atmosphere",
-    "land_surface"
-  ],
   "horizontal_computational_grid": "h101",
   "vertical_computational_grid": "v102"
 }
