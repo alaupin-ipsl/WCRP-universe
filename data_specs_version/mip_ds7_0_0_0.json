@@ -1,0 +1,7 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "mip_ds7_0_0_0",
+    "type": "data_specs_version",
+    "drs_name": "MIP-DS7.0.0.0",
+    "description": "Placeholder entry while we determine exactly how `data_specs_version` is going to be handled as part of CMIP7. Notes on the general notation: For CMIP7, the prefix is \"MIP-DS7\" (\"MIP Data Specifications 7\") followed by a dash then a version number. The rules governing updates to this version number are still being settled."
+}
