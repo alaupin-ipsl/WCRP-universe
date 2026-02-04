@@ -1,23 +1,21 @@
 {
-    "@context": "000_context.jsonld",
-    "id": "qccce",
-    "type": "institution",
-    "drs_name": "QCCCE",
-    "acronyms": [],
-    "labels": [
-        "Queensland Climate Change Centre of Excellence"
-    ],
-    "description": "Queensland Climate Change Centre of Excellence",
-    "location": [
-        {
-            "city": "",
-            "country": "Australia",
-            "lat": -27.4944,
-            "lon": 153.02997
-        }
-    ],
-    "ror": "037405308",
-    "urls": [
-        ""
-    ]
+  "@context": "000_context.jsonld",
+  "id": "qccce",
+  "type": "institution",
+  "drs_name": "QCCCE",
+  "acronyms": [],
+  "labels": [
+    "Queensland Climate Change Centre of Excellence"
+  ],
+  "description": "Queensland Climate Change Centre of Excellence",
+  "location": [
+    {
+      "city": "",
+      "country": "Australia",
+      "lat": -27.4944,
+      "lon": 153.02997
+    }
+  ],
+  "ror": "037405308",
+  "urls": []
 }
