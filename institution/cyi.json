@@ -1,0 +1,26 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cyi",
+    "type": "institution",
+    "drs_name": "CYI",
+    "acronyms": [
+        "CYI"
+    ],
+    "labels": [
+        "Cyprus Institute",
+        "CyI"
+    ],
+    "description": "Cyprus Institute",
+    "location": [
+        {
+            "city": "Nicosia",
+            "country": "Cyprus",
+            "lat": 35.17284,
+            "lon": 33.35397
+        }
+    ],
+    "ror": "01q8k8p90",
+    "urls": [
+        "http://www.cyi.ac.cy/"
+    ]
+}

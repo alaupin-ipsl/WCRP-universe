@@ -1,0 +1,11 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "task-imwm",
+    "type": "organisation",
+    "drs_name": "TASK-IMWM",
+    "members": [
+        "task",
+        "imwm"
+    ],
+    "description": "Institute of Meteorology and Water Management"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cnr-isac",
+    "type": "organisation",
+    "drs_name": "CNR-ISAC",
+    "members": [
+        "cnr-isac"
+    ],
+    "description": "Institute of Atmospheric Sciences and Climate"
+}

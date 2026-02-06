@@ -1,0 +1,27 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "ccrc",
+    "type": "institution",
+    "drs_name": "CCRC",
+    "acronyms": [
+        "CCRC"
+    ],
+    "labels": [
+        "Climate Change Research Centre",
+        "UNSW Climate Change Research Centre",
+        "CCRC"
+    ],
+    "description": "Climate Change Research Centre",
+    "location": [
+        {
+            "city": "Sydney",
+            "country": "Australia",
+            "lat": -33.9167,
+            "lon": 151.2167
+        }
+    ],
+    "ror": "02603xz34",
+    "urls": [
+        "https://www.unsw.edu.au/research/ccrc"
+    ]
+}

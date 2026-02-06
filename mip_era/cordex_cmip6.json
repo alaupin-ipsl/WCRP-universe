@@ -2,9 +2,9 @@
     "@context": "000_context.jsonld",
     "id": "cordex_cmip6",
     "end": null,
-    "name": "CORDEX",
+    "name": "CORDEX-CMIP6",
     "start": 2021,
     "url": "https://wcrp-cmip.org/CORDEX",
     "type": "mip_era",
-    "drs_name": "CORDEX"
+    "drs_name": "CORDEX-CMIP6"
 }

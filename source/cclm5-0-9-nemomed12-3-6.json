@@ -1,0 +1,20 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "cclm5-0-9-nemomed12-3-6",
+    "type": "source",
+    "drs_name": "CCLM5-0-9-NEMOMED12-3-6",
+    "activity_participation": [
+        "DD"
+    ],
+    "cohort": [
+        "Registered"
+    ],
+    "organisation_id": [
+        "clmcom-guf"
+    ],
+    "label": "CCLM5-0-9-NEMOMED12-3-6",
+    "label_extended": "COSMO model in climate mode (COSMO-CLM), Version 5.0.",
+    "license": {},
+    "model_component": null,
+    "release_year": "2025"
+}

@@ -1,0 +1,11 @@
+{
+    "@context": "000_context.jsonld",
+    "id": "unsw-ccrc",
+    "type": "organisation",
+    "drs_name": "UNSW-CCRC",
+    "members": [
+        "unsw",
+        "ccrc"
+    ],
+    "description": "UNSW-CCRC"
+}
