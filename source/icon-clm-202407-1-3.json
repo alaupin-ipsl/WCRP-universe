@@ -10,7 +10,8 @@
         "Registered"
     ],
     "organisation_id": [
-        "clmcom-dwd"
+        "clmcom-eth",
+        "clmcom-imwm"
     ],
     "label": "ICON-CLM-202407-1-3",
     "label_extended": "ICON model in Climate Limited-area Mode (ICON-CLM), Version 202407-1-3",

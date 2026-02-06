@@ -13,8 +13,8 @@
         "clmcom-guf"
     ],
     "label": "CCLM5-0-9-NEMOMED12-3-6",
-    "label_extended": "COSMO model in climate mode (COSMO-CLM), Version 5.0.",
+    "label_extended": "COSMO-CLM v5 coupled via OASIS with NEMO-MED v3.6 (river discharge with TRIP) on an extended EURO-CORDEX domain.",
     "license": {},
     "model_component": null,
-    "release_year": "2025"
+    "release_year": "2021"
 }
