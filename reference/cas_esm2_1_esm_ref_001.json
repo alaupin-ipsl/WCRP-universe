@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "cas_esm2_1_esm_ref_001",
+  "type": "reference",
+  "citation": "Zhang, H., Zhang, M., Jin, J., Fei, K., Ji, D., Wu, C., Zhu, J., He, J., Chai, Z., Xie, J., Dong, X., Zhang, D., Bi, X., Cao, H., Chen, H., Chen, K., Chen, X., Gao, X., Hao, H., et al. (2020). Description and Climate Simulation Performance of CAS\u2010ESM Version 2. Journal of Advances in Modeling Earth Systems, 12(12). Portico. https://doi.org/10.1029/2020ms002210\n",
+  "doi": "https://doi.org/10.1029/2020MS002210",
+  "drs_name": "cas_esm2_1_esm_ref_001"
+}
