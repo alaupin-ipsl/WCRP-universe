@@ -1,0 +1,20 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "cas_esm2_1_esm",
+  "type": "model",
+  "name": "",
+  "family": null,
+  "dynamic_components": [],
+  "prescribed_components": [],
+  "omitted_components": [],
+  "description": "The Chinese Academy of Sciences Earth System Model version 2.1 Earth System Model configuration (CAS-ESM2-1-ESM) is a fully coupled Earth system model within the CAS-ESM family. It was developed collaboratively by the Institute of Atmospheric Physics, Chinese Academy of Sciences; Sun Yat-sen University; Beijing Normal University; the Computer Network Information Center, Chinese Academy of Sciences; and the Institute of Computing Technology, Chinese Academy of Sciences. CAS-ESM2-1-ESM dynamically simulates the coupled physical climate system and associated biogeochemical processes. Its physical climate components represent interactions among the atmosphere, land surface, ocean, and sea ice, while atmospheric chemistry and aerosols are interactively represented within the atmospheric system. In addition, the ocean biogeochemistry component IAP-OBGCM is included to represent marine carbon-cycle and ecosystem processes, allowing the model to simulate interactions between ocean circulation, marine ecosystems, carbon chemistry, and air-sea carbon exchange. This configuration is designed for Earth system simulations that require both physical climate feedbacks and interactive biogeochemical feedbacks. It supports studies of climate mean state and variability, historical and future climate change, climate sensitivity, atmospheric composition, aerosol-climate interactions, marine biogeochemical cycling, carbon-climate feedbacks, and ocean carbon uptake across a wide range of temporal and spatial scales.",
+  "calendar": [],
+  "release_year": null,
+  "references": [
+    "cas_esm2_1_esm_ref_001"
+  ],
+  "model_components": [],
+  "embedded_components": [],
+  "coupled_components": [],
+  "drs_name": "CAS-ESM2-1-ESM"
+}

@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "cas_esm3_0_csm_hr_ref_001",
+  "type": "reference",
+  "citation": "See https://paper.under.review",
+  "doi": "N/A",
+  "drs_name": "cas_esm3_0_csm_hr_ref_001"
+}

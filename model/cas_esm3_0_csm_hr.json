@@ -1,0 +1,20 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "cas_esm3_0_csm_hr",
+  "type": "model",
+  "name": "",
+  "family": null,
+  "dynamic_components": [],
+  "prescribed_components": [],
+  "omitted_components": [],
+  "description": "The Chinese Academy of Sciences Earth System Model version 3.0 Climate System Model High Resolution configuration (CAS-ESM3-0-CSM-HR) is a high-resolution, fully coupled climate system model within the CAS-ESM family. It is designed to simulate the coupled evolution of the physical climate system, with interactive atmosphere, land surface, ocean, and sea-ice components. CAS-ESM3-0-CSM-HR uses IAP-AGCM5.0 as its atmospheric component, CoLM2024 as its land-surface component, LICOM v3.5 as its ocean component, and M-SIM as its sea-ice component. The model is configured at approximately 0.5\u00b0 horizontal resolution for the atmosphere and 0.25\u00b0 horizontal resolution for the ocean, supporting improved representation of regional climate features, ocean circulation, sea-ice processes, and air-sea-land interactions. This configuration focuses on physical climate simulation rather than fully interactive Earth system biogeochemistry. Atmospheric chemistry and aerosols are prescribed, while ocean biogeochemistry and land ice are omitted. CAS-ESM3-0-CSM-HR is therefore intended for high-resolution coupled climate-system simulations, including studies of historical climate, future climate change, climate variability, atmosphere-ocean interaction, land-atmosphere coupling, and sea-ice evolution.",
+  "calendar": [],
+  "release_year": null,
+  "references": [
+    "cas_esm3_0_csm_hr_ref_001"
+  ],
+  "model_components": [],
+  "embedded_components": [],
+  "coupled_components": [],
+  "drs_name": "CAS-ESM3-0-CSM-HR"
+}
