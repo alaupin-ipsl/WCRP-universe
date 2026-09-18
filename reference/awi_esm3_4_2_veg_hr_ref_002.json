@@ -2,7 +2,7 @@
   "@context": "000_context.jsonld",
   "id": "awi_esm3_4_2_veg_hr_ref_002",
   "type": "reference",
-  "citation": "AWI-ESM3, Earth system model for the Coupled Model Intercomparison Project 7 (Streffing et al. in preparation, target GMD 2027)",
+  "citation": "See https://paper.under.review/",
   "doi": "N/A",
   "drs_name": "awi_esm3_4_2_veg_hr_ref_002"
 }

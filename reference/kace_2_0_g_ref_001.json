@@ -2,7 +2,7 @@
   "@context": "000_context.jsonld",
   "id": "kace_2_0_g_ref_001",
   "type": "reference",
-  "citation": "See https://paper.under.review",
+  "citation": "See https://paper.under.review/",
   "doi": "N/A",
   "drs_name": "kace_2_0_g_ref_001"
 }
