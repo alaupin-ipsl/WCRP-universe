@@ -16,5 +16,8 @@
     "label_extended": "The ICTP RegCM version 5 using non hydrostatic MOLOCH dynamical core",
     "license": {},
     "model_component": null,
-    "release_year": "2023"
+    "release_year": "2023",
+    "references": [
+        "regcm5_0_ref_001"
+    ]
 }

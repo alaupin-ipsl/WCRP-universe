@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "hclim43_aladin_ref_001",
+  "type": "reference",
+  "citation": "Wang, F. (2024). An introduction to the HARMONIE-Climate (HCLIM) regional climate modeling system. Zenodo. https://doi.org/10.5281/zenodo.11424181",
+  "doi": "https://doi.org/10.5281/zenodo.11424181",
+  "drs_name": "hclim43_aladin_ref_001"
+}

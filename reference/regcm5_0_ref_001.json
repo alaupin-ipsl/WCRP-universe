@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "regcm5_0_ref_001",
+  "type": "reference",
+  "citation": "Coppola, E., Giorgi, F., Giuliani, G. et al. The 5th generation regional climate modeling system, RegCM5: the first convection-permitting European wide simulation and validation over the CORDEX-CORE domains. Clim Dyn 63, 428 (2025). https://doi.org/10.1007/s00382-025-07913-3",
+  "doi": "https://doi.org/10.1007/s00382-025-07913-3",
+  "drs_name": "regcm5_0_ref_001"
+}

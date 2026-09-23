@@ -16,5 +16,8 @@
     "label_extended": "Hadley Centre Regional Model using Global Atmosphere version 7-05",
     "license": {},
     "model_component": null,
-    "release_year": "2018"
+    "release_year": "2018",
+    "references": [
+        "hadrem3_ga7_05_ref_001"
+    ]
 }

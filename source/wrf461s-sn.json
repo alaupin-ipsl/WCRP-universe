@@ -16,5 +16,8 @@
     "label_extended": "Weather Research and Forecasting model version 4.6.1, CORDEX WRF Community configuration S",
     "license": {},
     "model_component": null,
-    "release_year": "2024"
+    "release_year": "2024",
+    "references": [
+        "wrf451s_sn_ref_001"
+    ]
 }

@@ -16,5 +16,8 @@
     "label_extended": "Bureau of Meteorology Atmospheric Regional Projections for Australia (BARPA) Regional Climate Model version 1 with Newtonian nudging",
     "license": {},
     "model_component": null,
-    "release_year": "2022"
+    "release_year": "2022",
+    "references": [
+        "barpa_r1_nn_ref_001"
+    ]
 }

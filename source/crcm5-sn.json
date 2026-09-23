@@ -16,5 +16,8 @@
     "label_extended": "Canadian Regional Climate Model version 5",
     "license": {},
     "model_component": null,
-    "release_year": "2015"
+    "release_year": "2015",
+    "references": [
+        "crcm5_sn_ref_001"
+    ]
 }

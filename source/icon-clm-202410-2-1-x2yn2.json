@@ -14,5 +14,8 @@
   "label_extended": "ICON model in Climate Limited-area Mode (ICON-CLM), Version 202410-2-1, convection-permitting setup with two-step nesting (x2yn2), intermediate ICON-CLM-202407-1-1 simulation at 12 km spatial grid spacing using convection parameterization",
   "license": {},
   "model_component": null,
-  "release_year": "2025"
+  "release_year": "2025",
+    "references": [
+        "icon_clm_202410_2_1_x2yn2_ref_001"
+    ]
 }

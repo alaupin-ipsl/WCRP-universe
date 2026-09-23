@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "barpa_r1_nn_ref_001",
+  "type": "reference",
+  "citation": "Howard, E., Su, C.-H., Stassen, C., Naha, R., Ye, H., Pepler, A., Bell, S. S., Dowdy, A. J., Tucker, S. O., and Franklin, C.: Performance and process-based evaluation of the BARPA-R Australasian regional climate model version 1, Geosci. Model Dev., 17, 731–757, https://doi.org/10.5194/gmd-17-731-2024, 2024",
+  "doi": "https://doi.org/10.5194/gmd-17-731-2024",
+  "drs_name": "barpa_r1_nn_ref_001"
+}

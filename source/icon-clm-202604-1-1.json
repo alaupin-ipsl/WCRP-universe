@@ -14,5 +14,8 @@
   "label_extended": "ICON model in Climate Limited-area Mode (ICON-CLM), Version 202604-1-1",
   "license": {},
   "model_component": null,
-  "release_year": "2026"
+  "release_year": "2026",
+    "references": [
+        "icon_clm_202604_1_1_ref_001"
+    ]
 }

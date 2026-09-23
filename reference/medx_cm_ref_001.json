@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "medx_cm_ref_001",
+  "type": "reference",
+  "citation": "Karagiorgos, J., Vervatis, V., & Sofianos, S. (2025). Ocean chlorophyll feedback in a coupled ocean-atmosphere model for the Mediterranean and Black Seas. Journal of Geophysical Research: Oceans, 130, e2024JC021985. https://doi.org/10.1029/2024JC021985",
+  "doi": "https://doi.org/10.1029/2024JC021985",
+  "drs_name": "medx_cm_ref_001"
+}

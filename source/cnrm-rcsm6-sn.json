@@ -16,5 +16,8 @@
     "label_extended": "Version 6 of the fully-coupled Regional Climate System Model (RCSM) of the Centre National de Recherches Meteorologiques (CNRM)",
     "license": {},
     "model_component": null,
-    "release_year": "2019"
+    "release_year": "2019",
+    "references": [
+        "cnrm_rcsm6_sn_ref_001"
+    ]
 }

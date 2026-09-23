@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "gcoast_ahoi1_1_ref_001",
+  "type": "reference",
+  "citation": "Ho-Hagemann, H. T. M., Hagemann, S., Grayek, S., Petrik, R., Rockel, B., Staneva, J., Feser, F., & Schrum, C. (2020). Internal Model Variability of the Regional Coupled System Model GCOAST-AHOI. Atmosphere, 11(3), 227. https://doi.org/10.3390/atmos11030227",
+  "doi": "https://doi.org/10.3390/atmos11030227",
+  "drs_name": "gcoast_ahoi1_1_ref_001"
+}

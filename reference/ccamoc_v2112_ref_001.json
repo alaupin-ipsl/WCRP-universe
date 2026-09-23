@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "ccamoc_v2112_ref_001",
+  "type": "reference",
+  "citation": "McGregor, J.L., Dix, M.R. (2008). An Updated Description of the Conformal-Cubic Atmospheric Model. In: Hamilton, K., Ohfuchi, W. (eds) High Resolution Numerical Modelling of the Atmosphere and Ocean. Springer, New York, NY. https://doi.org/10.1007/978-0-387-49791-4_4",
+  "doi": "https://doi.org/10.1007/978-0-387-49791-4_4",
+  "drs_name": "ccamoc_v2112_ref_001"
+}

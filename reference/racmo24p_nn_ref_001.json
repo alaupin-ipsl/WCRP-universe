@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "racmo24p_nn_ref_001",
+  "type": "reference",
+  "citation": "van Dalum, C. T., van de Berg, W. J., Gadde, S. N., van Tiggelen, M., van der Drift, T., van Meijgaard, E., van Ulft, L. H., and van den Broeke, M. R.: First results of the polar regional climate model RACMO2.4, The Cryosphere, 18, 4065–4088, https://doi.org/10.5194/tc-18-4065-2024, 2024",
+  "doi": "https://doi.org/10.5194/tc-18-4065-2024, 2024",
+  "drs_name": "racmo24p_nn_ref_001"
+}

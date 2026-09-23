@@ -16,5 +16,8 @@
     "label_extended": "COSMO model in climate mode (COSMO-CLM), Version 6.0 clm 1 with Urban Parametrization",
     "license": {},
     "model_component": null,
-    "release_year": "2021"
+    "release_year": "2021",
+    "references": [
+        "cclm6_0_1_urb_ref_001"
+    ]
 }

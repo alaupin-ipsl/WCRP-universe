@@ -16,5 +16,8 @@
     "label_extended": "The KNMI and UU/IMAU Regional Climate Model RACMO, version 24P, based on IFS cy47r1 physics and with detailed parameterizations of glaciated surfaces",
     "license": {},
     "model_component": null,
-    "release_year": "2024"
+    "release_year": "2024",
+    "references": [
+        "racmo24p_nn_ref_001"
+    ]
 }

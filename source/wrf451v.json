@@ -18,5 +18,8 @@
     "source-specific-info": ""
   },
   "model_component": {},
-  "release_year": "2023"
+  "release_year": "2023",
+    "references": [
+        "wrf451v_ref_001"
+    ]
 }

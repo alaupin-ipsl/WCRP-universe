@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "roam_nbs_ref_001",
+  "type": "reference",
+  "citation": "Ho-Hagemann, H. T. M., Maurer, V., Poll, S., and Fast, I.: Coupling the regional climate model ICON-CLM v2.6.6 into the Earth system model GCOAST-AHOI v2.0 using OASIS3-MCT v4.0, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2024-923, 2024",
+  "doi": "https://doi.org/10.5194/egusphere-2024-923",
+  "drs_name": "roam_nbs_ref_001"
+}

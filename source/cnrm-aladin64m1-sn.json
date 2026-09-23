@@ -16,5 +16,8 @@
     "label_extended": "CNRM-ALADIN regional climate model, version 6.4 M1 (Med-CORDEX domain) with spectral nudging",
     "license": {},
     "model_component": null,
-    "release_year": "2023"
+    "release_year": "2023",
+    "references": [
+        "cnrm_aladin64m1_sn_ref_001"
+    ]
 }

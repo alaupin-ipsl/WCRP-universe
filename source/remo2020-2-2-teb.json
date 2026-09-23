@@ -16,5 +16,8 @@
     "label_extended": "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MACv2 aerosol forcing, Fresh-water Lake model (FLake) and Town Energy Model v3",
     "license": {},
     "model_component": null,
-    "release_year": "2023"
+    "release_year": "2023",
+    "references": [
+        "remo2020_2_2_teb_ref_001"
+    ]
 }

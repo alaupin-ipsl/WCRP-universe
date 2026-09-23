@@ -16,5 +16,8 @@
     "label_extended": "The NKUA regional Coupled Model for the eXtended Mediterranean region",
     "license": {},
     "model_component": null,
-    "release_year": "2025"
+    "release_year": "2025",
+    "references": [
+        "medx_cm_ref_001"
+    ]
 }

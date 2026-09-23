@@ -14,5 +14,8 @@
   "label_extended": "Conformal Cubic Atmospheric Model version 2307 configuration 2017, with spectral nudging",
   "license": {},
   "model_component": null,
-  "release_year": "2023"
+  "release_year": "2023",
+    "references": [
+        "ccam_v2307conv17_sn_ref_001"
+    ]
 }

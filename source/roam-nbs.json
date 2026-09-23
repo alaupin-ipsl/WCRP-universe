@@ -16,5 +16,8 @@
     "label_extended": "Regional coupled ocean-atmosphere model based on icon-2024.07 and NEMO4.2.0 for the North and Baltic Sea",
     "license": {},
     "model_component": null,
-    "release_year": "2024"
+    "release_year": "2024",
+    "references": [
+        "roam_nbs_ref_001"
+    ]
 }

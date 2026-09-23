@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "racmo23e_ref_001",
+  "type": "reference",
+  "citation": "van der Wiel, K., Beersma, J., van den Brink, H., Krikken, F., Selten, F., Severijns, C., et al. (2024). KNMI’23 climate scenarios for the Netherlands: Storyline scenarios of regional climate change. Earth's Future, 12, e2023EF003983. https://doi.org/10.1029/2023EF003983",
+  "doi": "https://doi.org/10.1029/2023EF003983",
+  "drs_name": "racmo23e_ref_001"
+}

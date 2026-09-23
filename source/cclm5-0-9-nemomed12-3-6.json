@@ -16,5 +16,8 @@
     "label_extended": "COSMO-CLM v5 coupled via OASIS with NEMO-MED v3.6 (river discharge with TRIP) on an extended EURO-CORDEX domain.",
     "license": {},
     "model_component": null,
-    "release_year": "2021"
+    "release_year": "2021",
+    "references": [
+        "cclm5_0_9_nemomed12_3_6_ref_001"
+    ]
 }

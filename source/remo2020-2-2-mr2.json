@@ -16,5 +16,8 @@
     "label_extended": "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MERRA-2 aerosol climatology and Fresh-water Lake model (FLake)",
     "license": {},
     "model_component": null,
-    "release_year": "2023"
+    "release_year": "2023",
+    "references": [
+        "remo2020_2_2_mr2_ref_001"
+    ]
 }

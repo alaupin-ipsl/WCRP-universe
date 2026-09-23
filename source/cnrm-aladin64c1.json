@@ -16,5 +16,8 @@
     "label_extended": "CNRM-ALADIN regional climate model, version 6.4, physics tuning specific for the CAM domain (C1)",
     "license": {},
     "model_component": null,
-    "release_year": "2025"
+    "release_year": "2025",
+    "references": [
+        "cnrm_aladin64c1_ref_001"
+    ]
 }

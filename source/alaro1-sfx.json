@@ -16,5 +16,8 @@
     "label_extended": "ALARO1-SFX regional climate model, ALARO1 (ALadin-AROme) cycle 43T2 with SURFEX v8.0",
     "license": {},
     "model_component": null,
-    "release_year": "2024"
+    "release_year": "2024",
+    "references": [
+        "alaro1_sfx_ref_001"
+    ]
 }

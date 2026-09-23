@@ -16,5 +16,8 @@
     "label_extended": "UK Met Office Unified Model version 13.0",
     "license": {},
     "model_component": null,
-    "release_year": "2022"
+    "release_year": "2022",
+    "references": [
+        "metum_ref_001"
+    ]
 }

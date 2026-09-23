@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "alaro1_sfx_ref_001",
+  "type": "reference",
+  "citation": "Termonia, P., Fischer, C., Bazile, E., Bouyssel, F., Brožková, R., Bénard, P., Bochenek, B., Degrauwe, D., Derková, M., El Khatib, R., Hamdi, R., Mašek, J., Pottier, P., Pristov, N., Seity, Y., Smolíková, P., Španiel, O., Tudor, M., Wang, Y., Wittmann, C., and Joly, A.: The ALADIN System and its canonical model configurations AROME CY41T1 and ALARO CY40T1, Geosci. Model Dev., 11, 257–281, https://doi.org/10.5194/gmd-11-257-2018, 2018",
+  "doi": "https://doi.org/10.5194/gmd-11-257-2018, 2018",
+  "drs_name": "alaro1_sfx_ref_001"
+}

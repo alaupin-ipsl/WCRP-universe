@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "canrcm5_sn_ref_001",
+  "type": "reference",
+  "citation": "Paquin, D., McCray, C.D., Gauthier, C.B. et al. The Ouranos CRCM5-CMIP6 ensemble: A dynamically downscaled ensemble of CMIP6 simulations over North America. Sci Data 12, 1984 (2025). https://doi.org/10.1038/s41597-025-06289-7",
+  "doi": "https://doi.org/10.1038/s41597-025-06289-7",
+  "drs_name": "canrcm5_sn_ref_001"
+}

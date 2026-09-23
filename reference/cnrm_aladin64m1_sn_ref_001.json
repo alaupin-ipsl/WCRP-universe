@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "cnrm_aladin64m1_sn_ref_001",
+  "type": "reference",
+  "citation": "Nabat, P. (2025). CNRM-ALADIN64 regional climate evaluation simulation: output to study the summer 2019 heatwave over the Iberian Peninsula [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.15077499",
+  "doi": "https://doi.org/10.5281/zenodo.15077499",
+  "drs_name": "cnrm_aladin64m1_sn_ref_001"
+}

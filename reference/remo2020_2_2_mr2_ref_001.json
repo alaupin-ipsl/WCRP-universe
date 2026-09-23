@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "remo2020_2_2_mr2_ref_001",
+  "type": "reference",
+  "citation": "Pietikäinen, J.-P., Sieck, K., Buntemeyer, L., Frisius, T., Nam, C., Hoffmann, P., Pop, C., Rechid, D., and Jacob, D.: REMO2020: a modernized modular regional climate model, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-1586, 2025",
+  "doi": "https://doi.org/10.5194/egusphere-2025-1586",
+  "drs_name": "remo2020_2_2_mr2_ref_001"
+}

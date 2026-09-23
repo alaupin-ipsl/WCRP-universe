@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "cclm6_0_1_ref_001",
+  "type": "reference",
+  "citation": "Sørland, S. L., Brogli, R., Pothapakula, P. K., Russo, E., Van de Walle, J., Ahrens, B., Anders, I., Bucchignani, E., Davin, E. L., Demory, M.-E., Dosio, A., Feldmann, H., Früh, B., Geyer, B., Keuler, K., Lee, D., Li, D., van Lipzig, N. P. M., Min, S.-K., Panitz, H.-J., Rockel, B., Schär, C., Steger, C., and Thiery, W.: COSMO-CLM regional climate simulations in the Coordinated Regional Climate Downscaling Experiment (CORDEX) framework: a review, Geosci. Model Dev., 14, 5125–5154, https://doi.org/10.5194/gmd-14-5125-2021, 2021",
+  "doi": "https://doi.org/10.5194/gmd-14-5125-2021",
+  "drs_name": "cclm6_0_1_ref_001"
+}

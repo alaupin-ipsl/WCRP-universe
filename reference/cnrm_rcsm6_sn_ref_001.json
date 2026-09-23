@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "cnrm_rcsm6_sn_ref_001",
+  "type": "reference",
+  "citation": "Sevault, F. (2024). Atlas of the 1980-2018 ERA-Interim simulation with the coupled regional climate system model CNRM-RCSM6 (Version v2). Zenodo. https://doi.org/10.5281/zenodo.11066601",
+  "doi": "https://doi.org/10.5281/zenodo.11066601",
+  "drs_name": "cnrm_rcsm6_sn_ref_001"
+}

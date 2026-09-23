@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "regcm_es1_1_ref_001",
+  "type": "reference",
+  "citation": "Reale, M., Giorgi, F., Solidoro, C., Di Biagio, V., Di Sante, F., & Mariotti, L., et al. (2020). The regional Earth system Model RegCM-ES: Evaluation of the Mediterranean climate and marine biogeochemistry. Journal of Advances in Modeling Earth Systems, 12, e2019MS001812. https://doi.org/10.1029/2019MS001812",
+  "doi": "https://doi.org/10.1029/2019MS001812",
+  "drs_name": "regcm_es1_1_ref_001"
+}

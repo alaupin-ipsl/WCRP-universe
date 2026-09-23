@@ -16,5 +16,8 @@
     "label_extended": "Conformal Cubic Atmospheric Model version 2112",
     "license": {},
     "model_component": null,
-    "release_year": "2022"
+    "release_year": "2022",
+    "references": [
+        "ccam_v2112_ref_001"
+    ]
 }

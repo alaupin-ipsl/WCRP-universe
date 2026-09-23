@@ -16,5 +16,8 @@
     "label_extended": "The ENEA-REG regional Earth System Model version 2.0 based on WRF v4.2.2, MITgcm z67, and HD v1.0.2",
     "license": {},
     "model_component": null,
-    "release_year": "2021"
+    "release_year": "2021",
+    "references": [
+        "enea_reg2_ref_001"
+    ]
 }

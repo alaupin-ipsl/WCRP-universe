@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "metum_ref_001",
+  "type": "reference",
+  "citation": "Bush, M., Boutle, I., Edwards, J., Finnenkoetter, A., Franklin, C., Hanley, K., Jayakumar, A., Lewis, H., Lock, A., Mittermaier, M., Mohandas, S., North, R., Porson, A., Roux, B., Webster, S., and Weeks, M.: The second Met Office Unified Model–JULES Regional Atmosphere and Land configuration, RAL2, Geosci. Model Dev., 16, 1713–1734, https://doi.org/10.5194/gmd-16-1713-2023, 2023",
+  "doi": "https://doi.org/10.5194/gmd-16-1713-2023",
+  "drs_name": "metum_ref_001"
+}

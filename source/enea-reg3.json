@@ -16,5 +16,8 @@
     "label_extended": "The ENEA-REG regional Earth System Model version 3.0 based on WRF v4.2.2, MITgcm z67, and CaMa-Flood v4.10",
     "license": {},
     "model_component": null,
-    "release_year": "2021"
+    "release_year": "2021",
+    "references": [
+        "enea_reg3_ref_001"
+    ]
 }

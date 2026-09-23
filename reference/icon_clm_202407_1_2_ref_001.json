@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "icon_clm_202407_1_2_ref_001",
+  "type": "reference",
+  "citation": "Pham, T. V., Steger, C., Rockel, B., Keuler, K., Kirchner, I., Mertens, M., Rieger, D., Zängl, G., and Früh, B.: ICON in Climate Limited-area Mode (ICON release version 2.6.1): a new regional climate model, Geosci. Model Dev., 14, 985–1005, https://doi.org/10.5194/gmd-14-985-2021, 2021",
+  "doi": "https://doi.org/10.5194/gmd-14-985-2021",
+  "drs_name": "icon_clm_202407_1_2_ref_001"
+}

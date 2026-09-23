@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "enea_reg2_ref_001",
+  "type": "reference",
+  "citation": "Anav, A., Antonelli, M., Calmanti, S. et al. Dynamical downscaling of CMIP6 scenarios with ENEA-REG: an impact-oriented application for the Med-CORDEX region. Clim Dyn 62, 3261–3287 (2024). https://doi.org/10.1007/s00382-023-07064-3",
+  "doi": "https://doi.org/10.1007/s00382-023-07064-3",
+  "drs_name": "enea_reg2_ref_001"
+}

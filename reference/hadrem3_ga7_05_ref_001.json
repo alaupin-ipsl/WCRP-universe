@@ -1,0 +1,8 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "hadrem3_ga7_05_ref_001",
+  "type": "reference",
+  "citation": "Tucker, S.O., Kendon, E.J., Bellouin, N. et al. Evaluation of a new 12 km regional perturbed parameter ensemble over Europe. Clim Dyn 58, 879–903 (2022). https://doi.org/10.1007/s00382-021-05941-3",
+  "doi": "https://doi.org/10.1007/s00382-021-05941-3",
+  "drs_name": "hadrem3_ga7_05_ref_001"
+}
